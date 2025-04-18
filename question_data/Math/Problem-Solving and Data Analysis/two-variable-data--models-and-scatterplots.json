@@ -1,0 +1,447 @@
+[
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "8baf2118",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. A line of best fit is also shown. The scatterplot has 10 data points. The data points are in a linear pattern trending down from left to right. A line of best fit is shown: The line of best slants down from left to right. 1 . is touching the line of best fit. 4 points are above the line of best fit. 5 points are below the line of best fit. The line of best fit passes through the following approximate coordinates: (2 , 12) (8 , 7) (13 , 3) Which of the following equations best represents the line of best fit shown?",
+        "Answer Choices": [
+            "y = 13.5 + 0.8 x",
+            "y = 13.5 - 0.8 x",
+            "y = (-) 13.5 + 0.8 x",
+            "y = (-) 13.5 - 0.8 x"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The line of best fit shown intersects the y -axis at a positive y -value and has a negative slope. The graph of an equation of the form y = a + b x , where a and b are constants, intersects the y -axis at a y -value of a and has a slope of b . Of the given choices, only choice B represents a line that intersects the y -axis at a positive y -value, 13.5000000000000 , and has a negative slope, (-) 0.8 .  Choice A is incorrect. This equation represents a line that has a positive slope, not a negative slope.  Choice C is incorrect. This equation represents a line that intersects the y -axis at a negative y -value, not a positive y -value, and has a positive slope, not a negative slope.  Choice D is incorrect. This equation represents a line that intersects the y -axis at a negative y -value, not a positive y -value."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "4a2264b3",
+        "Prompt": "The line graph shows the percent of cars for sale at a used car lot on a given day by model year. The line graph: Begins at 2010, 12% Remains level to 2011, 12% Remains level to 2012, 12% Falls sharply to 2013, 8% Falls sharply to 2014, 4% Rises sharply to 2015, 9% Rises gradually to 2016, 10% Remains level to 2017, 10% Rises gradually to 2018, 11% Remains level to 2019, 11% For what model year is the percent of cars for sale the smallest?",
+        "Answer Choices": [
+            "2012",
+            "2013",
+            "2014",
+            "2015"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. For the given line graph, the percent of cars for sale at a used car lot on a given day is represented on the vertical axis. The percent of cars for sale is the smallest when the height of the line graph is the lowest. The lowest height of the line graph occurs for cars with a model year of 2014 .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "9bb4107c",
+        "Prompt": "In quadrant 1: The curve begins at . (0 , 1). The curve rises sharply to . (2 , 6). The curve rises gradually to . (4 , 7). The curve rises gradually to . (6 , 8). The curve rises sharply and ends at . (8 , 10). The graph shows the momentum y, in newton-seconds, of an object x seconds after the object started moving, for 0 <= x <= 8. What is the average rate of change, in newton-seconds per second, in the momentum of the object from x = 2 to x = 6?",
+        "Answer Choices": [
+            "The curve rises sharply to . (2, 6).",
+            "The curve rises gradually to . (4, 7).",
+            "The curve rises gradually to . (6, 8).",
+            "The curve rises sharply and ends at . (8, 10)."
+        ],
+        "Correct Answer": ".5,  1/2",
+        "Rationale": "The correct answer is 1/2 . For the graph shown, x represents time, in seconds, and y represents momentum, in newton-seconds. Therefore, the average rate of change, in newton-seconds per second, in the momentum of the object between two x -values is the difference in the corresponding y -values divided by the difference in the x -values. The graph shows that at x = 2 , the corresponding y -value is 6 . The graph also shows that at x = 6 , the corresponding y -value is 8 . It follows that the average rate of change, in newton-seconds per second, from x = 2 to x = 6 is 5 , which is equivalent to 2 /4s , or 1/2 . Note that 1/2 and .5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "2e74e403",
+        "Prompt": "In the given scatterplot, a line of best fit for the data is shown. The scatterplot has 10 data points. The data points are in a linear pattern trending down from left to right. A line of best fit is shown: The line of best fit slants down from left to right. 5 points are touching the line of best fit. 2 points are above the line of best fit. 3 points are below the line of best fit. The line of best fit passes through the following approximate coordinates: (1 , 7) (4 , 5) (10 , 1) Which of the following is closest to the slope of this line of best fit?",
+        "Answer Choices": [
+            "7",
+            "0.700000000000000",
+            "(-) 0.7",
+            "(-) 7"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. A line of best fit is shown in the scatterplot such that as the value of x increases, the value of y decreases. It follows that the slope of the line of best fit shown is negative. The slope of a line in the xy -plane that passes through the points (x1, y1) and (x2, y2) can be calculated as -x1 + y2 - y1/x2 . The line of best fit shown passes approximately through the points (0, 8) and (10, 1) . Substituting (0, 8) for (x1, y1) and (10, 1) for (x2, y2) in -x1 + y2 - y1/x2 yields the slope of the line being approximately 1/5 , which is equivalent to ( (-) 7 / 10 ) , or (-) 0.7 . Therefore, of the given choices, (-) 0.7 is the closest to the slope of this line of best fit.  Choice A is incorrect. The line of best fit shown has a negative slope, not a positive slope.  Choice B is incorrect. The line of best fit shown has a negative slope, not a positive slope.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "03a16790",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. A line of best fit is also shown. The scatterplot has 10 data points. The data points are in a linear pattern trending down from left to right. A line of best fit is shown: The line of best fit slants down from left to right. 2 points are touching the line of best fit. 3 points are above the line of best fit. 5 points are below the line of best fit. The line of best fit passes through the following approximate coordinates: (0 , 12.9) (6 , 8) (12 , 3.2) Which of the following is closest to the slope of the line of best fit shown?",
+        "Answer Choices": [
+            "(-) 2.4",
+            "(-) 0.8",
+            "0.800000000000000",
+            "2.40000000000000"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. A line of best fit is shown in the scatterplot such that as the value of x increases, the value of y decreases. Thus, the slope of the line of best fit shown is negative. The slope of a line passing through two points, (x1, y1) and (x2, y2) , can be calculated as -x1 + y2 - y1/x2 . The line of best fit shown passes approximately through the points (1, 12) and (11, 4) . Substituting (1, 12) and (11, 4) for (x1, y1) and (x2, y2) , respectively, in -x1 + y2 - y1/x2 gives 21/11 , which is equivalent to (-) 8 /10s , or (-) 0.8 . Therefore, of the given choices, (-) 0.8 is closest to the slope of the line of best fit shown.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. The line of best fit shown has a negative slope, not a positive slope.  Choice D is incorrect. The line of best fit shown has a negative slope, not a positive slope."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "74dee52b",
+        "Prompt": "The line graph shows the number of graduates from the classes of 2001 through 2007 at a certain school who enrolled in college within 24 months of graduation. Of the following, which class had the fewest graduates who enrolled in college within 24 months of graduation?",
+        "Answer Choices": [
+            "2002",
+            "2004",
+            "2005",
+            "2007"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The year with the fewest graduates who enrolled in college within 24 months of graduation is the point with the lowest value on the vertical axis. This occurs at 2002. Choice B, C, and D are incorrect. The years 2004, 2005, and 2007 each had a greater number of graduates who enrolled in college within 24 months of graduation than did the year 2002."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "9d88a3e3",
+        "Prompt": "Theresa ran on a treadmill for thirty minutes, and her time and speed are shown on the graph above. According to the graph, which of the following statements is NOT true concerning Theresa\u2019s run?",
+        "Answer Choices": [
+            "Theresa ran at a constant speed for 5 minutes.",
+            "Theresa\u2019s speed was increasing for a longer period of time than it was decreasing.",
+            "Theresa\u2019s speed decreased at a constant rate during the last 5 minutes.",
+            "Theresa\u2019s speed reached its maximum during the last 10 minutes."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Theresa\u2019s speed was increasing from 0 to 5 minutes and from 20 to 25 minutes, which is a total of 10 minutes. Theresa\u2019s speed was decreasing from 10 minutes to 20 minutes and from 25 to 30 minutes, which is a total of 15 minutes. Therefore, Theresa\u2019s speed was NOT increasing for a longer period of time than it was decreasing. Choice A is incorrect. Theresa ran at a constant speed for the 5-minute period from 5 to 10 minutes. Choice C is incorrect. Theresa\u2019s speed decreased at a constant rate during the last 5 minutes, which can be seen since the graph is linear during that time. Choice D is incorrect. Theresa\u2019s speed reached its maximum at 25 minutes, which is within the last 10 minutes."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "f46139df",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. A line of best fit for the data is also shown. The scatterplot has 11 data points. The data points are in a linear pattern trending down from left to right. A line of best fit is shown: The line of best fit slants down from left to right. 6 points are above the line of best fit. 5 points are below the line of best fit. The line of best fit goes through the following approximate coordinates: (28 , 6) (33 , 1.5) At x = 25.5, which of the following is closest to the y - value predicted by the line of best fit?",
+        "Answer Choices": [
+            "6.20000000000000",
+            "7.30000000000000",
+            "8.20000000000000",
+            "9.10000000000000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. On the line of best fit, an x -value of 25.5000000000000 corresponds to a y -value between 8 and 8.50000000000000 . Therefore, at x = 25.5 , 8.20000000000000 is closest to the y -value predicted by the line of best fit.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "7ac5d686",
+        "Prompt": "An inspector begins a day of work with a large sample of shirts that need to be checked for defects. The inspector works at a constant rate throughout the morning. What type of model is best to model the number of shirts remaining to be checked for defects at any given time throughout the morning?",
+        "Answer Choices": [
+            "A linear model with a positive slope",
+            "A linear model with a (-) slope",
+            "An exp1ntial growth model",
+            "An exp1ntial decay model"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice B is correct. Since the work is done at a constant rate, a linear model best models the situation. The number of shirts remaining is dependent on the length of time the inspector has worked; therefore, if the relationship were graphed, time would be the variable of the horizontal axis and the number of remaining shirts would be the variable of the vertical axis. Since the number of shirts decreases as the time worked increases, it follows that the slope of this graph is negative. Choice A is incorrect and may result from incorrectly reasoning about the slope. Choices C and D are incorrect and may result from not identifying the constant rate of work as a characteristic of a linear model."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "d230e963",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. A line of best fit is also shown. The scatterplot has 10 data points. The data points are in a linear pattern trending up from left to right. A line of best fit is shown. The line of best fit slants up from left to right. 1 . is touching the line of best fit. 5 points are above the line of best fit. 4 points are below the line of best fit. The line of best fit passes through the following approximate coordinates: (0 , 3) (3 , 8) (7 , 15) Which of the following equations best represents the line of best fit shown?",
+        "Answer Choices": [
+            "y = 2.8 + 1.7 x",
+            "y = 2.8 - 1.7 x",
+            "y = (-) 2.8 + 1.7 x",
+            "y = (-) 2.8 - 1.7 x"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The line of best fit shown intersects the y -axis at a positive y -value and has a positive slope. The graph of an equation of the form y = a + b x , where a and b are constants, intersects the y -axis at a y -value of a and has a slope of b . Of the given choices, only choice A represents a line that intersects the y -axis at a positive y -value, 2.80000000000000 , and has a positive slope, 1.70000000000000 .  Choice B is incorrect. This equation represents a line that has a negative slope, not a positive slope.  Choice C is incorrect. This equation represents a line that intersects the y -axis at a negative y -value, not a positive y -value.  Choice D is incorrect. This equation represents a line that intersects the y -axis at a negative y -value, not a positive y -value, and has a negative slope, not a positive slope."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "c9dd92b1",
+        "Prompt": "The densities of different concentrations of grape juice are shown in the scatterplot above. According to the trend shown by the data, which of the following is closest to the predicted density, in kilograms per cubic meter (kg/m3), for grape juice with a concentration of 60%?",
+        "Answer Choices": [
+            "1,200",
+            "1,250",
+            "1,300",
+            "1,350"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The data in the scatterplot show an increasing linear trend. The density when the juice concentration is 60% will be between the densities shown at about 53% and 67% concentration, or between about 1,255 and 1,340 kg/m 3 . Of the choices given, only 1,300 falls within this range. Choices A, B, and D are incorrect. These are the approximate densities of grape juice with a concentration of 45%, 55%, and 70%, respectively."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "a6b2fcce",
+        "Prompt": "According to the line graph above, between which 2 consecutive years was there the greatest change in the number of 3\u2011D movies released?",
+        "Answer Choices": [
+            "2003\u20132004",
+            "2008\u20132009",
+            "2009\u20132010",
+            "2010\u20132011"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The change in the number of 3-D movies released between any two consecutive years can be found by first estimating the number of 3-D movies released for each of the two years and then finding the positive difference between these two estimates. Between 2003 and 2004, this change is approximately 2 - 2, = 0 movies; between 2008 and 2009, this change is approximately 20 - 8, = 12 movies; between 2009 and 2010, this change is approximately 26 - 20, = 6 movies; and between 2010 and 2011, this change is approximately 46 - 26, = 20 movies. Therefore, of the pairs of consecutive years in the choices, the greatest increase in the number of 3-D movies released occurred during the time period between 2010 and 2011. Choices A, B, and C are incorrect. Between 2010 and 2011, approximately 20 more 3-D movies were released. The change in the number of 3-D movies released between any of the other pairs of consecutive years is significantly smaller than 20."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Hard",
+        "ID": "7b52985c",
+        "Prompt": "The scatterplot shows the relationship between the length of time y, in hours, a certain bird spent in flight and the number of days after January11, x. The scatterplot has 10 data points. The data points are spread out. The data points have the following coordinates: (1 , 14) (2 , 6) (3 , 10) (4 , 15) (5 , 14.2) (6 , 7) (7 , 11) (8 , 14) (9 , 13.5) (10 , 13.2) What is the average rate of change, in hours per day, of the length of time the bird spent in flight on January13 to the length of time the bird spent in flight on January15?",
+        "Answer Choices": [
+            "(7, 11)",
+            "(8, 14)",
+            "(9, 13.5)",
+            "(10, 13.2)"
+        ],
+        "Correct Answer": "4.5,  9/2",
+        "Rationale": "The correct answer is 9/2 . It's given that the scatterplot shows the relationship between the length of time y , in hours, a certain bird spent in flight and the number of days after January 11 , x . Since January 13 is 2 days after January 11 , it follows that January 13 corresponds to an x -value of 2 in the scatterplot. In the scatterplot, when x = 2 , the corresponding value of y is 6 . In other words, on January 13 , the bird spent 6 hours in flight. Since January 15 is 4 days after January 11 , it follows that January 15 corresponds to an x -value of 4 in the scatterplot. In the scatterplot, when x = 4 , the corresponding value of y is 15 . In other words, on January 15 , the bird spent 15 hours in flight. Therefore, the average rate of change, in hours per day, of the length of time the bird spent in flight on January 13 to the length of time the bird spent in flight on January 15 is the difference in the length of time, in hours, the bird spent in flight divided by the difference in the number of days after January 11 , or 23/2 , which is equivalent to 9/2 . Note that 9/2 and 4.5 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "43744269",
+        "Prompt": "An airplane descends from an altitude of (9, 500) feet to (5, 0) feet at a constant rate of 400 feet per minute. What type of function best models the relationship between the descending airplane's altitude and time?",
+        "Answer Choices": [
+            "Decreasing exp1ntial",
+            "Decreasing linear",
+            "Increasing exp1ntial",
+            "Increasing linear"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2032s given that the airplane descends at a constant rate of 400 feet per minute . Since the altitude decreases by a constant amount during each fixed time period, the relationship between the airplane\u2032s altitude and time is linear. Since the airplane descends from an altitude of 9,500 feet to 5,000 feet , the airplane\u2032s altitude is decreasing with time. Thus, the relationship is best modeled by a decreasing linear function.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "d6121490",
+        "Prompt": "The graph above shows the relationship between the speed of a particular car, in miles per hour, and its corresponding braking distance, in feet. Approximately how many feet greater will the car\u2019s braking distance be when the car is traveling at 50 miles per hour than when the car is traveling at 30 miles per hour?",
+        "Answer Choices": [
+            "75",
+            "125",
+            "175",
+            "250"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. According to the graph, when the car is traveling at 50 miles per hour, the braking distance is approximately 225 feet, and when the car is traveling at 30 miles per hour, the braking distance is approximately 100 feet. The difference between these braking distances is 225 - 100 , or 125 feet. Choice A is incorrect and may result from finding the braking distance for 20 miles per hour, the difference between the given speeds. Choice C is incorrect and may result from subtracting the speed from the braking distance at 50 miles per hour. Choice D is incorrect and may result from finding the difference in the braking distances at 60 and 20 miles per hour."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "2e511919",
+        "Prompt": "The line graph shows the estimated number of chipmunks in a state park on April 1 of each year from 1989 to 1999. The line graph: Begins at 1989, 38 chipmunks Remains level to 1990, 38 chipmunks Rises sharply to 1991, 98 chipmunks Rises gradually to 1992, 101 chipmunks Falls sharply to 1993, 53 chipmunks Rises sharply to 1994, 158 chipmunks Falls sharply to 1995, 48 chipmunks Rises sharply to 1996, 98 chipmunks Falls gradually to 1997, 93 chipmunks Falls sharply to 1998, 53 chipmunks Rises sharply to 1999, 113 chipmunks Based on the line graph, in which year was the estimated number of chipmunks in the state park the greatest?",
+        "Answer Choices": [
+            "1989",
+            "1994",
+            "1995",
+            "1998"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. For the given line graph, the estimated number of chipmunks is represented on the vertical axis. The greatest estimated number of chipmunks in the state park is indicated by the greatest height in the line graph. This height is achieved when the year is 1994 .  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "d112bc9d",
+        "Prompt": "The scatterplot shows the temperature y, in degree upper F, recorded by a meteorologist at various * x, in days since June 1. The scatterplot has 7 data points. The data points are in a linear pattern trending approximately horizontally. The data points have the following coordinates: (1 , 69) (2 , 60) (3 , 73) (4 , 67) (5 , 64) (6 , 62) (7 , 65) During which of the following time periods did the greatest increase in recorded temperature take place?",
+        "Answer Choices": [
+            "Fromx = 6tox = 7",
+            "Fromx = 5tox = 6",
+            "Fromx = 2tox = 3",
+            "Fromx = 1tox = 2"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The scatterplot shows that there was an increase in recorded temperature from x = 2 to x = 3 and from x = 6 to x = 7 . When x = 2 , the recorded temperature was approximately 60 degree upper F and when x = 3 , the recorded temperature was greater than 70 degree upper F . This means that the increase in recorded temperature from x = 2 to x = 3 was greater than ( 70 - 60 ) degree upper F , or 10 degree upper F . When x = 6 , the recorded temperature was greater than 60 degree upper F and when x = 7 , the recorded temperature was less than 70 degree upper F . This means that the increase in recorded temperature from x = 6 to x = 7 was less than ( 70 - 60 ) degree upper F , or 10 degree upper F . It follows that the greatest increase in recorded temperature took place from x = 2 to x = 3 .  Choice A is incorrect. The increase in recorded temperature from x = 6 to x = 7 was less than the increase in recorded temperature from x = 2 to x = 3 .  Choice B is incorrect. From x = 5 to x = 6 , a decrease, not an increase, in recorded temperature took place.  Choice D is incorrect. From x = 1 to x = 2 , a decrease, not an increase, in recorded temperature took place."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "5c24c861",
+        "Prompt": "According to the model, which of the following is the best estimate for the stopping distance, in feet, if the vehicle was traveling 55 miles per hour?",
+        "Answer Choices": [
+            "25",
+            "30",
+            "210",
+            "250"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Correct Answer Rationale Choice C is correct. According to the model, the stopping distance, in feet, of a vehicle traveling 55 miles per hour is about 200 feet. Of the choices given, the best estimate of the stopping distance for a car traveling 55 miles per hour is 210 feet. Incorrect Answer Rationale Choices A, B, and D are incorrect and may be the result of incorrectly reading the given quadratic model. The corresponding x -values to the y -values of 25 and 30 are not part of the model. The corresponding x -value to a y -value of 250 is approximately 60 mph, not 55 mph."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "5f3ee607",
+        "Prompt": "The scatterplot has 10 data points. The data points are in a linear pattern trending down from left to right. Select data points have the following approximate coordinates: (0.8 , 8.9) (2.8 , 5.1) (4.1 , 2.9) Which of the following equations is the most appropriate linear model for the data shown in the scatterplot?",
+        "Answer Choices": [
+            "y = - 1.9 x - 10.1",
+            "y = - 1.9 x + 10.1",
+            "y = 1.9 x - 10.1",
+            "y = 1.9 x + 10.1"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The equation representing a linear model can be written in the form y = a + b x , or y = b x + a , where b is the slope of the graph of the model and (0, a) is the y -intercept of the graph of the model. The scatterplot shows that as the x -values of the data points increase, the y -values of the data points decrease, which means the graph of an appropriate linear model has a negative slope. Therefore, b less than 0 . The scatterplot also shows that the data points are close to the y -axis at a positive value of y . Therefore, the y -intercept of the graph of an appropriate linear model has a positive y -coordinate, which means a greater than 0 . Of the given choices, only choice B, y = - 1.9 x + 10.1 , has a negative value for b , the slope, and a positive value for a , the y -coordinate of the y -intercept.  Choice A is incorrect. The graph of this model has a y -intercept with a negative y -coordinate, not a positive y -coordinate.  Choice C is incorrect. The graph of this model has a positive slope, not a negative slope, and a y -intercept with a negative y -coordinate, not a positive y -coordinate.  Choice D is incorrect. The graph of this model has a positive slope, not a negative slope."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "fdfc90e4",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. A line of best fit for the data is also shown. The scatterplot has 11 data points. The data points are in a linear pattern trending down from left to right. A line of best fit is shown: The line of best fit slants down from left to right. 6 points are above the line of best fit. 5 points are below the line of best fit. The line of best fit goes through the following approximate coordinates: (28 , 6) (33 , 1.5) At x = 32, which of the following is closest to the y - value predicted by the line of best fit?",
+        "Answer Choices": [
+            "0.400000000000000",
+            "1.50000000000000",
+            "2.40000000000000",
+            "3.30000000000000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. At x = 32 , the line of best fit has a y -value between 2 and 3 . The only choice with a value between 2 and 3 is choice C.  Choice A is incorrect. This is the difference between the y -value predicted by the line of best fit and the actual y -value at x = 32 rather than the y -value predicted by the line of best fit at x = 32 .  Choice B is incorrect. This is the y -value predicted by the line of best fit at x = 31 rather than at x = 32 .  Choice D is incorrect. This is the y -value predicted by the line of best fit at x = 33 rather than at x = 32 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Hard",
+        "ID": "9b5b23fc",
+        "Prompt": "For x greater than 0, the function f is defined as follows: f(x) = 201 percent sign of x Which of the following could describe this function?",
+        "Answer Choices": [
+            "Decreasing exp1ntial",
+            "Decreasing linear",
+            "Increasing exp1ntial",
+            "Increasing linear"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that for x greater than 0 , f(x) is equal to 201 percent sign of x . This is equivalent to f ( x ) = ( 201 / 100 ) x , or f ( x ) = 2.01 x , for x greater than 0 . This function indicates that as x increases, f(x) also increases, which means f is an increasing function. Furthermore, f(x) increases at a constant rate of 2.01000000000000 for each increase of x by 1 . A function with a constant rate of change is linear. Thus, the function f can be described as an increasing linear function.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect. This could describe the function f ( x ) = ( 2.01 ) ^ x , where f(x) is equal to 201 percent sign of f(x - 1) , not x , for x greater than 0 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Hard",
+        "ID": "af142f8d",
+        "Prompt": "Two investments were made as shown in the table above. The interest in Account A is compounded once per year. Which of the following is true about the investments?",
+        "Answer Choices": [
+            "Account A always earns more money per year than Account B.",
+            "Account A always earns less money per year than Account B.",
+            "Account A earns more money per year than Account B at first but eventually earns less money per year.",
+            "Account A earns less money per year than Account B at first but eventually earns more money per year."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Account A starts with $500 and earns interest at 6% per year, so in the first year Account A earns (500)(0.06) = $30, which is greater than the $25 that Account B earns that year. Compounding interest can be modeled by an increasing exponential function, so each year Account A will earn more money than it did the previous year. Therefore, each year Account A earns at least $30 in interest. Since Account B always earns $25 each year, Account A always earns more money per year than Account B. Choices B and D are incorrect. Account A earns $30 in the first year, which is greater than the $25 Account B earns in the first year. Therefore, neither the statement that Account A always earns less money per year than Account B nor the statement that Account A earns less money than Account B at first can be true. Choice C is incorrect. Since compounding interest StartFragment can be modeled by an EndFragment increasing exponential function, each year Account A will earn more money than it did the previous year. Therefore, Account A always earns at least $30 per year, which is more than the $25 per year that Account B earns."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "50b2807e",
+        "Prompt": "The scatterplot shows the relationship between 2 variables, x and y. The scatterplot has 10 data points. The data points are in a linear pattern trending down from left to right. The data points have the following approximate coordinates: (0 , 10) (1.2 , 9) (2.3 , 8) (3.1 , 5) (4.8 , 5) (5.2 , 3) (6.5 , 3) (7.2 , 3) (9.6 , 2) (8.8 , 1) Which of the following equations is the most appropriate linear model for the data shown?",
+        "Answer Choices": [
+            "y = 0.9 + 9.4 x",
+            "y = 0.9 - 9.4 x",
+            "y = 9.4 + 0.9 x",
+            "y = 9.4 - 0.9 x"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The data points suggest that as the variable x increases, the variable y decreases, which implies that an appropriate linear model for the data has a negative slope. The data points also show that when x is close to 0 , y is greater than 9 . Therefore, the y -intercept of the graph of an appropriate linear model has a y -coordinate greater than 9 . The graph of an equation of the form y = a + b x , where a and b are constants, has a y -intercept with a y -coordinate of a and has a slope of b . Of the given choices, only choice D represents a graph that has a negative slope, (-) 0.9 , and a y -intercept with a y -coordinate greater than 9 , 9.40000000000000 .  Choice A is incorrect. The graph of this equation has a positive slope, not a negative slope, and a y -intercept with a y -coordinate less than 1 , not greater than 9 .  Choice B is incorrect. The graph of this equation has a y -intercept with a y -coordinate less than 1 , not greater than 9 .  Choice C is incorrect. The graph of this equation has a positive slope, not a negative slope."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Easy",
+        "ID": "39aa146d",
+        "Prompt": "The scatterplot shows the relationship between x and y. A line of best fit is also shown. The scatterplot has 6 data points. The data points are in a linear pattern trending up from left to right. A line of best fit is shown: The line of best fit slants up from left to right. 1 . is touching the line of best fit. 2 points are above the line of best fit. 3 points are below the lines of best fit. The line of best fit passes through the following approximate coordinates: (0 , 0.2) (4 , 2) Which of the following is closest to the slope of the line of best fit shown?",
+        "Answer Choices": [
+            "(-) 2.27",
+            "(-) 0.44",
+            "0.440000000000000",
+            "2.27000000000000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the scatterplot shows the relationship between two variables, x and y , and a line of best fit is shown. For the line of best fit shown, for each increase in the value of x by 1 , the corresponding value of y increases by a constant rate. It follows that the relationship between the variables x and y has a positive linear trend. A line in the xy -plane that passes through the points (a, b) and (c, d) has a slope of -a - b/c + d . The line of best fit shown passes approximately through the points (0, 0.250000000000000) and (4, 2) . It follows that the slope of this line is approximately 1.93750000000000 , which is equivalent to 0.437500000000000 . Therefore, of the given choices, 0.440000000000000 is closest to the slope of the line of best fit shown.  Choice A is incorrect. This is the slope of a line of best fit for a relationship between x and y that has a negative, rather than a positive, linear trend.  Choice B is incorrect. This is the slope of a line of best fit for a relationship between x and y that has a negative, rather than a positive, linear trend.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Two-variable data: Models and scatterplots",
+        "Difficulty": "Medium",
+        "ID": "58171b5e",
+        "Prompt": "Each year, the value of an investment increases by 0.49 percent sign of its value the previous year. Which of the following functions best models how the value of the investment changes over time?",
+        "Answer Choices": [
+            "Decreasing exp1ntial",
+            "Decreasing linear",
+            "Increasing exp1ntial",
+            "Increasing linear"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Because the value of the investment increases each year, the function that best models how the value of the investment changes over time is an increasing function. It\u2032s given that each year, the value of the investment increases by 0.49 percent sign of its value the previous year. Since the value of the investment changes by a fixed percentage each year, the function that best models how the value of the investment changes over time is an exponential function. Therefore, the function that best models how the value of the investment changes over time is an increasing exponential function.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    "question contains image"
+]

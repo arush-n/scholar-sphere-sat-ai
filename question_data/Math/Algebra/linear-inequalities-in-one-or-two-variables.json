@@ -1,0 +1,467 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "f224df07",
+        "Prompt": "A cargo helicopter delivers only100 - pound packages and 120 - pound packages. For each delivery trip, the helicopter must carry at least 10 packages, and the total w8 of the packages can be at most 1,100 pounds. What is the maximum number of 120 - pound packages that the helicopter can carry per trip?",
+        "Answer Choices": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Let a equal the number of 120-pound packages, and let b equal the number of 100-pound packages. It\u2019s given that the total weight of the packages can be at most 1,100 pounds: the inequality 120 a, + 100 b, is less than or equal to 1,100 represents this situation. It\u2019s also given that the helicopter must carry at least 10 packages: the inequality a, + b, is greater than or equal to 10 represents this situation. Values of a and b that satisfy these two inequalities represent the allowable numbers of 120-pound packages and 100-pound packages the helicopter can transport. To maximize the number of 120-pound packages, a , in the helicopter, the number of 100-pound packages, b , in the helicopter needs to be minimized. Expressing b in terms of a in the second inequality yields b is greater than or equal to, 10 - a , so the minimum value of b is equal to 10 - a . Substituting 10 - a for b in the first inequality results in 120 a, + 100, * open parenthesis, 10 - a, close parenthesis, is less than or equal to 1,100 . Using the distributive property to rewrite this inequality yields 120 a, + 1,000, - 100 a, is less than or equal to 1,100 , or 20 a, + 1,000, is less than or equal to 1,100 . Subtracting 1,000 from both sides of this inequality yields 20 a, is less than or equal to 100 . Dividing both sides of this inequality by 20 results in a, is less than or equal to 5 . This means that the maximum number of 120-pound packages that the helicopter can carry per trip is 5. Choices A, B, and D are incorrect and may result from incorrectly creating or solving the system of inequalities."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "cfe67646",
+        "Prompt": "The . (8, 2) in the xy - plane is a solution to which of the following systems of inequalities?",
+        "Answer Choices": [
+            "x greater than 0y greater than 0",
+            "x greater than 0y less than 0",
+            "x less than 0y greater than 0",
+            "x less than 0y less than 0"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The given point, (8, 2) , is located in the first quadrant in the xy -plane. The system of inequalities in choice A represents all the points in the first quadrant in the xy -plane. Therefore, (8, 2) is a solution to the system of inequalities in choice A.  Alternate approach: Substituting 8 for x in the first inequality in choice A, x greater than 0 , yields 8 greater than 0 , which is true. Substituting 2 for y in the second inequality in choice A, y greater than 0 , yields 2 greater than 0 , which is true. Since the coordinates of the point (8, 2) make the inequalities x greater than 0 and y greater than 0 true, the point (8, 2) is a solution to the system of inequalities consisting of x greater than 0 and y greater than 0 .  Choice B is incorrect. This system of inequalities represents all the points in the fourth quadrant, not the first quadrant, in the xy -plane.  Choice C is incorrect. This system of inequalities represents all the points in the second quadrant, not the first quadrant, in the xy -plane.  Choice D is incorrect. This system of inequalities represents all the points in the third quadrant, not the first quadrant, in the xy -plane."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "c50ede6d",
+        "Prompt": "The total cost, in dollars, to rent a surfboard consists of a dollar sign 25 service fee and a dollar sign 10 per hour rental fee. A person rents a surfboard for t hours and in10ds to spend a maximum of dollar sign 75 to rent the surfboard. Which inequality represents this situation?",
+        "Answer Choices": [
+            "10 t <= 75",
+            "10 + 25 t <= 75",
+            "25 t <= 75",
+            "25 + 10 t <= 75"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The cost of the rental fee depends on the number of hours the surfboard is rented. Multiplying t hours by 10 dollars per hour yields a rental fee of 10 t dollars. The total cost of the rental consists of the rental fee plus the 25 dollar service fee, which yields a total cost of 25 + 10 t dollars. Since the person intends to spend a maximum of 75 dollars to rent the surfboard, the total cost must be at most 75 dollars. Therefore, the inequality 25 + 10 t <= 75 represents this situation.  Choice A is incorrect. This represents a situation where the rental fee, not the total cost, is at most 75 dollars.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "ee439cff",
+        "Prompt": "On a car trip, Rhett and Jessica each drove for part of the trip, and the total distance they drove was under 220 miles. Rhett drove at an average speed of 35 miles per hour ( mph ), and Jessica drove at an average speed of 40 mph. Which of the following inequalities represents this situation, where r is the number of hours Rhett drove and j is the number of hours Jessica drove?",
+        "Answer Choices": [
+            "35 r + 40 j greater than 220",
+            "35 r + 40 j less than 220",
+            "40 r + 35 j greater than 220",
+            "40 r + 35 j less than 220"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that Rhett drove at an average speed of 35 miles per hour and that he drove for r hours. Multiplying 35 miles per hour by r hours yields 35 r miles, or the distance that Rhett drove. It\u2019s also given that Jessica drove at an average speed of 40 miles per hour and that she drove for j hours. Multiplying 40 miles per hour by j hours yields 40 j miles, or the distance that Jessica drove. The total distance, in miles, that Rhett and Jessica drove can be represented by the expression 35 r + 40 j . It\u2019s given that the total distance they drove was under 220 miles. Therefore, the inequality 35 r + 40 j less than 220 represents this situation.  Choice A is incorrect. This inequality represents a situation in which the total distance Rhett and Jessica drove was over, rather than under, 220 miles.  Choice C is incorrect. This inequality represents a situation in which Rhett drove at an average speed of 40 , rather than 35 , miles per hour, Jessica drove at an average speed of 35 , rather than 40 , miles per hour, and the total distance they drove was over, rather than under, 220 miles.  Choice D is incorrect. This inequality represents a situation in which Rhett drove at an average speed of 40 , rather than 35 , miles per hour, and Jessica drove at an average speed of 35 , rather than 40 , miles per hour."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "ee2f611f",
+        "Prompt": "A local transit company sells a monthly pass for $95 that allows an unlimited number of trips of any length. Tickets for individual trips cost $1.50, $2.50, or $3.50, depending on the length of the trip. What is the minimum number of trips per month for which a monthly pass could cost less than purchasing individual tickets for trips?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 28. The minimum number of individual trips for which the cost of the monthly pass is less than the cost of\u00a0individual tickets can be found by assuming the maximum cost of the individual tickets, $3.50. If n tickets costing $3.50 each are purchased in one month, the inequality 95 < 3.50 n represents this situation. Dividing both sides of the inequality by 3.50 yields 27.14 < n , which is equivalent to n > 27.14. Since only a whole number of tickets can be purchased, it follows that 28 is the minimum number of trips."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "563407e5",
+        "Prompt": "A bakery sells trays of cookies. Each tray contains at least 50 cookies but no more than 60. Which of the following could be the total number of cookies on 4 trays of cookies?",
+        "Answer Choices": [
+            "165",
+            "205",
+            "245",
+            "285"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. If each tray contains the least number of cookies possible, 50 cookies, then the least number of cookies possible on 4 trays is 50 \u00d7 4 = 200 cookies. If each tray contains the greatest number of cookies possible, 60 cookies, then the greatest number of cookies possible on 4 trays is 60 \u00d7 4 = 240 cookies. If the least number of cookies on 4 trays is 200 and the greatest number of cookies is 240, then 205 could be the total number of cookies on these 4 trays of cookies because 200 is less than or equal to 205, which is less than or equal to 240. . Choices A, C, and D are incorrect. The least number of cookies on 4 trays is 200 cookies, and the greatest number of cookies on 4 trays is 240 cookies. The choices 165, 245, and 285 are each either less than 200 or greater than 240; therefore, they cannot represent the total number of cookies on 4 trays."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "541bef2f",
+        "Prompt": "y <= x + 7 y >= (-) 2 x - 1 Which . (x, y) is a solution to the given system of inequalities in the xy - plane?",
+        "Answer Choices": [
+            "( (-) 14, 0 )",
+            "( 0, (-) 14 )",
+            "(0, 14)",
+            "(14, 0)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. A point (x, y) is a solution to a system of inequalities in the xy -plane if substituting the x -coordinate and the y -coordinate of the point for x and y , respectively, in each inequality makes both of the inequalities true. Substituting the x -coordinate and the y -coordinate of choice D, 14 and 0 , for x and y , respectively, in the first inequality in the given system, y <= x + 7 , yields True , or True , which is true. Substituting 14 for x and 0 for y in the second inequality in the given system, y >= - 2 x - 1 , yields 0 >= - 2 ( 14 ) - 1 , or 0 >= (-) 29 , which is true. Therefore, the point (14, 0) is a solution to the given system of inequalities in the xy -plane.  Choice A is incorrect. Substituting (-) 14 for x and 0 for y in the inequality y <= x + 7 yields 0 <= (-) 14 + 7 , or 0 <= (-) 7 , which is not true.  Choice B is incorrect. Substituting 0 for x and (-) 14 for y in the inequality y >= - 2 x - 1 yields (-) 14 >= - 2 ( 0 ) - 1 , or (-) 14 >= (-) 1 , which is not true.  Choice C is incorrect. Substituting 0 for x and 14 for y in the inequality y <= x + 7 yields False , or False , which is not true."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "6c71f3ec",
+        "Prompt": "A salesperson\u2019s total earnings consist of a base salary of x dollars per year, + commission earnings of 11 percent sign of the total sales the salesperson makes during the year. This year, the salesperson has a goal for the total earnings to be at least 3 * and at most 4 * the base salary. Which of the following inequalities represents all possible values of total sales s, in dollars, the salesperson can make this year in order to meet that goal?",
+        "Answer Choices": [
+            "2 x <= s <= 3 x",
+            "( 2 / 0.11 ) x <= s <= ( 3 / 0.11 ) x",
+            "3 x <= s <= 4 x",
+            "( 3 / 0.11 ) x <= s <= ( 4 / 0.11 ) x"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that a salesperson's total earnings consist of a base salary of x dollars per year plus commission earnings of 11 percent sign of the total sales the salesperson makes during the year. If the salesperson makes s dollars in total sales this year, the salesperson\u2019s total earnings can be represented by the expression x + 0.11 s . It\u2019s also given that the salesperson has a goal for the total earnings to be at least 3 times and at most 4 times the base salary, which can be represented by the expressions 3 x and 4 x , respectively. Therefore, this situation can be represented by the inequality 3 x <= x + 0.11 s <= 4 x . Subtracting x from each part of this inequality yields 2 x <= 0.11 s <= 3 x . Dividing each part of this inequality by 0.110000000000000 yields ( 2 / 0.11 ) x <= s <= ( 3 / 0.11 ) x . Therefore, the inequality ( 2 / 0.11 ) x <= s <= ( 3 / 0.11 ) x represents all possible values of total sales s , in dollars, the salesperson can make this year in order to meet their goal.  Choice A is incorrect. This inequality represents a situation in which the total sales, rather than the total earnings, are at least 2 times and at most 3 times, rather than at least 3 times and at most 4 times, the base salary.  Choice C is incorrect. This inequality represents a situation in which the total sales, rather than the total earnings, are at least 3 times and at most 4 times the base salary.  Choice D is incorrect. This inequality represents a situation in which the total earnings are at least 4 times and at most 5 times, rather than at least 3 times and at most 4 times, the base salary."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "68f2cbaf",
+        "Prompt": "Ty set a goal to walk at least 24 kilometers every day to prepare for a multiday hike. On a certain day, Ty plans to walk at an average speed of 4 kilometers per hour. What is the minimum number of hours Ty must walk on that day to fulfill the daily goal?",
+        "Answer Choices": [
+            "4",
+            "6",
+            "20",
+            "24"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that Ty plans to walk at an average speed of 4 kilometers per hour. The number of kilometers Ty will walk is determined by the expression 4 s , where s is the number of hours Ty walks. The given goal of at least 24 kilometers means that the inequality 4 s >= 24 represents the situation. Dividing both sides of this inequality by 4 gives s >= 6 , which corresponds to a minimum of 6 hours Ty must walk.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "1a621af4",
+        "Prompt": "A number x is at most 2 less than 3 * the value of y. If the value of y is (-) 4, what is the greatest possible value of x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-14",
+        "Rationale": "The correct answer is (-) 14 . It's given that a number x is at most 2 less than 3 times the value of y . Therefore, x is less than or equal to 2 less than 3 times the value of y . The expression 3 y represents 3 times the value of y . The expression 3 y - 2 represents 2 less than 3 times the value of y . Therefore, x is less than or equal to 3 y - 2 . This can be shown by the inequality x <= 3 y - 2 . Substituting (-) 4 for y in this inequality yields x <= 3 ( (-) 4 ) - 2 or, x <= (-) 14 . Therefore, if the value of y is (-) 4 , the greatest possible value of x is (-) 14 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "bf5f80c6",
+        "Prompt": "y<\u22124x + 4 Which . (x, y) is a solution to the given inequality in the xy - plane?",
+        "Answer Choices": [
+            "(-4,0)",
+            "(0,5)",
+            "(2,1)",
+            "(2,-1)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice D is correct. For a point (x, y) to be a solution to the given inequality in the xy -plane, the value of the point\u2019s y -coordinate must be less than the value of - 4 x + 4 , where x is the value of the x -coordinate of the point. This is true of the point ( (-) 4, 0 ) because 0 less than - 4 ( (-) 4 ) + 4 , or 0 less than 20 . Therefore, the point ( (-) 4, 0 ) is a solution to the given inequality.  Choices A, B, and C are incorrect. None of these points are a solution to the given inequality because each point\u2019s y -coordinate is greater than the value of - 4 x + 4 for the point\u2019s x -coordinate."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "ee7b1de1",
+        "Prompt": "A small business owner budgets dollar sign 2,200 to purchase candles. The owner must purchase a minimum of 200 candles to maintain the discounted pricing. If the owner pays dollar sign 4.90 per candle to purchase small candles and dollar sign 11.60 per candle to purchase large candles, what is the maximum number of large candles the owner can purchase to stay within the budget and maintain the discounted pricing?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "182",
+        "Rationale": "The correct answer is 182 . Let s represent the number of small candles the owner can purchase, and let script l represent the number of large candles the owner can purchase. It\u2019s given that the owner pays dollar sign 4.90 per candle to purchase small candles and dollar sign 11.60 per candle to purchase large candles. Therefore, the owner pays 4.90 s dollars for s small candles and 11.60 script l dollars for script l large candles, which means the owner pays a total of 4.90 s + 11.60 script l dollars to purchase candles. It\u2019s given that the owner budgets dollar sign 2,200 to purchase candles. Therefore, 4.90 s + 11.60 script l <= 2,200 . It\u2019s also given that the owner must purchase a minimum of 200 candles. Therefore, s + script l >= 200 . The inequalities 4.90 s + 11.60 script l <= 2,200 and s + script l >= 200 can be combined into one compound inequality by rewriting the second inequality so that its left-hand side is equivalent to the left-hand side of the first inequality. Subtracting script l from both sides of the inequality s + script l >= 200 yields s >= 200 - script l . Multiplying both sides of this inequality by 4.90000000000000 yields 4.90 s >= 4.90 ( 200 - script l ) , or 4.90 s >= 980 - 4.90 script l . Adding 11.60 script l to both sides of this inequality yields 4.90 s + 11.60 script l >= 980 - 4 period 90 script l + 11 period 60 script l , or 4.90 s + 11.60 script l >= 980 + 6.70 script l . This inequality can be combined with the inequality 4.90 s + 11.60 script l <= 2,200 , which yields the compound inequality 980 + 6.70 script l <= 4.90 s + 11.60 script l <= 2,200 . It follows that 980 + 6.70 script l <= 2,200 . Subtracting 980 from both sides of this inequality yields 6.70 script l <= 2,200 . Dividing both sides of this inequality by 6.70000000000000 yields approximately script l <= 182.09 . Since the number of large candles the owner purchases must be a whole number, the maximum number of large candles the owner can purchase is the largest whole number less than 182.090000000000 , which is 182 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "c17d9ba9",
+        "Prompt": "A number x is at most 17 less than 5 * the value of y. If the value of y is 3, what is the greatest possible value of x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-2",
+        "Rationale": "The correct answer is (-) 2 . It's given that a number x is at most 17 less than 5 times the value of y , or x <= 5 y - 17 . Substituting 3 for y in this inequality yields x <= 5 ( 3 ) - 17 , or x <= (-) 2 . Thus, if the value of y is 3 , the greatest possible value of x is (-) 2 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "5bf5136d",
+        "Prompt": "The triangle inequality theorem states that the sum of any 2 sides of a triangle must be greater than the length of the /3 side. If a triangle has side lengths of 6 and 12, which inequality represents the possible lengths, x, of the /3 side of the triangle?",
+        "Answer Choices": [
+            "x less than 18",
+            "x greater than 18",
+            "6 less than x less than 18",
+            "x less than 6orx greater than 18"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that a triangle has side lengths of 6 and 12 , and x represents the length of the third side of the triangle. It\u2019s also given that the triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. Therefore, the inequalities 6 + x greater than 12 , 6 + 12 greater than x , and 12 + x greater than 6 represent all possible values of x . Subtracting 6 from both sides of the inequality 6 + x greater than 12 yields x greater than 12 - 6 , or x greater than 6 . Adding 6 and 12 in the inequality 6 + 12 greater than x yields 18 greater than x , or x less than 18 . Subtracting 12 from both sides of the inequality 12 + x greater than 6 yields x greater than 6 - 12 , or x greater than (-) 6 . Since all x -values that satisfy the inequality x greater than 6 also satisfy the inequality x greater than (-) 6 , it follows that the inequalities x greater than 6 and x less than 18 represent the possible values of x . Therefore, the inequality 6 less than x less than 18 represents the possible lengths, x , of the third side of the triangle.  Choice A is incorrect. This inequality gives the upper bound for x but does not include its lower bound.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "59a49431",
+        "Prompt": "The boundary of the inequality is a solid line. The line slants sharply down from left to right. The line passes through the following points: (1.0 , 6.5) (3.0 , (-) 4.5) The area above and to the right of the boundary is shaded. The shaded region shown represents solutions to an inequality. Which ordered pair (x, y) is a solution to this inequality?",
+        "Answer Choices": [
+            "( 0, (-) 4 )",
+            "(0, 4)",
+            "( (-) 4, 0 )",
+            "(4, 0)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since the shaded region shown represents solutions to an inequality, an ordered pair (x, y) is a solution to the inequality if it's represented by a point in the shaded region. Of the given choices, only (4, 0) is represented by a point in the shaded region. Therefore, (4, 0) is a solution to the inequality.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "f2bbd43d",
+        "Prompt": "y greater than 14 4 x + y less than 18 The . (x, 53) is a solution to the system of inequalities in the xy - plane. Which of the following could be the value of x?",
+        "Answer Choices": [
+            "(-) 9",
+            "(-) 5",
+            "5",
+            "9"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the point (x, 53) is a solution to the given system of inequalities in the xy -plane. This means that the coordinates of the point, when substituted for the variables x and y , make both of the inequalities in the system true. Substituting 53 for y in the inequality y greater than 14 yields 53 greater than 14 , which is true. Substituting 53 for y in the inequality 4 x + y less than 18 yields 4 x + 53 less than 18 . Subtracting 53 from both sides of this inequality yields 4 x less than (-) 35 . Dividing both sides of this inequality by 4 yields x less than (-) 8.75 . Therefore, x must be a value less than (-) 8.75 . Of the given choices, only (-) 9 is less than (-) 8.75 .  Choice B is incorrect. Substituting (-) 5 for x and 53 for y in the inequality 4 x + y less than 18 yields 4 ( (-) 5 ) + 53 less than 18 , or 33 less than 18 , which is not true.  Choice C is incorrect. Substituting 5 for x and 53 for y in the inequality 4 x + y less than 18 yields 4 ( 5 ) + 53 less than 18 , or 73 less than 18 , which is not true.  Choice D is incorrect. Substituting 9 for x and 53 for y in the inequality 4 x + y less than 18 yields 4 ( 9 ) + 53 less than 18 , or 89 less than 18 , which is not true."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "d8539e09",
+        "Prompt": "y less than 6 x + 2 For which of the following tables are all the values of x and their corresponding values of y solutions to the given inequality?",
+        "Answer Choices": [
+            "xy320532744",
+            "xy316536740",
+            "xy316528740",
+            "xy324536748"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. All the tables in the choices have the same three values of x , so each of the three values of x can be substituted in the given inequality to compare the corresponding values of y in each of the tables. Substituting 3 for x in the given inequality yields y less than 6 ( 3 ) + 2 , or y less than 20 . Therefore, when x = 3 , the corresponding value of y is less than 20 . Substituting 5 for x in the given inequality yields y less than 6 ( 5 ) + 2 , or y less than 32 . Therefore, when x = 5 , the corresponding value of y is less than 32 . Substituting 7 for x in the given inequality yields y less than 6 ( 7 ) + 2 , or y less than 44 . Therefore, when x = 7 , the corresponding value of y is less than 44 . For the table in choice C, when x = 3 , the corresponding value of y is 16 , which is less than 20 ; when x = 5 , the corresponding value of y is 28 , which is less than 32 ; when x = 7 , the corresponding value of y is 40 , which is less than 44 . Therefore, the table in choice C gives values of x and their corresponding values of y that are all solutions to the given inequality.  Choice A is incorrect. In the table for choice A, when x = 3 , the corresponding value of y is 20 , which is not less than 20 ; when x = 5 , the corresponding value of y is 32 , which is not less than 32 ; when x = 7 , the corresponding value of y is 44 , which is not less than 44 .  Choice B is incorrect. In the table for choice B, when x = 5 , the corresponding value of y is 36 , which is not less than 32 .  Choice D is incorrect. In the table for choice D, when x = 3 , the corresponding value of y is 24 , which is not less than 20 ; when x = 5 , the corresponding value of y is 36 , which is not less than 32 ; when x = 7 , the corresponding value of y is 48 , which is not less than 44 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "48fb34c8",
+        "Prompt": "y greater than 13 x - 18 For which of the following tables are all the values of x and their corresponding values of y solutions to the given inequality?",
+        "Answer Choices": [
+            "xy321547886",
+            "xy326542886",
+            "xy316542881",
+            "xy326552891"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. All the tables in the choices have the same three values of x , so each of the three values of x can be substituted in the given inequality to compare the corresponding values of y in each of the tables. Substituting 3 for x in the given inequality yields y greater than 13 ( 3 ) - 18 , or y greater than 21 . Therefore, when x = 3 , the corresponding value of y is greater than 21 . Substituting 5 for x in the given inequality yields y greater than 13 ( 5 ) - 18 , or y greater than 47 . Therefore, when x = 5 , the corresponding value of y is greater than 47 . Substituting 8 for x in the given inequality yields y greater than 13 ( 8 ) - 18 , or y greater than 86 . Therefore, when x = 8 , the corresponding value of y is greater than 86 . For the table in choice D, when x = 3 , the corresponding value of y is 26 , which is greater than 21 ; when x = 5 , the corresponding value of y is 52 , which is greater than 47 ; when x = 8 , the corresponding value of y is 91 , which is greater than 86 . Therefore, the table in choice D gives values of x and their corresponding values of y that are all solutions to the given inequality.  Choice A is incorrect. In the table for choice A, when x = 3 , the corresponding value of y is 21 , which is not greater than 21 ; when x = 5 , the corresponding value of y is 47 , which is not greater than 47 ; when x = 8 , the corresponding value of y is 86 , which is not greater than 86 .  Choice B is incorrect. In the table for choice B, when x = 5 , the corresponding value of y is 42 , which is not greater than 47 ; when x = 8 , the corresponding value of y is 86 , which is not greater than 86 .  Choice C is incorrect. In the table for choice C, when x = 3 , the corresponding value of y is 16 , which is not greater than 21 ; when x = 5 , the corresponding value of y is 42 , which is not greater than 47 ; when x = 8 , the corresponding value of y is 81 , which is not greater than 86 ."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "03503d49",
+        "Prompt": "A business owner plans to purchase the same model of chair for each of the 81 employees. The total budget to spend on these chairs is dollar sign 14,000, which includes a 7 percent sign sales tax. Which of the following is closest to the maximum possible price per chair, before sales tax, the business owner could pay based on this budget?",
+        "Answer Choices": [
+            "dollar sign 148.15",
+            "dollar sign 161.53",
+            "dollar sign 172.84",
+            "dollar sign 184.94"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that a business owner plans to purchase 81 chairs. If p is the price per chair, the total price of purchasing 81 chairs is 81 p . It\u2019s also given that 7 percent sign sales tax is included, which is equivalent to 81 p multiplied by 1.07000000000000 , or 81 ( 1.07 ) p . Since the total budget is dollar sign 14,000 , the inequality representing the situation is given by 81 ( 1.07 ) p <= 14,000 . Dividing both sides of this inequality by 81 ( 1.07 ) and rounding the result to two decimal places gives p <= 161.53 . To not exceed the budget, the maximum possible price per chair is dollar sign 161.53 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the maximum possible price per chair including sales tax, not the maximum possible price per chair before sales tax.  Choice D is incorrect. This is the maximum possible price if the sales tax is added to the total budget, not the maximum possible price per chair before sales tax."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Hard",
+        "ID": "b8e73b5b",
+        "Prompt": "Ken is working this summer as part of a crew on a farm. He earned $8 per hour for the first 10 hours he worked this week. Because of his performance, his crew leader raised his salary to $10 per hour for the rest of the week. Ken saves 90% of his earnings from each week. What is the least number of hours he must work the rest of the week to save at least $270 for the week?",
+        "Answer Choices": [
+            "38",
+            "33",
+            "22",
+            "16"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Ken earned $8 per hour for the first 10 hours he worked, so he earned a total of $80 for the first 10 hours he worked. For the rest of the week, Ken was paid at the rate of $10 per hour. Let x be the number of hours he will work for the rest of the week. The total of Ken\u2019s earnings, in dollars, for the week will be 10 x + 80 . He saves 90% of his earnings each week, so this week he will save 0. 9 * open parenthesis, 10 x + 80, close parenthesis dollars. The inequality 0. 9 * open parenthesis, 10 x + 80, close parenthesis, is greater than or equal to 270 represents the condition that he will save at least $270 for the week. Factoring 10 out of the expression 10 x + 80 gives 10 * open parenthesis, x + 8, close parenthesis . The product of 10 and 0.9 is 9, so the inequality can be rewritten as 9 * open parenthesis, x + 8, close parenthesis, is greater than or equal to 270 . Dividing both sides of this inequality by 9 yields x + 8, is greater than or equal to 30 , so x is greater than or equal to 22 . Therefore, the least number of hours Ken must work the rest of the week to save at least $270 for the week is 22. Choices A and B are incorrect because Ken can save $270 by working fewer hours than 38 or 33 for the rest of the week. Choice D is incorrect. If Ken worked 16 hours for the rest of the week, his total earnings for the week will be 80 dollars + 160 dollars, = 240 dollars , which is less than $270. Since he saves only 90% of his earnings each week, he would save even less than $240 for the week."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "74c98c82",
+        "Prompt": "An event planner is planning a party. It costs the event planner a 1time fee of dollar sign 35 to rent the venue and dollar sign 10.25 per at10dee. The event planner has a budget of dollar sign 200. What is the greatest number of at10dees possible without exceeding the budget?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "16",
+        "Rationale": "The correct answer is 16 . The total cost of the party is found by adding the onetime fee of the venue to the cost per attendee times the number of attendees. Let x be the number of attendees. The expression 35 + 10.25 x thus represents the total cost of the party. It's given that the budget is dollar sign 200 , so this situation can be represented by the inequality 35 + 10.25 x <= 200 . The greatest number of attendees can be found by solving this inequality for x . Subtracting 35 from both sides of this inequality gives 10.25 x <= 165 . Dividing both sides of this inequality by 10.2500000000000 results in approximately x <= 16.098 . Since the question is stated in terms of attendees, rounding x down to the nearest whole number, 16 , gives the greatest number of attendees possible."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "e9ef0e6b",
+        "Prompt": "A model estimates that whales from the genus Eschrichtius travel 72 to 77 miles in the ocean each day during their migration. Based on this model, which inequality represents the estimated total number of miles, x, a whale from the genus Eschrichtius could travel in 16 days of its migration?",
+        "Answer Choices": [
+            "72 + 16 <= x <= 77 + 16",
+            "( 72 ) ( 16 ) <= x <= ( 77 ) ( 16 )",
+            "72 <= 16 + x <= 77",
+            "72 <= 16 x <= 77"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the model estimates that whales from the genus Eschrichtius travel 72 to 77 miles in the ocean each day during their migration. If one of these whales travels 72 miles each day for 16 days, then the whale travels 72 ( 16 ) miles total. If one of these whales travels 77 miles each day for 16 days, then the whale travels 77 ( 16 ) miles total. Therefore, the model estimates that in 16 days of its migration, a whale from the genus Eschrichtius could travel at least 72 ( 16 ) and\u00a0at most 77 ( 16 ) miles total. Thus, the inequality ( 72 ) ( 16 ) <= x <= ( 77 ) ( 16 ) represents the estimated total number of miles, x , a whale from the genus Eschrichtius could travel in 16 days of its migration.  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "f02b4509",
+        "Prompt": "A moving truck can tow a trailer if the combined w8 of the trailer and the boxes it contains is no more than (4, 600) pounds. What is the maximum number of boxes this truck can tow in a trailer with a w8 of 500 pounds if each box weighs 120 pounds?",
+        "Answer Choices": [
+            "34",
+            "35",
+            "38",
+            "39"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the truck can tow a trailer if the combined weight of the trailer and the boxes it contains is no more than (4, 600) pounds. If the trailer has a weight of 500 pounds and each box weighs 120 pounds, the expression 500 + 120 b , where b is the number of boxes, gives the combined weight of the trailer and the boxes. Since the combined weight must be no more than (4, 600) pounds, the possible numbers of boxes the truck can tow are given by the inequality 500 + 120 b <= 4,600 . Subtracting 500 from both sides of this inequality yields 120 b <= 4,100 . Dividing both sides of this inequality by 120 yields b <= 205/6 , or b is less than or equal to approximately 34.1700000000000 . Since the number of boxes, b , must be a whole number, the maximum number of boxes the truck can tow is the greatest whole number less than 34.1700000000000 , which is 34 .  Choice B is incorrect. Towing the trailer and 35 boxes would yield a combined weight of (4, 700) pounds, which is greater than (4, 600) pounds.  Choice C is incorrect. Towing the trailer and 38 boxes would yield a combined weight of 5,060 pounds, which is greater than (4, 600) pounds.  Choice D is incorrect. Towing the trailer and 39 boxes would yield a combined weight of (5, 180) pounds, which is greater than (4, 600) pounds."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "8f0c82e2",
+        "Prompt": "The minimum value of x is 12 less than 6 * another number n. Which inequality shows the possible values of x?",
+        "Answer Choices": [
+            "x <= 6 n - 12",
+            "x >= 6 n - 12",
+            "x <= 12 - 6 n",
+            "x >= 12 - 6 n"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the minimum value of x is 12 less than 6 times another number n . Therefore, the possible values of x are all greater than or equal to the value of 12 less than 6 times n . The value of 6 times n is given by the expression 6 n . The value of 12 less than 6 n is given by the expression 6 n - 12 . Therefore, the possible values of x are all greater than or equal to 6 n - 12 . This can be shown by the inequality x >= 6 n - 12 .  Choice A is incorrect. This inequality shows the possible values of x if the maximum, not the minimum, value of x is 12 less than 6 times n .  Choice C is incorrect. This inequality shows the possible values of x if the maximum, not the minimum, value of x is 6 times n less than 12 , not 12 less than 6 times n .  Choice D is incorrect. This inequality shows the possible values of x if the minimum value of x is 6 times n less than 12 , not 12 less than 6 times n ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "b75f7812",
+        "Prompt": "Maria plans to rent a boat. The boat rental costs $60 per hour, and she will also have to pay for a water safety course that costs $10. Maria wants to spend no more than $280 for the rental and the course. If the boat rental is available only for a whole number of hours, what is the maximum number of hours for which Maria can rent the boat?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 4. The equation 60 h + 10, is less than or equal to 280 , where h is the number of hours the boat has been rented, can be written to represent the situation. Subtracting 10 from both sides and then dividing by 60 yields h is less than or equal to 4. 5 . Since the boat can be rented only for whole numbers of hours, the maximum number of hours for which Maria can rent the boat is 4."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Medium",
+        "ID": "d02193fb",
+        "Prompt": "The boundary of the inequality is a dashed line. The line slants sharply down from left to right. The line passes through the following points: ((-) 1 , 5) (0 , 1) (1 , (-) 3) The area above and to the right of the boundary is shaded. The shaded region shown represents the solutions to which inequality?",
+        "Answer Choices": [
+            "y less than 1 + 4 x",
+            "y less than 1 - 4 x",
+            "y greater than 1 + 4 x",
+            "y greater than 1 - 4 x"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation for the line representing the boundary of the shaded region can be written in slope-intercept form y = b + m x , where m is the slope and (0, b) is the y -intercept of the line. For the graph shown, the boundary line passes through the points (0, 1) and ( 1, (-) 3 ) . Given two points on a line, (x1, y1) and (x2, y2) , the slope of the line can be calculated using the equation m = ( y2 - y1 / x2 - x1 ) . Substituting the points (0, 1) and ( 1, (-) 3 ) for (x1, y1) and (x2, y2) in this equation yields m = ( (-) 3 - 1 / 1 - 0 ) , which is equivalent to m = ( (-) 4 / 1 ) , or m = (-) 4 . Since the point (0, 1) represents the y -intercept, it follows that b = 1 . Substituting (-) 4 for m and 1 for b in the equation y = b + m x yields y = 1 - 4 x as the equation of the boundary line. Since the shaded region represents all the points above this boundary line, it follows that the shaded region shown represents the solutions to the inequality y greater than 1 - 4 x .  Choice A is incorrect. This inequality represents a region below, not above, a boundary line with a slope of 4 , not (-) 4 .  Choice B is incorrect. This inequality represents a region below, not above, the boundary line shown.  Choice C is incorrect. This inequality represents a region whose boundary line has a slope of 4 , not (-) 4 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "b64e2c7f",
+        "Prompt": "Monarch butterflies can fly only with a body temperature of at least 55.0 degrees Fahrenheit ( degree upper F ). If a monarch butterfly's body temperature is 51.3 degree upper F, what is the minimum increase needed in its body temperature, in degree upper F, so that it can fly?",
+        "Answer Choices": [
+            "1.30000000000000",
+            "3.70000000000000",
+            "5.00000000000000",
+            "6.30000000000000"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that monarch butterflies can fly only with a body temperature of at least 55.0 degrees Fahrenheit ( degree upper F ) . Let x represent the minimum increase needed in the monarch butterfly's body temperature to fly. If the monarch butterfly's body temperature is 51.3 degree upper F , the inequality x + 51.3 >= 55.0 represents this situation. Subtracting 51.3000000000000 from both sides of this inequality yields x >= 3.7 . Therefore, if the monarch butterfly's body temperature is 51.3 degree upper F , the minimum increase needed in its body temperature, in degree upper F , so that it can fly is 3.70000000000000 .  Choice A is incorrect. This is the minimum increase needed in body temperature\u00a0if the monarch butterfly's body temperature is 53.7 degree upper F , not 51.3 degree upper F .  Choice C is incorrect. This is the minimum increase needed in body temperature if the monarch butterfly's body temperature is 50.0 degree upper F , not 51.3 degree upper F .  Choice D is incorrect. This is the minimum increase needed in body temperature if the monarch butterfly's body temperature is 48.7 degree upper F , not 51.3 degree upper F ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear inequalities in one or two variables",
+        "Difficulty": "Easy",
+        "ID": "7d6928bd",
+        "Prompt": "A cleaning service that cleans both offices and homes can clean at most 14 places per day. Which inequality represents this situation, where f is the number of offices and h is the number of homes?",
+        "Answer Choices": [
+            "f + h <= 14",
+            "f + h >= 14",
+            "f - h <= 14",
+            "f - h >= 14"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the cleaning service cleans both offices and homes, where f is the number of offices and h is the number of homes the cleaning service can clean per day. Therefore, the expression f + h represents the number of places the cleaning service can clean per day. It's also given that the cleaning service can clean at most 14 places per day. Since f + h represents the number of places the cleaning service can clean per day and the service can clean at most 14 places per day, it follows that the inequality f + h <= 14 represents this situation.  Choice B is incorrect. This inequality represents a cleaning service that cleans at least 14 places per day.  Choice C is incorrect. This inequality represents a cleaning service that cleans at most 14 more offices than homes per day.  Choice D is incorrect. This inequality represents a cleaning service that cleans at least 14 more offices than homes per day."
+    },
+    "question contains image"
+]

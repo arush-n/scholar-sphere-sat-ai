@@ -1,0 +1,622 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "f5c3e3b8",
+        "Prompt": "Which expression is equivalent to ( m ^ 4 q ^ 4 z ^ (-) 1 ) ( m q ^ 5 z ^3 ), where m, q, and z are positive?",
+        "Answer Choices": [
+            "m ^ 4 q ^ 20 z ^ (-) 3",
+            "m ^ 5 q ^ 9 z ^2",
+            "m ^ 6 q ^ 8 z ^ (-) 1",
+            "m ^ 20 q ^ 12 z ^ (-) 2"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Applying the commutative property of multiplication, the expression ( m ^ 4 q ^ 4 z ^ (-) 1 ) ( m q ^ 5 z ^3 ) can be rewritten as ( m ^ 4 m ) ( q ^ 4 q ^ 5 ) ( z ^ (-) 1 z ^3 ) . For positive values of x , ( x ^ a ) ( x ^ b ) = x ^ a + b . Therefore, the expression ( m ^ 4 m ) ( q ^ 4 q ^ 5 ) ( z ^ (-) 1 z ^3 ) can be rewritten as ( m ^ 4 + 1 ) ( q ^ 4 + 5 ) ( z ^ (-) 1 + 3 ) , or m ^ 5 q ^ 9 z ^2 .  Choice A is incorrect and may result from multiplying, not adding, the exponents.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "52931bfa",
+        "Prompt": "Which expression is equivalent to ( 8 x ( x - 7 ) - 3 ( x - 7 ) / 2 x - 14 ), where x greater than 7?",
+        "Answer Choices": [
+            "x - 7/5",
+            "( 8 x - 3 / 2 )",
+            "( 8 x ^2 - 3 x - 14 / 2 x - 14 )",
+            "( 8 x ^2 - 3 x - 77 / 2 x - 14 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given expression has a common factor of 2 in the denominator, so the expression can be rewritten as ( 8 x ( x - 7 ) - 3 ( x - 7 ) / 2 ( x - 7 ) ) . The three terms in this expression have a common factor of x - 7 . Since it's given that x greater than 7 , x can't be equal to 7 , which means x - 7 can't be equal to 0 . Therefore, each term in the expression, ( 8 x ( x - 7 ) - 3 ( x - 7 ) / 2 ( x - 7 ) ) , can be divided by x - 7 , which gives ( 8 x - 3 / 2 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect\u00a0and may result from conceptual or calculation errors.  Choice D is incorrect\u00a0and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "371cbf6b",
+        "Prompt": "The equation above is true for all x, where a and b are constants. What is the value of ab ?",
+        "Answer Choices": [
+            "18",
+            "20",
+            "24",
+            "40"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If the equation is true for all x , then the expressions on both sides of the equation will be equivalent. Multiplying the polynomials on the left-hand side of the equation gives 5 a, x ^3, - a, b x ^2, + 4 a, x, + 15 x ^2, - 3 b x, + 12 . On the right-hand side of the equation, the only x ^2 -term is (-) 9 x ^2 . Since the expressions on both sides of the equation are equivalent, it follows that (-) a, b x ^2, + 15 x ^2, = (-) 9 x ^2 , which can be rewritten as open parenthesis, (-) a, b + 15, close parenthesis, * x ^2, = (-) 9 x ^2 . Therefore, (-) a, b + 15, = (-) 9 , which gives a, b = 24 . Choice A is incorrect. If a, b = 18 , then the coefficient of x ^2 on the left-hand side of the equation would be (-) 18 + 15, = (-) 3 , which doesn\u2019t equal the coefficient of x ^2 , (-) 9 , on the right-hand side. Choice B is incorrect. If a, b = 20 , then the coefficient of x ^2 on the left-hand side of the equation would be (-) 20 + 15, = (-) 5 , which doesn\u2019t equal the coefficient of x ^2 , (-) 9 , on the right-hand side. Choice D is incorrect. If a, b = 40 , then the coefficient of x ^2 on the left-hand side of the equation would be (-) 40 + 15, = (-) 25 , which doesn\u2019t equal the coefficient of x ^2 , (-) 9 , on the right-hand side."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "c3b116d7",
+        "Prompt": "Which of the following expressions is(are) a factor of 3 x ^2 + 20 x - 63? x - 9 3 x - 7",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given expression can be factored by first finding two values whose sum is 20 and whose product is 3 ( (-) 63 ) , or (-) 189 . Those two values are 27 and (-) 7 . It follows that the given expression can be rewritten as 3 x ^2 + 27 x - 7 x - 63 . Since the first two terms of this expression have a common factor of 3 x and the last two terms of this expression have a common factor of (-) 7 , this expression can be rewritten as 3 x ( x + 9 ) - 7 ( x + 9 ) . Since the two terms of this expression have a common factor of x + 9 , it can be rewritten as ( 3 x - 7 ) ( x + 9 ) . Therefore, expression II, 3 x - 7 , is a factor of 3 x ^2 + 20 x - 63 , but expression I, x - 9 , is not a factor of 3 x ^2 + 20 x - 63 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "b4a6ed81",
+        "Prompt": "The expression 90 y ^ 5 - 54 y ^ 4 is equivalent to r y ^ 4 ( 15 y - 9 ), where r is a constant. What is the value of r?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "6",
+        "Rationale": "The correct answer is 6 . Applying the distributive property to the expression r y ^ 4 ( 15 y - 9 ) yields 15 r y ^ 5 - 9 r y ^ 4 . Since 90 y ^ 5 - 54 y ^ 4 is equivalent to r y ^ 4 ( 15 y - 9 ) , it follows that 90 y ^ 5 - 54 y ^ 4 is also equivalent to 15 r y ^ 5 - 9 r y ^ 4 . Since these expressions are equivalent, it follows that corresponding coefficients are equivalent. Therefore, 90 = 15 r and (-) 54 = - 9 r . Solving either of these equations for r will yield the value of r . Dividing both sides of 90 = 15 r by 15 yields 6 = r . Therefore, the value of r is 6 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "137cc6fd",
+        "Prompt": "^1/ 5 sqrt( 70 n ) ( ^1/ 6 sqrt( 70 n ) ) ^2 For what value of x is the given expression equivalent to ( 70 n ) ^ 30 x, where n greater than 1?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".0177,  .0178,  4/225",
+        "Rationale": "The correct answer is 4/225 . An expression of the form ^1/ k sqrt( a ) , where k is an integer greater than 1 and a >= 0 , is equivalent to a**(1/k) . Therefore, the given expression, where n greater than 1 ,\u00a0is equivalent to ( 70 n ) ^ 1 /5 ( ( 70 n ) ^ 1 /6 ) ^2 . Applying properties of exponents, this expression can be rewritten as ( 70 n ) ^ 1 /5 ( 70 n ) ^ 1 /6 * 2 , or ( 70 n ) ^ 1 /5 ( 70 n ) ^ 1 /3 , which can be rewritten as ( 70 n ) ^ 1 /5 + 1 /3 , or ( 70 n ) ^ 8 /15 . It's given that the expression ^1/ 5 sqrt( 70 n ) ( ^1/ 6 sqrt( 70 n ) ) ^2 is equivalent to ( 70 n ) ^ 30 x , where n greater than 1 . It follows that ( 70 n ) ^ 8 /15 is equivalent to ( 70 n ) ^ 30 x . Therefore, 8 /15 = 30 x . Dividing both sides of this equation by 30 yields ( 8 / 450 ) = x , or ( 4 / 225 ) = x . Thus, the value of x for which the given expression is equivalent to ( 70 n ) ^ 30 x , where n greater than 1 , is 4/225 . Note that 4/225, .0177, .0178, 0.017, and 0.018 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "70482e20",
+        "Prompt": "Which expression is equivalent to 11 x ^3 - 5 x ^3?",
+        "Answer Choices": [
+            "16 x ^3",
+            "6 x ^3",
+            "6 x ^ 6",
+            "16 x ^ 6"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given expression can be rewritten as 11 x ^3 + ( (-) 5 ) x ^3 . Since the two terms of this expression are both constant multiples of x**3 , they are like terms and can, therefore, be combined through addition. Adding like terms in the expression 11 x ^3 + ( (-) 5 ) x ^3 yields 6 x ^3 .  Choice A is incorrect. This is equivalent to 11 x ^3 + 5 x ^3 , not 11 x ^3 - 5 x ^3 .  Choice C is incorrect. This is equivalent to 11 x ^ 6 - 5 x ^ 6 , not 11 x ^3 - 5 x ^3 .  Choice D is incorrect. This is equivalent to 11 x ^ 6 + 5 x ^ 6 , not 11 x ^3 - 5 x ^3 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "8452c42b",
+        "Prompt": "Which expression is equivalent to 50 x ^2 + 5 x ^2?",
+        "Answer Choices": [
+            "250 x ^2",
+            "10 x ^2",
+            "45 x ^2",
+            "55 x ^2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given expression shows addition of two like terms. Therefore, the given expression is equivalent to ( 50 + 5 ) x ^2 ,\u00a0or 55 x ^2 .  Choice A is incorrect. This expression is equivalent to ( 50 ) ( 5 ) x ^2 , not ( 50 + 5 ) x ^2 .  Choice B is incorrect. This expression is equivalent to ( ( 50 / 5 ) ) x ^2 , not ( 50 + 5 ) x ^2 .  Choice C is incorrect. This expression is equivalent to ( 50 - 5 ) x ^2 , not ( 50 + 5 ) x ^2 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "ea6d05bb",
+        "Prompt": "The expression ( 3 x - 23 ) ( 19 x + 6 ) is equivalent to the expression a x ^2 + b x + c, where a, b, and c are constants. What is the value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-419",
+        "Rationale": "The correct answer is (-) 419 . It's given that the expression ( 3 x - 23 ) ( 19 x + 6 ) is equivalent to the expression a x ^2 + b x + c , where a , b , and c are constants. Applying the distributive property to the given expression, ( 3 x - 23 ) ( 19 x + 6 ) , yields ( 3 x ) ( 19 x ) + ( 3 x ) ( 6 ) - ( 23 ) ( 19 x ) - ( 23 ) ( 6 ) , which can be rewritten as 57 x ^2 + 18 x - 437 x - 138 . Combining like terms yields 57 x ^2 - 419 x - 138 . Since this expression is equivalent to a x ^2 + b x + c , it follows that the value of b is (-) 419 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "0536ad4f",
+        "Prompt": "Which expression is equivalent to 20 w - ( 4 w + 3 w )?",
+        "Answer Choices": [
+            "10 w",
+            "13 w",
+            "19 w",
+            "21 w"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Combining like terms inside the parentheses of the given expression, 20 w - ( 4 w + 3 w ) , yields 20 w - ( 7 w ) . Combining like terms in this resulting expression yields 13 w .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "433184f1",
+        "Prompt": "Which expression is equivalent to ( 4 / 4 x - 5 ) - ( 1 / x + 1 )?",
+        "Answer Choices": [
+            "( 1 / ( x + 1 ) ( 4 x - 5 ) )",
+            "( 3 / 3 x - 6 )",
+            "- ( 1 / ( x + 1 ) ( 4 x - 5 ) )",
+            "( 9 / ( x + 1 ) ( 4 x - 5 ) )"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The expression ( 4 / 4 x - 5 ) - ( 1 / x + 1 ) can be rewritten as ( 4 / 4 x - 5 ) + ( ( (-) 1 ) / x + 1 ) . To add the two terms of this expression, the terms can be rewritten with a common denominator. Since ( x + 1 / x + 1 ) = 1 , the expression ( 4 / 4 x - 5 ) can be rewritten as ( ( x + 1 ) ( 4 ) / ( x + 1 ) ( 4 x - 5 ) ) . Since ( 4 x - 5 / 4 x - 5 ) = 1 , the expression ( (-) 1 / x + 1 ) can be rewritten as ( ( 4 x - 5 ) ( (-) 1 ) / ( 4 x - 5 ) ( x + 1 ) ) . Therefore, the expression ( 4 / 4 x - 5 ) + ( ( (-) 1 ) / x + 1 ) can be rewritten as ( ( x + 1 ) ( 4 ) / ( x + 1 ) ( 4 x - 5 ) ) + ( ( 4 x - 5 ) ( (-) 1 ) / ( 4 x - 5 ) ( x + 1 ) ) , which is equivalent to ( ( x + 1 ) ( 4 ) + ( 4 x - 5 ) ( (-) 1 ) / ( x + 1 ) ( 4 x - 5 ) ) .\u00a0Applying the distributive property to each term of the numerator yields ( ( 4 x + 4 ) + ( - 4 x + 5 ) / ( x + 1 ) ( 4 x - 5 ) ) , or ( ( 4 x + ( - 4 x ) ) + ( 4 + 5 ) / ( x + 1 ) ( 4 x - 5 ) ) . Adding like terms in the numerator yields ( 9 / ( x + 1 ) ( 4 x - 5 ) ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "5b6af6b1",
+        "Prompt": "Which expression is equivalent to ( d - 6 ) ( 8 d ^2 - 3 )?",
+        "Answer Choices": [
+            "8 d ^3 - 14 d ^2 - 3 d + 18",
+            "8 d ^3 - 17 d ^2 + 48",
+            "8 d ^3 - 48 d ^2 - 3 d + 18",
+            "8 d ^3 - 51 d ^2 + 48"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Applying the distributive property to the given expression yields d ( 8 d ^2 - 3 ) - 6 ( 8 d ^2 - 3 ) . Applying the distributive property once again to this expression yields ( d ) ( 8 d ^2 ) + ( d ) ( (-) 3 ) + ( (-) 6 ) ( 8 d ^2 ) + ( (-) 6 ) ( (-) 3 ) , or 8 d ^3 + ( - 3 d ) + ( - 48 d ^2 ) + 18 . This expression can be rewritten as 8 d ^3 - 48 d ^2 - 3 d + 18 . Thus, ( d - 6 ) ( 8 d ^2 - 3 ) is equivalent to 8 d ^3 - 48 d ^2 - 3 d + 18 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "5355c0ef",
+        "Prompt": "0.36 x ^2 + 0.63 x + 1.17 The given expression can be rewrit10 as a ( 4 x ^2 + 7 x + 13 ), where a is a constant. What is the value of a?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".09,  9/100",
+        "Rationale": "The correct answer is 0.0900000000000000 . It's given that the expression 0.36 x ^2 + 0.63 x + 1.17 can be rewritten as a ( 4 x ^2 + 7 x + 13 ) . Applying the distributive property to the expression a ( 4 x ^2 + 7 x + 13 ) yields 4 a x ^2 + 7 a x + 13 a . Therefore, 0.36 x ^2 + 0.63 x + 1.17 can be rewritten as 4 a x ^2 + 7 a x + 13 a . It follows that in the expressions 0.36 x ^2 + 0.63 x + 1.17 and 4 a x ^2 + 7 a x + 13 a , the coefficients of x**2 are equivalent, the coefficients of x are equivalent, and the constant terms are equivalent. Therefore, 0.36 = 4 a , 0.63 = 7 a , and 1.17 = 13 a . Solving any of these equations for a yields the value of a . Dividing both sides of the equation 0.36 = 4 a by 4 yields 0.09 = a . Therefore, the value of a is 0.0900000000000000 . Note that .09 and 9/100 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "a1bf1c4e",
+        "Prompt": "Which of the following is equivalent to the expression above?",
+        "Answer Choices": [
+            "(x+ 3)2+ 5",
+            "(x+ 3)2\u2013 5",
+            "(x\u2013 3)2+ 5",
+            "(x\u2013 3)2\u2013 5"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given quadratic expression is in standard form, and each answer choice is in vertex form. Completing the square converts the expression from standard form to vertex form. The first step is to rewrite the expression as follows: x ^2, + 6 x, + 4, = x ^2, + 6 x, + 9, + 4, - 9 . The first three terms of the revised expression can be rewritten as a perfect square as follows: x ^2, + 6 x, + 9, + 4, - 9, = open parenthesis, x + 3, close parenthesis, ^2, + 4, - 9 . Combining the constant terms gives open parenthesis, x + 3, close parenthesis, ^2, - 5 . Choice A is incorrect. Squaring the binomial and simplifying the expression in choice A gives x ^2, + 6 x, + 9, + 5 . Combining like terms gives x ^2, - 6 x, + 14 , not x ^2, + 6 x, + 4 . Choice C is incorrect. Squaring the binomial and simplifying the expression in choice C gives x ^2, - 6 x, + 9, + 5 . Combining like terms gives x ^2, - 6 x, + 14 , not x ^2, + 6 x, + 4 . Choice D is incorrect. Squaring the binomial and simplifying the expression in choice D gives x ^2, - 6 x, + 9, - 5 . Combining like terms gives x ^2, - 6 x, + 4 , not x ^2, + 6 x, + 4 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "6d04c89d",
+        "Prompt": "The expression ( 24 / 6 x + 42 ) is equivalent to b + 4/x, where b is a constant and x greater than 0. What is the value of b?",
+        "Answer Choices": [
+            "7",
+            "10",
+            "24",
+            "252"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since the given expressions are equivalent and the numerator of the second expression is 1/6 of the numerator of the first expression, the denominator of the second expression must also be 1/6 of the denominator of the first expression. By the distributive property, 1 /6 ( 6 x + 42 ) is equivalent to 1 /6 ( 6 x ) + 1 /6 ( 42 ) , or x + 7 . Therefore, the value of b is 7 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "ffdbcad4",
+        "Prompt": "The expression 4 x ^2 + b x - 45, where b is a constant, can be rewrit10 as ( h x + k ) ( x + j ), where h, k, and j are integer constants. Which of the following must be an integer?",
+        "Answer Choices": [
+            "b/h",
+            "b/k",
+            "45/h",
+            "45/k"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that 4 x ^2 + b x - 45 can be rewritten as ( h x + k ) ( x + j ) . The expression ( h x + k ) ( x + j ) can be rewritten as h x ^2 + j h x + k x + k j , or h x ^2 + ( j h + k ) x + k j . Therefore, h x ^2 + ( j h + k ) x + k j is equivalent to 4 x ^2 + b x - 45 . It follows that k j = (-) 45 . Dividing each side of this equation by k yields j = ( (-) 45 / k ) . Since j is an integer, -45/k must be an integer. Therefore, 45/k must also be an integer.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "4a5af623",
+        "Prompt": "Which expression is a factor of 2 x ^2 + 38 x + 10?",
+        "Answer Choices": [
+            "2",
+            "5 x",
+            "38 x",
+            "2 x ^2"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since 2 is a common factor of each of the terms in the given expression, the expression can be rewritten as 2 ( x ^2 + 19 x + 5 ) . Therefore, the factors of the given expression are 2 and x ^2 + 19 x + 5 . Of these two factors, only 2 is listed as a choice.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is a term of the given expression, not a factor of the given expression.  Choice D is incorrect. This is a term of the given expression, not a factor of the given expression."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "5805e747",
+        "Prompt": "Which expression is equivalent to ( 7 x ^3 + 7 x ) - ( 6 x ^3 - 3 x )?",
+        "Answer Choices": [
+            "x ^3 + 10 x",
+            "- 13 x ^3 + 10 x",
+            "- 13 x ^3 + 4 x",
+            "x ^3 + 4 x"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Applying the distributive property, the given expression can be written as 7 x ^3 + 7 x - 6 x ^3 + 3 x . Grouping like terms in this expression yields ( 7 x ^3 - 6 x ^3 ) + ( 7 x + 3 x ) . Combining like terms in this expression yields x ^3 + 10 x .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "26eb61c1",
+        "Prompt": "Which expression is equivalent to 6 x ^ 8 y ^2 + 12 x ^2 y ^2?",
+        "Answer Choices": [
+            "6 x ^2 y ^2 ( 2 x ^ 6 )",
+            "6 x ^2 y ^2 ( x ^ 4 )",
+            "6 x ^2 y ^2 ( x ^ 6 + 2 )",
+            "6 x ^2 y ^2 ( x ^ 4 + 2 )"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since each term of the given expression has a common factor of 6 x ^2 y ^2 , it may be rewritten as 6 x ^2 y ^2 ( x ^ 6 ) + 6 x ^2 y ^2 ( 2 ) , or 6 x ^2 y ^2 ( x ^ 6 + 2 ) .  Choice A is incorrect. This expression is equivalent to 12 x ^ 8 y ^2 , not 6 x ^ 8 y ^2 + 12 x ^2 y ^2 .  Choice B is incorrect. This expression is equivalent to 6 x ^ 6 y ^2 , not 6 x ^ 8 y ^2 + 12 x ^2 y ^2 .  Choice D is incorrect. This expression is equivalent to 6 x ^ 6 y ^2 + 12 x ^2 y ^2 , not 6 x ^ 8 y ^2 + 12 x ^2 y ^2 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "42f19012",
+        "Prompt": "Which expression is equivalent to a**(11/12), where a greater than 0?",
+        "Answer Choices": [
+            "^1/ 12 sqrt( a ^ 132 )",
+            "^1/ 144 sqrt( a ^ 132 )",
+            "^1/ 121 sqrt( a ^ 132 )",
+            "^1/ 11 sqrt( a ^ 132 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Since ( 12 / 12 ) = 1 , multiplying the exponent of the given expression by 1 yields an equivalent expression: a ^ ( ( 11 / 12 ) ) ( ( 12 / 12 ) ) = a ^ ( ( 132 / 144 ) ) . Since ( 132 / 144 ) = 132 ( ( 1 / 144 ) ) , the expression a**(11/12) can be rewritten as a ^ ( 132 ) ( ( 1 / 144 ) ) . Applying properties of exponents, this expression can be rewritten as (a**132)**(1/144) . An expression of the form m**(1/k) , where m greater than 0 and k greater than 0 , is equivalent to ^1/ k sqrt( m ) . Therefore, (a**132)**(1/144) is equivalent to ^1/ 144 sqrt( a ^ 132 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "beb86a0c",
+        "Prompt": "Which expression is equivalent to 9 x ^2 + 5 x?",
+        "Answer Choices": [
+            "x ( 9 x + 5 )",
+            "5 x ( 9 x + 1 )",
+            "9 x ( x + 5 )",
+            "x ^2 ( 9 x + 5 )"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since x is a factor of each term in the given expression, the expression is equivalent to x ( 9 x ) + x ( 5 ) , or x ( 9 x + 5 ) .  Choice B is incorrect. This expression is equivalent to 45 x ^2 + 5 x , not 9 x ^2 + 5 x .  Choice C is incorrect. This expression is equivalent to 9 x ^2 + 45 x , not 9 x ^2 + 5 x .  Choice D is incorrect. This expression is equivalent to 9 x ^3 + 5 x ^2 , not 9 x ^2 + 5 x ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "499cb491",
+        "Prompt": "Which expression is equivalent to 5 x ^2 - 50 x y ^2?",
+        "Answer Choices": [
+            "5 x ( x - 10 y ^2 )",
+            "5 x ( x - 50 y ^2 )",
+            "5 x ^2 ( 10 x y ^2 )",
+            "5 x ^2 ( 50 x y ^2 )"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since each term of the given expression has a factor of 5 x , it can be rewritten as 5 x ( x ) - 5 x ( 10 y ^2 ) , or 5 x ( x - 10 y ^2 ) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "20291f47",
+        "Prompt": "Which expression is equivalent to ( y + 12 / x - 8 ) + ( y ( x - 8 ) / x ^2 y - 8 x y )?",
+        "Answer Choices": [
+            "( x y + y + 4 / x ^3 y - 16 x ^2 y + 64 x y )",
+            "( x y + 9 y + 12 / x ^2 y - 8 x y + x - 8 )",
+            "( x y ^2 + 13 x y - 8 y / x ^2 y - 8 x y )",
+            "( x y ^2 + 13 x y - 8 y / x ^3 y - 16 x ^2 y + 64 x y )"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Factoring the denominator in the second term of the given expression gives ( y + 12 / x - 8 ) + ( y ( x - 8 ) / x y ( x - 8 ) ) . This expression can be rewritten with common denominators by multiplying the first term by ( x y / x y ) , giving ( x y ( y + 12 ) / x y ( x - 8 ) ) + ( y ( x - 8 ) / x y ( x - 8 ) ) . Adding these two terms yields ( x y ( y + 12 ) + y ( x - 8 ) / x y ( x - 8 ) ) . Using the distributive property to rewrite this expression gives ( x y ^2 + 12 x y + x y - 8 y / x ^2 y - 8 x y ) . Combining the like terms in the numerator of this expression gives ( x y ^2 + 13 x y - 8 y / x ^2 y - 8 x y ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "42f8e4b4",
+        "Prompt": "One of the factors of 2 x ^3 + 42 x ^2 + 208 x is b + x, where b is a positive constant. What is the smallest possible value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "8",
+        "Rationale": "The correct answer is 8 . Since each term of the given expression, 2 x ^3 + 42 x ^2 + 208 x , has a factor of 2 x , the expression can be rewritten as 2 x ( x ^2 ) + 2 x ( 21 x ) + 2 x ( 104 ) , or 2 x ( x ^2 + 21 x + 104 ) . Since the values 8 and 13 have a sum of 21 and a product of 104 , the expression x ^2 + 21 x + 104 can be factored as ( x + 8 ) ( x + 13 ) . Therefore, the given expression can be factored as 2 x ( x + 8 ) ( x + 13 ) . It follows that the factors of the given expression are 2 , x , x + 8 , and x + 13 . Of these factors, only x + 8 and x + 13 are of the form b + x , where b is a positive constant. Therefore, the possible values of b are 8 and 13 . Thus, the smallest possible value of b is 8 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "67e866b5",
+        "Prompt": "Which expression is equivalent to 9 x ^2 + 7 x ^2 + 9 x?",
+        "Answer Choices": [
+            "63 x ^ 4 + 9 x",
+            "9 x ^2 + 16 x",
+            "25 x ^ 5",
+            "16 x ^2 + 9 x"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. In the given expression, the first two terms, 9 x ^2 and 7 x ^2 , are like terms. Combining these like terms yields 9 x ^2 + 7 x ^2 , or 16 x ^2 . It follows that the expression 9 x ^2 + 7 x ^2 + 9 x is equivalent to 16 x ^2 + 9 x .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "fd65f47f",
+        "Prompt": "Which expression is equivalent to ( 2 x ^2 + x - 9 ) + ( x ^2 + 6 x + 1 )?",
+        "Answer Choices": [
+            "2 x ^2 + 7 x + 10",
+            "2 x ^2 + 6 x - 8",
+            "3 x ^2 + 7 x - 10",
+            "3 x ^2 + 7 x - 8"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given expression is equivalent to ( 2 x ^2 + x + ( (-) 9 ) ) + ( x ^2 + 6 x + 1 ) , which can be rewritten as ( 2 x ^2 + x ^2 ) + ( x + 6 x ) + ( (-) 9 + 1 ) . Adding like terms in this expression yields 3 x ^2 + 7 x + ( (-) 8 ) , or 3 x ^2 + 7 x - 8 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Hard",
+        "ID": "b74f2feb",
+        "Prompt": "The expression 6 ^1/ 5 sqrt( 3 ^ 5 x ^ 45 ) * ^1/ 8 sqrt( 2 ^ 8 x ) is equivalent to a x ^ b, where a and b are positive constants and x greater than 1. What is the value of a + b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "361/8,  45.12,  45.13",
+        "Rationale": "The correct answer is 361/8 . The rational exponent property is ^1/ n sqrt( y ^ m ) = y ^ ( m / n ) , where y greater than 0 , m and n are integers, and n greater than 0 . This property can be applied to rewrite the given expression 6 ^1/ 5 sqrt( 3 ^ 5 x ^ 45 ) * ^1/ 8 sqrt( 2 ^ 8 x ) as 6 ( 3 ^ 5 /5s ) ( x ^ ( 45 / 5 ) ) ( 2 ^ 8 /8s ) ( x ^ 1 /8 ) , or 6 ( 3 ) ( x ^ 9 ) ( 2 ) ( x ^ 1 /8 ) . This expression can be rewritten by multiplying the constants, which gives 36 ( x ^ 9 ) ( x ^ 1 /8 ) . The multiplication exponent property is y ^ n * y ^ m = y ^ n + m , where y greater than 0 . This property can be applied to rewrite the expression 36 ( x ^ 9 ) ( x ^ 1 /8 ) as 36 x ^ 9 + 1 /8 , or 36 x ^ ( 73 / 8 ) . Therefore, 6 ^1/ 5 sqrt( 3 ^ 5 x ^ 45 ) * ^1/ 8 sqrt( 2 ^ 8 x ) = 36 x ^ ( 73 / 8 ) . It's given that 6 ^1/ 5 sqrt( 3 ^ 5 x ^ 45 ) * ^1/ 8 sqrt( 2 ^ 8 x ) is equivalent to a x ^ b ; therefore, a = 36 and b = ( 73 / 8 ) . It follows that a + b = 36 + ( 73 / 8 ) . Finding a common denominator on the right-hand side of this equation gives a + b = ( 288 / 8 ) + ( 73 / 8 ) , or a + b = ( 361 / 8 ) . Note that 361/8, 45.12, and 45.13 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "d9137a84",
+        "Prompt": "Which expression represents the product of ( x ^ (-) 6 y ^3 z ^ 5 ) and ( x ^ 4 z ^ 5 + y ^ 8 z ^ (-) 7 )?",
+        "Answer Choices": [
+            "x ^ (-) 2 z ^ 10 + y ^ 11 z ^ (-) 2",
+            "x ^ (-) 2 z ^ 10 + x ^ (-) 6 z ^ (-) 2",
+            "x ^ (-) 2 y ^3 z ^ 10 + y ^ 8 z ^ (-) 7",
+            "x ^ (-) 2 y ^3 z ^ 10 + x ^ (-) 6 y ^ 11 z ^ (-) 2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The product of ( x ^ (-) 6 y ^3 z ^ 5 ) and ( x ^ 4 z ^ 5 + y ^ 8 z ^ (-) 7 ) can be represented by the expression ( x ^ (-) 6 y ^3 z ^ 5 ) ( x ^ 4 z ^ 5 + y ^ 8 z ^ (-) 7 ) . Applying the distributive property to this expression yields ( x ^ (-) 6 y ^3 z ^ 5 ) ( x ^ 4 z ^ 5 ) + ( x ^ (-) 6 y ^3 z ^ 5 ) ( y ^ 8 z ^ (-) 7 ) , or x ^ (-) 6 x ^ 4 y ^3 z ^ 5 z ^ 5 + x ^ (-) 6 y ^3 y ^ 8 z ^ 5 z ^ (-) 7 . This expression is equivalent to x ^ (-) 6 + 4 y ^3 z ^ 5 + 5 + x ^ (-) 6 y ^ 3 + 8 z ^ 5 - 7 , or x ^ (-) 2 y ^3 z ^ 10 + x ^ (-) 6 y ^ 11 z ^ (-) 2 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "127b2759",
+        "Prompt": "Which expression is equivalent to d**2 + 11?",
+        "Answer Choices": [
+            "d**2 + 24",
+            "d**2 + 11",
+            "d**2 + 5",
+            "d**2 - 11"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given expression can be rewritten as d**2 + 11 . Adding 8 and 3 in this expression yields d**2 + 11 .  Choice A is incorrect. This expression is equivalent to d ^2 + 8 ( 3 ) .  Choice C is incorrect. This expression is equivalent to d**2 + 5 .  Choice D is incorrect. This expression is equivalent to (-) 8 + d ^2 - 3 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "1dd13816",
+        "Prompt": "( 5 x ^3 - 3 ) - ( - 4 x ^3 + 8 ) The given expression is equivalent to b x ^3 - 11, where b is a constant. What is the value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "9",
+        "Rationale": "The correct answer is 9 . The given expression can be rewritten as ( 5 x ^3 - 3 ) + ( (-) 1 ) ( - 4 x ^3 + 8 ) . By applying the distributive property, this expression can be rewritten as 5 x ^3 - 3 + 4 x ^3 + ( (-) 8 ) , which is equivalent to ( 5 x ^3 + 4 x ^3 ) + ( (-) 3 + ( (-) 8 ) ) . Adding like terms in this expression yields 9 x ^3 - 11 . Since it's given that ( 5 x ^3 - 3 ) - ( - 4 x ^3 + 8 ) is equivalent to b x ^3 - 11 , it follows that 9 x ^3 - 11 is equivalent to b x ^3 - 11 . Therefore, the coefficients of x**3 in these two expressions must be equivalent, and the value of b must be 9 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "e597050f",
+        "Prompt": "Which expression is equivalent to 9 x + 6 x + 2 y + 3 y?",
+        "Answer Choices": [
+            "3 x + 5 y",
+            "6 x + 8 y",
+            "12 x + 8 y",
+            "15 x + 5 y"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Combining like terms in the given expression yields ( 9 x + 6 x ) + ( 2 y + 3 y ) , or 15 x + 5 y .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "1e8d7183",
+        "Prompt": "Which expression is equivalent to 256 w ^2 - 676?",
+        "Answer Choices": [
+            "( 16 w - 26 ) ( 16 w - 26 )",
+            "( 8 w - 13 ) ( 8 w + 13 )",
+            "( 8 w - 13 ) ( 8 w - 13 )",
+            "( 16 w - 26 ) ( 16 w + 26 )"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given expression follows the difference of two squares pattern, x**2 - y**2 , which factors as ( x - y ) ( x + y ) . Therefore, the expression 256 w ^2 - 676 can be written as ( 16 w ) ^2 - 26 ^2 , or ( 16 w ) ( 16 w ) - ( 26 ) ( 26 ) , which factors as ( 16 w - 26 ) ( 16 w + 26 ) .  Choice A is incorrect. This expression is equivalent to 256 w ^2 - 832 w + 676 .  Choice B is incorrect. This expression is equivalent to 64 w ^2 - 169 .  Choice C is incorrect. This expression is equivalent to 64 w ^2 - 208 w + 169 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Medium",
+        "ID": "4eaf0a3a",
+        "Prompt": "Which expression is equivalent to ^1/ 7 sqrt( x ^ 9 y ^ 9 ), where x and y are positive?",
+        "Answer Choices": [
+            "( x y ) ^ 7 /9s",
+            "( x y ) ^ 9 /7s",
+            "( x y ) ^ 16",
+            "( x y ) ^ 63"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. For positive values of a and b , a ^ m b ^ m = ( a b ) ^ m , ^1/ n sqrt( a ) = ( a ) ^ ( 1 / n ) , and ( a ^ j ) ^ k = a ^ j k . Therefore, the given expression, ^1/ 7 sqrt( x ^ 9 y ^ 9 ) , can be rewritten as ^1/ 7 sqrt( ( x y ) ^ 9 ) . This expression is\u00a0equivalent to ( ( x y ) ^ 9 ) ^ 1 /7 , which can be rewritten as ( x y ) ^ 9 * 1 /7 , or ( x y ) ^ 9 /7s .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "fd4b2aa0",
+        "Prompt": "Which expression is equivalent to 12 x ^3 - 5 x ^3?",
+        "Answer Choices": [
+            "7 x ^ 6",
+            "17 x ^3",
+            "7 x ^3",
+            "17 x ^ 6"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The given expression shows subtraction of two like terms. The two terms can be subtracted as follows: 12 x ^3 - 5 x ^3 = ( 12 - 5 ) x ^3 , or 7 x ^3 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the result of adding, not subtracting, the two like terms.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "5d93c782",
+        "Prompt": "Which expression is equivalent to x ^2 + 3 x - 40?",
+        "Answer Choices": [
+            "( x - 4 ) ( x + 10 )",
+            "( x - 5 ) ( x + 8 )",
+            "( x - 8 ) ( x + 5 )",
+            "( x - 10 ) ( x + 4 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The given expression may be rewritten as x ^2 + 8 x - 5 x - 40 . Since the first two terms of this expression have a common factor of x and the last two terms of this expression have a common factor of (-) 5 , this expression may be rewritten as x ( x ) + x ( 8 ) - 5 ( x ) - 5 ( 8 ) ,\u00a0or x ( x + 8 ) - 5 ( x + 8 ) . Since each term of this expression has a common factor of x + 8 , it may be rewritten as ( x - 5 ) ( x + 8 ) .  Alternate approach: An expression of the form x ^2 + b x + c , where b and c are constants, can be factored if there are two values that add to give b and multiply to give c . In the given expression, b = 3 and c = (-) 40 . The values of (-) 5 and 8 add to give 3 and multiply to give (-) 40 , so the expression can be factored as ( x - 5 ) ( x + 8 ) .  Choice A is incorrect. This expression is equivalent to x ^2 + 6 x - 40 , not x ^2 + 3 x - 40 .  Choice C is incorrect. This expression is equivalent to x ^2 - 3 x - 40 , not x ^2 + 3 x - 40 .  Choice D is incorrect. This expression is equivalent to x ^2 - 6 x - 40 , not x ^2 + 3 x - 40 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Equivalent expressions",
+        "Difficulty": "Easy",
+        "ID": "d4d513ff",
+        "Prompt": "Which expression is equivalent to 12 x + 27?",
+        "Answer Choices": [
+            "12 ( 9 x + 1 )",
+            "27 ( 12 x + 1 )",
+            "3 ( 4 x + 9 )",
+            "3 ( 9 x + 24 )"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Each term in the given expression, 12 x + 27 , has a common factor of 3 . Therefore, the expression can be rewritten as 3 ( 4 x ) + 3 ( 9 ) , or 3 ( 4 x + 9 ) . Thus, the expression 3 ( 4 x + 9 ) is equivalent to the given expression.  Choice A is incorrect. This expression is equivalent to 108 x + 12 , not 12 x + 27 .  Choice B is incorrect. This expression is equivalent to 324 x + 27 , not 12 x + 27 .  Choice D is incorrect. This expression is equivalent to 27 x + 72 , not 12 x + 27 ."
+    }
+]

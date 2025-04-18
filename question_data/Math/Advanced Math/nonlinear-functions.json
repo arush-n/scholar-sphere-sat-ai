@@ -1,0 +1,1684 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "beca03de",
+        "Prompt": "A rectangle has a length that is 15 * its width. The function y = ( 15 w ) ( w ) represents this situation, where y is the area, in square feet, of the rectangle and y greater than 0. Which of the following is the best interpretation of 15 w in this context?",
+        "Answer Choices": [
+            "The length of the rectangle, in feet",
+            "The area of the rectangle, in square feet",
+            "The difference between the length and the width of the rectangle, in feet",
+            "The width of the rectangle, in feet"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that a rectangle has a length that is 15 times its width. It's also given that the function y = ( 15 w ) ( w ) represents this situation, where y is the area, in square feet, of the rectangle and y greater than 0 . The area of a rectangle can be calculated by multiplying the rectangle's length by its width. Since the rectangle has a length that is 15 times its width, it follows that w represents the width of the rectangle, in feet, and 15 w represents the length of the rectangle, in feet. Therefore, the best interpretation of 15 w in this context is that it's the length of the rectangle, in feet.  Choice B is incorrect. This is the best interpretation of y , not 15 w , in the given function.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect. This is the best interpretation of w , not 15 w , in the given function."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "8490cc45",
+        "Prompt": "The function f is defined by f ( x ) = ( (-) 8 ) ( 2 ) ^ x + 22. What is the y - intercept of the graph of y = f ( x ) in the xy - plane?",
+        "Answer Choices": [
+            "(0, 14)",
+            "(0, 2)",
+            "(0, 22)",
+            "( 0, (-) 8 )"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The y -intercept of the graph of y = f ( x ) in the xy -plane occurs at the point on the graph where x = 0 . In other words, when x = 0 , the corresponding value of f(x) is the y -coordinate of the y -intercept. Substituting 0 for x in the given equation yields f ( 0 ) = ( (-) 8 ) ( 2 ) ^ 0 + 22 , which is equivalent to f ( 0 ) = ( (-) 8 ) ( 1 ) + 22 , or f ( 0 ) = 14 . Thus, when x = 0 , the corresponding value of f(x) is 14 . Therefore, the y -intercept of the graph of y = f ( x ) in the xy -plane is (0, 14) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This could be the y -intercept for f ( x ) = ( (-) 8 ) ( 2 ) ^ x , not f ( x ) = ( (-) 8 ) ( 2 ) ^ x + 22 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "4fbffc0a",
+        "Prompt": "All values are approximate. The parabola opens downward. The vertex of the parabola is at (0.6 , 5.5). The parabola passes through the following points: (0.0 , 3.8) (0.6 , 5.5) (1.0 , 4.8) (1.7 , 0.0) The graph shows the h8 above ground, in meters, of a ball x seconds after the ball was launched upward from a platform. Which statement is the best interpretation of the marked . (1.00000000000000, 4.80000000000000) in this context?",
+        "Answer Choices": [
+            "1.00000000000000second after being launched, the ball's h8 above ground is4.80000000000000meters.",
+            "4.80000000000000seconds after being launched, the ball's h8 above ground is1.00000000000000meter.",
+            "The ball was launched from an initial h8 of1.00000000000000meter with an initial velocity of4.80000000000000meters per second.",
+            "The ball was launched from an initial h8 of4.80000000000000meters with an initial velocity of1.00000000000000meter per second."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the graph shows the height above ground, in meters, of a ball x seconds after the ball was launched upward from a platform. In the graph shown, the x -axis represents time, in seconds, and the y -axis represents the height of the ball above ground, in meters. It follows that for the marked point (1.00000000000000, 4.80000000000000) , 1.00000000000000 represents the time, in seconds, after the ball was launched upward from a platform and 4.80000000000000 represents the height of the ball above ground, in meters. Therefore, the best interpretation of the marked point (1.00000000000000, 4.80000000000000) is 1.00000000000000 second after being launched, the ball's height above ground is 4.80000000000000 meters.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "a9084ca4",
+        "Prompt": "f ( x ) = 9,000 ( 0.66 ) ^ x The given function f models the number of advertisements a company sent to its clients each year, where x represents the number of years since 1997, and 0 <= x <= 5. If y = f ( x ) is graphed in the xy - plane, which of the following is the best interpretation of the y - intercept of the graph in this context?",
+        "Answer Choices": [
+            "The minimum estimated number of advertisements the company sent to its clients during the5years was(1, 708).",
+            "The minimum estimated number of advertisements the company sent to its clients during the5years was(9, 0).",
+            "The estimated number of advertisements the company sent to its clients in1997was(1, 708).",
+            "The estimated number of advertisements the company sent to its clients in1997was(9, 0)."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The y -intercept of a graph in the xy -plane is the point where x = 0 . For the given function f , the y -intercept of the graph of y = f ( x ) in the xy -plane can be found by substituting 0 for x in the equation y = 9,000 ( 0.66 ) ^ x , which gives y = 9,000 ( 0.66 ) ^ 0 . This is equivalent to y = 9,000 ( 1 ) , or y = 9,000 . Therefore, the y -intercept of the graph of y = f ( x ) is (0, 9, 0) . It\u2019s given that the function f models the number of advertisements a company sent to its clients each year. Therefore, f(x) represents the estimated number of advertisements the company sent to its clients each year. It's also given that x represents the number of years since 1997 . Therefore, x = 0 represents 0 years since 1997 , or 1997 . Thus, the best interpretation of the y -intercept of the graph of y = f ( x ) is that the estimated number of advertisements the company sent to its clients in 1997 was (9, 0) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "2c6f214f",
+        "Prompt": "The first term of a sequence is 9. Each term after the first is 4 * the preceding term. If w represents the nth term of the sequence, which equation gives w in terms of n?",
+        "Answer Choices": [
+            "w = 4 ( 9 ^ n )",
+            "w = 4 ( 9 ^ n - 1 )",
+            "w = 9 ( 4 ^ n )",
+            "w = 9 ( 4 ^ n - 1 )"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since w represents the n th term of the sequence and 9 is the first term of the sequence, the value of w is 9 when the value of n is 1 . Since each term after the first is 4 times the preceding term, the value of w is 9 ( 4 ) when the value of n is 2 . Therefore, the value of w is 9 ( 4 ) ( 4 ) , or 9 ( 4 ) ^2 , when the value of n is 3 . More generally, the value of w is 9 ( 4 ^ n - 1 ) for a given value of n . Therefore, the equation w = 9 ( 4 ^ n - 1 ) gives w in terms of n .  Choice A is incorrect. This equation describes a sequence for which the first term is 36 , rather than 9 , and each term after the first is 9 , rather than 4 , times the preceding term.  Choice B is incorrect. This equation describes a sequence for which the first term is 4 , rather than 9 , and each term after the first is 9 , rather than 4 , times the preceding term.  Choice C is incorrect. This equation describes a sequence for which the first term is 36 , rather than 9 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "6abec9a8",
+        "Prompt": "Moving from left to right: The curve passes from quadrant 3 to quadrant 4. In quadrant 3, the curve trends up sharply to . (0 , (-) 5). In quadrant 4, the curve trends up gradually. As x increases, the curve approaches the line y = (-) 4. The curve passes through the following points: ((-) 1 , (-) 9) (0 , (-) 5) (1 , (-) 4.2) What is the y - intercept of the graph shown?",
+        "Answer Choices": [
+            "( (-) 1, (-) 9 )",
+            "( 0, (-) 5 )",
+            "( 0, (-) 4 )",
+            "(0, 0)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The y -intercept of a graph in the xy -plane is the point (x, y) on the graph where x = 0 . At x = 0 , the corresponding value of y is (-) 5 . Therefore, the y -intercept of the graph shown\u00a0is ( 0, (-) 5 ) .  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect. This is the y -intercept of a graph in the xy -plane that intersects the y -axis at y = (-) 4 , not y = (-) 5 .  Choice D is incorrect. This is the y -intercept of a graph in the xy -plane that intersects the y -axis at y = 0 , not y = (-) 5 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "52b1700c",
+        "Prompt": "Time (years) Total amount (dollars) 0 604.000000000000 1 606.420000000000 2 608.840000000000 Rosa opened a savings account at a bank. The table shows the exp1ntial relationship between the time t, in years, since Rosa opened the account and the total amount n, in dollars, in the account. If Rosa made no additional deposits or withdrawals, which of the following equations best represents the relationship between t and n?",
+        "Answer Choices": [
+            "|n = ( 1 + 604 ) ^ t|",
+            "|n = ( 1 + 0.004 ) ^ t|",
+            "|n = 604 ( 1 + 0.004 ) ^ t|",
+            "|n = 0.004 ( 1 + 604 ) ^ t|"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the relationship between t and n is exponential. The table shows that the value of n increases as the value of t increases. Therefore, the relationship between t and n can be represented by an increasing exponential equation of the form n = a ( 1 + b ) ^ t , where a and b are positive constants. The table shows that when t = 0 , n = 604 . Substituting 0 for t and 604 for n in the equation n = a ( 1 + b ) ^ t yields 604 = a ( 1 + b ) ^ 0 , which is equivalent to 604 = a ( 1 ) , or 604 = a . Substituting 604 for a in the equation n = a ( 1 + b ) ^ t yields n = 604 ( 1 + b ) ^ t . The table also shows that when t = 1 , n = 606.42 . Substituting 1 for t and 606.420000000000 for n in the equation n = 604 ( 1 + b ) ^ t yields 606.42 = 604 ( 1 + b ) ^ 1 , or 606.42 = 604 ( 1 + b ) . Dividing both sides of this equation by 604 yields approximately 1.004 = 1 + b . Subtracting 1 from both sides of this equation yields that the value of b is approximately 0.00400000000000000 . Substituting 0.00400000000000000 for b in the equation n = 604 ( 1 + b ) ^ t yields n = 604 ( 1 + 0.004 ) ^ t . Therefore, of the choices, choice C best represents the relationship between t and n .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "b8f13a3a",
+        "Prompt": "Function f is defined by f ( x ) = - a ^ x + b, where a and b are constants. In the xy - plane, the graph of y = f ( x ) - 12 has a y - intercept at ( 0, (-) ( 75 / 7 ) ). The product of a and b is 320/7. What is the value of a?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "20",
+        "Rationale": "The correct answer is 20 . It\u2019s given that f ( x ) = - a ^ x + b . Substituting -a**x + b for f(x) in the equation y = f ( x ) - 12 yields y = - a ^ x + b - 12 . It\u2019s given that the y -intercept of the graph of y = f ( x ) - 12 is ( 0, (-) ( 75 / 7 ) ) . Substituting 0 for x and (-) ( 75 / 7 ) for y in the equation y = - a ^ x + b - 12 yields (-) ( 75 / 7 ) = - a ^ 0 + b - 12 , which is equivalent to (-) ( 75 / 7 ) = (-) 1 + b - 12 , or (-) ( 75 / 7 ) = b - 13 . Adding 13 to both sides of this equation yields ( 16 / 7 ) = b . It\u2019s given that the product of a and b is 320/7 , or a b = ( 320 / 7 ) . Substituting 16/7 for b in this equation yields ( a ) ( ( 16 / 7 ) ) = ( 320 / 7 ) . Dividing both sides of this equation by 16/7 yields a = 20 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "1ee962ec",
+        "Prompt": "The parabola opens upward. The parabola passes through the following points: (0 , 0) (3 , (-) 12) (6 , 0) Scientists recorded data about the ocean water levels at a certain location over a period of 6 hours. The graph shown models the data, where y = 0 represents sea level. Which table gives values of x and their corresponding values of y based on the model?",
+        "Answer Choices": [
+            "xy0(-) 120336",
+            "xy003120(-) 6",
+            "xy003(-) 1260",
+            "xy00123(-) 60"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Each point (x, y) on the graph represents an elapsed time x , in hours, and the corresponding ocean water level y , in feet, at a certain location based on the model. The graph shown passes through the points (0, 0) , ( 3, (-) 12 ) , and (6, 0) . Thus, the table in choice C gives the values of x and their corresponding values of y based on the model.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "788bfd56",
+        "Prompt": "The function f is defined by f ( x ) = 4 + sqrt( x ). What is the value of f(144)?",
+        "Answer Choices": [
+            "0",
+            "16",
+            "40",
+            "76"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The value of f(144) is the value of f(x) when x = 144 .\u00a0It's given that the function f is defined by f ( x ) = 4 + sqrt( x ) . Substituting 144 for x in this equation yields f ( 144 ) = 4 + sqrt( 144 ) . Since the positive square root of 144 is 12 , it follows that this equation can be rewritten as f ( 144 ) = 4 + 12 , or f ( 144 ) = 16 . Therefore, the value of f(144) is 16 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the value of f(1, 296) , not f(144) .  Choice D is incorrect. This is the value of f(5, 184) , not f(144) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "f89af023",
+        "Prompt": "A rectangular volleyball court has an area of 162 square meters. If the length of the court is twice the width, what is the width of the court, in meters?",
+        "Answer Choices": [
+            "9",
+            "18",
+            "27",
+            "54"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the volleyball court is rectangular and has an area of 162 square meters. The formula for the area of a rectangle is A = l w , where A is the area, l is the length, and w is the width of the rectangle. It\u2019s also given that the length of the volleyball court is twice the width, thus l = 2 w . Substituting the given value into the formula for the area of a rectangle and using the relationship between length and width for this rectangle yields 162 = 2 w * w . This equation can be rewritten as 162 = 2 w ^2 . Dividing both sides of this equation by 2 yields 81 = w ^2 . Taking the square root of both sides of this equation yields + or - 9 = w . Since the width of a rectangle is a positive number, the width of the volleyball court is 9 meters.  Choice B is incorrect because this is the length of the rectangle. Choice C is incorrect because this is the result of using 162 as the perimeter rather than the area. Choice D is incorrect because this is the result of calculating w in the equation 162 = 2 w + w instead of 162 = 2 w * w ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "7902bed0",
+        "Prompt": "A machine launches a softball from ground level. The softball reaches a maximum h8 of 51.8400000000000 meters above the ground at 1.80000000000000 seconds and hits the ground at 3.60000000000000 seconds. Which equation represents the h8 above ground h, in meters, of the softball t seconds after it is launched?",
+        "Answer Choices": [
+            "h = - t ^2 + 3.6",
+            "h = - t ^2 + 51.84",
+            "h = - 16 ( t - 1.8 ) ^2 - 3.6",
+            "h = - 16 ( t - 1.8 ) ^2 + 51.84"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. An equation representing the height above ground h , in meters, of a softball t seconds after it is launched by a machine from ground level can be written in the form h = - a ( t - b ) ^2 + c , where a , b , and c are positive constants. In this equation, b represents the time, in seconds, at which the softball reaches its maximum height of c meters above the ground. It's given that this softball reaches a maximum height of 51.8400000000000 meters above the ground at 1.80000000000000 seconds; therefore, b = 1.8 and c = 51.84 . Substituting 1.80000000000000 for b and 51.8400000000000 for c in the equation h = - a ( t - b ) ^2 + c yields h = - a ( t - 1.8 ) ^2 + 51.84 . It's also given that this softball hits the ground at 3.60000000000000 seconds; therefore, h = 0 when t = 3.6 . Substituting 0 for h and 3.60000000000000 for t in the equation h = - a ( t - 1.8 ) ^2 + 51.84 yields 0 = - a ( 3.6 - 1.8 ) ^2 + 51.84 , which is equivalent to 0 = - a ( 1.8 ) ^2 + 51.84 , or 0 = - 3.24 a + 51.84 . Adding 3.24 a to both sides of this equation yields 3.24 a = 51.84 . Dividing both sides of this equation by 3.24000000000000 yields a = 16 . Substituting 16 for a in the equation h = - a ( t - 1.8 ) ^2 + 51.84 yields h = - 16 ( t - 1.8 ) ^2 + 51.84 . Therefore, h = - 16 ( t - 1.8 ) ^2 + 51.84 represents the height above ground h , in meters, of this softball t seconds after it is launched.  Choice A is incorrect. This equation represents a situation where the maximum height is 3.60000000000000 meters above the ground at 0 seconds, not 51.8400000000000 meters above the ground at 1.80000000000000 seconds.  Choice B is incorrect. This equation represents a situation where the maximum height is 51.8400000000000 meters above the ground at 0 seconds, not 1.80000000000000 seconds.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "4a0d0399",
+        "Prompt": "The function f is defined by f ( x ) = a ^ x + b, where a and b are constants. In the x y - plane, the graph of y = f ( x ) has an x - intercept at (2, 0) and a y - intercept at ( 0, (-) 323 ). What is the value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-324",
+        "Rationale": "The correct answer is (-) 324 . It's given that the function f is defined by f ( x ) = a ^ x + b , where a and b are constants. It's also given that the graph of y = f ( x ) has a y -intercept at ( 0, (-) 323 ) . It follows that f ( 0 ) = (-) 323 . Substituting 0 for x and (-) 323 for f(x) in f ( x ) = a ^ x + b yields (-) 323 = a ^ 0 + b , or (-) 323 = 1 + b . Subtracting 1 from each side of this equation yields (-) 324 = b . Therefore, the value of b is (-) 324 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "e53add44",
+        "Prompt": "The function S above models the annual salary, in dollars, of an employee n years after starting a job, where a is a constant. If the employee\u2019s salary increases by 4% each year, what is the value of a ?",
+        "Answer Choices": [
+            "0.04",
+            "0.4",
+            "1.04",
+            "1.4"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. A model for a quantity S that increases by a certain percentage per time period n is an exponential function in the form S of n = I * open parenthesis, 1 + r over 100, close parenthesis, to the n ^ , where I is the initial value at time n = 0 for r % annual increase. It\u2019s given that the annual increase in an employee\u2019s salary is 4%, so r = 4 . The initial value can be found by substituting 0 for n in the given function, which yields S of 0 = 38,000 . Therefore, I = 38,000 . Substituting these values for r and I into the form of the exponential function S of n = I * open parenthesis, 1 + r over 100, close parenthesis, to the n ^ yields S of n = 38,000 * open parenthesis, 1 + 4 over 100, close parenthesis, to the n ^ , or S of n = 38,000 * 1. 0 4 to the n ^ . Therefore, the value of a in the given function is 1.04. Choices A, B, and D are incorrect and may result from incorrectly representing the annual increase in the exponential function."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "926c246b",
+        "Prompt": "The equation above estimates the global data traffic D, in terabytes, for the year that is t years after 2010. What is the best interpretation of the number 5,640 in this context?",
+        "Answer Choices": [
+            "The estimated amount of increase of data traffic, in terabytes, each year",
+            "The estimated percent increase in the data traffic, in terabytes, each year",
+            "The estimated data traffic, in terabytes, for the year that istyears after 2010",
+            "The estimated data traffic, in terabytes, in 2010"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since t represents the number of years after 2010, the estimated data traffic, in terabytes, in 2010 can be calculated using the given equation when t = 0 . Substituting 0 for t in the given equation yields D = 5,640 * open parenthesis, 1. 9, close parenthesis, to the 0 ^ , or 5,640 * 1, = 5,640 . Thus, 5,640 represents the estimated data traffic, in terabytes, in 2010. Choice A is incorrect. Since the equation is exponential, the amount of increase of data traffic each year isn\u2019t constant. Choice B is incorrect. According to the equation, the percent increase in data traffic each year is 90%. Choice C is incorrect. The estimated data traffic, in terabytes, for the year that is t years after 2010 is represented by D , not the number 5,640."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "4dd4efcf",
+        "Prompt": "f ( x ) = a x ^2 + 4 x + c In the given quadratic function, a and c are constants. The graph of y = f ( x ) in the xy - plane is a parabola that opens upward and has a vertex at the . (h, k), where h and k are constants. If k less than 0 and f ( (-) 9 ) = f ( 3 ), which of the following must be true? c less than 0 a >= 1",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that the graph of y = f ( x ) in the xy -plane is a parabola with vertex (h, k) . If f ( (-) 9 ) = f ( 3 ) , then for the graph of y = f ( x ) , the point with an x -coordinate of (-) 9 and the point with an x -coordinate of 3 have the same y -coordinate. In the xy -plane, a parabola is a symmetric graph such that when two points have the same y -coordinate, these points are equidistant from the vertex, and the x -coordinate of the vertex is halfway between the x -coordinates of these two points. Therefore, for the graph of y = f ( x ) , the points with x -coordinates (-) 9 and 3 are equidistant from the vertex, (h, k) , and h is halfway between (-) 9 and 3 . The value that is halfway between (-) 9 and 3 is ( (-) 9 + 3 / 2 ) , or (-) 3 . Therefore, h = (-) 3 . The equation defining f can also be written in vertex form, f ( x ) = a ( x - h ) ^2 + k . Substituting (-) 3 for h in this equation yields f ( x ) = a ( x - ( (-) 3 ) ) ^2 + k , or f ( x ) = a ( x + 3 ) ^2 + k . This equation is equivalent to f ( x ) = a ( x ^2 + 6 x + 9 ) + k , or f ( x ) = a x ^2 + 6 a x + 9 a + k . Since f ( x ) = a x ^2 + 4 x + c , it follows that 6 a = 4 and 9 a + k = c . Dividing both sides of the equation 6 a = 4 by 6 yields a = 4 /6s , or a = 2 /3s . Since 2 /3s less than 1 , it's not true that a >= 1 . Therefore, statement II isn't true. Substituting 2 /3s for a in the equation 9 a + k = c yields 9 ( 2 /3s ) + k = c , or 6 + k = c . Subtracting 6 from both sides of this equation yields k = c - 6 . If k less than 0 , then c - 6 less than 0 , or c less than 6 . Since c could be any value less than 6 , it's not necessarily true that c less than 0 . Therefore, statement I isn't necessarily true. Thus, neither I nor II must be true.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "cc2601cb",
+        "Prompt": "The parabola opens upward. The vertex is at . (7 , 0). The parabola passes through the following points: (6 , 3) (7 , 0) (8 , 3) The x - intercept of the graph shown is (x, 0). What is the value of x?",
+        "Answer Choices": [
+            "The parabola passes through the following points:(6, 3)(7, 0)(8, 3)",
+            "(6, 3)",
+            "(7, 0)",
+            "(8, 3)"
+        ],
+        "Correct Answer": "7",
+        "Rationale": "The correct answer is 7 . It\u2019s given that the x -intercept of the graph shown is (x, 0) . The graph passes through the point (7, 0) . Therefore, the value of x is 7 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "252a3b3a",
+        "Prompt": "In quadrant 3: The curve rises sharply to touch the x axis at . ((-) 5 , 0). The curve falls gradually to a relative minimum at . ((-) 2 , (-) 11). The curve rises gradually to cross both axes at the origin. In quadrant 1: The curve rises gradually to a relative maximum at . (2.5 , 21). The curve falls sharply to cross the x axis at . (4 , 0). In quadrant 4 the curve falls sharply. Which of the following could be the equation of the graph shown in the xy - plane?",
+        "Answer Choices": [
+            "y = (-) 1 /10 x ( x - 4 ) ( x + 5 )",
+            "y = (-) 1 /10 x ( x - 4 ) ( x + 5 ) ^2",
+            "y = (-) 1 /10 x ( x - 5 ) ( x + 4 )",
+            "y = (-) 1 /10 x ( x - 5 ) ^2 ( x + 4 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Each of the given choices is an equation of the form y = - 1 /10 x ( x - a ) ^ m ( x + b ) ^ n , where a , b , m , and n are positive constants. In the xy -plane, the graph of an equation of this form has x -intercepts at x = 0 , x = a , and x = (-) b . The graph shown has x -intercepts at x = 0 , x = 4 , and x = (-) 5 . Therefore, a = 4 and b = 5 . Of the given choices, only choices A and B have a = 4 and b = 5 . For an equation in the form y = - 1 /10 x ( x - a ) ^ m ( x + b ) ^ n , if all values of x that are less than (-) b or greater than a correspond to negative y -values, then the sum of all the exponents of the factors on the right-hand side of the equation is even. In the graph shown, all values of x less than (-) 5 or greater than 4 correspond to negative y -values. Therefore, the sum of all the exponents of the factors on the right-hand side of the equation y = - 1 /10 x ( x - 4 ) ^ m ( x + 5 ) ^ n must be even. For choice A, the sum of these exponents is 3 , or 3 , which is odd. For choice B, the sum of these exponents is 4 , or 4 , which is even. Therefore, y = - 1 /10 x ( x - 4 ) ( x + 5 ) ^2 could be the equation of the graph shown.  Choice A is incorrect. For the graph of this equation, all values of x less than (-) 5 correspond to positive, not negative, y -values.  Choice C is incorrect. The graph of this equation has x -intercepts at x = (-) 4 , x = 0 , and x = 5 , rather than x -intercepts at x = (-) 5 , x = 0 , and x = 4 .  Choice D is incorrect. The graph of this equation has x -intercepts at x = (-) 4 , x = 0 , and x = 5 , rather than x -intercepts at x = (-) 5 , x = 0 , and x = 4 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "841ef26c",
+        "Prompt": "f ( x ) = 4 x ^2 + 64 x + 262 The function g is defined by g ( x ) = f ( x + 5 ). For what value of x does g(x) reach its minimum?",
+        "Answer Choices": [
+            "(-) 13",
+            "(-) 8",
+            "(-) 5",
+            "(-) 3"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that g ( x ) = f ( x + 5 ) . Since f ( x ) = 4 x ^2 + 64 x + 262 , it follows that f ( x + 5 ) = 4 ( x + 5 ) ^2 + 64 ( x + 5 ) + 262 . Expanding the quantity (x + 5)**2 in this equation yields f ( x + 5 ) = 4 ( x ^2 + 10 x + 25 ) + 64 ( x + 5 ) + 262 . Distributing the 4 and the 64 yields f ( x + 5 ) = 4 x ^2 + 40 x + 100 + 64 x + 320 + 262 . Combining like terms yields f ( x + 5 ) = 4 x ^2 + 104 x + 682 . Therefore, g ( x ) = 4 x ^2 + 104 x + 682 . For a quadratic function defined by an equation of the form g ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants and a is positive, g(x) reaches its minimum, k , when the value of x is h . The equation g ( x ) = 4 x ^2 + 104 x + 682 can be rewritten in this form by completing the square. This equation is equivalent to g ( x ) = 4 ( x ^2 + 26 ) + 682 , or g ( x ) = 4 ( x ^2 + 26 x + 169 - 169 ) + 682 . This equation can be rewritten as g ( x ) = 4 ( ( x + 13 ) ^2 - 169 ) + 682 , or g ( x ) = 4 ( x + 13 ) ^2 - 4 ( 169 ) + 682 , which is equivalent to g ( x ) = 4 ( x + 13 ) ^2 + 6 . This equation is in the form g ( x ) = a ( x - h ) ^2 + k , where a = 4 , h = (-) 13 , and k = 6 . Therefore, g(x) reaches its minimum when the value of x is (-) 13 .  Choice B is incorrect. This is the value of x for which f(x) , rather than g(x) , reaches its minimum.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the value of x for which f(x - 5) , rather than f(x + 5) , reaches its minimum."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "cc6ccd71",
+        "Prompt": "In quadrant 2 the curve falls sharply to cross the x axis at . ((-) 1 , 0). In quadrant 3 the curve falls sharply to cross the y axis at . (0 , (-) 5.5). In quadrant 4: The curve falls gradually to a relative minimum at . (1 , (-) 7). The curve rises sharply to cross the x axis at . (4 , 0). In quadrant 1: The curve rises sharply to a relative maximum at . (5.5 , 3). The curve falls sharply to cross the x axis at . (7 , 0). In quadrant 4 the curve falls sharply. The graph of y = f ( x ) is shown, where the function f is defined by f ( x ) = a x ^3 + b x ^2 + c x + d and a, b, c, and d are constants. For how many values of x does f ( x ) = 0?",
+        "Answer Choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If a value of  x satisfies f ( x ) = 0 , the graph of y = f ( x ) will contain a point (x, 0) and thus touch the x -axis. Since there are 3 points at which this graph touches the x -axis, there are 3 values of x for which f ( x ) = 0 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "d135f4bf",
+        "Prompt": "The function f is defined by f ( x ) = ( x - 6 ) ( x - 2 ) ( x + 6 ). In the xy - plane, the graph of y = g ( x ) is the result of translating the graph of y = f ( x ) up 4 units. What is the value of g(0)?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "76",
+        "Rationale": "The correct answer is 76 . It's given that the graph of y = g ( x ) is the result of translating the graph of y = f ( x ) up 4 units in the xy -plane. It follows that the graph of y = g ( x ) is the same as the graph of y = f ( x ) + 4 . Substituting g(x) for y in the equation y = f ( x ) + 4 yields g ( x ) = f ( x ) + 4 . It's given that f ( x ) = ( x - 6 ) ( x - 2 ) ( x + 6 ) . Substituting ( x - 6 ) ( x - 2 ) ( x + 6 ) for f(x) in the equation g ( x ) = f ( x ) + 4 yields g ( x ) = ( x - 6 ) ( x - 2 ) ( x + 6 ) + 4 . Substituting 0 for x in this equation yields g ( 0 ) = ( 0 - 6 ) ( 0 - 2 ) ( 0 + 6 ) + 4 , or g ( 0 ) = 76 . Thus, the value of g(0) is 76 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "d4950429",
+        "Prompt": "A rectangle has a length of x units and a width of x - 15 units. If the rectangle has an area of 76 square units, what is the value of x?",
+        "Answer Choices": [
+            "4",
+            "19",
+            "23",
+            "76"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The area of a rectangle is equal to its length multiplied by its width. Multiplying the given length, x units, by the given width, x - 15 units, yields x(x - 15) square units. If the rectangle has an area of 76 square units, it follows that x ( x - 15 ) = 76 , or x ^2 - 15 x = 76 . Subtracting 76 from both sides of this equation yields x ^2 - 15 x - 76 = 0 . Factoring the left-hand side of this equation yields ( x - 19 ) ( x + 4 ) = 0 . Applying the zero product property to this equation yields two solutions: x = 19 and x = (-) 4 . Since x is the rectangle\u2019s length, in units, which must be positive, the value of x is 19 .  Choice A is incorrect. This is the width, in units, of the rectangle, not the value of x .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the area, in square units, of the rectangle, not the value of x ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "752055d1",
+        "Prompt": "A scientist initially measures (12, 0) bacteria in a growth medium. 4 hours later, the scientist measures (24, 0) bacteria. Assuming exp1ntial growth, the formula upper P = upper C ( 2 ) ^ r t gives the number of bacteria in the growth medium, where r and upper C are constants and upper P is the number of bacteria t hours after the initial measurement. What is the value of r?",
+        "Answer Choices": [
+            "(1/12, 0)",
+            "1/4",
+            "4",
+            "(12, 0)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the formula upper P = upper C ( 2 ) ^ r t gives the number of bacteria in a growth medium, where r and upper C are constants and upper P is the number of bacteria t hours after the initial measurement. It\u2019s also given that a scientist initially measures (12, 0) bacteria in the growth medium. Since the initial measurement is 0 hours after the initial measurement, it follows that when t = 0 , upper P = 12,000 . Substituting 0 for t and (12, 0) for upper P in the given equation yields 12,000 = upper C ( 2 ) ^ r ( 0 ) , or 12,000 = upper C ( 2 ) ^ 0 , which is equivalent to 12,000 = upper C . \u00a0It\u2019s given that 4 hours later, the scientist measures (24, 0) bacteria, or when t = 4 , upper P = 24,000 . Substituting 4 for t , (24, 0) for upper P , and (12, 0) for upper C in the given equation yields 24,000 = 12,000 ( 2 ) ^ 4 r . Dividing each side of this equation by (12, 0) yields 2 = 2 ^ 4 r , or 2 ^ 1 = 2 ^ 4 r , which is equivalent to 1 = 4 r . Dividing both sides of this equation by 4 yields 1 /4 = r . Therefore, the value of r is 1/4 .  Choice A is incorrect. This is the value of the reciprocal of upper C .  Choice C is incorrect. This is the value of the reciprocal of r .  Choice D is incorrect. This is the value of upper C ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "271ffad7",
+        "Prompt": "A quadratic function models a projectile's h8, in meters, above the ground in terms of the time, in seconds, after it was launched. The model estimates that the projectile was launched from an initial h8 of 7 meters above the ground and reached a maximum h8 of 51.1000000000000 meters above the ground 3 seconds after the launch. How many seconds after the launch does the model estimate that the projectile will return to a h8 of 7 meters?",
+        "Answer Choices": [
+            "3",
+            "6",
+            "7",
+            "9"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that a quadratic function models the projectile's height, in meters, above the ground in terms of the time, in seconds, after it was launched. It follows that an equation representing the model can be written in the form f ( x ) = a ( x - h ) ^2 + k , where f(x) is the projectile's estimated height above the ground, in meters, x seconds after the launch, a is a constant, and k is the maximum height above the ground, in meters, the model estimates the projectile reached h seconds after the launch. It's given that the model estimates the projectile reached a maximum height of 51.1000000000000 meters above the ground 3 seconds after the launch. Therefore, k = 51.1 and h = 3 . Substituting 51.1000000000000 for k and 3 for h in the equation f ( x ) = a ( x - h ) ^2 + k yields f ( x ) = a ( x - 3 ) ^2 + 51.1 . It's also given that the model estimates that the projectile was launched from an initial height of 7 meters above the ground. Therefore, when x = 0 , f ( x ) = 7 . Substituting 0 for x and 7 for f(x) in the equation f ( x ) = a ( x - 3 ) ^2 + 51.1 yields 7 = a ( 0 - 3 ) ^2 + 51.1 , or 7 = 9 a + 51.1 . Subtracting 51.1000000000000 from both sides of this equation yields (-) 44.1 = 9 a . Dividing both sides of this equation by 9 yields (-) 4.9 = a . Substituting (-) 4.9 for a in the equation f ( x ) = a ( x - 3 ) ^2 + 51.1 yields f ( x ) = - 4.9 ( x - 3 ) ^2 + 51.1 . Therefore, the equation f ( x ) = - 4.9 ( x - 3 ) ^2 + 51.1 models the projectile's height, in meters, above the ground x seconds after it was launched. The number of seconds after the launch that the model estimates that the projectile will return to a height of 7 meters is the value of x when f ( x ) = 7 . Substituting 7 for f(x) in f ( x ) = - 4.9 ( x - 3 ) ^2 + 51.1 yields 7 = - 4.9 ( x - 3 ) ^2 + 51.1 . Subtracting 51.1000000000000 from both sides of this equation yields (-) 44.1 = - 4.9 ( x - 3 ) ^2 . Dividing both sides of this equation by (-) 4.9 yields 9 = ( x - 3 ) ^2 . Taking the square root of both sides of this equation yields two equations: 3 = x - 3 and (-) 3 = x - 3 . Adding 3 to both sides of the equation 3 = x - 3 yields 6 = x . Adding 3 to both sides of the equation (-) 3 = x - 3 yields 0 = x . Since 0 seconds after the launch represents the time at which the projectile was launched, 6 must be the number of seconds the model estimates that the projectile will return to a height of 7 meters.  Alternate approach: It's given that a quadratic function models the projectile's height, in meters, above the ground in terms of the time, in seconds, after it was launched. It's also given that the model estimates that the projectile was launched from an initial height of 7 meters above the ground and reached a maximum height of 51.1000000000000 meters above the ground 3 seconds after the launch. Since the model is quadratic, and quadratic functions are symmetric, the model estimates that for any given height less than the maximum height, the time the projectile takes to travel from the given height to the maximum height is the same as the time the projectile takes to travel from the maximum height back to the given height. Thus, since the model estimates the projectile took 3 seconds to travel from 7 meters above the ground to its maximum height of 51.1000000000000 meters above the ground, the model also estimates the projectile will take 3 more seconds to travel from its maximum height of 51.1000000000000 meters above the ground back to 7 meters above the ground. Thus, the model estimates that the projectile will return to a height of 7 meters 3 seconds after it reaches its maximum height, which is 6 seconds after the launch.  Choice A is incorrect. The model estimates that 3 seconds after the launch, the projectile reached a height of 51.1000000000000 meters, not 7 meters.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "ee857afb",
+        "Prompt": "y = x ^2 - 14 x + 22 The given equation relates the variables x and y. For what value of x does the value of y reach its minimum?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "7",
+        "Rationale": "The correct answer is 7 . When an equation is of the form y = a x ^2 + b x + c , where a , b , and c are constants, the value of y reaches its minimum when x = - ( b / 2 a ) . Since the given equation is of the form y = a x ^2 + b x + c , it follows that a = 1 , b = (-) 14 , and c = 22 . Therefore, the value of y reaches its minimum when x = - ( ( (-) 14 ) / 2 ( 1 ) ) , or x = 7 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "837e9da7",
+        "Prompt": "The function f is defined by f ( x ) = ( 1 / 6 x ). What is the value of f(x) when x = 3?",
+        "Answer Choices": [
+            "1/3",
+            "1/6",
+            "1/9",
+            "1 8eenth"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that f ( x ) = ( 1 / 6 x ) . Substituting 3 for x in this equation yields f ( 3 ) = ( 1 / 6 ( 3 ) ) , or f ( 3 ) = 1 8eenth . Therefore, when x = 3 , the value of f(x) is 1 8eenth .  Choice A is incorrect. This is the value of f(x) when x = 0.5 .  Choice B is incorrect. This is the value of f(x) when x = 1 .  Choice C is incorrect. This is the value of f(x) when x = 1.5 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "a45ffacb",
+        "Prompt": "Function f is defined by f ( x ) = - a ^ x + b, where a and b are constants. In the xy - plane, the graph of y = f ( x ) - 15 has a y - intercept at ( 0, (-) ( 99 / 7 ) ). The product of a and b is 65/7. What is the value of a?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "5",
+        "Rationale": "The correct answer is 5 . It\u2019s given that f ( x ) = - a ^ x + b . Substituting -a**x + b for f(x) in the equation y = f ( x ) - 15 yields y = - a ^ x + b - 15 . It\u2019s given that the y -intercept of the graph of y = f ( x ) - 15 is ( 0, (-) ( 99 / 7 ) ) . Substituting 0 for x and (-) ( 99 / 7 ) for y in the equation y = - a ^ x + b - 15 yields (-) ( 99 / 7 ) = - a ^ 0 + b - 15 , which is equivalent to (-) ( 99 / 7 ) = (-) 1 + b - 15 , or (-) ( 99 / 7 ) = b - 16 . Adding 16 to both sides of this equation yields ( 13 / 7 ) = b . It\u2019s given that the product of a and b is 65/7 , or a b = ( 65 / 7 ) . Substituting 13/7 for b in this equation yields ( a ) ( ( 13 / 7 ) ) = ( 65 / 7 ) . Dividing both sides of this equation by 13/7 yields a = 5 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "341ba5db",
+        "Prompt": "g ( x ) = x ^2 + 55 What is the minimum value of the given function?",
+        "Answer Choices": [
+            "0",
+            "55",
+            "110",
+            "3,025"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. For a quadratic function defined by an equation of the form g ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants and a greater than 0 , the minimum value of the function is k . In the given function, a = 1 , h = 0 , and k = 55 . Therefore, the minimum value of the given function is 55 .  Choice A is incorrect. This is the value of x for which the given function reaches its minimum value, not the minimum value of the function.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "18e35375",
+        "Prompt": "f ( x ) = ( x - 14 ) ( x + 19 ) The function f is defined by the given equation. For what value of x does f(x) reach its minimum?",
+        "Answer Choices": [
+            "(-) 266",
+            "(-) 19",
+            "(-) ( 33 / 2 )",
+            "(-) 5 /2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that f ( x ) = ( x - 14 ) ( x + 19 ) , which can be rewritten as f ( x ) = x ^2 + 5 x - 266 . Since the coefficient of the x**2 -term is positive, the graph of y = f ( x ) in the xy -plane opens upward and reaches its minimum value at its vertex. The x -coordinate of the vertex is the value of x such that f(x) reaches its minimum. For an equation in the form f ( x ) = a x ^2 + b x + c , where a , b , and c are constants, the x -coordinate of the vertex is - ( b / 2 a ) . For the equation f ( x ) = x ^2 + 5 x - 266 , a = 1 , b = 5 , and c = (-) 266 . It follows that the x -coordinate of the vertex is - ( 5 / 2 ( 1 ) ) , or (-) 5 /2 . Therefore, f(x) reaches its minimum when the value of x is (-) 5 /2 .  Alternate approach: The value of x for the vertex of a parabola is the x -value of the midpoint between the two x -intercepts of the parabola. Since it\u2019s given that f ( x ) = ( x - 14 ) ( x + 19 ) , it follows that the two x -intercepts of the graph of y = f ( x ) in the xy -plane occur when x = 14 and x = (-) 19 , or at the points (14, 0) and ( (-) 19, 0 ) . The midpoint between two points, (x1, y1) and (x2, y2) , is ( ( x1 + x2 / 2 ) ( y1 + y2 / 2 ) ) . Therefore, the midpoint between (14, 0) and ( (-) 19, 0 ) is ( ( 14 + ( (-) 19 ) / 2 ) ( 0 + 0 / 2 ) ) , or ( (-) 5 /2, 0 ) . It follows that f(x) reaches its minimum when the value of x is (-) 5 /2 .  Choice A is incorrect. This is the y -coordinate of the y -intercept of the graph of y = f ( x ) in the xy -plane.  Choice B is incorrect. This is one of the x -coordinates of the x -intercepts of the graph of y = f ( x ) in the xy -plane.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "b5c43226",
+        "Prompt": "Moving from left to right: The curve passes from quadrant 2 to quadrant 1. In quadrant 2, the curve trends up gradually to . (0 , 2). In quadrant 1, the curve trends up sharply. The curve passes through the following points: ((-) 1 , 1) (0 , 2) (2 , 8) What is the y - intercept of the graph shown?",
+        "Answer Choices": [
+            "(0, 0)",
+            "(0, 2)",
+            "(2, 0)",
+            "(2, 2)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The y -intercept of a graph in the xy -plane is the point at which the graph crosses the y -axis. The graph shown crosses the y -axis at the point (0, 2) . Therefore, the y -intercept of the graph shown is (0, 2) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "e166aca6",
+        "Prompt": "The parabola opens upward. The vertex is at . (4 , 0). The parabola passes through the following points: (3 , 5) (4 , 0) (5 , 5) What is the x - intercept of the graph shown?",
+        "Answer Choices": [
+            "( (-) 5, 0 )",
+            "(5, 0)",
+            "( (-) 4, 0 )",
+            "(4, 0)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The x -intercept of the graph shown is the point (x, y) on the graph where y = 0 . At y = 0 , the corresponding value of x is 4 . Therefore, the x -intercept of the graph shown is (4, 0) .  Choice A is incorrect. This is the x -intercept of a graph in the xy -plane that intersects the x -axis at x = (-) 5 , not x = 4 .  Choice B is incorrect. This is the x -intercept of a graph in the xy -plane that intersects the x -axis at x = 5 , not x = 4 .  Choice C is incorrect. This is the x -intercept of a graph in the xy -plane that intersects the x -axis at x = (-) 4 , not x = 4 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "50e40f08",
+        "Prompt": "f ( x ) = ( x + 6 ) ( x - 4 ) If the given function f is graphed in the xy - plane, where y = f ( x ), what is the x - coordinate of an x - intercept of the graph?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-6,  4",
+        "Rationale": "The correct answer is either (-) 6 or 4 . The x -intercepts of a graph in the xy -plane are the points where y = 0 . Thus, for an x -intercept of the graph of y = f ( x ) , 0 = f ( x ) . Substituting 0 for f(x) in the equation f ( x ) = ( x + 6 ) ( x - 4 ) yields 0 = ( x + 6 ) ( x - 4 ) . By the zero product property, x + 6 = 0 and x - 4 = 0 . Subtracting 6 from both sides of the equation x + 6 = 0 yields x = (-) 6 . Adding 4 to both sides of the equation x - 4 = 0 yields x = 4 . Therefore, the x -coordinates of the x -intercepts of the graph of y = f ( x ) are (-) 6 and 4 . Note that -6 and 4 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "be0c419e",
+        "Prompt": "Immanuel purchased a certain rare coin on January1. The function f ( x ) = 65 ( 1.03 ) ^ x, where 0 <= x <= 10, gives the predicted value, in dollars, of the rare coin x years after Immanuel purchased it. What is the best interpretation of the statement \u201cf(8) is approximately equal to 82\u201d in this context?",
+        "Answer Choices": [
+            "When the rare coin's predicted value is approximately82dollars, it is8 percent signgreater than the predicted value, in dollars, on January1 of the previous year.",
+            "When the rare coin\u2019s predicted value is approximately82dollars, it is8* the predicted value, in dollars, on January1 of the previous year.",
+            "From the day Immanuel purchased the rare coin to8years after Immanuel purchased the coin, its predicted value increased by a total of approximately82dollars.",
+            "8years after Immanuel purchased the rare coin, its predicted value is approximately82dollars."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the function f ( x ) = 65 ( 1.03 ) ^ x gives the predicted value, in dollars, of a certain rare coin x years after Immanuel purchased it. It follows that f(x) represents the predicted value, in dollars, of the coin x years after Immanuel purchased it. Since the value of f(8) is the value of f(x) when x = 8 , it follows that \u201c f(8) is approximately equal to 82 \u201d means that f(x) is approximately equal to 82 when x = 8 . Therefore, the best interpretation of the statement \u201c f(8) is approximately equal to 82 \u201d in this context is 8 years after Immanuel purchased the rare coin, its predicted value is approximately 82 dollars.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "ce579859",
+        "Prompt": "A model estimates that at the end of each year from 2015 to 2020, the number of squirrels in a population was 150 percent sign more than the number of squirrels in the population at the end of the previous year. The model estimates that at the end of 2016, there were 180 squirrels in the population. Which of the following equations represents this model, where n is the estimated number of squirrels in the population t years after the end of 2015 and t <= 5?",
+        "Answer Choices": [
+            "n = 72 ( 1.5 ) ^ t",
+            "n = 72 ( 2.5 ) ^ t",
+            "n = 180 ( 1.5 ) ^ t",
+            "n = 180 ( 2.5 ) ^ t"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Since the model estimates that the number of squirrels in the population increased by a fixed percentage, 150 percent sign , each year, the model can be represented by an exponential equation of the form n = a ( 1 + ( p / 100 ) ) ^ t , where a is the estimated number of squirrels in the population at the end of 2015 , and the model estimates that at the end of each year, the number is p percent sign more than the number at the end of the previous year. Since the model estimates that at the end of each year, the number was 150 percent sign more than the number at the end of the previous year, p = 150 . Substituting 150 for p in the equation n = a ( 1 + ( p / 100 ) ) ^ t yields n = a ( 1 + ( 150 / 100 ) ) ^ t , which is equivalent to n = a ( 1 + 1.5 ) ^ t , or n = a ( 2.5 ) ^ t . It\u2019s given that the estimated number of squirrels at the end of 2016 was 180 . This means that when t = 1 , n = 180 . Substituting 1 for t and 180 for n in the equation n = a ( 2.5 ) ^ t yields 180 = a ( 2.5 ) ^ 1 , or 180 = 2.5 a . Dividing each side of this equation by 2.50000000000000 yields 72 = a . Substituting 72 for a in the equation n = a ( 2.5 ) ^ t yields n = 72 ( 2.5 ) ^ t .  Choice A is incorrect. This equation represents a model where at the end of each year, the estimated number of squirrels was 150 percent sign of, not 150 percent sign more than, the estimated number at the end of the previous year.  Choice C is incorrect. This equation represents a model where at the end of each year, the estimated number of squirrels was 150 percent sign of, not 150 percent sign more than, the estimated number at the end of the previous year, and the estimated number of squirrels at the end of 2015 , not the end of 2016 , was 180 .  Choice D is incorrect. This equation represents a model where the estimated number of squirrels at the end of 2015 , not the end of 2016 , was 180 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "2f51abc2",
+        "Prompt": "f ( x ) = StartAbsoluteValue 59 - 2 x EndAbsoluteValue The function f is defined by the given equation. For which of the following values of k does f ( k ) = 3 k?",
+        "Answer Choices": [
+            "59/5",
+            "59/2",
+            "177/5",
+            "59"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The value of k for which f ( k ) = 3 k can be found by substituting k for x and 3 k for f(x) in the given equation, f ( x ) = StartAbsoluteValue 59 - 2 x EndAbsoluteValue , which yields 3 k = StartAbsoluteValue 59 - 2 k EndAbsoluteValue . For this equation to be true, either - 3 k = 59 - 2 k or 3 k = 59 - 2 k . Adding 2 k to both sides of the equation - 3 k = 59 - 2 k yields (-) k = 59 . Dividing both sides of this equation by (-) 1 yields k = (-) 59 . To check whether (-) 59 is the value of k , substituting (-) 59 for k in the equation 3 k = StartAbsoluteValue 59 - 2 k EndAbsoluteValue yields 3 ( (-) 59 ) = StartAbsoluteValue 59 - 2 ( (-) 59 ) EndAbsoluteValue , which is equivalent to (-) 177 = StartAbsoluteValue 177 EndAbsoluteValue , or (-) 177 = 177 , which isn't a true statement. Therefore, (-) 59 isn't the value of k . Adding 2 k to both sides of the equation 3 k = 59 - 2 k yields 5 k = 59 . Dividing both sides of this equation by 5 yields k = ( 59 / 5 ) . To check whether 59/5 is the value of k , substituting 59/5 for k in the equation 3 k = StartAbsoluteValue 59 - 2 k EndAbsoluteValue yields 3 ( ( 59 / 5 ) ) = StartAbsoluteValue 59 - 2 ( ( 59 / 5 ) ) EndAbsoluteValue , which is equivalent to ( 177 / 5 ) = StartAbsoluteValue ( 177 / 5 ) EndAbsoluteValue , or ( 177 / 5 ) = ( 177 / 5 ) , which is a true statement. Therefore, the value of k for which f ( k ) = 3 k is 59/5 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "ad376f1a",
+        "Prompt": "For the first curve: Moving from left to right: The curve passes from quadrant 2 to quadrant 1. In quadrant 2, the curve trends up gradually to . (0 , 3). In quadrant 1, the curve trends up sharply. As x increases, the curve approaches the line x = 4. As x decreases, the curve approaches the line y = 1. The curve passes through the following points: ((-) 3 , 2) (0 , 3) For the second curve: Moving from left to right: The curve is in quadrant 4. In quadrant 4, the curve trends up sharply. As x increases, the curve approaches the line y = 1. As x decreases, the curve approaches the line x = 4. The curve passes through the following .: (6 , (-) 4) The graph of y = f ( x ) is shown in the xy - plane. What is the value of f(0)?",
+        "Answer Choices": [
+            "(-) 3",
+            "0",
+            "3 /5s",
+            "3"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Because the graph of y = f ( x ) is shown, the value of f(0) is the value of y on the graph that corresponds with x = 0 . When x = 0 , the corresponding value of y is 3 . Therefore, the value of f(0) is 3 .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "db888cd6",
+        "Prompt": "Moving from left to right: The curve is in quadrant 1. From . (0 , 9), the curve trends down sharply. From . (5 , 1), the curve trends down gradually. The graph gives the estimated number of catalogs y, in thousands, a company sent to its customers at the end of each year, where x represents the number of years since the end of 1992, where 0 <= x <= 10. Which statement is the best interpretation of the y - intercept in this context?",
+        "Answer Choices": [
+            "The estimated total number of catalogs the company sent to its customers during the first10years was(9, 0).",
+            "The estimated total number of catalogs the company sent to its customers from the end of1992to the end of2002was90.",
+            "The estimated number of catalogs the company sent to its customers at the end of1992was9.",
+            "The estimated number of catalogs the company sent to its customers at the end of1992was(9, 0)."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The y -intercept of the graph is the point at which the graph crosses the y -axis, or the point for which the value of x is 0 .\u00a0Therefore, the y -intercept of the given graph is the point (0, 9) . It's given that x represents the number of years since the end of 1992 . Therefore, x = 0 represents 0 years since the end of 1992 , which is the same as the end of 1992 . It's also given that y represents the estimated number of catalogs, in thousands, that the company sent to its customers at the end of the year. Therefore, y = 9 represents (9, 0) catalogs. It follows that the y -intercept (0, 9) means that the estimated number of catalogs the company sent to its customers at the end of 1992 was (9, 0) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "6ecdbcb4",
+        "Prompt": "f ( x ) = ( x + 6 ) ( x + 5 ) ( x - 4 ) The function f is given. Which table of values represents y = f ( x ) - 3?",
+        "Answer Choices": [
+            "xy(-) 6(-) 9(-) 5(-) 841",
+            "xy(-) 6(-) 3(-) 5(-) 34(-) 3",
+            "xy(-) 6(-) 3(-) 5(-) 247",
+            "xy(-) 63(-) 5343"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that f ( x ) = ( x + 6 ) ( x + 5 ) ( x - 4 ) and y = f ( x ) - 3 . Substituting ( x + 6 ) ( x + 5 ) ( x - 4 ) for f(x) in the equation y = f ( x ) - 3 yields y = ( x + 6 ) ( x + 5 ) ( x - 4 ) - 3 . Substituting (-) 6 for x in this equation yields y = ( (-) 6 + 6 ) ( (-) 6 + 5 ) ( (-) 6 - 4 ) - 3 , or y = (-) 3 . Substituting (-) 5 for x in the equation y = ( x + 6 ) ( x + 5 ) ( x - 4 ) - 3 yields y = ( (-) 5 + 6 ) ( (-) 5 + 5 ) ( (-) 5 - 4 ) - 3 , or y = (-) 3 . Substituting 4 for x in the equation y = ( x + 6 ) ( x + 5 ) ( x - 4 ) - 3 yields y = ( 4 + 6 ) ( 4 + 5 ) ( 4 - 4 ) - 3 , or y = (-) 3 . Therefore, when x = (-) 6 then y = (-) 3 , when x = (-) 5 then y = (-) 3 , and when x = 4 then y = (-) 3 . Thus, the table of values in choice B represents y = f ( x ) - 3 .  Choice A is incorrect. This table represents y = x - 3 rather than y = f ( x ) - 3 .  Choice C is incorrect. This table represents y = x + 3 rather than y = f ( x ) - 3 .  Choice D is incorrect. This table represents y = f ( x ) + 3 rather than y = f ( x ) - 3 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "203774bc",
+        "Prompt": "The product of 2 positive integers is 546. If the first integer is 11 greater than twice the second integer, what is the smaller of the 2 integers?",
+        "Answer Choices": [
+            "7",
+            "14",
+            "39",
+            "78"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Let x be the first integer and let y be the second integer. If the first integer is 11 greater than twice the second integer, then x = 2 y + 11 . If the product of the two integers is 546 , then x y = 546 . Substituting 2 y + 11 for x in this equation results in ( 2 y + 11 ) y = 546 . Distributing the y to both terms in the parentheses results in 2 y ^2 + 11 y = 546 . Subtracting 546 from both sides of this equation results in 2 y ^2 + 11 y - 546 = 0 . The left-hand side of this equation can be factored by finding two values whose product is 2 ( (-) 546 ) , or (-) 1,092 , and whose sum is 11 . The two values whose product is (-) 1,092 and whose sum is 11 are 39 and (-) 28 . Thus, the equation 2 y ^2 + 11 y - 546 = 0 can be rewritten as 2 y ^2 + 28 y - 39 y - 546 = 0 , which is equivalent to 2 y ( y - 14 ) + 39 ( y - 14 ) = 0 , or ( 2 y + 39 ) ( y - 14 ) = 0 . By the zero product property, it follows that 2 y + 39 = 0 and y - 14 = 0 . Subtracting 39 from both sides of the equation 2 y + 39 = 0 yields 2 y = (-) 39 . Dividing both sides of this equation by 2 yields y = (-) ( 39 / 2 ) . Since y is a positive integer, the value of y is not (-) ( 39 / 2 ) . Adding 14 to both sides of the equation y - 14 = 0 yields y = 14 . Substituting 14 for y in the equation x y = 546 yields x ( 14 ) = 546 . Dividing both sides of this equation by 14 results in x = 39 . Therefore, the two integers are 14 and 39 , so the smaller of the two integers is 14 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the larger of the two integers.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "b7c74b73",
+        "Prompt": "f ( x ) = 5,470 ( 0.64 ) ^ ( x / 12 ) The function f gives the value, in dollars, of a certain piece of equipment after x months of use. If the value of the equipment decreases each year by p percent sign of its value the preceding year, what is the value of p?",
+        "Answer Choices": [
+            "4",
+            "5",
+            "36",
+            "64"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. For a function of the form f ( x ) = a ( r ) ^ ( x / k ) , where a , r , and k are constants and r less than 1 , the value of f(x) decreases by 100 ( 1 - r ) percent sign for every increase of x by k . In the given function, a = 5,470 , r = 0.64 , and k = 12 . Therefore, for the given function, the value of f(x) decreases by 100 ( 1 - 0.64 ) percent sign , or 36 percent sign , for every increase of x by 12 . Since f(x) represents the value, in dollars, of the equipment after x months of use, it follows that the value of the equipment decreases every 12 months by 36 percent sign of its value the preceding 12 months. Since there are 12 months in a year, the value of the equipment decreases each year by 36 percent sign of its value the preceding year. Thus, the value of p is 36 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "735a0a00",
+        "Prompt": "y = 0.25 x ^2 - 7.5 x + 90.25 The equation gives the estimated stock price y, in dollars, for a certain company x days after a new product launched, where 0 <= x <= 20. Which statement is the best interpretation of ( x, y ) = ( 1, 83 ) in this context?",
+        "Answer Choices": [
+            "The company's estimated stock price increaseddollar sign 83every day after the new product launched.",
+            "The company's estimated stock price increaseddollar sign 1every83days after the new product launched.",
+            "1day after the new product launched, the company's estimated stock price isdollar sign 83.",
+            "83days after the new product launched, the company's estimated stock price isdollar sign 1."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. In the given equation, x represents the number of days after a new product launched, where 0 <= x <= 20 , and y represents the estimated stock price, in dollars, for a certain company. Therefore, the best interpretation of ( x, y ) = ( 1, 83 ) in this context is that 1 day after the new product launched, the company's estimated stock price is dollar sign 83 .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "f2d60b99",
+        "Prompt": "The function f ( x ) = 1 /9 ( x - 7 ) ^2 + 3 gives a metal ball's h8 above the ground f(x), in inches, x seconds after it started moving on a track, where 0 <= x <= 10. Which of the following is the best interpretation of the vertex of the graph of y = f ( x ) in the xy - plane?",
+        "Answer Choices": [
+            "The metal ball's minimum h8 was3inches above the ground.",
+            "The metal ball's minimum h8 was7inches above the ground.",
+            "The metal ball's h8 was3inches above the ground when it started moving.",
+            "The metal ball's h8 was7inches above the ground when it started moving."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The graph of a quadratic equation in the form y = a ( x - h ) ^2 + k , where a , h , and k are positive constants, is a parabola that opens upward with vertex (h, k) . The given function f ( x ) = 1 /9 ( x - 7 ) ^2 + 3 is in the form y = a ( x - h ) ^2 + k , where y = f ( x ) , a = 1 /9 , h = 7 , and k = 3 . Therefore, the graph of y = f ( x ) is a parabola that opens upward with vertex (7, 3) . Since the parabola opens upward, the vertex is the lowest point on the graph. It follows that the y -coordinate of the vertex of the graph of y = f ( x ) is the minimum value of f(x) . Therefore, the minimum value of f(x) is 3 . It\u2019s given that f ( x ) = 1 /9 ( x - 7 ) ^2 + 3 represents the metal ball\u2019s height above the ground, in inches, x seconds after it started moving on a track. Therefore, the best interpretation of the vertex of the graph of y = f ( x ) is that the metal ball\u2019s minimum height was 3 inches above the ground.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "67f4b449",
+        "Prompt": "The function f ( w ) = 6 w ^2 gives the area of a rectangle, in square feet ( ft ^2 ), if its width is w ft and its length is 6 * its width. Which of the following is the best interpretation of f ( 14 ) = 1,176?",
+        "Answer Choices": [
+            "If the width of the rectangle is14 ft, then the area of the rectangle is1,176 ft ^2.",
+            "If the width of the rectangle is14 ft, then the length of the rectangle is1,176 ft.",
+            "If the width of the rectangle is1,176 ft, then the length of the rectangle is14 ft.",
+            "If the width of the rectangle is1,176 ft, then the area of the rectangle is14 ft ^2."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The function f gives the area of the rectangle, in ft**2 , if its width is w ft . Since the value of f(14) is the value of f(w) if w = 14 , it follows that f ( 14 ) = 1,176 means that f(w) is (1, 176) if w = 14 . In the given context, this means that if the width of the rectangle is 14 ft , then the area of the rectangle is 1,176 ft ^2 .  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from interpreting f(w) as the width, in ft , of the rectangle if its area is w ft ^2 , rather than as the area, in ft**2 , of the rectangle if its width is w ft ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "44076c7d",
+        "Prompt": "x f(x) (-) 1 10 0 14 1 20 For the quadratic function f, the table shows 3 values of x and their corresponding values of f(x). Which equation defines f?",
+        "Answer Choices": [
+            "f ( x ) = 3 x ^2 + 3 x + 14",
+            "f ( x ) = 5 x ^2 + x + 14",
+            "f ( x ) = 9 x ^2 - x + 14",
+            "f ( x ) = x ^2 + 5 x + 14"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation of a quadratic function can be written in the form f ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants. It\u2019s given in the table that when x = (-) 1 , the corresponding value of f(x) is 10 . Substituting (-) 1 for x and 10 for f(x) in the equation f ( x ) = a ( x - h ) ^2 + k gives 10 = a ( (-) 1 - h ) ^2 + k , which is equivalent to 10 = a ( 1 + 2 h + h ^2 ) + k , or 10 = a + 2 a h + a h ^2 + k . It\u2019s given in the table that when x = 0 , the corresponding value of f(x) is 14 . Substituting 0 for x and 14 for f(x) in the equation f ( x ) = a ( x - h ) ^2 + k gives 14 = a ( 0 - h ) ^2 + k , or 14 = a h ^2 + k . It\u2019s given in the table that when x = 1 , the corresponding value of f(x) is 20 . Substituting 1 for x and 20 for f(x) in the equation f ( x ) = a ( x - h ) ^2 + k gives 20 = a ( 1 - h ) ^2 + k , which is equivalent to 20 = a ( 1 - 2 h + h ^2 ) + k , or 20 = a - 2 a h + a h ^2 + k . Adding 20 = a - 2 a h + a h ^2 + k to the equation 10 = a + 2 a h + a h ^2 + k gives 30 = 2 a + 2 a h ^2 + 2 k . Dividing both sides of this equation by 2 gives 15 = a + a h ^2 + k . Since 14 = a h ^2 + k , substituting 14 for a h ^2 + k into the equation 15 = a + a h ^2 + k gives 15 = a + 14 . Subtracting 14 from both sides of this equation gives a = 1 . Substituting 1 for a in the equations 14 = a h ^2 + k and 20 = a h ^2 - 2 a h + a + k gives 14 = h ^2 + k and 20 = 1 - 2 h + h ^2 + k , respectively. Since 14 = h ^2 + k , substituting 14 for h**2 + k in the equation 20 = 1 - 2 h + h ^2 + k gives 20 = 1 - 2 h + 14 , or 20 = 15 - 2 h . Subtracting 15 from both sides of this equation gives 5 = - 2 h . Dividing both sides of this equation by (-) 2 gives (-) 5 /2 = h . Substituting (-) 5 /2 for h into the equation 14 = h ^2 + k gives 14 = ( (-) 5 /2 ) ^2 + k , or 14 = ( 25 / 4 ) + k . Subtracting 25/4 from both sides of this equation gives ( 31 / 4 ) = k . Substituting 1 for a , (-) 5 /2 for h , and 31/4 for k in the equation f ( x ) = a ( x - h ) ^2 + k gives f ( x ) = ( x + 5 /2 ) ^2 + ( 31 / 4 ) , which is equivalent to f ( x ) = x ^2 + 5 x + ( 25 / 4 ) + ( 31 / 4 ) , or f ( x ) = x ^2 + 5 x + 14 . Therefore, f ( x ) = x ^2 + 5 x + 14 defines f .  Choice A is incorrect. If f ( x ) = 3 x ^2 + 3 x + 14 , then when x = (-) 1 , the corresponding value of f(x) is 14 , not 10 .  Choice B is incorrect. If f ( x ) = 5 x ^2 + x + 14 , then when x = (-) 1 , the corresponding value of f(x) is 18 , not 10 .  Choice C is incorrect. If f ( x ) = 9 x ^2 - x + 14 , then when x = (-) 1 , the corresponding value of f(x) is 24 , not 10 , and when x = 1 , the corresponding value of f(x) is 22 , not 20 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "1f353a9e",
+        "Prompt": "f ( t ) = 8,000 ( 0.65 ) ^ t The given function f models the number of coupons a company sent to their customers at the end of each year, where t represents the number of years since the end of 1998, and 0 <= t <= 5. If y = f ( t ) is graphed in the ty - plane, which of the following is the best interpretation of the y - intercept of the graph in this context?",
+        "Answer Choices": [
+            "The minimum estimated number of coupons the company sent to their customers during the5years was(1, 428).",
+            "The minimum estimated number of coupons the company sent to their customers during the5years was(8, 0).",
+            "The estimated number of coupons the company sent to their customers at the end of1998was(1, 428).",
+            "The estimated number of coupons the company sent to their customers at the end of1998was(8, 0)."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The y -intercept of a graph in the ty -plane is the point where t = 0 . For the given function f , the y -intercept of the graph of y = f ( t ) in the ty -plane can be found by substituting 0 for t in the equation y = 8,000 ( 0 period 65 ) ^ t , which gives y = 8,000 ( 0 period 65 ) ^ 0 . This is equivalent to y = 8,000 ( 1 ) , or y = 8,000 . Therefore, the y -intercept of the graph of y = f ( t ) is (0, 8, 0) . It\u2019s given that the function f models the number of coupons a company sent to their customers at the end of each year. Therefore, f(t) represents the estimated number of coupons the company sent to their customers at the end of each year. It's also given that t represents the number of years since the end of 1998 . Therefore, t = 0 represents 0 years since the end of 1998 , or the end of 1998 . Thus, the best interpretation of the y -intercept of the graph of y = f ( t ) is\u00a0that the estimated number of coupons the company sent to their customers at the end of 1998 was (8, 0) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "f44a29a8",
+        "Prompt": "An object\u2019s kinetic energy, in joules, is equal to the product of 1 - /2 the object\u2019s mass, in kilograms, and the square of the object\u2019s speed, in meters per second. What is the speed, in meters per second, of an object with a mass of 4 kilograms and kinetic energy of 18 joules?",
+        "Answer Choices": [
+            "3",
+            "6",
+            "9",
+            "36"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that an object\u2019s kinetic energy, in joules, is equal to the product of one-half the object\u2019s mass, in kilograms, and the square of the object\u2019s speed, in meters per second. This relationship can be represented by the equation K = 1 /2 m v ^2 , where K is the kinetic energy, m is the mass, and v is the speed. Substituting a mass of 4 kilograms for m and a kinetic energy of 18 joules for K results in the equation 18 = 1 /2 * 4, * v ^2 , or 18 = 2 v ^2 . Dividing both sides of this equation by 2 yields 9 = v ^2 . Taking the square root of both sides yields v = (-) 3 and v = 3 . Since speed can\u2019t be expressed as a negative number, the speed of the object is 3 meters per second. Choice B is incorrect and may result from computation errors. Choice C is incorrect. This is the value of v ^2 rather than v . Choice D is incorrect. This is the value of 4 v ^2 rather than v ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "92f812bb",
+        "Prompt": "In the xy - plane, a parabola has vertex ( 9, (-) 14 ) and intersects the x - axis at 2 points. If the equation of the parabola is writ10 in the form y = a x ^2 + b x + c, where a, b, and c are constants, which of the following could be the value of a + b + c?",
+        "Answer Choices": [
+            "(-) 23",
+            "(-) 19",
+            "(-) 14",
+            "(-) 12"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation of a parabola in the xy -plane can be written in the form y = a ( x - h ) ^2 + k , where a is a constant and (h, k) is the vertex of the parabola. If a is positive, the parabola will open upward, and if a is negative, the parabola will open downward. It\u2019s given that the parabola has vertex ( 9, (-) 14 ) . Substituting 9 for h and (-) 14 for k in the equation y = a ( x - h ) ^2 + k gives y = a ( x - 9 ) ^2 - 14 , which can be rewritten as y = a ( x - 9 ) ( x - 9 ) - 14 , or y = a ( x ^2 - 18 x + 81 ) - 14 . Distributing the factor of a on the right-hand side of this equation yields y = a x ^2 - 18 a x + 81 a - 14 . Therefore, the equation of the parabola, y = a x ^2 - 18 a x + 81 a - 14 , can be written in the form y = a x ^2 + b x + c , where a = a , b = - 18 a , and c = 81 a - 14 . Substituting - 18 a for b and 81 a - 14 for c in the expression a + b + c yields ( a ) + ( - 18 a ) + ( 81 a - 14 ) , or 64 a - 14 . Since the vertex of the parabola, ( 9, (-) 14 ) , is below the x -axis, and it\u2019s given that the parabola intersects the x -axis at two points, the parabola must open upward. Therefore, the constant a must have a positive value. Setting the expression 64 a - 14 equal to the value in choice D yields 64 a - 14 = (-) 12 . Adding 14 to both sides of this equation yields 64 a = 2 . Dividing both sides of this equation by 64 yields a = 2 6ty /4s , which is a positive value. Therefore, if the equation of the parabola is written in the form y = a x ^2 + b x + c , where a , b , and c are constants, the value of a + b + c could be (-) 12 .  Choice A is incorrect. If the equation of a parabola with a vertex at ( 9, (-) 14 ) is written in the form y = a x ^2 + b x + c , where a , b , and c are constants and a + b + c = (-) 23 , then the value of a will be negative, which means the parabola will open downward, not upward, and will intersect the x -axis at zero points, not two points.  Choice B is incorrect. If the equation of a parabola with a vertex at ( 9, (-) 14 ) is written in the form y = a x ^2 + b x + c , where a , b , and c are constants and a + b + c = (-) 19 , then the value of a will be negative, which means the parabola will open downward, not upward, and will intersect the x -axis at zero points, not two points.  Choice C is incorrect. If the equation of a parabola with a vertex at ( 9, (-) 14 ) is written in the form y = a x ^2 + b x + c , where a , b , and c are constants and a + b + c = (-) 14 , then the value of a will be 0 , which is inconsistent with the equation of a parabola."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "f547a8b1",
+        "Prompt": "Moving from left to right: The curve passes from quadrant 2 to quadrant 1. In quadrant 2, the curve trends up gradually to . (0 , 8). In quadrant 1, the curve trends up sharply. The curve passes through the following points: (0 , 8) (1 , 9) What is the y - intercept of the graph shown?",
+        "Answer Choices": [
+            "( (-) 8, 0 )",
+            "( (-) 6, 0 )",
+            "(0, 6)",
+            "(0, 8)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The y -intercept of a graph in the xy -plane is the point at which the graph crosses the y -axis. The graph shown crosses the y -axis at the point (0, 8) . Therefore, the y -intercept of the graph shown is (0, 8) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "9da41c80",
+        "Prompt": "A ball is dropped from an initial h8 of 22 feet and bounces off the ground repeatedly. The function h estimates that the maximum h8 reached after each time the ball hits the ground is 85 percent sign of the maximum h8 reached after the previous time the ball hit the ground. Which equation defines h, where h(n) is the estimated maximum h8 of the ball after it has hit the ground n * and n is a whole number greater than 1 and less than 10?",
+        "Answer Choices": [
+            "h ( n ) = 22 ( 0.22 ) ^ n",
+            "h ( n ) = 22 ( 0.85 ) ^ n",
+            "h ( n ) = 85 ( 0.22 ) ^ n",
+            "h ( n ) = 85 ( 0.85 ) ^ n"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that for the function h , h(n) is the estimated maximum height, in feet, of the ball after it has hit the ground n times. It's also given that the function h estimates that the maximum height reached after each time the ball hits the ground is 85 percent sign of the maximum height reached after the previous time the ball hit the ground. It follows that h is a decreasing exponential function that can be written in the form h ( n ) = a ( ( p / 100 ) ) ^ n , where a is the initial height, in feet, the ball was dropped from and the function estimates that the maximum height reached after each time the ball hits the ground is p percent sign of the maximum height reached after the previous time the ball hit the ground. It's given that the ball is dropped from an initial height of 22 feet. Therefore, a = 22 . Since the function h estimates that the maximum height reached after each time the ball hits the ground is 85 percent sign of the maximum height reached after the previous time the ball hit the ground, p = 85 . Substituting 22 for a and 85 for p in the equation h ( n ) = a ( ( p / 100 ) ) ^ n yields h ( n ) = 22 ( ( 85 / 100 ) ) ^ n , or h ( n ) = 22 ( 0.85 ) ^ n .  Choice A is incorrect. This function estimates that the maximum height reached after each time the ball hits the ground is 22 percent sign , not 85 percent sign , of the maximum height reached after the previous time the ball hit the ground.  Choice C is incorrect. This function estimates that the ball is dropped from an initial height of 85 feet, not 22 feet, and that the maximum height reached after each time the ball hits the ground is 22 percent sign , not 85 percent sign , of the maximum height reached after the previous time the ball hit the ground.  Choice D is incorrect. This function estimates that the ball is dropped from an initial height of 85 feet, not 22 feet."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "7160cbb3",
+        "Prompt": "Moving from left to right: The curve passes from quadrant 3 to quadrant 4. In quadrant 3, the curve trends up sharply to . (0 , (-) 6). In quadrant 4, the curve trends up gradually. As x increases, the curve approaches the line y = (-) 5. The curve passes through the following points: (0 , (-) 6) (1 , (-) 5 and 1 /6) What is the y - intercept of the graph shown?",
+        "Answer Choices": [
+            "( 0, (-) 6 )",
+            "( (-) 6, 0 )",
+            "(0, 0)",
+            "( (-) 5, (-) 5 )"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The y -intercept of a graph in the xy -plane is the point (x, y) on the graph where x = 0 . For the graph shown, at x = 0 , the corresponding value of y is (-) 6 . Therefore, the y -intercept of the graph shown is ( 0, (-) 6 ) .  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "20722644",
+        "Prompt": "The function f is defined by f ( x ) = x ^3 + 9. What is the value of f(2)?",
+        "Answer Choices": [
+            "14",
+            "15",
+            "17",
+            "18"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that f ( x ) = x ^3 + 9 . Substituting 2 for x in this equation yields f ( 2 ) = ( 2 ) ^3 + 9 . This is equivalent to f ( 2 ) = 8 + 9 , or f ( 2 ) = 17 .  Choice A is incorrect. This is the value of 14 , not 17 .  Choice B is incorrect. This is the value of 2 ( 3 ) + 9 , not 17 .  Choice D is incorrect. This is the value of 18 , not 17 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "bba18ecb",
+        "Prompt": "When the quadratic function f is graphed in the xy - plane, where y = f ( x ), its vertex is ( (-) 3, 6 ). One of the x - intercepts of this graph is ( (-) ( 17 / 4 ) 0 ). What is the other x - intercept of the graph?",
+        "Answer Choices": [
+            "( (-) ( 29 / 4 ) 0 )",
+            "( (-) 7 /4s, 0 )",
+            "( 5 /4s, 0 )",
+            "( ( 17 / 4 ) 0 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Since the line of symmetry for the graph of a quadratic function contains the vertex of the graph, the x -coordinate of the vertex of the graph of y = f ( x ) is the x -coordinate of the midpoint of its two x -intercepts. The midpoint of two points with x -coordinates x1 and x2 has x -coordinate x Subscript m , where x Subscript m = ( x1 + x2 / 2 ) . It\u2032s given that the vertex is ( (-) 3, 6 ) and one of the x -intercepts is ( (-) ( 17 / 4 ) 0 ) . Substituting (-) 3 for x Subscript m and (-) ( 17 / 4 ) for x1 in the equation x Subscript m = ( x1 + x2 / 2 ) yields (-) 3 = ( (-) ( 17 / 4 ) + x2 / 2 ) . Multiplying each side of this equation by 2 yields (-) 6 = (-) ( 17 / 4 ) + x2 . Adding 17/4 to each side of this equation yields (-) 7 /4s = x2 . Therefore, the other x -intercept is ( (-) 7 /4s, 0 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "90bcaa61",
+        "Prompt": "The function f ( t ) = 60,000 ( 2 ) ^ ( t / 410 ) gives the number of bacteria in a population t minutes after an initial observation. How much time, in minutes, does it take for the number of bacteria in the population to double?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "410",
+        "Rationale": "The correct answer is 410 . It's given that t minutes after an initial observation, the number of bacteria in a population is 60,000 ( 2 ) ^ ( t / 410 ) . This expression consists of the initial number of bacteria, (60, 0) , multiplied by the expression 2**(t/410) . The time it takes for the number of bacteria to double is the increase in the value of t that causes the expression 2**(t/410) to double. Since the base of the expression 2**(t/410) is 2 , the expression 2**(t/410) will double when the exponent increases by 1 . Since the exponent of the expression 2**(t/410) is t/410 , the exponent will increase by 1 when t increases by 410 . Therefore the time, in minutes, it takes for the number of bacteria in the population to double is 410 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "dd8ac009",
+        "Prompt": "Time (years) Total amount (dollars) 0 670.000000000000 1 674.020000000000 2 678.060000000000 Sara opened a savings account at a bank. The table shows the exp1ntial relationship between the time t, in years, since Sara opened the account and the total amount d, in dollars, in the account. If Sara made no additional deposits or withdrawals, which of the following equations best represents the relationship between t and d?",
+        "Answer Choices": [
+            "d = 0.006 ( 1 + 670 ) ^ t",
+            "d = 670 ( 1 + 0.006 ) ^ t",
+            "d = ( 1 + 0.006 ) ^ t",
+            "d = ( 1 + 670 ) ^ t"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the relationship between t and d is exponential. The table shows that the value of d increases as the value of t increases. Therefore, the relationship between t and d can be represented by an increasing exponential equation of the form d = a ( 1 + b ) ^ t , where a and b are positive constants. The table shows that when t = 0 , d = 670 . Substituting 0 for t and 670 for d in the equation d = a ( 1 + b ) ^ t yields 670 = a ( 1 + b ) ^ 0 , which is equivalent to 670 = a ( 1 ) , or 670 = a . Substituting 670 for a in the equation d = a ( 1 + b ) ^ t yields d = 670 ( 1 + b ) ^ t . The table also shows that when t = 1 , d = 674.02 . Substituting 1 for t and 674.020000000000 for d in the equation d = 670 ( 1 + b ) ^ t yields 674.02 = 670 ( 1 + b ) ^ 1 , or 674.02 = 670 ( 1 + b ) . Dividing both sides of this equation by 670 yields 1.006 = 1 + b . Subtracting 1 from both sides of this equation yields b = 0.006 . Substituting 0.00600000000000000 for b in the equation d = 670 ( 1 + b ) ^ t yields d = 670 ( 1 + 0.006 ) ^ t . Therefore, of the choices, choice B best represents the relationship between t and d .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "58dcc59f",
+        "Prompt": "A landscaper is designing a rectangular garden. The length of the garden is to be 5 feet longer than the width. If the area of the garden will be 104 square feet, what will be the length, in feet, of the garden?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 13. Let w represent the width of the rectangular garden, in feet. Since the length of the garden will be 5 feet longer than the width of the garden, the length of the garden will be w + 5 feet. Thus the area of the garden will be w * open parenthesis, w + 5, close parenthesis . It is also given that the area of the garden will be 104 square feet. Therefore, w * open parenthesis, w + 5, close parenthesis, = 104 , which is equivalent to w ^2, + 5 w, - 104, = 0 . Factoring this equation results in open parenthesis, w + 13, close parenthesis, * open parenthesis, w - 8, close parenthesis, = 0 . Therefore, w = 8 and w = (-) 13 . Because width cannot be negative, the width of the garden must be 8 feet. This means the length of the garden must be 8 + 5, = 13 feet."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "2d1614a1",
+        "Prompt": "upper P ( t ) = 290 ( 1.04 ) ^ ( 4 /6s ) t The function upper P models the population, in thousands, of a certain city t years after 2005. According to the model, the population is predicted to increase by n percent sign every18 months. What is the value of n?",
+        "Answer Choices": [
+            "0.380000000000000",
+            "1.04000000000000",
+            "4",
+            "6"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the function upper P models the population of the city t years after 2005 . Since there are 12 months in a year, 18 months is equivalent to 3/2 years. Therefore, the expression ( 18 / 12 ) x can represent the number of years in x  18 -month periods. Substituting ( 18 / 12 ) x for t in the given equation yields upper P ( ( 18 / 12 ) x ) = 290 ( 1.04 ) ^ ( 4 /6s ) ( ( 18 / 12 ) x ) , which is equivalent to upper P ( ( 18 / 12 ) x ) = 290 ( 1.04 ) ^ x . Therefore, for each 18 -month period, the predicted population of the city is 1.04000000000000 times, or 104 percent sign of, the previous population. This means that the population is predicted to increase by 4 percent sign every 18 months.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. Each year, the predicted population of the city is 1.04000000000000 times the previous year's predicted population, which is not the same as an increase of 1.04 percent sign .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "84dd43f8",
+        "Prompt": "For the function f, f ( 0 ) = 86, and for each increase in x by1, the value of f(x) decreases by 80 percent sign. What is the value of f(2)?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "3.44,  86/25",
+        "Rationale": "The correct answer is 3.44000000000000 . It\u2019s given that f ( 0 ) = 86 and that for each increase in x by 1 , the value of f(x) decreases by 80 percent sign . Because the output of the function decreases by a constant percentage for each 1 -unit increase in the value of x , this relationship can be represented by an exponential function of the form f ( x ) = a ( b ) ^ x , where a represents the initial value of the function and b represents the rate of decay, expressed as a decimal. Because f ( 0 ) = 86 , the value of a must be 86 . Because the value of f(x) decreases by 80 percent sign for each 1 -unit increase in x , the value of b must be ( 1 - 0 period 80 ) , or 0 period 2 . Therefore, the function f can be defined by f ( x ) = 86 ( 0 period 2 ) ^ x . Substituting 2 for x in this function yields f ( 2 ) = 86 ( 0 period 2 ) ^2 , which is equivalent to f ( 2 ) = 86 ( 0 period 04 ) , or f ( 2 ) = 3 period 44 . Either 3.44000000000000 or 86 divided by25 may be entered as the correct answer.  Alternate approach: It\u2019s given that f ( 0 ) = 86 and that for each increase in x by 1 , the value of f(x) decreases by 80 percent sign . Therefore, when x = 1 , the value of f(x) is ( 100 - 80 ) percent sign , or 20 percent sign , of 86 , which can be expressed as ( 0 period 20 ) ( 86 ) . Since ( 0 period 20 ) ( 86 ) = 17 period 2 , the value of f(1) is 17.2000000000000 . Similarly, when x = 2 , the value of f(x) is 20 percent sign of 17.2000000000000 , which can be expressed as ( 0 period 20 ) ( 17 period 2 ) . Since ( 0 period 20 ) ( 17 period 2 ) = 3 period 44 , the value of f(2) is 3.44000000000000 . Either 3.44000000000000 or 86 divided by25 may be entered as the correct answer."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "72ae8a87",
+        "Prompt": "The function f ( x ) = 200,000 ( 1.21 ) ^ x gives a company\u2019s predicted annual revenue, in dollars, x years after the company started selling light bulbs online, where 0 less than x <= 10. What is the best interpretation of the statement \u201cf(5) is approximately equal to (518, 748)\u201d in this context?",
+        "Answer Choices": [
+            "5years after the company started selling light bulbs online, its predicted annual revenue is approximately(518, 748)dollars.",
+            "5years after the company started selling light bulbs online, its predicted annual revenue will have increased by a total of approximately(518, 748)dollars.",
+            "When the company\u2019s predicted annual revenue is approximately(518, 748)dollars, it is5* the predicted annual revenue for the previous year.",
+            "When the company\u2019s predicted annual revenue is approximately(518, 748)dollars, it is5 percent signgreater than the predicted annual revenue for the previous year."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the function f ( x ) = 200,000 ( 1.21 ) ^ x gives a company's predicted annual revenue, in dollars, x years after the company started selling light bulbs online. It follows that f(x) represents the company's predicted annual revenue, in dollars, x years after the company started selling light bulbs online. Since the value of f(5) is the value of f(x) when x = 5 , it follows that \" f(5) is approximately equal to (518, 748) \" means that f(x) is approximately equal to (518, 748) when x = 5 . Therefore, the best interpretation of the statement \" f(5) is approximately equal to (518, 748) \" in this context is 5 years after the company started selling light bulbs online, its predicted annual revenue is approximately (518, 748) dollars.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "01668cd6",
+        "Prompt": "The functions f and g are defined by the given equations, where x >= 0. Which of the following equations displays, as a constant or coefficient, the maximum value of the function it defines, where x >= 0? f ( x ) = 33 ( 0.4 ) ^ x + 3 g ( x ) = 33 ( 0.16 ) ( 0.4 ) ^ x - 2",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Functions f and g are both exponential functions with a base of 0.400000000000000 . Since 0.400000000000000 is less than 1 , functions f and g are both decreasing exponential functions. This means that f(x) and g(x) decrease as x increases. Since f(x) and g(x) decrease as x increases, the maximum value of each function occurs at the least value of x for which the function is defined. It's given that functions f and g are defined for x >= 0 . Therefore, the maximum value of each function occurs at x = 0 . Substituting 0 for x in the equation defining f yields f ( 0 ) = 33 ( 0.4 ) ^ 0 + 3 , which is equivalent to f ( 0 ) = 33 ( 0.4 ) ^3 , or f ( 0 ) = 2.112 . Therefore, the maximum value of f is 2.11200000000000 . Since the equation f ( x ) = 33 ( 0.4 ) ^ x + 3 doesn't display the value 2.11200000000000 , the equation defining f doesn't display the maximum value of f . Substituting 0 for x in the equation defining g yields g ( 0 ) = 33 ( 0.16 ) ( 0.4 ) ^ 0 - 2 , which can be rewritten as g ( 0 ) = 33 ( 0.16 ) ( ( 1 / 0.4 ^2 ) ) , or g ( 0 ) = 33 ( 0.16 ) ( ( 1 / 0.16 ) ) , which is equivalent to g ( 0 ) = 33 . Therefore, the maximum value of g is 33 . Since the equation g ( x ) = 33 ( 0.16 ) ( 0.4 ) ^ x - 2 displays the value 33 , the equation defining g displays the maximum value of g . Thus, only equation II displays, as a constant or coefficient, the maximum value of the function it defines.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "100030d9",
+        "Prompt": "A rubber ball bounces upward 1 - /2 the h8 that it falls each time it hits the ground. If the ball was originally dropped from a distance of 20.0 feet above the ground, what was its maximum h8 above the ground, in feet, between the /3 and /4 time it hit the ground?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 2.5. After hitting the ground once, the ball bounces to 20. zero, divided by2, = 10. zero feet. After hitting the ground a second time, the ball bounces to 10. zero, divided by2, = 5. zero feet. After hitting the ground for the third time, the ball bounces to 5. zero, divided by2, = 2. 5 feet. Note that 2.5 and 5/2 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "09f58996",
+        "Prompt": "The function f is defined by f ( x ) = 6 + sqrt( x ). What is the value of f(36)?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "12",
+        "Rationale": "The correct answer is 12 . The value of f(36) is the value of f(x) when x = 36 . Substituting 36 for x in the given equation yields f ( 36 ) = 6 + sqrt( 36 ) , which is equivalent to f ( 36 ) = 6 + 6 , or f ( 36 ) = 12 . Thus, the value of f(36) is 12 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "7ba694f3",
+        "Prompt": "The number of bacteria in a liquid medium doubles every day. There are (44, 0) bacteria in the liquid medium at the start of an observation. Which represents the number of bacteria, y, in the liquid medium t days after the start of the observation?",
+        "Answer Choices": [
+            "y = 1 /2 ( 44,000 ) ^ t",
+            "y = 2 ( 44,000 ) ^ t",
+            "y = 44,000 ( 1 /2 ) ^ t",
+            "y = 44,000 ( 2 ) ^ t"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since the number of bacteria doubles every day, the relationship between t and y can be represented by an exponential equation of the form y = a ( b ) ^ t , where a is the number of bacteria at the start of the observation and the number of bacteria increases by a factor of b every day. It\u2019s given that there are (44, 0) bacteria at the start of the observation. Therefore, a = 44,000 . It\u2019s also given that the number of bacteria doubles, or increases by a factor of 2 , every day. Therefore, b = 2 . Substituting (44, 0) for a and 2 for b in the equation y = a ( b ) ^ t yields y = 44,000 ( 2 ) ^ t .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This equation represents a situation where the number of bacteria is decreasing by half, not doubling, every day."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "c7a187a7",
+        "Prompt": "f ( x ) = x ^2 - 18 x - 360 If the given function f is graphed in the xy - plane, where y = f ( x ), what is an x - intercept of the graph?",
+        "Answer Choices": [
+            "( (-) 12, 0 )",
+            "( (-) 30, 0 )",
+            "( (-) 360, 0 )",
+            "(12, 0)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct.\u00a0It's given that y = f ( x ) . The x -intercepts of a graph in the xy -plane are the points where y = 0 . Thus, for an x -intercept of the graph of function f , 0 = f ( x ) . Substituting 0 for f(x) in the equation f ( x ) = x ^2 - 18 x - 360 yields 0 = x ^2 - 18 x - 360 . Factoring the right-hand side of this equation yields 0 = ( x + 12 ) ( x - 30 ) . By the zero product property, x + 12 = 0 and x - 30 = 0 . Subtracting 12 from both sides of the equation x + 12 = 0 yields x = (-) 12 . Adding 30 to both sides of the equation x - 30 = 0 yields x = 30 . Therefore, the x -intercepts of the graph of y = f ( x ) are ( (-) 12, 0 ) and (30, 0) . Of these two x -intercepts, only ( (-) 12, 0 ) is given as a choice.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "ebe4bde0",
+        "Prompt": "The quadratic function graphed above models a particular measure of plant diversity as a function of the elevation in a region of Switzerland. According to the model, which of the following is closest to the elevation, in meters, at which plant diversity is greatest?",
+        "Answer Choices": [
+            "13,500",
+            "3,000",
+            "1,250",
+            "250"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Each point with coordinates x, y on the graph represents the elevation x , in meters, and the corresponding measure of plant diversity y in a region of Switzerland. Therefore, the point on the graph with the greatest y -coordinate represents the location that has the greatest measure of plant diversity in the region. The greatest y -coordinate of any point on the graph is approximately 13,500. The x -coordinate of that point is approximately 1,250. Therefore, the closest elevation at which the plant diversity is the greatest is 1,250 meters. Choice A is incorrect. This value is closest to the greatest y -coordinate of any point on the graph and therefore represents the greatest measure of plant diversity, not the elevation where the greatest measure of plant diversity occurs. Choice B is incorrect. At an elevation of 3,000 meters the measure of plant diversity is approximately 4,000. Because there are points on the graph with greater y -coordinates, 4,000 can\u2019t be the greatest measure of plant diversity, and 3,000 meters isn\u2019t the elevation at which the greatest measure of plant diversity occurs. Choice D is incorrect. At an elevation of 250 meters, the measure of plant diversity is approximately 11,000. Because there are points on the graph with greater y -coordinates, 11,000 can\u2019t be the greatest measure of plant diversity and 250 meters isn\u2019t the elevation at which the greatest measure of plant diversity occurs."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "ef926848",
+        "Prompt": "Square P has a side length of x inches. Square Q has a perimeter that is 176 inches greater than the perimeter of square P. The function f gives the area of square Q, in square inches. Which of the following defines f?",
+        "Answer Choices": [
+            "f ( x ) = ( x + 44 ) ^2",
+            "f ( x ) = ( x + 176 ) ^2",
+            "f ( x ) = ( 176 x + 44 ) ^2",
+            "f ( x ) = ( 176 x + 176 ) ^2"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Let x represent the side length, in inches, of square P. It follows that the perimeter of square P is 4 x inches. It's given that square Q has a perimeter that is 176 inches greater than the perimeter of square P. Thus, the perimeter of square Q is 176 inches greater than 4 x inches, or 4 x + 176 inches. Since the perimeter of a square is 4 times the side length of the square, each side length of Q is ( 4 x + 176 / 4 ) , or x + 44 inches. Since the area of a square is calculated by multiplying the length of two sides, the area of square Q is ( x + 44 ) ( x + 44 ) , or (x + 44)**2 square inches. It follows that function f is defined by f ( x ) = ( x + 44 ) ^2 .  Choice B is incorrect. This function represents a square with side lengths x + 176 inches.  Choice C is incorrect. This function represents a square with side lengths ( 176 x + 44 ) inches.  Choice D is incorrect. This function represents a square with side lengths ( 176 x + 176 ) inches."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "a26c29f7",
+        "Prompt": "The function f is defined by f ( x ) = 7 x ^3. In the xy - plane, the graph of y = g ( x ) is the result of shifting the graph of y = f ( x ) down 2 units. Which equation defines function g?",
+        "Answer Choices": [
+            "g ( x ) = 7 /2 x ^3",
+            "g ( x ) = 7 x ^ 3 /2",
+            "g ( x ) = 7 x ^3 + 2",
+            "g ( x ) = 7 x ^3 - 2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. If the graph of y = g ( x ) is the result of shifting the graph of y = f ( x ) down k units in the xy -plane, the function g can be defined by an equation of the form g ( x ) = f ( x ) - k . It\u2019s given that f ( x ) = 7 x ^3 and the graph of y = g ( x ) is the result of shifting the graph of y = f ( x ) down 2 units. Substituting 7 x ^3 for f(x) and 2 for k in the equation g ( x ) = f ( x ) - k yields g ( x ) = 7 x ^3 - 2 .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect. This equation defines a function g for which the graph of y = g ( x ) is the result of shifting the graph of y = f ( x ) up, not down, 2 units."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "e1391dd6",
+        "Prompt": "According to Moore\u2019s law, the number of transistors included on microprocessors doubles every2 years. In 1985, a microprocessor was introduced that had 275,000 transistors. Based on this information, in which of the following years does Moore\u2019s law estimate the number of transistors to reach 1.1 million?",
+        "Answer Choices": [
+            "1987",
+            "1989",
+            "1991",
+            "1994"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice B is correct. Let x be the number of years after 1985. It follows that x over 2 represents the number of 2-year periods that will occur within an x -year period. According to Moore\u2019s law, every 2 years, the number of transistors included on microprocessors is estimated to double. Therefore, x years after 1985, the number of transistors will double x over 2 times. Since the number of transistors included on a microprocessor was 275,000, or .275 million, in 1985, the estimated number of transistors, in millions, included x years after 1985 can be modeled as 0. 2 7 5 * 2 raised to the x over 2 ^ . The year in which the number of transistors is estimated to be 1.1 million is represented by the value of x when 1. 1 = 0. 2 7 5, * 2 raised to the x over 2 ^ . Dividing both sides of this equation by .275 yields 4 = 2 raised to the x over 2 ^ , which can be rewritten as 2 ^2 = 2 raised to the x over 2 ^ . Since the exponential equation has equal bases on each side, it follows that the exponents must also be equal: 2 = x over 2 . Multiplying both sides of the equation 2 = x over 2 by 2 yields x = 4 . Therefore, according to Moore\u2019s law, 4 years after 1985, or in 1989, the number of transistors included on microprocessors is estimated to reach 1.1 million. Alternate approach: According to Moore\u2019s law, 2 years after 1985 (in 1987), the number of transistors included on a microprocessor is estimated to be 2 * 275,000 , or 550,000, and 2 years after 1987 (in 1989), the number of transistors included on microprocessors is estimated to be 2 * 550,000 , or 1,100,000. Therefore, the year that Moore\u2019s law estimates the number of transistors on microprocessors to reach 1.1 million is 1989. Choices A, C, and D are incorrect. According to Moore\u2019s law, the number of transistors included on microprocessors is estimated to reach 550,000 in 1987, 2.2 million in 1991, and about 6.2 million in 1994."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "3c600337",
+        "Prompt": "The function f is defined by f ( x ) = 270 ( 0.1 ) ^ x. What is the value of f(0)?",
+        "Answer Choices": [
+            "0",
+            "1",
+            "27",
+            "270"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The value of f(0) is the value of f(x) when x = 0 . Substituting 0 for x in the given function yields f ( 0 ) = 270 ( 0.1 ) ^ 0 , or f ( 0 ) = 270 ( 1 ) , which is equivalent to f ( 0 ) = 270 . Therefore, the value of f(0) is 270 .  Choice A is incorrect. This is the value of x , not f(x) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the value of f(1) , not f(0) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "3ea87153",
+        "Prompt": "The function g is defined by g ( x ) = x ^2 + 9. For which value of x is g ( x ) = 25?",
+        "Answer Choices": [
+            "4",
+            "5",
+            "9",
+            "13"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that g ( x ) = x ^2 + 9 . Substituting 25 for g(x) in this equation yields 25 = x ^2 + 9 . Subtracting 9 from both sides of this equation yields 16 = x ^2 . Taking the square root of each side of this equation yields x = + or - 4 . It follows that g ( x ) = 25 when the value of x is 4 or (-) 4 . Only 4 is listed among the choices.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "4209aefe",
+        "Prompt": "The function f ( x ) = 206 ( 1.034 ) ^ x models the value, in dollars, of a certain bank account by the end of each year from 1957 through 1972, where x is the number of years after 1957. Which of the following is the best interpretation of \u201cf(5) is approximately equal to 243\u201d in this context?",
+        "Answer Choices": [
+            "The value of the bank account is estimated to be approximately5dollars greater in1962than in1957.",
+            "The value of the bank account is estimated to be approximately243dollars in1962.",
+            "The value, in dollars, of the bank account is estimated to be approximately5* greater in1962than in1957.",
+            "The value of the bank account is estimated to increase by approximately243dollars every5years between1957and1972."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the function f ( x ) = 206 ( 1.034 ) ^ x models the value, in dollars, of a certain bank account by the end of each year from 19 57 through 19 72 , where x is the number of years after 19 57 . It follows that f(x) represents the estimated value, in dollars, of the bank account x years after 19 57 . Since the value of f(5) is the value of f(x) when x = 5 , it follows that \u201c f(5) is approximately equal to 243 \u201d means that f(x) is approximately equal to 243 when x = 5 . In the given context, this means that the value of the bank account is estimated to be approximately 243 dollars 5 years after 19 57 . Therefore, the best interpretation of the statement \u201c f(5) is approximately equal to 243 \u201d in this context is the value of the bank account is estimated to be approximately 243 dollars in 19 62 .  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "5bf0f84a",
+        "Prompt": "The function above models the h8 h, in feet, of an object above ground t seconds after being launched straight up in the air. What does the number 72 represent in the function?",
+        "Answer Choices": [
+            "The initial h8, in feet, of the object",
+            "The maximum h8, in feet, of the object",
+            "The initial speed, in feet per second, of the object",
+            "The maximum speed, in feet per second, of the object"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The variable t represents the seconds after the object is launched. Since h of 0 = 72 , this means that the height, in feet, at 0 seconds, or the initial height, is 72 feet. Choices B, C, and D are incorrect and may be the result of misinterpreting the function in context."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "c048055c",
+        "Prompt": "A model predicts that the population of Springfield was (15, 0) in 2005. The model also predicts that each year for the next 5 years, the population p increased by 4 percent sign of the previous year's population. Which equation best represents this model, where x is the number of years after 2005, for x <= 5?",
+        "Answer Choices": [
+            "p = 0.96 ( 15,000 ) ^ x",
+            "p = 1.04 ( 15,000 ) ^ x",
+            "p = 15,000 ( 0.96 ) ^ x",
+            "p = 15,000 ( 1.04 ) ^ x"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that a model predicts the population of Springfield in 2005 was (15, 0) . The model also predicts that each year for the next 5 years, the population increased by 4 percent sign of the previous year's population. The predicted population in one of these years can be found by multiplying the predicted population from the previous year by 1.04000000000000 . Since the predicted population in 2005 was (15, 0) , the predicted population 1 year later is 15,000 ( 1.04 ) . The predicted population 2 years later is this value times 1.04000000000000 , which is 15,000 ( 1.04 ) ( 1.04 ) , or 15,000 ( 1.04 ) ^2 . The predicted population 3 years later is this value times 1.04000000000000 , or 15,000 ( 1.04 ) ^3 . More generally, the predicted population, p , x years after 2005 is represented by the equation p = 15,000 ( 1.04 ) ^ x .  Choice A is incorrect. Substituting 0 for x in this equation indicates the predicted population in 2005 was 0.960000000000000 rather than (15, 0) .  Choice B is incorrect. Substituting 0 for x in this equation indicates the predicted population in 2005 was 1.04000000000000 rather than (15, 0) .  Choice C is incorrect. This equation indicates the predicted population is decreasing, rather than increasing, by 4 percent sign each year."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "70ebd3d0",
+        "Prompt": "The function N defined above can be used to model the number of species of brachiopods at various ocean depths d, where d is in hundreds of meters. Which of the following does the model predict?",
+        "Answer Choices": [
+            "For every increase in depth by1 meter, the number of brachiopod species decreases by115.",
+            "For every increase in depth by1 meter, the number of brachiopod species decreases by10%.",
+            "For every increase in depth by100 meters, the number of brachiopod species decreases by115.",
+            "For every increase in depth by100 meters, the number of brachiopod species decreases by10%."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The function N is exponential, so it follows that N of d changes by a fixed percentage for each increase in d by 1. Since d is measured in hundreds of meters, it also follows that the number of brachiopod species changes by a fixed percentage for each increase in ocean depth by 100 meters. Since the base of the exponent in the model is 0.90, which is less than 1, the number of brachiopod species decreases as the ocean depth increases. Specifically, the number of brachiopod species at a depth of d + 100 meters is 90% of the number of brachiopod species at a depth of d meters. This means that for each increase in ocean depth by 100 meters, the number of brachiopod species decreases by 10%. Choices A and C are incorrect. These describe situations where the number of brachiopod species are decreasing linearly rather than exponentially. Choice B is incorrect and results from interpreting the decrease in the number of brachiopod species as 10% for every 1-meter increase in ocean depth rather than for every 100-meter increase in ocean depth."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "de39858a",
+        "Prompt": "The function h is defined by h(x)=ax + b, where a and b are positive constants. The graph of y = h(x) in the xy - plane passes through the points (0, 10) and ( - 2, 32536). What is the value of ab?",
+        "Answer Choices": [
+            "14",
+            "12",
+            "54",
+            "60"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the function h is defined by h ( x ) = a ^ x + b and that the graph of y = h ( x ) in the xy -plane passes through the points (0, 10) and ( (-) 2, ( 325 / 36 ) ) . Substituting 0 for x and 10 for h(x) in the equation h ( x ) = a ^ x + b yields 10 = a ^ 0 + b , or 10 = 1 + b . Subtracting 1 from both sides of this equation yields 9 = b . Substituting (-) 2 for x and 325/36 for h(x) in the equation h ( x ) = a ^ x + 9 yields ( 325 / 36 ) = a ^ (-) 2 + 9 . Subtracting 9 from both sides of this equation yields 1 thirty /6 = a ^ (-) 2 , which can be rewritten as a ^2 = 36 . Taking the square root of both sides of this equation yields a = 6 and a = (-) 6 , but because it\u2019s given that a is a positive constant, a must equal 6 . Because the value of a is 6 and the value of b is 9 , the value of a b is ( 6 ) ( 9 ) , or 54 .  Choice A is incorrect and may result from finding the value of a ^ (-) 2 b rather than the value of a b .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from correctly finding the value of a as 6 , but multiplying it by the y -value in the first ordered pair rather than by the value of b ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "1178f2df",
+        "Prompt": "x y 21 (-) 8 23 8 25 (-) 8 The table shows 3 values of x and their corresponding values of y, where y = f ( x ) + 4 and f is a quadratic function. What is the y - coordinate of the y - intercept of the graph of y = f ( x ) in the xy - plane?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-2112",
+        "Rationale": "The correct answer is (-) 2,112 . It's given that f is a quadratic function. It follows that f can be defined by an equation of the form f ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants.\u00a0It's also given that the table shows three values of x and their corresponding values of y , where y = f ( x ) + 4 . Substituting k + a(-h + x)**2 for f(x) in this equation yields y = a ( x - h ) ^2 + k + 4 . This equation\u00a0represents a quadratic relationship between x and y , where k + 4 is either the maximum or the minimum value of y , which occurs when x = h . For quadratic relationships between x and y , the maximum or minimum value of y occurs at the value of x halfway between any two values of x that have the same corresponding value of y . The table shows that x -values of 21 and 25 correspond to the same y -value, (-) 8 . Since 23 is halfway between 21 and 25 , the maximum or minimum value of y occurs at an x -value\u00a0of 23 . The table shows that when x = 23 , y = 8 . It follows that h = 23 and k + 4 = 8 . Subtracting 4 from both sides of the equation k + 4 = 8 yields k = 4 . Substituting 23 for h and 4 for k in the equation y = a ( x - h ) ^2 + k + 4 yields y = a ( x - 23 ) ^2 + 4 + 4 , or y = a ( x - 23 ) ^2 + 8 . The value of a can be found by substituting any x -value and its corresponding y -value for x and y , respectively, in this equation. Substituting 25 for x and (-) 8 for y in this equation yields (-) 8 = a ( 25 - 23 ) ^2 + 8 , or (-) 8 = a ( 2 ) ^2 + 8 . Subtracting 8 from both sides of this equation yields (-) 16 = a ( 2 ) ^2 , or (-) 16 = 4 a . Dividing both sides of this equation by 4 yields (-) 4 = a . Substituting (-) 4 for a , 23 for h , and 4 for k in the equation f ( x ) = a ( x - h ) ^2 + k yields f ( x ) = - 4 ( x - 23 ) ^2 + 4 . The y -intercept of the graph of y = f ( x ) in the xy -plane is the point on the graph where x = 0 . Substituting 0 for x in the equation f ( x ) = - 4 ( x - 23 ) ^2 + 4 yields f ( 0 ) = - 4 ( 0 - 23 ) ^2 + 4 , or f ( 0 ) = - 4 ( (-) 23 ) ^2 + 4 . This is equivalent to f ( 0 ) = (-) 2,112 , so the y -intercept of the graph of y = f ( x ) in the xy -plane is ( 0, (-) 2,112 ) . Thus,\u00a0the y -coordinate of the y -intercept of the graph of y = f ( x ) in the xy -plane is (-) 2,112 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "45df91ee",
+        "Prompt": "g ( x ) = 11 ( 1 /12 ) ^ x If the given function g is graphed in the xy - plane, where y = g ( x ), what is the y - intercept of the graph?",
+        "Answer Choices": [
+            "(0, 11)",
+            "(0, 132)",
+            "(0, 1)",
+            "(0, 12)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The x -coordinate of any y -intercept of a graph is 0 . Substituting 0 for x in the given equation yields g ( 0 ) = 11 ( 1 /12 ) ^ 0 . Since any nonzero number raised to the 0 th power is 1 , this gives g ( 0 ) = 11 * 1 , or g ( 0 ) = 11 . The y -intercept of the graph is, therefore, the point (0, 11) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "97158b3a",
+        "Prompt": "The area A, in square centimeters, of a rectangular painting can be represented by the expression w(w + 29), where w is the width, in centimeters, of the painting. Which expression represents the length, in centimeters, of the painting?",
+        "Answer Choices": [
+            "w",
+            "29",
+            "w + 29",
+            "w(w + 29)"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the expression w(w + 29) represents the area, in square centimeters, of a rectangular painting, where w is the width, in centimeters, of the painting. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in centimeters, of the painting is represented by the expression w + 29 .  Choice A is incorrect. This expression represents the width, in centimeters, of the painting, not its length, in centimeters.  Choice B is incorrect. This is the difference between the length, in centimeters, and the width, in centimeters, of the painting, not its length, in centimeters.  Choice D is incorrect. This expression represents the area, in square centimeters, of the\u00a0painting, not its length, in centimeters."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "84e8cc72",
+        "Prompt": "A quadratic function models the h8, in feet, of an object above the ground in terms of the time, in seconds, after the object is launched off an elevated surface. The model indicates the object has an initial h8 of 10 feet above the ground and reaches its maximum h8 of 1,034 feet above the ground 8 seconds after being launched. Based on the model, what is the h8, in feet, of the object above the ground 10 seconds after being launched?",
+        "Answer Choices": [
+            "234",
+            "778",
+            "970",
+            "1,014"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that a quadratic function models the height, in feet, of an object above the ground in terms of the time, in seconds, after the object is launched off an elevated surface. This quadratic function can be defined by an equation of the form f ( x ) = a ( x - h ) ^2 + k , where f(x) is the height of the object x seconds after it was launched, and a , h , and k are constants such that the function reaches its maximum value, k , when x = h . Since the model indicates the object reaches its maximum height of 1,034 feet above the ground 8 seconds after being launched, f(x) reaches its maximum value, 1,034 , when x = 8 . Therefore, k = 1,034 and h = 8 . Substituting 8 for h and 1,034 for k in the function f ( x ) = a ( x - h ) ^2 + k yields f ( x ) = a ( x - 8 ) ^2 + 1,034 . Since the model indicates the object has an initial height of 10 feet above the ground, the value of f(x) is 10 when x = 0 . Substituting 0 for x and 10 for f(x) in the equation f ( x ) = a ( x - 8 ) ^2 + 1,034 yields 10 = a ( 0 - 8 ) ^2 + 1,034 , or 10 = 64 a + 1,034 . Subtracting 1,034 from both sides of this equation yields 64 a = (-) 1,024 . Dividing both sides of this equation by 64 yields a = (-) 16 . Therefore, the model can be represented by the equation f ( x ) = - 16 ( x - 8 ) ^2 + 1,034 . Substituting 10 for x in this equation yields f ( 10 ) = - 16 ( 10 - 8 ) ^2 + 1,034 , or f ( 10 ) = 970 . Therefore, based on the model, 10 seconds after being launched, the height of the object above the ground is 970 feet.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "d8ace155",
+        "Prompt": "A company opens an account with an initial balance of dollar sign 36,100.00. The account earns interest, and no additional deposits or withdrawals are made. The account balance is given by an exp1ntial function upper A, where upper A ( t ) is the account balance, in dollars, t years after the account is opened. The account balance after 13 years is dollar sign 68,071.93. Which equation could define upper A?",
+        "Answer Choices": [
+            "upper A ( t ) = 36,100.00 ( 1.05 ) ^ t",
+            "upper A ( t ) = 31,971.93 ( 1.05 ) ^ t",
+            "upper A ( t ) = 31,971.93 ( 0.05 ) ^ t",
+            "upper A ( t ) = 36,100.00 ( 0.05 ) ^ t"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since it's given that the account balance, upper A ( t ) , in dollars, after t years can be modeled by an exponential function, it follows that function upper A can be written in the form upper A ( t ) = upper N r ^ t , where upper N is the initial value of the function and r is a constant related to the growth of the function. It's given that the initial balance of the account is dollar sign 36,100.00 , so it follows that the initial value of the function, or upper N , must be (36, 100.000000000000) . Substituting (36, 100.000000000000) for upper N in the equation upper A ( t ) = upper N r ^ t yields upper A ( t ) = 36,100.00 r ^ t . It's given that the account balance after 13 years, or when t = 13 , is dollar sign 68,071.93 . It follows that upper A ( 13 ) = 68,071.93 , or 36,100.00 r ^ 13 = 68,071.93 . Dividing each side of the equation 36,100.00 r ^ 13 = 68,071.93 by (36, 100.000000000000) yields r ^ 13 = ( 68,071.93 / 36,100.00 ) . Taking the 13 th root of both sides of this equation yields r = ^1/ 13 sqrt( ( 68,071.93 / 36,100.00 ) ) , or r is approximately equal to 1.05000000000000 . Substituting 1.05000000000000 for r in the equation upper A ( t ) = 36,100.00 r ^ t yields upper A ( t ) = 36,100.00 ( 1.05 ) ^ t , so the equation upper A ( t ) = 36,100.00 ( 1.05 ) ^ t could define upper A .  Choice B is incorrect. Substituting 0 for t in this function indicates an initial balance of dollar sign 31,971.93 , rather than dollar sign 36,100.00 .  Choice C is incorrect. Substituting 0 for t in this function indicates an initial balance of dollar sign 31,971.93 , rather than dollar sign 36,100.00 . Additionally, this function indicates the account balance is decreasing, rather than increasing, over time.  Choice D is incorrect. This function indicates the account balance is decreasing, rather than increasing, over time."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "cd358b89",
+        "Prompt": "Function f is defined by f ( x ) = ( x + 6 ) ( x + 5 ) ( x + 1 ). Function g is defined by g ( x ) = f ( x - 1 ). The graph of y = g ( x ) in the xy - plane has x - intercepts at (a, 0), (b, 0), and (c, 0), where a, b, and c are distinct constants. What is the value of a + b + c?",
+        "Answer Choices": [
+            "(-) 15",
+            "(-) 9",
+            "11",
+            "15"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that g ( x ) = f ( x - 1 ) . Since f ( x ) = ( x + 6 ) ( x + 5 ) ( x + 1 ) , it follows that f ( x - 1 ) = ( x - 1 + 6 ) ( x - 1 + 5 ) ( x - 1 + 1 ) . Combining like terms yields f ( x - 1 ) = ( x + 5 ) ( x + 4 ) ( x ) . Therefore, g ( x ) = x ( x + 5 ) ( x + 4 ) . The x -intercepts of a graph in the xy -plane are the points where y = 0 . The x -coordinates of the x -intercepts of the graph of y = g ( x ) in the xy -plane can be found by solving the equation 0 = x ( x + 5 ) ( x + 4 ) . Applying the zero product property to this equation yields three equations: x = 0 , x + 5 = 0 , and x + 4 = 0 . Solving each of these equations for x yields x = 0 , x = (-) 5 , and x = (-) 4 , respectively. Therefore, the x -intercepts of the graph of y = g ( x ) are (0, 0) , ( (-) 5, 0 ) , and ( (-) 4, 0 ) . It follows that the values of a , b , and c are 0 , (-) 5 , and (-) 4 . Thus, the value of a + b + c is 0 + ( (-) 5 ) + ( (-) 4 ) , which is equal to (-) 9 .  Choice A is incorrect. This is the value of a + b + c if g ( x ) = f ( x + 1 ) .  Choice C is incorrect. This is the value of a + b + c - 1 if g ( x ) = ( x - 6 ) ( x - 5 ) ( x - 1 ) .  Choice D is incorrect. This is the value of a + b + c if f ( x ) = ( x - 6 ) ( x - 5 ) ( x - 1 ) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "f1c81b3b",
+        "Prompt": "The exp1ntial function g is defined by g ( x ) = 19 * a ^ x, where a is a positive constant. If g ( 3 ) = 2,375, what is the value of g(4)?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "11875",
+        "Rationale": "The correct answer is (11, 875) . It's given that the exponential function g is defined by g ( x ) = 19 * a ^ x , where a is a positive constant, and g ( 3 ) = 2,375 . It follows that when x = 3 , g ( x ) = 2,375 . Substituting 3 for x and (2, 375) for g(x) in the given equation yields 2,375 = 19 * a ^3 . Dividing each side of this equation by 19 yields 125 = a ^3 . Taking the cube root of both sides of this equation gives a = 5 . Substituting 4 for x and 5 for a in the equation g ( x ) = 19 * a ^ x yields g ( 4 ) = 19 * 5 ^ 4 , or g ( 4 ) = 11, 875 . Therefore, the value of g(4) is (11, 875) ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "0aaef7aa",
+        "Prompt": "The function p is defined by p ( n ) = 7 n ^3. What is the value of n when p(n) is equal to 56?",
+        "Answer Choices": [
+            "2",
+            "8 /3s",
+            "7",
+            "8"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that p ( n ) = 7 n ^3 . Substituting 56 for p(n) in this equation yields 56 = 7 n ^3 . Dividing each side of this equation by 7 yields 8 = n ^3 . Taking the cube root of each side of this equation yields 2 = n . Therefore, when p(n) is equal to 56 , the value of n is 2 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "b7cd6ca6",
+        "Prompt": "The equation upper E ( t ) = 5 ( 1.8 ) ^ t gives the estimated number of employees at a restaurant, where t is the number of years since the restaurant opened. Which of the following is the best interpretation of the number 5 in this context?",
+        "Answer Choices": [
+            "The estimated number of employees when the restaurant opened",
+            "The increase in the estimated number of employees each year",
+            "The number of years the restaurant has been open",
+            "The percent increase in the estimated number of employees each year"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. For an exponential function of the form upper E ( t ) = a ( b ) ^ t , where a and b are constants, the initial value of the function\u2014that is, the value of the function when t = 0 \u2014is a and the value of the function increases by a factor of b each time t increases by 1 . Since the function upper E ( t ) = 5 ( 1.8 ) ^ t gives the estimated number of employees at a restaurant and t is the number of years since the restaurant opened, the best interpretation of the number 5 in this context is the estimated number of employees when t = 0 , or when the restaurant opened.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "6d9e01a2",
+        "Prompt": "f ( x ) = 4 x ^2 - 50 x + 126 The given equation defines the function f. For what value of x does f(x) reach its minimum?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "25/4,  6.25",
+        "Rationale": "The correct answer is 25/4 . The given equation can be rewritten in the form f ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants. When a greater than 0 , h is the value of x for which f(x) reaches its minimum. The given equation can be rewritten as f ( x ) = 4 ( x ^2 - ( 50 / 4 ) x ) + 126 , which is equivalent to f ( x ) = 4 ( x ^2 - ( 50 / 4 ) x + ( ( 50 / 8 ) ) ^2 - ( ( 50 / 8 ) ) ^2 ) + 126 . This equation can be rewritten as f ( x ) = 4 ( ( x - ( 50 / 8 ) ) ^2 - ( ( 50 / 8 ) ) ^2 ) + 126 , or f ( x ) = 4 ( x - ( 50 / 8 ) ) ^2 - 4 ( ( 50 / 8 ) ) ^2 + 126 , which is equivalent to f ( x ) = 4 ( x - ( 25 / 4 ) ) ^2 - ( 121 / 4 ) . Therefore, h = ( 25 / 4 ) , so the value of x for which f(x) reaches its minimum is 25/4 . Note that 25/4 and 6.25 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "2cf7f039",
+        "Prompt": "The function f is defined by f ( x ) = 8 sqrt( x ). For what value of x does f ( x ) = 48?",
+        "Answer Choices": [
+            "6",
+            "8",
+            "36",
+            "64"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that f ( x ) = 8 sqrt( x ) . Substituting 48 for f(x) in this equation yields 48 = 8 sqrt( x ) . Dividing both sides of this equation by 8 yields 6 = sqrt( x ) . This can be rewritten as sqrt( x ) = 6 . Squaring both sides of this equation yields x = 36 . Therefore, the value of x for which f ( x ) = 48 is 36 .  Choice A is incorrect. If x = 6 , f ( x ) = 8 sqrt( 6 ) , not 48 .  Choice B is incorrect. If x = 8 , f ( x ) = 8 sqrt( 8 ) , not 48 .  Choice D is incorrect. If x = 64 , f ( x ) = 8 sqrt( 64 ) , which is equivalent to 64 , not 48 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "0e61101e",
+        "Prompt": "f ( x ) = 9 ( 4 ) ^ x The function f is defined by the given equation. If g ( x ) = f ( x + 2 ), which of the following equations defines the function g?",
+        "Answer Choices": [
+            "g ( x ) = 18 ( 4 ) ^ x",
+            "g ( x ) = 144 ( 4 ) ^ x",
+            "g ( x ) = 18 ( 8 ) ^ x",
+            "g ( x ) = 81 ( 16 ) ^ x"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that f ( x ) = 9 ( 4 ) ^ x and g ( x ) = f ( x + 2 ) . Substituting x + 2 for x in f ( x ) = 9 ( 4 ) ^ x gives f ( x + 2 ) = 9 ( 4 ) ^ x + 2 . Rewriting this equation using properties of exponents gives f ( x + 2 ) = 9 ( 4 ) ^ x ( 4 ) ^2 , which is equivalent to f ( x + 2 ) = 9 ( 4 ) ^ x ( 16 ) . Multiplying 9 and 16 in this equation gives f ( x + 2 ) = 144 ( 4 ) ^ x . Since g ( x ) = f ( x + 2 ) , g ( x ) = 144 ( 4 ) ^ x .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "04bbce67",
+        "Prompt": "f ( x ) = ( x + 7 ) ^2 + 4 The function f is defined by the given equation. For what value of x does f(x) reach its minimum?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-7",
+        "Rationale": "The correct answer is (-) 7 . For a quadratic function defined by an equation of the form f ( x ) = a ( x - h ) ^2 + k , where a , h , and k are constants and a greater than 0 , the function reaches its minimum when x = h . In the given function, a = 1 , h = (-) 7 , and k = 4 . Therefore, the value of x for which f(x) reaches its minimum is (-) 7 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "79ba511a",
+        "Prompt": "The function f is defined by f ( x ) = x ^3 + 15. What is the value of f(2)?",
+        "Answer Choices": [
+            "20",
+            "21",
+            "23",
+            "24"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The value of f(2) is the value of f(x) when x = 2 . Substituting 2 for x in the given function yields f ( 2 ) = ( 2 ) ^3 + 15 , or f ( 2 ) = 8 + 15 , which is equivalent to f ( 2 ) = 23 . Therefore, the value of f(2) is 23 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the value of f(2) when f ( x ) = x ( 3 ) + 15 , rather than f ( x ) = x ^3 + 15 .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "50418728",
+        "Prompt": "In quadrant 3, the curve rises to its maximum at . (0 , (-) 3). In quadrant 4, the curve then falls. The graph of the polynomial function f, where y = f ( x ), is shown. The y - intercept of the graph is (0, y). What is the value of y?",
+        "Answer Choices": [
+            "In quadrant 3, the curve rises to its maximum at . (0, (-) 3).",
+            "In quadrant 4, the curve then falls."
+        ],
+        "Correct Answer": "-3",
+        "Rationale": "The correct answer is (-) 3 . The y -intercept of the graph of a function in the xy -plane is the point where the graph crosses the y -axis. The graph of the\u00a0polynomial function shown crosses the y -axis at the point ( 0, (-) 3 ) . It's given that the y -intercept of the graph is (0, y) . Thus, the value of y is (-) 3 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "1fe10d97",
+        "Prompt": "p ( t ) = 90,000 ( 1.06 ) ^ t The given function p models the population of Lowell t years after a census. Which of the following functions best models the population of Lowell m months after the census?",
+        "Answer Choices": [
+            "r ( m ) = ( 90,000 / 12 ) ( 1.06 ) ^ m",
+            "r ( m ) = 90,000 ( ( 1.06 / 12 ) ) ^ m",
+            "r ( m ) = 90,000 ( ( 1.06 / 12 ) ) ^ ( m / 12 )",
+            "r ( m ) = 90,000 ( 1.06 ) ^ ( m / 12 )"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the function p models the population of Lowell t years after a census. Since there are 12 months in a year, m months after the census is equivalent to m/12 years after the census. Substituting m/12 for t in the equation p ( t ) = 90,000 ( 1.06 ) ^ t yields p ( ( m / 12 ) ) = 90,000 ( 1.06 ) ^ ( m / 12 ) . Therefore, the function r that best models the population of Lowell m months after the census is r ( m ) = 90,000 ( 1.06 ) ^ ( m / 12 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "08d03fe4",
+        "Prompt": "For the exp1ntial function f, the value of f(1) is k, where k is a constant. Which of the following equivalent forms of the function f shows the value of k as the coefficient or the base?",
+        "Answer Choices": [
+            "f ( x ) = 50 ( 2 ) ^ x + 1",
+            "f ( x ) = 80 ( 2 ) ^ x",
+            "f ( x ) = 128 ( 2 ) ^ x - 1",
+            "f ( x ) = 205 ( 2 ) ^ x - 2"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. For the form of the function in choice C, f ( x ) = 128 ( 1.6 ) ^ x - 1 , the value of f(1) can be found as 128 ( 1.6 ) ^ 1 - 1 , which is equivalent to 128 ( 1.6 ) ^ 0 , or 128 . Therefore, k = 128 , which is shown in f ( x ) = 128 ( 1.6 ) ^ x - 1 as the coefficient.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "3918e8bc",
+        "Prompt": "An object is kicked from a platform. The equation h = - 4.9 t ^2 + 7 t + 9 represents this situation, where h is the h8 of the object above the ground, in meters, t seconds after it is kicked. Which number represents the h8, in meters, from which the object was kicked?",
+        "Answer Choices": [
+            "0",
+            "4.90000000000000",
+            "7",
+            "9"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the equation h = - 4.9 t ^2 + 7 t + 9 represents this situation, where h is the height, in meters, of the object t seconds after it is kicked. It follows that the height, in meters, from which the object was kicked is the value of h when t = 0 . Substituting 0 for t in the equation h = - 4.9 t ^2 + 7 t + 9 yields h = - 4.9 ( 0 ) ^2 + 7 ( 0 ) + 9 , or h = 9 . Therefore, the object was kicked from a height of 9 meters.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "de362c2f",
+        "Prompt": "The function f is defined by f ( x ) = 5 x ^2. What is the value of f(8)?",
+        "Answer Choices": [
+            "40",
+            "50",
+            "80",
+            "320"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that the function f is defined by f ( x ) = 5 x ^2 . Substituting 8 for x in f ( x ) = 5 x ^2 yields f ( 8 ) = 5 ( 8 ) ^2 , which is equivalent to f ( 8 ) = 5 ( 64 ) , or f ( 8 ) = 320 . Therefore, the value of f(8) is 320 .  Choice A is incorrect. This is the value of f(8) if f ( x ) = 5 x .  Choice B is incorrect. This is the value of f(8) if f ( x ) = 5 ( x + 2 ) .  Choice C is incorrect. This is the value of f(8) if f ( x ) = ( 5 x ) ( 2 ) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "43926bd9",
+        "Prompt": "",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 8. The values of f of x for the exponential function f shown in the table increase by a factor of a, to the /4 ^ for each increase of 1 in x . This relationship can be represented by the equation f of x = a, raised to the 4 x + b ^ , where b is a constant. It\u2019s given that when x = 2 , f of x = a, to the /5 ^ .\u00a0 Substituting 2 for x and a, to the /5 ^ for f of x into f of x = a, raised to the 4 x + b ^ yields a, to the /5 ^ = a, raised to the 4 * 2, + b ^ . Since 4 * 2, + b, = 5 , it follows that b = (-) 3 . Thus, an equation that defines the function f is f of x = a, raised to the 4 x - 3 ^ . It follows that the value of k such that f of k = a, to the twenty /9 ^ can be found by solving the equation 4 k - 3, = 29 , which yields k = 8 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Easy",
+        "ID": "044c1cb7",
+        "Prompt": "h ( x ) = x ^2 - 3 Which table gives 3 values of x and their corresponding values of h(x) for the given function h?",
+        "Answer Choices": [
+            "x123h(x)456",
+            "x123h(x)(-) 216",
+            "x123h(x)(-) 113",
+            "x123h(x)(-) 213"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2032s given that h ( x ) = x ^2 - 3 . Each table gives 1 , 2 , and 3 as the three given values of x . Substituting 1 for x in the equation h ( x ) = x ^2 - 3 yields h ( 1 ) = ( 1 ) ^2 - 3 , or h ( 1 ) = (-) 2 . Substituting 2 for x in the equation h ( x ) = x ^2 - 3 yields h ( 2 ) = ( 2 ) ^2 - 3 , or h ( 2 ) = 1 . Finally, substituting 3 for x in the equation h ( x ) = x ^2 - 3 yields h ( 3 ) = ( 3 ) ^2 - 3 , or h ( 3 ) = 6 . Therefore, h(x) is (-) 2 when x is 1 , h(x) is 1 when x is 2 , and h(x) is 6 when x is 3 . Choice B is a table with these values of x and their corresponding values of h(x) .  Choice A is incorrect. This is a table of values for the function h ( x ) = x + 3 , not h ( x ) = x ^2 - 3 .  Choice C is incorrect. This is a table of values for the function h ( x ) = 2 x - 3 , not h ( x ) = x ^2 - 3 .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "7e5a3640",
+        "Prompt": "Bacteria are growing in a liquid growth medium. There were (300, 0) cells per milliliter during an initial observation. The number of cells per milliliter doubles every 3 hours. How many cells per milliliter will there be 15 hours after the initial observation?",
+        "Answer Choices": [
+            "(1, 500, 0)",
+            "(2, 400, 0)",
+            "(4, 500, 0)",
+            "(9, 600, 0)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Let y represent the number of cells per milliliter x hours after the initial observation. Since the number of cells per milliliter doubles every 3 hours, the relationship between x and y can be represented by an exponential equation of the form y = a ( b ) ^ ( x / k ) , where a is the number of cells per milliliter during the initial observation and the number of cells per milliliter increases by a factor of b every k hours. It\u2019s given that there were (300, 0) cells per milliliter during the initial observation. Therefore, a = 300,000 . It\u2019s also given that the number of cells per milliliter doubles, or increases by a factor of 2 , every 3 hours. Therefore, b = 2 and k = 3 . Substituting (300, 0) for a , 2 for b , and 3 for k in the equation y = a ( b ) ^ ( x / k ) yields y = 300,000 ( 2 ) ^ ( x / 3 ) . The number of cells per milliliter there will be 15 hours after the initial observation is the value of y in this equation when x = 15 . Substituting 15 for x in the equation y = 300,000 ( 2 ) ^ ( x / 3 ) yields y = 300,000 ( 2 ) ^ ( 15 / 3 ) , or y = 300,000 ( 2 ) ^ 5 . This is equivalent to y = 300,000 ( 32 ) , or y = 9,600,000 . Therefore, 15 hours after the initial observation, there will be (9, 600, 0) cells per milliliter.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect\u00a0and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "4d037075",
+        "Prompt": "Moving from left to right: The curve is in quadrant 3. The curve trends down sharply. As x increases, the curve approaches the line x = (-) 4. As x decreases, the curve approaches the line y = 0. The curve passes through the following points: ((-) 7 , (-) 2) ((-) 6 , (-) 3) ((-) 5 , (-) 6) The rational function f is defined by an equation in the form f ( x ) = ( a / x + b ), where a and b are constants. The partial graph of y = f ( x ) is shown. If g ( x ) = f ( x + 4 ), which equation could define function g?",
+        "Answer Choices": [
+            "g ( x ) = ( 6 / x )",
+            "g ( x ) = ( 6 / x + 4 )",
+            "g ( x ) = ( 6 / x + 8 )",
+            "g ( x ) = ( 6 ( x + 4 ) / x + 4 )"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that f ( x ) = ( a / x + b ) and that the graph shown is a partial graph of y = f ( x ) . Substituting y for f(x) in the equation f ( x ) = ( a / x + b ) yields y = ( a / x + b ) . The graph passes through the point ( (-) 7, (-) 2 ) . Substituting (-) 7 for x and (-) 2 for y in the equation y = ( a / x + b ) yields (-) 2 = ( a / (-) 7 + b ) . Multiplying each side of this equation by (-) 7 + b yields - 2 ( (-) 7 + b ) = a , or 14 - 2 b = a . The graph also passes through the point ( (-) 5, (-) 6 ) . Substituting (-) 5 for x and (-) 6 for y in the equation y = ( a / x + b ) yields (-) 6 = ( a / (-) 5 + b ) . Multiplying each side of this equation by (-) 5 + b yields - 6 ( (-) 5 + b ) = a , or 30 - 6 b = a . Substituting 14 - 2 b for a in this equation yields 30 - 6 b = 14 - 2 b . Adding 6 b to each side of this equation yields 30 = 14 + 4 b . Subtracting 14 from each side of this equation yields 16 = 4 b . Dividing each side of this equation by 4 yields 4 = b . Substituting 4 for b in the equation 14 - 2 b = a yields 14 - 2 ( 4 ) = a , or 6 = a . Substituting 6 for a and 4 for b in the equation f ( x ) = ( a / x + b ) yields f ( x ) = ( 6 / x + 4 ) . It's given that g ( x ) = f ( x + 4 ) . Substituting x + 4 for x in the equation f ( x ) = ( 6 / x + 4 ) yields f ( x + 4 ) = ( 6 / x + 4 + 4 ) , which is equivalent to f ( x + 4 ) = ( 6 / x + 8 ) . It follows that g ( x ) = ( 6 / x + 8 ) .  Choice A is incorrect. This could define function g if g ( x ) = f ( x - 4 ) .  Choice B is incorrect. This could define function g if g ( x ) = f ( x ) .  Choice D is incorrect. This could define function g if g ( x ) = f ( x ) * ( x + 4 ) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "4d7064a6",
+        "Prompt": "f ( x ) = ( x - 10 ) ( x + 13 ) The function f is defined by the given equation. For what value of x does f(x) reach its minimum?",
+        "Answer Choices": [
+            "(-) 130",
+            "(-) 13",
+            "(-) ( 23 / 2 )",
+            "(-) 3 /2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that f ( x ) = ( x - 10 ) ( x + 13 ) , which can be rewritten as f ( x ) = x ^2 + 3 x - 130 . Since the coefficient of the x**2 -term is positive, the graph of y = f ( x ) in the xy -plane opens upward and reaches its minimum value at its vertex. The x -coordinate of the vertex is the value of x such that f(x) reaches its minimum. For an equation in the form f ( x ) = a x ^2 + b x + c , where a , b , and c are constants, the x -coordinate of the vertex is - ( b / 2 a ) . For the equation f ( x ) = x ^2 + 3 x - 130 , a = 1 , b = 3 , and c = (-) 130 . It follows that the x -coordinate of the vertex is - ( 3 / 2 ( 1 ) ) , or (-) 3 /2 . Therefore, f(x) reaches its minimum when the value of x is (-) 3 /2 .  Alternate approach: The value of x for the vertex of a parabola is the x -value of the midpoint between the two x -intercepts of the parabola. Since it\u2019s given that f ( x ) = ( x - 10 ) ( x + 13 ) , it follows that the two x -intercepts of the graph of y = f ( x ) in the xy -plane occur when x = 10 and x = (-) 13 , or at the points (10, 0) and ( (-) 13, 0 ) . The midpoint between two points, (x1, y1) and (x2, y2) , is ( ( x1 + x2 / 2 ) ( y1 + y2 / 2 ) ) . Therefore, the midpoint between (10, 0) and ( (-) 13, 0 ) is ( ( 10 + ( (-) 13 ) / 2 ) ( 0 + 0 / 2 ) ) , or ( (-) 3 /2, 0 ) . It follows that f(x) reaches its minimum when the value of x is (-) 3 /2 .  Choice A is incorrect. This is the y -coordinate of the y -intercept of the graph of y = f ( x ) in the xy -plane.  Choice B is incorrect. This is one of the x -coordinates of the x -intercepts of the graph of y = f ( x ) in the xy -plane.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "4993b828",
+        "Prompt": "The area upper A, in square centimeters, of a rectangular cutting board can be represented by the expression w(w + 9), where w is the width, in centimeters, of the cutting board. Which expression represents the length, in centimeters, of the cutting board?",
+        "Answer Choices": [
+            "w(w + 9)",
+            "w",
+            "9",
+            "w + 9"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that the expression w(w + 9) represents the area, in square centimeters, of a rectangular cutting board, where w is the width, in centimeters, of the cutting board. The area of a rectangle can be calculated by multiplying its length by its width. It follows that the length, in centimeters, of the cutting board is represented by the expression w + 9 .  Choice A is incorrect. This expression represents the area, in square centimeters, of the cutting board, not its length, in centimeters.  Choice B is incorrect. This expression represents the width, in centimeters, of the cutting board, not its length.  Choice C is incorrect. This is the difference between the length, in centimeters, and the width, in centimeters, of the cutting board, not its length, in centimeters."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "1853bb35",
+        "Prompt": "For the function q, the value of q(x) decreases by 45 percent sign for every increase in the value of x by1. If q ( 0 ) = 14, which equation defines q?",
+        "Answer Choices": [
+            "q ( x ) = 0.55 ( 14 ) ^ x",
+            "q ( x ) = 1.45 ( 14 ) ^ x",
+            "q ( x ) = 14 ( 0.55 ) ^ x",
+            "q ( x ) = 14 ( 1.45 ) ^ x"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since the value of q(x) decreases by a fixed percentage, 45 percent sign , for every increase in the value of x by 1 , the function q is a decreasing exponential function. A decreasing exponential function can be written in the form q ( x ) = a ( 1 - ( p / 100 ) ) ^ x , where a is the value of q(0) and the value of q(x) decreases by p percent sign for every increase in the value of x by 1 . If q ( 0 ) = 14 , then a = 14 . Since the value of q(x) decreases by 45 percent sign for every increase in the value of x by 1 , p = 45 . Substituting 14 for a and 45 for p in the equation q ( x ) = a ( 1 - ( p / 100 ) ) ^ x yields q ( x ) = 14 ( 1 - ( 45 / 100 ) ) ^ x , which is equivalent to q ( x ) = 14 ( 1 - 0.45 ) ^ x , or q ( x ) = 14 ( 0.55 ) ^ x .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. For this function, the value of q(x) increases, rather than decreases, by 45 percent sign for every increase in the value of x by 1 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Hard",
+        "ID": "a8ae0d22",
+        "Prompt": "Two variables, x and y, are related such that for each increase of 1 in the value of x, the value of y increases by a factor of 4. When x = 0, y = 200. Which equation represents this relationship?",
+        "Answer Choices": [
+            "y = 4 ( x ) ^ 200",
+            "y = 4 ( 200 ) ^ x",
+            "y = 200 ( x ) ^ 4",
+            "y = 200 ( 4 ) ^ x"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since the value of y increases by a constant factor, 4 , for each increase of 1 in the value of x , the relationship between x and y is exponential. An exponential relationship between x and y can be represented by an equation of the form y = a ( b ) ^ x , where a is the value of x when y = 0 and y increases by a factor of b for each increase of 1 in the value of x . Since y = 200 when x = 0 , a = 200 . Since y increases by a factor of 4 for each increase of 1 in the value of x , b = 4 . Substituting 200 for a and 4 for b in the equation y = a ( b ) ^ x yields y = 200 ( 4 ) ^ x . Thus, the equation y = 200 ( 4 ) ^ x represents the relationship between x and y .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect. This equation represents a relationship where for each increase of 1 in the value of x , the value of y increases by a factor of 200 , not 4 , and when x = 0 , y is equal to 4 , not 200 .  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Advanced Math",
+        "Skill": "Nonlinear functions",
+        "Difficulty": "Medium",
+        "ID": "981aca65",
+        "Prompt": "f ( x ) = ( a - 19 / x ) + 5 In the given function f, a is a constant. The graph of function f in the xy - plane, where y = f ( x ), is translated 3 units down and 4 units to the right to produce the graph of y = g ( x ). Which equation defines function g?",
+        "Answer Choices": [
+            "g ( x ) = ( a - 19 / x + 4 ) + 2",
+            "g ( x ) = ( a - 19 / x - 4 ) + 2",
+            "g ( x ) = ( a - 22 / x + 4 ) + 5",
+            "g ( x ) = ( a - 22 / x - 4 ) + 5"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the graph of y = g ( x ) is produced by translating the graph of y = f ( x )  3 units down and 4 units to the right in the xy -plane. Therefore, function g can be defined by an equation in the form g ( x ) = f ( x - 4 ) - 3 . Function f is defined by the equation f ( x ) = ( a - 19 / x ) + 5 , where a is a constant. Substituting x - 4 for x in the equation f ( x ) = ( a - 19 / x ) + 5 yields f ( x - 4 ) = ( a - 19 / x - 4 ) + 5 . Substituting a + 1 - 19/x for f(x - 4) in the equation g ( x ) = f ( x - 4 ) - 3 yields g ( x ) = ( a - 19 / x - 4 ) + 5 - 3 ,\u00a0or g ( x ) = ( a - 19 / x - 4 ) + 2 . Therefore, the equation that defines function g is g ( x ) = ( a - 19 / x - 4 ) + 2 .  Choice A is incorrect. This equation defines a function whose graph is produced by translating the graph of y = f ( x )  3 units down and 4 units to the left, not 3 units down and 4 units to the right.  Choice C is incorrect. This equation defines a function whose graph is produced by translating the graph of y = f ( x )  4 units to the left, not 3 units down and 4 units to the right.  Choice D is incorrect. This equation defines a function whose graph is produced by translating the graph of y = f ( x )  4 units to the right, not 3 units down and 4 units to the right."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image"
+]

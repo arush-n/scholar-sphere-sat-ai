@@ -1,0 +1,339 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Medium",
+        "ID": "bcb66188",
+        "Prompt": "Triangle upper F upper G upper H is similar to triangle upper J upper K upper L, where angle upper F corresponds to angle upper J and angles upper G and upper K are right angles. If sine ( upper F ) = ( 308 / 317 ), what is the value of sine ( upper J )?",
+        "Answer Choices": [
+            "75/317",
+            "308/317",
+            "317/308",
+            "317/75"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. If two triangles are similar, then their corresponding angles are congruent. It's given that right triangle upper F upper G upper H is similar to right triangle upper J upper K upper L and angle upper F corresponds to angle upper J . It follows that angle upper F is congruent to angle upper J and, therefore, the measure of angle upper F is equal to the measure of angle upper J . The sine ratios of angles of equal measure are equal. Since the measure of angle upper F is equal to the measure of angle upper J , sine ( upper F ) = sine ( upper J ) . It's given that sine ( upper F ) = ( 308 / 317 ) . Therefore, sine ( upper J ) is 308/317 .  Choice A is incorrect. This is the value of cosine ( upper J ) , not the value of sine ( upper J ) .  Choice C is incorrect. This is the reciprocal of the value of sine ( upper J ) , not the value of sine ( upper J ) .  Choice D is incorrect. This is the reciprocal of the value of cosine ( upper J ) , not the value of sine ( upper J ) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Medium",
+        "ID": "33e29881",
+        "Prompt": "In right triangle upper R upper S upper T, the sum of the measures of angle upper R and angle upper S is 90 degrees. The value of sine ( upper R ) is sqrt(15)/4. What is the value of cosine ( upper S )?",
+        "Answer Choices": [
+            "sqrt(15)/15",
+            "sqrt(15)/4",
+            "( 4 sqrt( 15 ) / 15 )",
+            "sqrt(15)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The sine of any acute angle is equal to the cosine of its complement. It\u2019s given that in right triangle upper R upper S upper T , the sum of the measures of angle upper R and angle upper S is 90 degrees. Therefore, angle upper R and angle upper S are complementary, and the value of sine upper R is equal to the value of cosine upper S . It's given that the value of sine upper R is sqrt(15)/4 , so the value of cosine upper S is also sqrt(15)/4 .  Choice A is incorrect. This is the value of tangent upper S .  Choice C is incorrect. This is the value of ( 1 / cosine upper S ) .  Choice D is incorrect. This is the value of ( 1 / tangent upper S ) ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Easy",
+        "ID": "b0c5ece5",
+        "Prompt": "One angle is a right angle. The length of the side opposite the right angle is 19. The lengths of the other 2 sides are as follows: b 4 A note indicates the figure is not drawn to scale. Which equation shows the relationship between the side lengths of the given triangle?",
+        "Answer Choices": [
+            "4 b = 19",
+            "4 + b = 19",
+            "4 ^2 + b ^2 = 19 ^2",
+            "4 ^2 - b ^2 = 19 ^2"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. Therefore, a ^2 + b ^2 = c ^2 , where a and b are the lengths of the legs and c is the length of the hypotenuse. For the given right triangle, the lengths of the legs are 4 and b , and the length of the hypotenuse is 19 . Substituting 4 for a and 19 for c in the equation a ^2 + b ^2 = c ^2 yields 4 ^2 + b ^2 = 19 ^2 . Thus, the relationship between the side lengths of the given triangle is 4 ^2 + b ^2 = 19 ^2 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "1429dcdf",
+        "Prompt": "One angle is a right angle. The measure of a second angle is x\u00b0. The length of the hypo10use is 23. The length of the leg opposite the angle with measure x\u00b0 is 16. A note indicates the figure is not drawn to scale. In the triangle shown, what is the value of sine x degree?",
+        "Answer Choices": [
+            "The measure of a second angle is x\u00b0.",
+            "The length of the hypo10use is 23.",
+            "The length of the leg opposite the angle with measure x\u00b0 is 16.",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": ".6956,  .6957,  16/23",
+        "Rationale": "The correct answer is 16/23 . In a right triangle, the sine of an acute angle is defined as the ratio of the length of the side opposite the angle to the length of the hypotenuse. In the triangle shown, the length of the side opposite the angle with measure x degree is 16 units and the length of the hypotenuse is 23 units. Therefore, the value of sine x degree is 16/23 . Note that 16/23, .6956, .6957, 0.695, and 0.696 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Easy",
+        "ID": "64c1f044",
+        "Prompt": "One angle is a right angle. The measure of a second angle is x\u00b0. The length of the leg opposite the angle with measure x\u00b0 is 26. The length of the leg adjacent to the angle with measure x\u00b0 is 7. A note indicates the figure is not drawn to scale. In the triangle shown, what is the value of tangent x degree?",
+        "Answer Choices": [
+            "1 twenty /6",
+            "19/26",
+            "26/7",
+            "33/7"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The tangent of an acute angle in a right triangle is defined as the ratio of the length of the side opposite the angle to the length of the shorter side adjacent to the angle. In the triangle shown, the length of the side opposite the angle with measure x degree is 26 units and the length of the side adjacent to the angle with measure x degree is 7 units. Therefore, the value of tangent x degree is 26/7 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "a4bd60a3",
+        "Prompt": "The perimeter of an equilateral triangle is 624 centimeters. The h8 of this triangle is k sqrt( 3 ) centimeters, where k is a constant. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "104",
+        "Rationale": "The correct answer is 104 . An equilateral triangle is a triangle in which all three sides have the same length and all three angles have a measure of 60 degree . The height of the triangle, k sqrt( 3 ) , is the length of the altitude from one vertex. The altitude divides the equilateral triangle into two congruent 30-60-90\u00a0right triangles, where the altitude is the side across from the 60 degree angle in each\u00a030-60-90\u00a0right triangle. Since the altitude has a length of k sqrt( 3 ) , it follows from the properties of\u00a030-60-90\u00a0right triangles that the side across from each 30 degree angle has a length of k and each hypotenuse has a length of 2 k . In this case, the hypotenuse of each\u00a030-60-90\u00a0right triangle is a side of the equilateral triangle; therefore, each side length of the equilateral triangle is 2 k . The perimeter of a triangle is the sum of the lengths of each side. It's given that the perimeter of the equilateral triangle is 624 ; therefore, 2 k + 2 k + 2 k = 624 , or 6 k = 624 . Dividing both sides of this equation by 6 yields k = 104 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Medium",
+        "ID": "de550be0",
+        "Prompt": "One angle is a right angle. The length of the side opposite the right angle is 21. The length of 1 side adjacent to the right angle is 6. The length of the other side adjacent to the right angle is a. A note indicates the figure is not drawn to scale. For the triangle shown, which expression represents the value of a?",
+        "Answer Choices": [
+            "9*sqrt(5)",
+            "405",
+            "sqrt(15)",
+            "15"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. For the right triangle shown, the lengths of the legs are a units and 6 units, and the length of the hypotenuse is 21 units. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. Therefore, a ^2 + 6 ^2 = 21 ^2 . Subtracting 36 from both sides of this equation yields a ^2 = 21 ^2 - 6 ^2 . Taking the square root of both sides of this equation yields a = + or - sqrt( 21 ^2 - 6 ^2 ) . Since a is a length, a must be positive. Therefore, a = sqrt( 21 ^2 - 6 ^2 ) . Thus, for the triangle shown, 9*sqrt(5) represents the value of a .  Choice B is incorrect. For the triangle shown, this expression represents the value of a**2 , not a .  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "ffe862a3",
+        "Prompt": "An isosceles right triangle has a hypo10use of length 58 inches. What is the perimeter, in inches, of this triangle?",
+        "Answer Choices": [
+            "29 sqrt( 2 )",
+            "58 sqrt( 2 )",
+            "58 + 58 sqrt( 2 )",
+            "58 + 116 sqrt( 2 )"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since the triangle is an isosceles right triangle, the two sides that form the right angle must be the same length. Let x be the length, in inches, of each of those sides. The Pythagorean theorem states that in a right triangle, a ^2 + b ^2 = c ^2 , where c is the length of the hypotenuse and a and b are the lengths of the other two sides. Substituting x for a , x for b , and 58 for c in this equation yields x ^2 + x ^2 = 58 ^2 , or 2 x ^2 = 58 ^2 . Dividing each side of this equation by 2 yields x ^2 = ( 58 ^2 / 2 ) ,\u00a0or x ^2 = ( 2 * 58 ^2 / 4 ) . Taking the square root of each side of this equation yields two solutions: x = ( 58 sqrt( 2 ) / 2 ) and x = - ( 58 sqrt( 2 ) / 2 ) . The value of x must be positive because it represents a side length. Therefore, x = ( 58 sqrt( 2 ) / 2 ) , or x = 29 sqrt( 2 ) . The perimeter, in inches, of the triangle is 2*x + 58 , or 58 + 2 x . Substituting 29 sqrt( 2 ) for x in this expression gives a perimeter, in inches, of 58 + 2 ( 29 sqrt( 2 ) ) , or 58 + 58 sqrt( 2 ) .  Choice A is incorrect. This is the length, in inches, of each of the congruent sides of the triangle, not the perimeter, in inches, of the triangle.  Choice B is incorrect. This is the sum of the lengths, in inches, of the congruent sides of the triangle, not the perimeter, in inches, of the triangle.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "568d66a7",
+        "Prompt": "An isosceles right triangle has a perimeter of 94 + 94 sqrt( 2 ) inches. What is the length, in inches, of 1 leg of this triangle?",
+        "Answer Choices": [
+            "47",
+            "47 sqrt( 2 )",
+            "94",
+            "94 sqrt( 2 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the right triangle is isosceles. In an isosceles right triangle, the two legs have equal lengths, and the length of the hypotenuse is sqrt(2) times the length of one of the legs. Let script l represent the length, in inches, of each leg of the isosceles right triangle. It follows that the length of the hypotenuse is script l sqrt( 2 ) inches. The perimeter of a figure is the sum of the lengths of the sides of the figure. Therefore, the perimeter of the isosceles right triangle is script l + script l + script l sqrt( 2 ) inches. It's given that the perimeter of the triangle is 94 + 94 sqrt( 2 ) inches. It follows that script l + script l + script l sqrt( 2 ) = 94 + 94 sqrt( 2 ) . Factoring the left-hand side of this equation yields ( 1 + 1 + sqrt( 2 ) ) script l = 94 + 94 sqrt( 2 ) , or ( 2 + sqrt( 2 ) ) script l = 94 + 94 sqrt( 2 ) . Dividing both sides of this equation by sqrt(2) + 2 yields script l = ( 94 + 94 sqrt( 2 ) / 2 + sqrt( 2 ) ) . Rationalizing the denominator of the right-hand side of this equation by multiplying the right-hand side of the equation by 2 - 3*sqrt(2)/2 yields script l = ( ( 94 + 94 sqrt( 2 ) ) ( 2 - sqrt( 2 ) ) / ( 2 + sqrt( 2 ) ) ( 2 - sqrt( 2 ) ) ) . Applying the distributive property to the numerator and to the denominator of the right-hand side of this equation yields script l = ( 188 - 94 sqrt( 2 ) + 188 sqrt( 2 ) - 94 sqrt( 4 ) / 4 - 2 sqrt( 2 ) + 2 sqrt( 2 ) - sqrt( 4 ) ) . This is equivalent to script l = ( 94 sqrt( 2 ) / 2 ) , or script l = 47 sqrt( 2 ) . Therefore, the length, in inches, of one leg of the isosceles right triangle is 47 sqrt( 2 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the length, in inches, of the hypotenuse.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "0e709a29",
+        "Prompt": "upper R upper S = 440 upper S upper T = 384 upper T upper R = 584 The side lengths of right triangle upper R upper S upper T are given. Triangle upper R upper S upper T is similar to triangle upper U upper V upper W, where upper S corresponds to upper V and upper T corresponds to upper W. What is the value of tangent upper W?",
+        "Answer Choices": [
+            "48/73",
+            "55/73",
+            "48/55",
+            "55/48"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The hypotenuse of triangle upper R upper S upper T is the longest side and is across from the right angle. The longest side length given is 584 , which is the length of side upper T upper R . Therefore, the hypotenuse of triangle upper R upper S upper T is side upper T upper R , so the right angle is angle upper S . The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side, which is the side across from the angle, to the length of the adjacent side, which is the side closest to the angle that is not the hypotenuse. It follows that the opposite side of angle upper T is side upper R upper S and the adjacent side of angle upper T is side upper S upper T . Therefore, tangent upper T = ( upper R upper S / upper S upper T ) . Substituting 440 for upper R upper S and 384 for upper S upper T in this equation yields tangent upper T = ( 440 / 384 ) . This is equivalent to tangent upper T = ( 55 / 48 ) . It\u2019s given that triangle upper R upper S upper T is similar to triangle upper U upper V upper W , where upper S corresponds to upper V and upper T corresponds to upper W . It follows that upper R corresponds to upper U . Therefore, the hypotenuse of triangle upper U upper V upper W is side upper W upper U , which means tangent upper W = ( upper U upper V / upper V upper W ) . Since the lengths of corresponding sides of similar triangles are proportional, ( upper R upper S / upper S upper T ) = ( upper U upper V / upper V upper W ) . Therefore, tangent upper W = ( upper U upper V / upper V upper W ) is equivalent to tangent upper W = ( upper R upper S / upper S upper T ) , or tangent upper W = tangent upper T . Thus, tangent upper W = ( 55 / 48 ) .  Choice A is incorrect. This is the value of cosine upper W , not tangent upper W .  Choice B is incorrect. This is the value of sine upper W , not tangent upper W .  Choice C is incorrect. This is the value of ( 1 / tangent upper W ) , not tangent upper W ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "f811d345",
+        "Prompt": "A right triangle has legs with lengths of 24 centimeters and 21 centimeters. If the length of this triangle's hypo10use, in centimeters, can be writ10 in the form 3 sqrt( d ), where d is an integer, what is the value of d?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "113",
+        "Rationale": "The correct answer is 113 . It's given that the legs of a right triangle have lengths 24 centimeters and 21 centimeters. In a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the two legs. It follows that if h represents the length, in centimeters, of the hypotenuse of the right triangle, h ^2 = 24 ^2 + 21 ^2 . This equation is equivalent to h ^2 = 1,017 . Taking the square root of each side of this equation yields h = sqrt( 1,017 ) . This equation can be rewritten as h = sqrt( 9 * 113 ) , or h = sqrt( 9 ) * sqrt( 113 ) . This equation is equivalent to h = 3 sqrt( 113 ) . It's given that the length of the triangle's hypotenuse, in centimeters, can be written in the form 3 sqrt( d ) . It follows that the value of d is 113 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "c9931030",
+        "Prompt": "upper R upper S = 20 upper S upper T = 48 upper T upper R = 52 The side lengths of right triangle upper R upper S upper T are given. Triangle upper R upper S upper T is similar to triangle upper U upper V upper W, where upper S corresponds to upper V and upper T corresponds to upper W. What is the value of tangent upper W?",
+        "Answer Choices": [
+            "5 thirteenths",
+            "5 /12s",
+            "12/13",
+            "12/5"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that right triangle upper R upper S upper T is similar to triangle upper U upper V upper W , where upper S corresponds to upper V and upper T corresponds to upper W . It's given that the side lengths of the right triangle upper R upper S upper T are upper R upper S = 20 , upper S upper T = 48 , and upper T upper R = 52 . Corresponding angles in similar triangles are equal. It follows that the measure of angle upper T is equal to the measure of angle upper W .\u00a0The hypotenuse of a right triangle is the longest side. It follows that the hypotenuse of triangle upper R upper S upper T is side upper T upper R . The hypotenuse of a right triangle is the side opposite the right angle. Therefore, angle upper S is a right angle. The adjacent side of an acute angle in a right triangle is the side closest to the angle that is not the hypotenuse. It follows that the adjacent side of angle upper T is side upper S upper T . The opposite side of an acute angle in a right triangle is the side across from the acute angle. It follows that the opposite side of angle upper T is side upper R upper S . The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side to the length of the adjacent side. Therefore, tangent upper T = ( upper R upper S / upper S upper T ) . Substituting 20 for upper R upper S and 48 for upper S upper T in this equation yields tangent upper T = ( 20 / 48 ) , or tangent upper T = 5 /12s . The tangents of two acute angles with equal measures are equal. Since the measure of angle upper T is equal to the measure of angle upper W , it follows that tangent upper T = tangent upper W . Substituting 5 /12s for tangent upper T in this equation yields 5 /12s = tangent upper W . Therefore, the value of tangent upper W is 5 /12s .  Choice A is incorrect. This is the value of sine upper W .  Choice C is incorrect. This is the value of cosine upper W .  Choice D is incorrect. This is the value of ( 1 / tangent upper W ) ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Medium",
+        "ID": "9ec76b54",
+        "Prompt": "A right triangle has legs with lengths of 28 centimeters and 20 centimeters. What is the length of this triangle's hypo10use, in centimeters?",
+        "Answer Choices": [
+            "8 sqrt( 6 )",
+            "4 sqrt( 74 )",
+            "48",
+            "(1, 184)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The Pythagorean theorem states that in a right triangle, the sum of the squares of the lengths of the two legs is equal to the square of the length of the hypotenuse. It's given that the right triangle has legs with lengths of 28 centimeters and 20 centimeters. Let c represent the length of this triangle's hypotenuse, in centimeters. Therefore, by the Pythagorean theorem, 28 ^2 + 20 ^2 = c ^2 , or 1,184 = c ^2 . Taking the positive square root of both sides of this equation yields sqrt( 1,184 ) = c , or 4 sqrt( 74 ) = c . Therefore, the length of this triangle's hypotenuse, in centimeters, is 4 sqrt( 74 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the square of the length of the triangle\u2019s hypotenuse."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "6ab30ce3",
+        "Prompt": "Triangle upper A upper B upper C is similar to triangle upper D upper E upper F, where upper A corresponds to upper D and upper C corresponds to upper F. Angles upper C and upper F are right angles. If tangent ( upper A ) = sqrt( 3 ) and upper D upper F = 125, what is the length of line segment upper D upper E?",
+        "Answer Choices": [
+            "125 ( sqrt( 3 ) / 3 )",
+            "125 ( sqrt( 3 ) / 2 )",
+            "125 sqrt( 3 )",
+            "250"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Corresponding angles in similar triangles have equal measures. It's given that triangle upper A upper B upper C is similar to triangle upper D upper E upper F , where upper A corresponds to upper D , so the measure of angle upper A is equal to the measure of angle upper D . Therefore, if tangent ( upper A ) = sqrt( 3 ) ,\u00a0then tangent ( upper D ) = sqrt( 3 ) . It's given that angles upper C and upper F are right angles, so triangles upper A upper B upper C and upper D upper E upper F are right triangles. The adjacent side of an acute angle in a right triangle is the side closest to the angle that is not the hypotenuse. It follows that the adjacent side of angle upper D is side upper D upper F . The opposite side of an acute angle in a right triangle is the side across from the acute angle. It follows that the opposite side of angle upper D is side upper E upper F . The tangent of an acute angle in a right triangle is the ratio of the length of the opposite side to the length of the adjacent side. Therefore, tangent ( upper D ) = ( upper E upper F / upper D upper F ) . If upper D upper F = 125 , the length of side upper E upper F can be found by substituting sqrt(3) for tangent ( upper D ) and 125 for upper D upper F in the equation tangent ( upper D ) = ( upper E upper F / upper D upper F ) , which yields sqrt( 3 ) = ( upper E upper F / 125 ) . Multiplying both sides of this equation by 125 yields 125 sqrt( 3 ) = upper E upper F . Since the length of side upper E upper F is sqrt(3) times the length of side upper D upper F , it follows that\u00a0triangle upper D upper E upper F is a special right triangle with angle measures 30 degree , 60 degree , and 90 degree . Therefore, the length of the hypotenuse, line segment upper D upper E , is 2 times the length of side upper D upper F , or upper D upper E = 2 ( upper D upper F ) . Substituting 125 for upper D upper F in this equation yields upper D upper E = 2 ( 125 ) , or upper D upper E = 250 . Thus, if tangent ( upper A ) = sqrt( 3 ) and upper D upper F = 125 , the length of line segment upper D upper E is 250 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the length of line segment upper E upper F , not line segment upper D upper E ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "7c25b0dc",
+        "Prompt": "The length of a rectangle\u2019s diagonal is 3 sqrt( 17 ), and the length of the rectangle\u2019s shorter side is 3. What is the length of the rectangle\u2019s longer side?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "12",
+        "Rationale": "The correct answer is 12 . The diagonal of a rectangle forms a right triangle, where the shorter side and the longer side of the rectangle are the legs of the triangle and the diagonal of the rectangle is the hypotenuse of the triangle. It's given that the length of the rectangle's diagonal is 3 sqrt( 17 ) and the length of the rectangle's shorter side is 3 . Thus, the length of the hypotenuse of the right triangle formed by the diagonal is 3 sqrt( 17 ) and the length of one of the legs is 3 . By the Pythagorean theorem, if a right triangle has a hypotenuse with length c and legs with lengths a and b , then a ^2 + b ^2 = c ^2 . Substituting 3 sqrt( 17 ) for c and 3 for b in this equation yields a ^2 + ( 3 ) ^2 = ( 3 sqrt( 17 ) ) ^2 , or a ^2 + 9 = 153 . Subtracting 9 from both sides of this equation yields a ^2 = 144 . Taking the square root of both sides of this equation yields a = + or - sqrt( 144 ) , or a = + or - 12 . Since a represents a length, which must be positive, the value of a is 12 . Thus, the length of the rectangle's longer side is 12 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Easy",
+        "ID": "c9f8d1e9",
+        "Prompt": "The side lengths are labeled as follows: a b c The angle opposite the side labeled c is a right angle. A note indicates the figure is not drawn to scale. For the right triangle shown, a = 4 and b = 5. Which expression represents the value of c?",
+        "Answer Choices": [
+            "9",
+            "sqrt( ( 4 ) ( 5 ) )",
+            "3",
+            "sqrt(41)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. By the Pythagorean theorem, if a right triangle has a hypotenuse with length c and legs with lengths a and b , then c ^2 = a ^2 + b ^2 . In the right triangle shown, the hypotenuse has length c and the legs have lengths a and b . It's given that a = 4 and b = 5 . Substituting 4 for a and 5 for b in the Pythagorean theorem yields c ^2 = 4 ^2 + 5 ^2 . Taking the square root of both sides of this equation yields c = + or - sqrt( 4 ^2 + 5 ^2 ) . Since the length of a side of a triangle must be positive, the value of c is sqrt(41) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Medium",
+        "ID": "a5aee181",
+        "Prompt": "The length of a rectangle\u2019s diagonal is 517, and the length of the rectangle\u2019s shorter side is 5. What is the length of the rectangle\u2019s longer side?",
+        "Answer Choices": [
+            "17",
+            "20",
+            "152",
+            "400"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. A rectangle\u2019s diagonal divides a rectangle into two congruent right triangles, where the diagonal is the hypotenuse of both triangles. It\u2019s given that the length of the diagonal is 5 sqrt( 17 ) and the length of the rectangle\u2019s shorter side is 5 . Therefore, each of the two right triangles formed by the rectangle\u2019s diagonal has a hypotenuse with length 5 sqrt( 17 ) , and a shorter leg with length 5 . To calculate the length of the longer leg of each right triangle, the Pythagorean theorem, a ^2 + b ^2 = c ^2 , can be used, where a and b are the lengths of the legs and c is the length of the hypotenuse of the triangle. Substituting 5 for a and 5 sqrt( 17 ) for c in the equation a ^2 + b ^2 = c ^2 yields 5 ^2 + b ^2 = ( 5 sqrt( 17 ) ) ^2 , which is equivalent to 25 + b ^2 = 25 ( 17 ) , or 25 + b ^2 = 425 . Subtracting 25 from each side of this equation yields b ^2 = 400 . Taking the positive square root of each side of this equation yields b = 20 . Therefore, the length of the longer leg of each right triangle formed by the diagonal of the rectangle is 20 . It follows that the length of the rectangle\u2019s longer side is 20 .  Choice A is incorrect and may result from dividing the length of the rectangle\u2019s diagonal by the length of the rectangle\u2019s shorter side, rather than substituting these values into the Pythagorean theorem.  Choice C is incorrect and may result from using the length of the rectangle\u2019s diagonal as the length of a leg of the right triangle, rather than the length of the hypotenuse.  Choice D is incorrect. This is the square of the length of the rectangle\u2019s longer side."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "ae041e52",
+        "Prompt": "A square is inscribed in a circle. The radius of the circle is ( 20 sqrt( 2 ) / 2 ) inches. What is the side length, in inches, of the square?",
+        "Answer Choices": [
+            "20",
+            "( 20 sqrt( 2 ) / 2 )",
+            "20 sqrt( 2 )",
+            "40"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. When a square is inscribed in a circle, a diagonal of the square is a diameter of the circle. It's given that a square is inscribed in a circle and the length of a radius of the circle is ( 20 sqrt( 2 ) / 2 ) inches. Therefore, the length of a diameter of the circle is 2 ( ( 20 sqrt( 2 ) / 2 ) ) inches, or 20 sqrt( 2 ) inches. It follows that the length of a diagonal of the square is 20 sqrt( 2 ) inches. A diagonal of a square separates the square into two right triangles in which the legs are the sides of the square and the hypotenuse is a diagonal. Since a square has 4 congruent sides, each of these two right triangles has congruent legs and a hypotenuse of length 20 sqrt( 2 ) inches. Since each of these two right triangles has congruent legs, they are both 45 - 45 - 90 triangles. In a 45 - 45 - 90 triangle, the length of the hypotenuse is sqrt(2) times the length of a leg. Let s represent the length of a leg of one of these 45 - 45 - 90 triangles. It follows that 20 sqrt( 2 ) = sqrt( 2 ) ( s ) . Dividing both sides of this equation by sqrt(2) yields 20 = s . Therefore, the length of a leg of one of these 45 - 45 - 90 triangles is 20 inches. Since the legs of these two 45 - 45 - 90 triangles are the sides of the square, it follows that the side length of the square is 20 inches.  Choice B is incorrect. This is the length of a radius, in inches, of the circle.  Choice C is incorrect. This is the length of a diameter, in inches, of the circle.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "c6dff223",
+        "Prompt": "Triangle upper A upper B upper C is similar to triangle upper D upper E upper F, where angle upper A corresponds to angle upper D and angles upper C and upper F are right angles. The length of line segment upper A upper B is 2.90000000000000 * the length of line segment upper D upper E. If tangent upper A = ( 21 / 20 ), what is the value of sine upper D?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".7241,  21/29",
+        "Rationale": "The correct answer is 21/29 . It's given that triangle upper A upper B upper C is similar to triangle upper D upper E upper F , where angle upper A corresponds to angle upper D and angles upper C and upper F are right angles. In similar triangles, the tangents of corresponding angles are equal. Therefore, if tangent upper A = ( 21 / 20 ) , then tangent upper D = ( 21 / 20 ) . In a right triangle, the tangent of an acute angle is the ratio of the length of the leg opposite the angle to the length of the leg adjacent to the angle. Therefore, in triangle upper D upper E upper F , if tangent upper D = ( 21 / 20 ) , the ratio of the length of line segment upper E upper F to the length of line segment upper D upper F is 21/20 . If the lengths of line segment upper E upper F and line segment upper D upper F are 21 and 20 , respectively, then the ratio of the length of line segment upper E upper F to the length of line segment upper D upper F is 21/20 . In a right triangle, the sine of an acute angle is the ratio of the length of the leg opposite the angle to the length of the hypotenuse. Therefore, the value of sine upper D is the ratio of the length of line segment upper E upper F to the length of line segment upper D upper E . The length of line segment upper D upper E can be calculated using the Pythagorean theorem, which states that if the lengths of the legs of a right triangle are a and b and the length of the hypotenuse is c , then a ^2 + b ^2 = c ^2 . Therefore, if the lengths of line segment upper E upper F and line segment upper D upper F are 21 and 20 , respectively, then ( 21 ) ^2 + ( 20 ) ^2 = ( upper D upper E ) ^2 , or 841 = ( upper D upper E ) ^2 . Taking the positive square root of both sides of this equation yields 29 = upper D upper E . Therefore, if the lengths of line segment upper E upper F and line segment upper D upper F are 21 and 20 , respectively, then the length of line segment upper D upper E is 29 and the ratio of the length of line segment upper E upper F to the length of line segment upper D upper E is 21/29 . Thus, if tangent upper A = ( 21 / 20 ) , the value of sine upper D is 21/29 . Note that 21/29, .7241, and 0.724 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "2be01bd9",
+        "Prompt": "Triangle upper A upper B upper C is similar to triangle upper D upper E upper F, where angle upper A corresponds to angle upper D and angle upper C corresponds to angle upper F. Angles upper C and upper F are right angles. If tangent ( upper A ) = ( 50 / 7 ), what is the value of tangent ( upper E )?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".14,  7/50",
+        "Rationale": "The correct answer is 7 fiftieths . It's given that triangle upper A upper B upper C is similar to triangle upper D upper E upper F , where angle upper A corresponds to angle upper D and angle upper C corresponds to angle upper F . In similar triangles, the tangents of corresponding angles are equal. Since angle upper A and angle upper D are corresponding angles, if tangent ( upper A ) = ( 50 / 7 ) , then tangent ( upper D ) = ( 50 / 7 ) . It's also given that angles upper C and upper F are right angles. It follows that triangle upper D upper E upper F is a right triangle with acute angles upper D and upper E . The tangent of one acute angle in a right triangle is the inverse of the tangent of the other acute angle in the triangle. Therefore, tangent ( upper E ) = ( 1 / tangent ( upper D ) ) . Substituting 50/7 for tangent ( upper D ) in this equation yields tangent ( upper E ) = ( 1 / ( 50 / 7 ) ) , or tangent ( upper E ) = 7 fiftieths . Thus, if tangent ( upper A ) = ( 50 / 7 ) , the value of tangent ( upper E ) is 7 fiftieths . Note that 7/50 and .14 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Right triangles and trigonometry",
+        "Difficulty": "Hard",
+        "ID": "8027db3f",
+        "Prompt": "In triangle upper J upper K upper L, cosine ( upper K ) = ( 24 / 51 ) and angle upper J is a right angle. What is the value of cosine ( upper L )?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".8823,  .8824,  15/17",
+        "Rationale": "The correct answer is 15/17 . It's given that angle upper J is the right angle in triangle upper J upper K upper L . Therefore, the acute angles of triangle upper J upper K upper L are angle upper K and angle upper L . The hypotenuse of a right triangle is the side opposite its right angle. Therefore, the hypotenuse of triangle upper J upper K upper L is side upper K upper L . The cosine of an acute angle in a right triangle is the ratio of the length of the side adjacent to the angle to the length of the hypotenuse. It's given that cosine ( upper K ) = ( 24 / 51 ) . This can be written as cosine ( upper K ) = 8 7teenths . Since the cosine of angle upper K is a ratio, it follows that the length of the side adjacent to angle upper K is 8 n and the length of the hypotenuse is 17 n , where n is a constant. Therefore, upper J upper K = 8 n and upper K upper L = 17 n . The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides. For triangle upper J upper K upper L , it follows that ( upper J upper K ) ^2 + ( upper J upper L ) ^2 = ( upper K upper L ) ^2 . Substituting 8 n for upper J upper K and 17 n for upper K upper L yields ( 8 n ) ^2 + ( upper J upper L ) ^2 = ( 17 n ) ^2 . This is equivalent to 64 n ^2 + ( upper J upper L ) ^2 = 289 n ^2 . Subtracting 64 n ^2 from each side of this equation yields ( upper J upper L ) ^2 = 225 n ^2 . Taking the square root of each side of this equation yields upper J upper L = 15 n . Since cosine ( upper L ) = ( upper J upper L / upper K upper L ) , it follows that cosine ( upper L ) = ( 15 n / 17 n ) , which can be rewritten as cosine ( upper L ) = ( 15 / 17 ) . Note that 15/17, .8824, .8823, and 0.882 are examples of ways to enter a correct answer."
+    },
+    "question contains image"
+]

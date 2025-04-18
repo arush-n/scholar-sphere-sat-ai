@@ -1,0 +1,722 @@
+[
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "ff501705",
+        "Prompt": "3 /2 y - 1 /4 x = 2 /3s - 3 /2 y 1 /2 x + 3 /2 = p y + 9 /2 In the given system of equations, p is a constant. If the system has no solution, what is the value of p?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "6",
+        "Rationale": "The correct answer is 6 . A system of two linear equations in two variables, x and y , has no solution if the lines represented by the equations in the xy -plane are parallel and distinct. Lines represented by equations in standard form, upper A x + upper B y = upper C and upper D x + upper E y = upper F , are parallel if the coefficients for x and y in one equation are proportional to the corresponding coefficients in the other equation, meaning ( upper D / upper A ) = ( upper E / upper B ) ;\u00a0and the lines are distinct if the constants are not proportional, meaning ( upper F / upper C ) is not equal to ( upper D / upper A ) or ( upper E / upper B ) . The first equation in the given system is 3 /2 y - 1 /4 x = 2 /3s - 3 /2 y . Multiplying each side of this equation by 12 yields 18 y - 3 x = 8 - 18 y . Adding 18 y to each side of this equation yields 36 y - 3 x = 8 , or - 3 x + 36 y = 8 . The second equation in the given system is 1 /2 x + 3 /2 = p y + 9 /2 . Multiplying each side of this equation by 2 yields x + 3 = 2 p y + 9 . Subtracting 2 p y from each side of this equation yields x + 3 - 2 p y = 9 . Subtracting 3 from each side of this equation yields x - 2 p y = 6 . Therefore, the two equations in the given system, written in standard form, are - 3 x + 36 y = 8 and x - 2 p y = 6 . As previously stated, if this system has no solution, the lines represented by the equations in the xy -plane are parallel and distinct, meaning the proportion ( 1 / (-) 3 ) = ( - 2 p / 36 ) , or (-) 1 /3 = - ( p / 18 ) , is true and the proportion 6 /8s = ( 1 / (-) 3 ) is not true. The proportion 6 /8s = ( 1 / (-) 3 ) is not true. Multiplying each side of the true proportion, (-) 1 /3 = - ( p / 18 ) ,\u00a0 by (-) 18 yields 6 = p . Therefore, if the system has no solution, then the value of p is 6 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "608eeb6e",
+        "Prompt": "5 x = 15 - 4 x + y = (-) 2 The solution to the given system of equations is (x, y). What is the value of x + y?",
+        "Answer Choices": [
+            "(-) 17",
+            "(-) 13",
+            "13",
+            "17"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Adding the second equation of the given system to the first equation yields 5 x + ( - 4 x + y ) = 15 + ( (-) 2 ) , which is equivalent to x + y = 13 . So the value of x + y is 13 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the value of -x - y .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "b0fc3166",
+        "Prompt": "For the first line in the system: The line is horizontal. The line passes through the following points: ((-) 4 , 3) (0 , 3) (2 , 3) For the second line in the system: The line slants sharply up from left to right. The line passes through the following points: ((-) 1 , (-) 4.5) (0 , (-) 2) (2 , 3) The graph of a system of linear equations is shown. What is the solution (x, y) to the system?",
+        "Answer Choices": [
+            "(0, 3)",
+            "(1, 3)",
+            "(2, 3)",
+            "(3, 3)"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The solution to this system of linear equations is represented by the point that lies on both lines shown, or the point of intersection of the two lines. According to the graph, the point of intersection occurs when x = 2 and y = 3 , or at the point (2, 3) . Therefore, the solution (x, y) to the system is (2, 3) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "bf4a8b6a",
+        "Prompt": "A company that provides whale-watching tours takes groups of 21 people at a time. The company\u2019s revenue is 80 dollars per adult and 60 dollars per child. If the company\u2019s revenue for 1 group consisting of adults and children was (1, 440) dollars, how many people in the group were children?",
+        "Answer Choices": [
+            "3",
+            "9",
+            "12",
+            "18"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Let x represent the number of children in a whale-watching tour group. Let y represent the number of adults in this group. Because it's given that 21 people are in a group and the group consists of adults and children, it must be true that x + y = 21 . Since the company's revenue is 60 dollars per child, the total revenue from x children in this group was 60 x dollars. Since the company's revenue is 80 dollars per adult, the total revenue from y adults in this group was 80 y dollars. Because it's given that the total revenue for this group was (1, 440) dollars, it must be true that 60 x + 80 y = 1,440 . The equations x + y = 21 and 60 x + 80 y = 1,440 form a linear system of equations that can be solved to find the value of x , which represents the number of children in the group, using the elimination method. Multiplying both sides of the equation x + y = 21 by 80 yields 80 x + 80 y = 1,680 . Subtracting 60 x + 80 y = 1,440 from 80 x + 80 y = 1,680 yields ( 80 x + 80 y ) - ( 60 x + 80 y ) = 1,680 - 1,440 , which is equivalent to 80 x - 60 x + 80 y - 80 y = 240 , or 20 x = 240 . Dividing both sides of this equation by 20 yields x = 12 . Therefore, 12 people in the group were children.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the number of adults in the group, not the number of children in the group.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "0dd6227f",
+        "Prompt": "At how many points do the graphs of the equations y = x + 20 and y = 8 x intersect in the xy - plane?",
+        "Answer Choices": [
+            "0",
+            "1",
+            "2",
+            "8"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Each given equation is written in slope-intercept form, y = m x + b , where m is the slope and (0, b) is the y -intercept of the graph of the equation in the xy -plane. The graphs of two lines that have different slopes will intersect at exactly one point. The graph of the first equation is a line with slope 1 . The graph of the second equation is a line with slope 8 . Since the graphs are lines with different slopes, they will intersect at exactly one point.  Choice A is incorrect because two graphs of linear equations have 0 intersection points only if they are parallel and therefore have the same slope.  Choice C is incorrect because two graphs of linear equations in the xy -plane can have only 0 , 1 , or infinitely many points of intersection.  Choice D is incorrect because two graphs of linear equations in the xy -plane can have only 0 , 1 , or infinitely many points of intersection."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "7efe5495",
+        "Prompt": "y = 3 x 2 x + y = 12 The solution to the given system of equations is (x, y). What is the value of 5 x?",
+        "Answer Choices": [
+            "24",
+            "15",
+            "12",
+            "5"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given by the first equation in the system that y = 3 x . Substituting 3 x for y in the equation 2 x + y = 12 yields 2 x + 3 x = 12 , or 5 x = 12 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "71189542",
+        "Prompt": "A group of 202 people went on an overnight camping trip, taking 60 10ts with them. Some of the 10ts held 2 people each, and the rest held 4 people each. Assuming all the 10ts were filled to capacity and every person got to sleep in a 10t, exactly how many of the 10ts were 2 - person 10ts?",
+        "Answer Choices": [
+            "30",
+            "20",
+            "19",
+            "18"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Let x represent the number of 2-person tents and let y represent the number of 4-person tents. It is given that the total number of tents was 60 and the total number of people in the group was 202. This situation can be expressed as a system of two equations, x + y, = 60 and 2 x + 4 y, = 202 . The first equation can be rewritten as y = (-) x + 60 . Substituting (-) x + 60 for y in the equation 2 x + 4 y, = 202 yields 2 x +, 4 * open parenthesis, (-) x + 60, close parenthesis, = 202 . Distributing and combining like terms gives (-) 2 x + 240, = 202 . Subtracting 240 from both sides of (-) 2 x + 240, = 202 and then dividing both sides by (-) 2 gives x = 19 . Therefore, the number of 2-person tents is 19. Alternate approach: If each of the 60 tents held 4 people, the total number of people that could be accommodated in tents would be 240. However, the actual number of people who slept in tents was 202. The difference of 38 accounts for the 2-person tents. Since each of these tents holds 2 people fewer than a 4-person tent, thirty 8 /2, = 19 gives the number of 2-person tents. Choice A is incorrect. This choice may result from assuming exactly half of the tents hold 2 people. If that were true, then the total number of people who slept in tents would be 2 * 30, +, 4 * 30, = 180 ; however, the total number of people who slept in tents was 202, not 180. Choice B is incorrect. If 20 tents were 2-person tents, then the remaining 40 tents would be 4-person tents. Since all the tents were filled to capacity, the total number of people who slept in tents would be 2 * 20, +, 4 * 40, = 40 + 160, which = 200 ; however, the total number of people who slept in tents was 202, not 200. Choice D is incorrect. If 18 tents were 2-person tents, then the remaining 42 tents would be 4-person tents. Since all the tents were filled to capacity, the total number of people who slept in tents would be 2 * 18, +, 4 * 42, = 36 + 168, which = 204 ; however, the total number of people who slept in tents was 202, not 204. EndFragment"
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "317e80f9",
+        "Prompt": "x + y = 18 5 y = x What is the solution (x, y) to the given system of equations?",
+        "Answer Choices": [
+            "(15, 3)",
+            "(16, 2)",
+            "(17, 1)",
+            "(18, 0)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The second equation in the given system defines the value of x as 5 y . Substituting 5 y for x into the first equation yields 5 y + y = 18 or 6 y = 18 . Dividing each side of this equation by 6 yields y = 3 . Substituting 3 for y in the second equation yields 5 ( 3 ) = x or x = 15 . Therefore, the solution (x, y) to the given system of equations is (15, 3) .  Choice B is incorrect. Substituting 16 for x and 2 for y in the second equation yields 5 ( 2 ) = 16 , which is not true. Therefore, (16, 2) is not a solution to the given system of equations.  Choice C is incorrect. Substituting 17 for x and 1 for y in the second equation yields 5 ( 1 ) = 17 , which is not true. Therefore, (17, 1) is not a solution to the given system of equations.  Choice D is incorrect. Substituting 18 for x and 0 for y in the second equation yields 5 ( 0 ) = 18 , which is not true. Therefore, (18, 0) is not a solution to the given system of equations."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "6a87902f",
+        "Prompt": "y = 2 x + 10 y = 2 x - 1 At how many points do the graphs of the given equations intersect in the xy - plane?",
+        "Answer Choices": [
+            "Zero",
+            "Exactly 1",
+            "Exactly 2",
+            "Infinitely many"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. A system of two linear equations in two variables, x and y , has zero points of intersection if the lines represented by the equations in the xy -plane are distinct and parallel. The graphs of two lines in the xy -plane represented by equations in slope-intercept form, y = m x + b , are distinct if the y -coordinates of their y -intercepts, b , are different and are parallel if their slopes, m , are the same. For the two equations in the given system, y = 2 x + 10 and y = 2 x - 1 , the values of b are 10 and (-) 1 , respectively, and the values of m are both 2 . Since the values of b are different, the graphs of these lines have different y -coordinates of the y -intercept and are distinct. Since the values of m are the same, the graphs of these lines have the same slope and are parallel. Therefore, the graphs of the given equations are lines that intersect at zero points in the xy -plane.  Choice B is incorrect. The graphs of a system of two linear equations have exactly one point of intersection if the lines represented by the equations have different slopes. Since the given equations represent lines with the same slope, there is not exactly one intersection point.  Choice C is incorrect. The graphs of a system of two linear equations can never have exactly two intersection points.  Choice D is incorrect. The graphs of a system of two linear equations have infinitely many intersection points when the lines represented by the equations have the same slope and the same y -coordinate of the y -intercept. Since the given equations represent lines with different y -coordinates of their y -intercepts, there are not infinitely many intersection points."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "f75bd744",
+        "Prompt": "4 x - 6 y = 10 y + 2 t y = 1 /2 + 2 x In the given system of equations, t is a constant. If the system has no solution, what is the value of t?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "8",
+        "Rationale": "The correct answer is 8 . The given system of equations can be solved using the elimination method. Multiplying both sides of the second equation in the given system by (-) 2 yields - 2 t y = (-) 1 - 4 x , or (-) 1 - 4 x = - 2 t y . Adding this equation to the first equation in the given system, 4 x - 6 y = 10 y + 2 , yields ( 4 x - 6 y ) + ( (-) 1 - 4 x ) = ( 10 y + 2 ) + ( - 2 t y ) , or (-) 1 - 6 y = 10 y - 2 t y + 2 . Subtracting 10 y from both sides of this equation yields ( (-) 1 - 6 y ) - ( 10 y ) = ( 10 y - 2 t y + 2 ) - ( 10 y ) , or (-) 1 - 16 y = - 2 t y + 2 . If the given system has no solution, then the equation (-) 1 - 16 y = - 2 t y + 2 has no solution. If this equation has no solution, the coefficients of y on each side of the equation, (-) 16 and - 2 t , must be equal, which yields the equation (-) 16 = - 2 t . Dividing both sides of this equation by (-) 2 yields 8 = t . Thus, if the system has no solution, the value of t is 8 .  Alternate approach: A system of two linear equations in two variables, x and y , has no solution if the lines represented by the equations in the xy -plane are parallel and distinct. Lines represented by equations in the form upper A x + upper B y = upper C , where upper A , upper B , and upper C are constant terms, are parallel if the ratio of the x -coefficients is equal to the ratio of the y -coefficients, and distinct if the ratio of the x -coefficients are not equal to the ratio of the constant terms. Subtracting 10 y from both sides of the first equation in the given system yields ( 4 x - 6 y ) - ( 10 y ) = ( 10 y + 2 ) - ( 10 y ) , or 4 x - 16 y = 2 . Subtracting 2 x from both sides of the second equation in the given system yields ( t y ) - ( 2 x ) = ( 1 /2 + 2 x ) - ( 2 x ) , or - 2 x + t y = 1 /2 . The ratio of the x -coefficients for these equations is (-) 2 /4s , or (-) 1 /2 . The ratio of the y -coefficients for these equations is -t/16 . The ratio of the constant terms for these equations is 1/4 , or 1/4 . Since the ratio of the x -coefficients, (-) 1 /2 , is not equal to the ratio of the constants, 1/4 , the lines represented by the equations are distinct. Setting the ratio of the x -coefficients equal to the ratio of the y -coefficients yields (-) 1 /2 = - ( t / 16 ) . Multiplying both sides of this equation by (-) 16 yields ( (-) 1 /2 ) ( (-) 16 ) = ( - ( t / 16 ) ) ( (-) 16 ) , or t = 8 . Therefore, when t = 8 , the lines represented by these equations are parallel. Thus, if the system has no solution, the value of t is 8 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "aff28230",
+        "Prompt": "x = 10 y = x + 21 The solution to the given system of equations is (x, y). What is the value of y?",
+        "Answer Choices": [
+            "2.10000000000000",
+            "10",
+            "21",
+            "31"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given by the first equation in the given system of equations that x = 10 . Substituting 10 for x in the second equation in the given system yields y = 10 + 21 , or y = 31 . Therefore, the value of y is 31 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the value of x , not the value of y .  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "f5929f7a",
+        "Prompt": "y = - 1 /9 x y = 1 /2 x The solution to the given system of equations is (x, y). What is the value of x?",
+        "Answer Choices": [
+            "(-) 9",
+            "(-) 7",
+            "0",
+            "2"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given by the first equation in the system that y = - 1 /9 x . Substituting - 1 /9 x for y in the second equation in the system yields - 1 /9 x = 1 /2 x . Multiplying the left-hand side of this equation by 1 and the right-hand side by 9 /9s yields - 2 8eenths x = 9 8eenths x . Adding 2 8eenths x to both sides of this equation yields 0 = ( 11 / 18 ) x . Multiplying both sides of this equation by 18/11 yields x = 0 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "74c03c21",
+        "Prompt": "A bus traveled on the highway and on local roads to complete a trip of 160 miles. The trip took 4 hours. The bus traveled at an average speed of 55 miles per hour ( mph ) on the highway and an average speed of 25 mph on local roads. If x is the time, in hours, the bus traveled on the highway and y is the time, in hours, it traveled on local roads, which system of equations represents this situation?",
+        "Answer Choices": [
+            "55 x + 25 y = 4x + y = 160",
+            "55 x + 25 y = 160x + y = 4",
+            "25 x + 55 y = 4x + y = 160",
+            "25 x + 55 y = 160x + y = 4"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. If the bus traveled at an average speed of 55 miles per hour ( mph ) on the highway for x hours, then the bus traveled 55 x miles on the highway. If the bus traveled at an average speed of 25 mph on local roads for y hours, then the bus traveled 25 y miles on local roads. It's given that the trip was 160 miles. This can be represented by the equation 55 x + 25 y = 160 . It's also given that the trip took 4 hours. This can be represented by the equation x + y = 4 . Therefore, the system consisting of the equations 55 x + 25 y = 160 and x + y = 4 represents this situation.  Choice A is incorrect. This system of equations represents a situation where the trip was 4 miles and took 160 hours.  Choice C is incorrect. This system of equations represents a situation where the trip was 4 miles and took 160 hours, and the bus traveled at an average speed of 25 mph on the highway and 55 mph on local roads.  Choice D is incorrect. This system of equations represents a situation where the bus traveled at an average speed of 25 mph on the highway and 55 mph on local roads."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "70feb725",
+        "Prompt": "During a month, Morgan ran r miles at 5 miles per hour and biked b miles at 10 miles per hour. She ran and biked a total of 200 miles that month, and she biked for twice as many hours as she ran. What is the total number of miles that Morgan biked during the month?",
+        "Answer Choices": [
+            "80",
+            "100",
+            "120",
+            "160"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The number of hours Morgan spent running or biking can be calculated by dividing the distance she traveled during that activity by her speed, in miles per hour, for that activity. So the number of hours she ran can be represented by the expression the fraction r over 5 , and the number of hours she biked can be represented by the expression the fraction b over 10 . It\u2019s given that she biked for twice as many hours as she ran, so this can be represented by the equation the fraction b over 10, ), = 2 * the fraction r over 5 , which can be rewritten as b = 4 r . It\u2019s also given that she ran r miles and biked b miles, and that she ran and biked a total of 200 miles. This can be represented by the equation r + b, = 200 . Substituting 4 r for b in this equation yields r + 4 r, = 200 , or 5 r = 200 . Solving for r yields r = 40 . Determining the number of miles she biked, b , can be found by substituting 40 for r in r + b, = 200 , which yields 40 + b, = 200 . Solving for b yields b = 160 . Choices A, B, and C are incorrect because they don\u2019t satisfy that Morgan biked for twice as many hours as she ran. In choice A, if she biked 80 miles, then she ran 120 miles, which means she biked for 8 hours and ran for 24 hours. In choice B, if she biked 100 miles, then she ran 100 miles, which means she biked for 10 hours and ran for 20 hours. In choice C, if she biked 120 miles, then she ran for 80 miles, which means she biked for 12 hours and ran for 16 hours."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "8a87c2c8",
+        "Prompt": "x + 3 = - 2 y + 5 x - 3 = 2 y + 7 The solution to the given system of equations is (x, y). What is the value of 2 x?",
+        "Answer Choices": [
+            "(-) 2",
+            "6",
+            "12",
+            "24"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Adding the second equation in the given system to the first equation in the given system yields ( x + 3 ) + ( x - 3 ) = ( - 2 y + 5 ) + ( 2 y + 7 ) . Adding like terms in this equation yields 2 x = 12 . Thus, the value of 2 x is 12 .  Choice A is incorrect. This is the value of y , not 2 x .  Choice B is incorrect. This is the value of x , not 2 x .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "1362ccde",
+        "Prompt": "y = 4 x + 1 4 y = 15 x - 8 The solution to the given system of equations is (x, y). What is the value of x - y?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "35",
+        "Rationale": "The correct answer is 35 . The first equation in the given system of equations defines y as 4 x + 1 . Substituting 4 x + 1 for y in the second equation in the given system of equations yields 4 ( 4 x + 1 ) = 15 x - 8 . Applying the distributive property on the left-hand side of this equation yields 16 x + 4 = 15 x - 8 . Subtracting 15 x from each side of this equation yields x + 4 = (-) 8 . Subtracting 4 from each side of this equation yields x = (-) 12 . Substituting (-) 12 for x in the first equation of the given system of equations yields y = 4 ( (-) 12 ) + 1 ,\u00a0or y = (-) 47 . Substituting (-) 12 for x and (-) 47 for y into the expression x - y yields (-) 12 - ( (-) 47 ) , or 35 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "9db5b5c1",
+        "Prompt": "4 x = 20 - 3 x + y = (-) 7 The solution to the given system of equations is (x, y). What is the value of x + y?",
+        "Answer Choices": [
+            "(-) 27",
+            "(-) 13",
+            "13",
+            "27"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that 4 x = 20 and - 3 x + y = (-) 7 is a system of equations with a solution (x, y) . Adding the second equation in the given system to the first equation yields 4 x + ( - 3 x + y ) = 20 + ( (-) 7 ) , which is equivalent to x + y = 13 . Thus, the value of x + y is 13 .  Choice A is incorrect. This represents the value of - 2 ( x + y ) - 1 .  Choice B is incorrect. This represents the value of -x - y .  Choice D is incorrect. This represents the value of 2 ( x + y ) + 1 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "c5082ce3",
+        "Prompt": "The score on a trivia game is obtained by subtracting the number of incorrect answers from twice the number of correct answers. If a player answered 40 questions and obtained a score of 50, how many questions did the player answer correctly?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 30. Let x represent the number of correct answers from the player and y represent the number of incorrect answers from the player. Since the player answered 40 questions in total, the equation x + y, = 40 represents this situation. Also, since the score is found by subtracting the number of incorrect answers from twice the number of correct answers and the player received a score of 50, the equation 2 x - y, = 50 represents this situation. Adding the equations in the system of two equations together yields open parenthesis, x + y, close parenthesis, +, open parenthesis, 2 x - y, close parenthesis, = 40 + 50 . This can be rewritten as 3 x = 90 . Finally, solving for x by dividing both sides of the equation by 3 yields x = 30 . EndFragment"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "45a534d0",
+        "Prompt": "48 x - 72 y = 30 y + 24 r y = 1 /6 - 16 x In the given system of equations, r is a constant. If the system has no solution, what is the value of r?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-34",
+        "Rationale": "The correct answer is (-) 34 . A system of two linear equations in two variables, x and y , has no solution if the lines represented by the equations in the xy -plane are distinct and parallel. Two lines represented by equations in standard form upper A x + upper B y = upper C , where upper A , upper B , and upper C are constants, are parallel if the coefficients for x and y in one equation are proportional to the corresponding coefficients in the other equation. The first equation in the given system can be written in standard form by subtracting 30 y from both sides of the equation to yield 48 x - 102 y = 24 . The second equation in the given system can be written in standard form by adding 16 x to both sides of the equation to yield 16 x + r y = 1 /6 . \u00a0The coefficient of x in this second equation, 16 , is 1/3 times the coefficient of x in the first equation, 48 . For the lines to be parallel the coefficient of y in the second equation, r , must also be 1/3 times the coefficient of y in the first equation, (-) 102 . Thus, r = 1 /3 ( (-) 102 ) , or r = (-) 34 . Therefore, if the given system has no solution, the value of r is (-) 34 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ca9bb527",
+        "Prompt": "y = 4 x - 9 y = 19 What is the solution (x, y) to the given system of equations?",
+        "Answer Choices": [
+            "(4, 19)",
+            "(7, 19)",
+            "(19, 4)",
+            "(19, 7)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given by the second equation in the system that y = 19 . Substituting 19 for y in the first equation yields 19 = 4 x - 9 . Adding 9 to both sides of this equation yields 28 = 4 x . Dividing both sides of this equation by 4 yields 7 = x . Therefore, since x = 7 and y = 19 , the solution (x, y) to the given system of equations is (7, 19) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "adb0c96c",
+        "Prompt": "24 x + y = 48 6 x + y = 72 The solution to the given system of equations is (x, y). What is the value of y?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "80",
+        "Rationale": "The correct answer is 80 . Subtracting the second equation in the given system from the first equation yields ( 24 x + y ) - ( 6 x + y ) = 48 - 72 , which is equivalent to 24 x - 6 x + y - y = (-) 24 , or 18 x = (-) 24 . Dividing each side of this equation by 3 yields 6 x = (-) 8 . Substituting (-) 8 for 6 x in the second equation yields (-) 8 + y = 72 . Adding 8 to both sides of this equation yields y = 80 .  Alternate approach: Multiplying each side of the second equation in the given system by 4 yields 24 x + 4 y = 288 . Subtracting the first equation in the given system from this equation yields ( 24 x + 4 y ) - ( 24 x + y ) = 288 - 48 , which is equivalent to 24 x - 24 x + 4 y - y = 240 , or 3 y = 240 . Dividing each side of this equation by 3 yields y = 80 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "d7bf55e1",
+        "Prompt": "A movie theater sells 2 types of tickets, adult tickets for $12 and child tickets for $8. If the theater sold 30 tickets for a total of $300, how much, in dollars, was spent on adult tickets? (Disregard the $ sign when gridding your answer.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 180. Let a be the number of adult tickets sold and c be the number of child tickets sold. Since the theater sold a total of 30 tickets, a + c = 30. The price per adult ticket is $12, and the price per child ticket is $8. Since the theater received a total of $300 for the 30 tickets sold, it follows that 12 a + 8 c = 300. To eliminate c , the first equation can be multiplied by 8 and then subtracted from the second equation:  12 a, + 8 c, = 300, and (-) 8 a, - 8 c, = (-) 240, gives 4 a, + 0 c, = 60 Because the question asks for the amount spent on adult tickets, which is 12 a dollars, the resulting equation can be multiplied by 3 to give 3(4 a ) = 3(60) = 180. Therefore, $180 was spent on adult tickets. Alternate approach: If all the 30 tickets sold were child tickets, their total price would be 30($8) = $240. Since the actual total price of the 30 tickets was $300, the extra $60 indicates that a certain number of adult tickets StartFragment , a , EndFragment were sold. Since the price of each adult ticket is $4 more than each child ticket, 4 a = 60, and it follows that 12 a = 180."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "092ad67d",
+        "Prompt": "x + 2 y = 6 x - 2 y = 4 The solution to the given system of equations is (x, y). What is the value of x?",
+        "Answer Choices": [
+            "2.50000000000000",
+            "5",
+            "6",
+            "10"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Adding the first equation to the second equation in the given system yields ( x + 2 y ) + ( x - 2 y ) = 6 + 4 , or ( x + x ) + ( 2 y - 2 y ) = 10 . Combining like terms in this equation yields 2 x = 10 . Dividing both sides of this equation by 2 yields x = 5 . Thus, the value of x is 5 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the value of 2 x , not x ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "d909cd31",
+        "Prompt": "- 15 x + 25 y = 65 One of the 2 equations in a system of linear equations is given. The system has infinitely many solutions. Which of the following could be the second equation in the system?",
+        "Answer Choices": [
+            "12 x + 20 y = 52",
+            "12 x + 20 y = (-) 52",
+            "- 12 x + 20 y = 52",
+            "- 12 x + 20 y = (-) 52"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the system has infinitely many solutions. A system of two linear equations has infinitely many solutions when the two linear equations are equivalent. Dividing both sides of the given equation by 5 yields - 3 x + 5 y = 13 . Dividing both sides of choice C by 4 also yields - 3 x + 5 y = 13 , so choice C is equivalent to the given equation. Thus, choice C could be the second equation in the system.  Choice A is incorrect. The system consisting of this equation and the given equation has one solution, not infinitely many solutions.  Choice B is incorrect. The system consisting of this equation and the given equation has one solution, not infinitely many solutions.  Choice D is incorrect. The system consisting of this equation and the given equation has no solution, not infinitely many solutions."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "f88970cc",
+        "Prompt": "x = 5 y = x - 8 Which of the following points (x, y) is the solution to the given system of equations in the xy - plane?",
+        "Answer Choices": [
+            "(0, 0)",
+            "( 5, (-) 3 )",
+            "( 5, (-) 8 )",
+            "(5, 8)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. A solution to a system of equations in the xy -plane is a point (x, y) that lies on the graph of each equation in the system. The first equation given is x = 5 . Substituting 5 for x in the second given equation yields y = 5 - 8 , or y = (-) 3 . It follows that in the xy -plane, the point ( 5, (-) 3 ) lies on the graph of each equation in the system. Therefore, the solution to the given system of equations in the xy -plane is ( 5, (-) 3 ) .  Choice A is incorrect. The point (0, 0) doesn't lie on the graph of either equation in the given system.  Choice C is incorrect. The point ( 5, (-) 8 ) doesn't lie on the graph of the second equation in the given system.  Choice D is incorrect. The point (5, 8) doesn't lie on the graph of the second equation in the given system."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ffb371f5",
+        "Prompt": "3 x = 12 (-) 3 x + y = (-) 6 The solution to the given system of equations is (x, y). What is the value of y?",
+        "Answer Choices": [
+            "(-) 3",
+            "6",
+            "18",
+            "30"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Adding the second equation in the given system to the first equation in the given system yields 3 x + ( - 3 x + y ) = 12 + ( (-) 6 ) , which is equivalent to y = 6 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ece00725",
+        "Prompt": "Connor has c dollars and Maria has m dollars. Connor has 4 * as many dollars as Maria, and together they have a total of dollar sign 25.00. Which system of equations represents this situation?",
+        "Answer Choices": [
+            "c = 4 mc + m = 25",
+            "m = 4 cc + m = 25",
+            "c = 25 mc + m = 4",
+            "m = 25 cc + m = 4"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that Connor has c dollars, Maria has m dollars, and Connor has 4 times as many dollars as Maria. This can be represented by the equation c = 4 m . It\u2019s also given that together, Connor and Maria have a total of dollar sign 25.00 , which can be represented by the equation c + m = 25 . Therefore, the system consisting of the equations c = 4 m and c + m = 25 represents this situation.  Choice B is incorrect. The equation m = 4 c represents a situation where Maria has 4 times as many dollars as Connor, rather than the situation where Connor has 4 times as many dollars as Maria.  Choice C is incorrect. The equation c = 25 m represents a situation where Connor has 25 times, rather than 4 times, as many dollars as Maria. The equation c + m = 4 represents a situation where Connor and Maria together have a total of dollar sign 4.00 , rather than dollar sign 25.00 .  Choice D is incorrect. The equation m = 25 c represents a situation where Maria has 25 times as many dollars as Connor, rather than the situation where Connor has 4 times as many dollars as Maria. The equation c + m = 4 represents a situation where Connor and Maria together have a total of dollar sign 4.00 , rather than dollar sign 25.00 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "9f6f96ff",
+        "Prompt": "A wire with a length of 106 inches is cut into 2 parts. One part has a length of x inches, and the other part has a length of y inches. The value of x is 6 more than 4 * the value of y. What is the value of x?",
+        "Answer Choices": [
+            "25",
+            "28",
+            "56",
+            "86"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that a wire with a length of 106 inches is cut into two parts. It's also given that one part has a length of x inches and the other part has a length of y inches. This can be represented by the equation x + y = 106 . It's also given that the value of x is 6 more than 4 times the value of y . This can be represented by the equation x = 4 y + 6 . Substituting 4 y + 6 for x in the equation x + y = 106 yields 4 y + 6 + y = 106 , or 5 y + 6 = 106 . Subtracting 6 from each side of this equation yields 5 y = 100 . Dividing each side of this equation by 5 yields y = 20 . Substituting 20 for y in the equation x = 4 y + 6 yields x = 4 ( 20 ) + 6 , or x = 86 .  Choice A is incorrect. This value represents less than half of the total length of 106 inches; however, x represents the length of the longer part of the wire, since it's given that the value of x is 6 more than 4 times the value of y .  Choice B is incorrect. This value represents less than half of the total length of 106 inches; however, x represents the length of the longer part of the wire, since it's given that the value of x is 6 more than 4 times the value of y .  Choice C is incorrect. This represents a part that is 6 more than the length of the other part, rather than 6 more than 4 times the length of the other part."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "f718c9cf",
+        "Prompt": "5 x + 14 y = 45 10 x + 7 y = 27 The solution to the given system of equations is (x, y). What is the value of x y?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "1.8,  9/5",
+        "Rationale": "The correct answer is 9 /5s . Multiplying the first equation in the given system by 2 yields 10 x + 28 y = 90 . Subtracting the second equation in the given system, 10 x + 7 y = 27 , from 10 x + 28 y = 90 yields ( 10 x + 28 y ) - ( 10 x + 7 y ) = 90 - 27 , which is equivalent to 10 x + 28 y - 10 x - 7 y = 63 , or 21 y = 63 . Dividing both sides of this equation by 21 yields y = 3 . The value of x can be found by substituting 3 for y in either of the two given equations. Substituting 3 for y in the equation 10 x + 7 y = 27 yields 10 x + 7 ( 3 ) = 27 , or 10 x + 21 = 27 . Subtracting 21 from both sides of this equation yields 10 x = 6 . Dividing both sides of this equation by 10 yields x = 6 /10s , or x = 3 /5s . Therefore, the value of x y is ( 3 /5s ) ( 3 ) , or 9 /5s . Note that 9/5 and 1.8 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "2875ba81",
+        "Prompt": "6 x + 7 y = 28 2 x + 2 y = 10 The solution to the given system of equations is (x, y). What is the value of y?",
+        "Answer Choices": [
+            "(-) 2",
+            "7",
+            "14",
+            "18"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The given system of linear equations can be solved by the elimination method. Multiplying each side of the second equation in the given system by 3 yields ( 2 x + 2 y ) ( 3 ) = ( 10 ) ( 3 ) , or 6 x + 6 y = 30 . Subtracting this equation from the first equation in the given system yields ( 6 x + 7 y ) - ( 6 x + 6 y ) = ( 28 ) - ( 30 ) , which is equivalent to ( 6 x - 6 x ) + ( 7 y - 6 y ) = 28 - 30 , or y = (-) 2 .  Choice B is incorrect. This is the value of x , not the value of y .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "466b87e3",
+        "Prompt": "In the system of equations above, c is a constant. If the system has no solution, what is the value of c ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1 /2 . A system of two linear equations has no solution when the graphs of the equations have the same slope and different y -intercepts. Each of the given linear equations is written in the slope-intercept form, y = m x + b , where m is the slope and b is the y -coordinate of the y -intercept of the graph of the equation. For these two linear equations, the y -intercepts are the points with coordinates (0, 8) and 0, 10 . Thus, if the system of equations has no solution, the slopes of the graphs of the two linear equations must be the same. The slope of the graph of the first linear equation is 1 /2 . Therefore, for the system of equations to have no solution, the value of c must be 1 /2 . Note that 1/2 and .5 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "f03465dc",
+        "Prompt": "8 x + 7 y = 9 24 x + 21 y = 27 For each real number r, which of the following points lies on the graph of each equation in the xy - plane for the given system?",
+        "Answer Choices": [
+            "( r, - ( 8 r / 7 ) + 9 /7s )",
+            "( - ( 8 r / 7 ) + 9 /7s, r )",
+            "( - ( 8 r / 7 ) + 9, ( 8 r / 7 ) + 27 )",
+            "(r/3 + 9, 27 - r/3)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Dividing both sides of the second equation in the given system by 3 yields 8 x + 7 y = 9 , which is the first equation in the given system. Therefore, the first and second equations represent the same line in the xy -plane. If the x - and y -coordinates of a point satisfy an equation, the point lies on the graph of the equation in the xy -plane. Choice A is a point with x -coordinate r and y -coordinate - ( 8 r / 7 ) + 9 /7s . Substituting r for x and - ( 8 r / 7 ) + 9 /7s for y in the equation 8 x + 7 y = 9 yields 8 r + 7 ( - 8 /7s r + 9 /7s ) = 9 . Applying the distributive property to the left-hand side of this equation yields 8 r - 8 r + 9 = 9 . Combining like terms on the left-hand side of this equation yields 9 = 9 , so the coordinates of the point ( r, - 8 /7s r + 9 /7s ) satisfy both equations in the given system. Therefore, for each real number r , the point ( r, - 8 /7s r + 9 /7s ) lies on the graph of each equation in the xy -plane for the given system.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "4ec95eab",
+        "Prompt": "y = (-) 3 x 4 x + y = 15 The solution to the given system of equations is (x, y). What is the value of x?",
+        "Answer Choices": [
+            "1",
+            "5",
+            "15",
+            "45"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The given system of linear equations can be solved by the substitution method. Substituting - 3 x for y from the first equation in the given system into the second equation yields 4 x + ( - 3 x ) = 15 , or x = 15 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the absolute value of y , not the value of x ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "1e11190a",
+        "Prompt": "Store A sells raspberries for dollar sign 5.50 per pint and blackberries for dollar sign 3.00 per pint. Store B sells raspberries for dollar sign 6.50 per pint and blackberries for dollar sign 8.00 per pint. A certain purchase of raspberries and blackberries would cost dollar sign 37.00 at Store A or dollar sign 66.00 at Store B. How many pints of blackberries are in this purchase?",
+        "Answer Choices": [
+            "4",
+            "5",
+            "8",
+            "12"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice C is correct. It\u2019s given that store A sells raspberries for dollar sign 5 period 50 per pint and blackberries for dollar sign 3 period 00 per pint, and a certain purchase of raspberries and blackberries at store A would cost dollar sign 37 period 00 . It\u2019s also given that store B sells raspberries for dollar sign 6 period 50 per pint and blackberries for dollar sign 8 period 00 per pint, and this purchase of raspberries and blackberries at store B would cost dollar sign 66 period 00 . Let r represent the number of pints of raspberries and b represent the number of pints of blackberries in this purchase. The equation 5 period 50 r + 3 period 00 b = 37 period 00 represents this purchase of raspberries and blackberries from store A and the equation 6 period 50 r + 8 period 00 b = 66 period 00 represents this purchase of raspberries and blackberries from store B. Solving the system of equations by elimination gives the value of r and the value of b that make the system of equations true. Multiplying both sides of the equation for store A by 6.50000000000000 yields ( 5 period 50 r ) ( 6 period 5 ) + ( 3 period 00 b ) ( 6 period 5 ) = ( 37 period 00 ) ( 6 period 5 ) , or 35 period 75 r + 19 period 5 b = 240 period 5 . Multiplying both sides of the equation for store B by 5.50000000000000 yields ( 6 period 50 r ) ( 5 period 5 ) + ( 8 period 00 b ) ( 5 period 5 ) = ( 66 period 00 ) ( 5 period 5 ) , or 35 period 75 r + 44 b = 363 . Subtracting both sides of the equation for store A, 35 period 75 r + 19 period 5 b = 240 period 5 , from the corresponding sides of the equation for store B, 35 period 75 r + 44 b = 363 , yields ( 35 period 75 r - 35 period 75 r ) + ( 44 b - 19 period 5 b ) = ( 363 - 240 period 5 ) , or 24 period 5 b = 122 period 5 . Dividing both sides of this equationby 24.5000000000000 yields b = 5 . Thus, 5 pints of blackberries are in this purchase.  Choices A and B are incorrect and may result from conceptual or calculation errors. Choice D is incorrect. This is the number of pints of raspberries, not blackberries, in the purchase."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "e77a76ce",
+        "Prompt": "Which of the following systems of linear equations has no solution?",
+        "Answer Choices": [
+            "y = 6 x + 3y = 6 x + 9",
+            "y = 10y = 10 x + 10",
+            "y = 14 x + 14y = 10 x + 14",
+            "x = 3y = 10"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. A system of two linear equations in two variables, x and y , has no solution if the graphs of the lines represented by the equations in the xy -plane are distinct and parallel. The graphs of two lines in the xy -plane represented by equations in slope-intercept form, y = m x + b , where m and b are constants, are parallel if their slopes, m , are the same and are distinct if their y -coordinates of the y -intercepts, b , are different. In the equations y = 6 x + 3 and y = 6 x + 9 , the values of m are each 6 , and the values of b are 3 and 9 , respectively. Since the slopes of these lines are the same and the y -coordinates of the y -intercepts are different, it follows that the system of linear equations in choice A has no solution.  Choice B is incorrect. The two lines represented by these equations are a horizontal line and a line with a slope of 10 that have the same y -coordinate of the y -intercept. Therefore, this system has a solution, (0, 10) , rather than no solution.  Choice C is incorrect. The two lines represented by these equations have different slopes and the same y -coordinate of the y -intercept. Therefore, this system has a solution, (0, 14) , rather than no solution.  Choice D is incorrect. The two lines represented by these equations are a vertical line and a horizontal line. Therefore, this system has a solution, (3, 10) , rather than no solution."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "b3c7ca1d",
+        "Prompt": "Which of the following systems of linear equations has no solution?",
+        "Answer Choices": [
+            "x = 3y = 5",
+            "y = 6 x + 6y = 5 x + 6",
+            "y = 16 x + 3y = 16 x + 19",
+            "y = 5y = 5 x + 5"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. A system of two linear equations in two variables, x and y , has no solution if the graphs of the lines represented by the equations in the xy -plane are distinct and parallel. The graphs of two lines in the xy -plane represented by equations in slope-intercept form, y = m x + b , where m and b are constants, are parallel if their slopes, m , are the same and are distinct if their y -coordinates of the y -intercepts, b , are different. In the equations y = 16 x + 3 and y = 16 x + 19 , the values of m are each 16 , and the values of b are 3 and 19 , respectively. Since the slopes of these lines are the same, and the y -coordinates of the y -intercepts are different, it follows that the system of linear equations in choice C has no solution.  Choice A is incorrect. The lines represented by the equations in this system are a vertical line and a horizontal line. Therefore, this system has a solution, (3, 5) , rather than no solution.  Choice B is incorrect. The two lines represented by these equations have different slopes and the same y -coordinate of the y -intercept. Therefore, this system has a solution, (0, 6) , rather than no solution.  Choice D is incorrect. The two lines represented by these equations are a horizontal line and a line with a slope of 5 that have the same y -coordinate of the y -intercept. Therefore, this system has a solution, (0, 5) , rather than no solution."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "14360f84",
+        "Prompt": "4 x - 9 y = 9 y + 5 h y = 2 + 4 x In the given system of equations, h is a constant. If the system has no solution, what is the value of h?",
+        "Answer Choices": [
+            "(-) 9",
+            "0",
+            "9",
+            "18"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. A system of two linear equations in two variables, x and y , has no solution if the lines represented by the equations in the xy -plane are distinct and parallel. The graphs of two lines in the xy -plane represented by equations in the form upper A x + upper B y = upper C , where upper A , upper B , and upper C are constants, are parallel if the coefficients for x and y in one equation are proportional to the corresponding coefficients in the other equation. The first equation in the given system can be written in the form upper A x + upper B y = upper C by subtracting 9 y from both sides of the equation to yield 4 x - 18 y = 5 . The second equation in the given system can be written in the form upper A x + upper B y = upper C by subtracting 4 x from both sides of the equation to yield - 4 x + h y = 2 . The coefficient of x in this second equation, (-) 4 , is (-) 1 times the coefficient of x in the first equation, 4 . For the lines to be parallel, the coefficient of y in the second equation, h , must also be (-) 1 times the coefficient of y in the first equation, (-) 18 . Thus, h = - 1 ( (-) 18 ) , or h = 18 . Therefore, if the given system has no solution, the value of h is 18 .  Choice A is incorrect. If the value of h is (-) 9 , then the given system would have one solution, rather than no solution.  Choice B is incorrect. If the value of h is 0 , then the given system would have one solution, rather than no solution.  Choice C is incorrect. If the value of h is 9 , then the given system would have one solution, rather than no solution."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "686b7cad",
+        "Prompt": "A proposal for a new library was included on an election ballot. A radio show stated that 3 * as many people voted in favor of the proposal as people who voted against it. A social media post reported that (15, 0) more people voted in favor of the proposal than voted against it. Based on these data, how many people voted against the proposal?",
+        "Answer Choices": [
+            "(7, 500)",
+            "(15, 0)",
+            "(22, 500)",
+            "(45, 0)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that a radio show stated that 3 times as many people voted in favor of the proposal as people who voted against it. Let x represent the number of people who voted against the proposal. It follows that 3 x is the number of people who voted in favor of the proposal and 3 x - x , or 2 x , is how many more people voted in favor of the proposal than voted against it. It's also given that a social media post reported that (15, 0) more people voted in favor of the proposal than voted against it. Thus, 2 x = 15,000 . Since 2 x = 15,000 , the value of x must be half of (15, 0) , or (7, 500) . Therefore, (7, 500) people voted against the proposal.  Choice B is incorrect. This is how many more people voted in favor of the proposal than voted against it, not the number of people who voted against the proposal.  Choice C is incorrect. This is the number of people who voted in favor of the proposal, not the number of people who voted against the proposal.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "75012ee7",
+        "Prompt": "2 x + 3 y = 7 10 x + 15 y = 35 For each real number r, which of the following points lies on the graph of each equation in the xy - plane for the given system?",
+        "Answer Choices": [
+            "(r/5 + 7, 35 - r/5)",
+            "( - ( 3 r / 2 ) + 7 /2, r )",
+            "( r, ( 2 r / 3 ) + 7 /3s )",
+            "( r, - ( 3 r / 2 ) + 7 /2 )"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The two given equations are equivalent because the second equation can be obtained from the first equation by multiplying each side of the equation by 5 . Thus, the graphs of the equations are coincident, so if a point lies on the graph of one of the equations, it also lies on the graph of the other equation. A point (x, y) lies on the graph of an equation in the xy -plane if and only if this point represents a solution to the equation. It is sufficient, therefore, to find the point that represents a solution to the first given equation. Substituting the x - and y -coordinates of choice B, - ( 3 r / 2 ) + 7 /2 and r , for x and y , respectively, in the first equation yields 2 ( - ( 3 r / 2 ) + 7 /2 ) + 3 r = 7 , which is equivalent to - 3 r + 7 + 3 r = 7 , or 7 = 7 . Therefore, the point ( - ( 3 r / 2 ) + 7 /2, r ) represents a solution to the first equation and thus lies on the graph of each equation in the xy -plane for the given system.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "5e08a055",
+        "Prompt": "y = 6 x + 18 One of the equations in a system of 2 linear equations is given. The system has no solution. Which equation could be the second equation in the system?",
+        "Answer Choices": [
+            "- 6 x + y = 18",
+            "- 6 x + y = 22",
+            "- 12 x + y = 36",
+            "- 12 x + y = 18"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. A system of two linear equations in two variables, x and y , has no solution if the lines represented by the equations in the xy -plane are parallel and distinct. Lines represented by equations in standard form, upper A x + upper B y = upper C and upper D x + upper E y = upper F , are parallel if the coefficients for x and y in one equation are proportional to the corresponding coefficients in the other equation, meaning ( upper D / upper A ) = ( upper E / upper B ) ; and the lines are distinct if the constants are not proportional, meaning ( upper F / upper C ) is not equal to ( upper D / upper A ) or ( upper E / upper B ) . The given equation, y = 6 x + 18 , can be written in standard form by subtracting 6 x from both sides of the equation to yield - 6 x + y = 18 . Therefore, the given equation can be written in the form upper A x + upper B y = upper C , where upper A = (-) 6 , upper B = 1 , and upper C = 18 . The equation in choice B, - 6 x + y = 22 , is written in the form upper D x + upper E y = upper F , where upper D = (-) 6 , upper E = 1 , and upper F = 22 . Therefore, ( upper D / upper A ) = ( (-) 6 / (-) 6 ) , which can be rewritten as ( upper D / upper A ) = 1 ; ( upper E / upper B ) = 1 1th , which can be rewritten as ( upper E / upper B ) = 1 ; and ( upper F / upper C ) = ( 22 / 18 ) , which can be rewritten as ( upper F / upper C ) = ( 11 / 9 ) . Since ( upper D / upper A ) = 1 , ( upper E / upper B ) = 1 , and ( upper F / upper C ) is not equal to 1 , it follows that the given equation and the equation - 6 x + y = 22 are parallel and distinct. Therefore, a system of two linear equations consisting of the given equation and the equation - 6 x + y = 22 has no solution. Thus, the\u00a0equation in choice B could be the second equation in the system.  Choice A is incorrect. The equation - 6 x + y = 18 and the given equation represent the same line in the xy -plane. Therefore, a system of these linear equations would have infinitely many solutions, rather than no solution.  Choice C is incorrect. The equation - 12 x + y = 36 and the given equation represent lines in the xy -plane that are distinct and not parallel. Therefore, a system of these linear equations would have exactly one solution, rather than no solution.  Choice D is incorrect. The equation - 12 x + y = 18 and the given equation represent lines in the xy -plane that are distinct and not parallel. Therefore, a system of these linear equations would have\u00a0exactly one solution, rather than no solution."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "0df106df",
+        "Prompt": "An online bookstore sells novels and magazines. Each novel sells for $4, and each magazine sells for $1. If Sadie purchased a total of 11 novels and magazines that have a combined selling price of $20, how many novels did she purchase?",
+        "Answer Choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Let n be the number of novels and m be the number of magazines that Sadie purchased. If Sadie purchased a total of 11 novels and magazines, then n + m, = 11 . It is given that the combined price of 11 novels and magazines is $20. Since each novel sells for $4 and each magazine sells for $1, it follows that 4 n + m, = 20 . So the system of equations below must hold. 4 n + m, = 20; n + m, = 11 Subtracting corresponding sides of the second equation from the first equation yields 3 n = 9 ,\u00a0so n = 3 . Therefore, Sadie purchased 3 novels. Choice A is incorrect. If 2 novels were purchased, then a total of $8 was spent on novels. That leaves $12 to be spent on magazines, which means that 12 magazines would have been purchased. However, Sadie purchased a total of 11 novels and magazines. Choices C and D are incorrect. If 4 novels were purchased, then a total of $16 was spent on novels. That leaves $4 to be spent on magazines, which means that 4 magazines would have been purchased. By the same logic, if Sadie purchased 5 novels, she would have no money at all ($0) to buy magazines. However, Sadie purchased a total of 11 novels and magazines."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "e53688cb",
+        "Prompt": "x + 3 y = 29 3 y = 11 The solution to the given system of equations is (x, y). What is the value of x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "18",
+        "Rationale": "The correct answer is 18 . It's given by the second equation in the system that 3 y = 11 . Substituting 11 for 3 y in the first equation in the system, x + 3 y = 29 , yields x + 11 = 29 . Subtracting 11 from both sides of this equation yields x = 18 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "27f5fff3",
+        "Prompt": "For the first line in the system: The line slants gradually down from left to right. The line passes through the following points: ((-) 4 , 5) (0 , 4) (8 , 2) For the second line in the system: The line is horizontal. The line passes through the following points: (0 , 2) (8 , 2) If a new graph of 3 linear equations is created using the system of equations shown and the equation x + 4 y = (-) 16, how many solutions (x, y) will the resulting system of 3 equations have?",
+        "Answer Choices": [
+            "Zero",
+            "Exactly 1",
+            "Exactly 2",
+            "Infinitely many"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. A solution to a system of equations must satisfy each equation in the system. It follows that if an ordered pair (x, y) is a solution to the system, the point (x, y) lies on the graph in the xy -plane of each equation in the system. The only point that lies on each graph of the system of two linear equations shown is their intersection point (8, 2) . \u00a0It follows that if a new graph of three linear equations is created using the system of equations shown and the graph of x + 4 y = (-) 16 , this system has either zero solutions or one solution, the point (8, 2) . Substituting 8 for x and 2 for y in the equation x + 4 y = (-) 16 yields 8 + 4 ( 2 ) = (-) 16 , or 16 = (-) 16 . Since this equation is not true, the point (8, 2) does not lie on the graph of x + 4 y = (-) 16 . Therefore, (8, 2) is not a solution to the system of three equations. It follows that there are zero solutions to this system.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Systems of two linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "4b76c7f1",
+        "Prompt": "In the given system of equations, a is a constant. If the system has infinitely many solutions, what is the value of a ?",
+        "Answer Choices": [
+            "4",
+            "9",
+            "36",
+            "54"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. A system of two linear equations has infinitely many solutions if one equation is equivalent to the other. This means that when the two equations are written in the same form, each coefficient or constant in one equation is equal to the corresponding coefficient or constant in the other equation multiplied by the same number. The equations in the given system of equations are written in the same form, with x and y on the left-hand side of the equation and a constant on the right-hand side of the equation. The coefficients of x and y in the second equation are equal to the coefficients of x and y , respectively, in the first equation multiplied by 4: 8 = 2 * 4 and 28 = 7 * 4 . Therefore, the constant in the second equation must be equal to 4 times the constant in the first equation: a, = 9 * 4 , or a, = 36 . Choices A, B, and D are incorrect. When a, = 4 , a, = 9 , or a, = 54 , the given system of equations has no solution."
+    }
+]

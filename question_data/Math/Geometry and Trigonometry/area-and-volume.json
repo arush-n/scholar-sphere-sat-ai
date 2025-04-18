@@ -1,0 +1,546 @@
+[
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "e5c57163",
+        "Prompt": "Square A has side lengths that are 166 * the side lengths of square B. The area of square A is k * the area of square B. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "27556",
+        "Rationale": "The correct answer is (27, 556) . The area of a square is s**2 , where s is the side length of the square. Let x represent the length of each side of square B. Substituting x for s in s**2 yields x**2 . It follows that the area of square B is x**2 . It\u2019s given that square A has side lengths that are 166 times the side lengths of square B. Since x represents the length of each side of square B, the length of each side of square A can be represented by the expression 166 x . It follows that the area of square A is ( 166 x ) ^2 , or 27,556 x ^2 . It\u2019s given that the area of square A is k times the area of square B. Since the area of square A is equal to 27,556 x ^2 , and the area of square B is equal to x**2 , an equation representing the given statement is 27,556 x ^2 = k x ^2 . Since x represents the length of each side of square B, the value of x must be positive. Therefore, the value of x**2 is also positive, so it does not equal 0 . Dividing by x**2 on both sides of the equation 27,556 x ^2 = k x ^2 yields 27,556 = k . Therefore, the value of k is (27, 556) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "5252e606",
+        "Prompt": "The side length of a square is 55 centimeters ( cm ). What is the area, in cm ^2, of the square?",
+        "Answer Choices": [
+            "110",
+            "220",
+            "3,025",
+            "(12, 100)"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The area upper A , in square centimeters ( cm ^2 ) , of a square with side length s , in cm , is given by the formula upper A = s ^2 . It\u2019s given that the square has a side length of 55 cm . Substituting 55 for s in the formula upper A = s ^2 yields upper A = 55 ^2 , or upper A = 3,025 . Therefore, the area, in cm ^2 , of the square is 3,025 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the perimeter, in cm , of the square, not its area, in cm ^2 .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "1f0b582e",
+        "Prompt": "Square X has a side length of 12 centimeters. The perimeter of square Y is 2 * the perimeter of square X. What is the length, in centimeters, of 1 side of square Y?",
+        "Answer Choices": [
+            "6",
+            "10",
+            "14",
+            "24"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The perimeter, upper P , of a square can be found using the formula upper P = 4 s , where s is the length of each side of the square. It's given that square X has a side length of 12 centimeters. Substituting 12 for s in the formula for the perimeter of a square yields upper P = 4 ( 12 ) , or upper P = 48 . Therefore, the perimeter of square X is 48 centimeters. It\u2019s also given that the perimeter of square Y is 2 times the perimeter of square X. Therefore, the perimeter of square Y is 2 ( 48 ) , or 96 , centimeters. Substituting 96 for upper P in the formula upper P = 4 s gives 96 = 4 s . Dividing both sides of this equation by 4 gives 24 = s . Therefore, the length of one side of square Y is 24 centimeters.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "59cb654c",
+        "Prompt": "The area of a square is 64 square inches. What is the side length, in inches, of this square?",
+        "Answer Choices": [
+            "8",
+            "16",
+            "64",
+            "128"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the area of a square is 64 square inches. The area upper A , in square inches, of a square is given by the formula upper A = s ^2 , where s is the side length, in inches, of the square. Substituting 64 for upper A in this formula yields 64 = s ^2 . Taking the positive square root of both sides of this equation yields 8 = s . Thus, the side length, in inches, of this square is 8 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the area, in square inches, of the square, not the side length, in inches, of the square.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "ec5d4823",
+        "Prompt": "What is the volume, in cubic centimeters, of a right rectangular prism that has a length of 4 centimeters, a width of 9 centimeters, and a h8 of 10 centimeters?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 360. The volume of a right rectangular prism is calculated by multiplying its dimensions: length, width, and height. Multiplying the values given for these dimensions yields a volume of 4 * 9, * 10, = 360 cubic centimeters."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "9966235e",
+        "Prompt": "A cube has an edge length of 68 inches. A solid sphere with a radius of 34 inches is inside the cube, such that the sphere touches the center of each face of the cube. To the nearest cubic inch, what is the volume of the space in the cube not taken up by the sphere?",
+        "Answer Choices": [
+            "(149, 796)",
+            "(164, 500)",
+            "(190, 955)",
+            "(310, 800)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The volume of a cube can be found by using the formula upper V = s ^3 , where upper V is the volume and s is the edge length of the cube. Therefore, the volume of the given cube is upper V = 68 ^3 , or (314, 432) cubic inches. The volume of a sphere can be found by using the formula upper V = 4 /3s pi r ^3 , where upper V is the volume and r is the radius of the sphere. Therefore, the volume of the given sphere is upper V = 4 /3s pi ( 34 ) ^3 , or approximately (164, 636) cubic inches. The volume of the space in the cube not taken up by the sphere is the difference between the volume of the cube and volume of the sphere. Subtracting the approximate volume of the sphere from the volume of the cube gives 314,432 - 164,636 = 149,796 cubic inches.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "a07ed090",
+        "Prompt": "The figure shown is a right circular cylinder with a radius of r and h8 of h. A second right circular cylinder (not shown) has a volume that is 392 * as large as the volume of the cylinder shown. Which of the following could represent the radius upper R, in terms of r, and the h8 upper H, in terms of h, of the second cylinder?",
+        "Answer Choices": [
+            "upper R = 8 randupper H = 7 h",
+            "upper R = 8 randupper H = 49 h",
+            "upper R = 7 randupper H = 8 h",
+            "upper R = 49 randupper H = 8 h"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The volume of a right circular cylinder is equal to pi a ^2 b , where a is the radius of a base of the cylinder and b is the height of the cylinder. It\u2019s given that the cylinder shown has a radius of r and a height of h . It follows that the volume of the cylinder shown is equal to pi r ^2 h . It\u2019s given that the second right circular cylinder has a radius of upper R and a height of upper H . It follows that the volume of the second cylinder is equal to pi upper R ^2 upper H . Choice C gives upper R = 7 r and upper H = 8 h . Substituting 7 r for upper R and 8 h for upper H in the expression that represents the volume of the second cylinder yields pi ( 7 r ) ^2 ( 8 h ) , or pi ( 49 r ^2 ) ( 8 h ) , which is equivalent to pi ( 392 r ^2 h ) , or 392 ( pi r ^2 h ) . This expression is equal to 392 times the volume of the cylinder shown, pi r ^2 h . Therefore, upper R = 7 r and upper H = 8 h could represent the radius upper R , in terms of r , and the height upper H , in terms of h , of the second cylinder.  Choice A is incorrect. Substituting 8 r for upper R and 7 h for upper H in the expression that represents the volume of the second cylinder yields pi ( 8 r ) ^2 ( 7 h ) , or pi ( 64 r ^2 ) ( 7 h ) , which is equivalent to pi ( 448 r ^2 h ) , or 448 ( pi r ^2 h ) . This expression is equal to 448 , not 392 , times the volume of the cylinder shown.  Choice B is incorrect. Substituting 8 r for upper R and 49 h for upper H in the expression that represents the volume of the second cylinder yields pi ( 8 r ) ^2 ( 49 h ) , or pi ( 64 r ^2 ) ( 49 h ) , which is equivalent to pi ( 3,136 r ^2 h ) , or 3,136 ( pi r ^2 h ) . This expression is equal to (3, 136) , not 392 , times the volume of the cylinder shown.  Choice D is incorrect. Substituting 49 r for upper R and 8 h for upper H in the expression that represents the volume of the second cylinder yields pi ( 49 r ) ^2 ( 8 h ) , or pi ( 2,401 r ^2 ) ( 8 h ) , which is equivalent to pi ( 19,208 r ^2 h ) , or 19,208 ( pi r ^2 h ) . This expression is equal to (19, 208) , not 392 , times the volume of the cylinder shown."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "e336a1d2",
+        "Prompt": "A cube has an edge length of 41 inches. What is the volume, in cubic inches, of the cube?",
+        "Answer Choices": [
+            "164",
+            "(1, 681)",
+            "10,086",
+            "(68, 921)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The volume, upper V , of a cube can be found using the formula upper V = s ^3 , where s is the edge length of the cube. It's given that a cube has an edge length of 41 inches. Substituting 41 inches for s in this equation yields upper V = 41 ^3 cubic inches, or upper V = 68,921 cubic inches. Therefore, the volume of the cube is (68, 921) cubic inches.  Choice A is incorrect. This is the perimeter, in inches, of the cube.  Choice B is incorrect. This is the area, in square inches, of a face of the cube.  Choice C is incorrect. This is the surface area, in square inches, of the cube."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "c0586eb5",
+        "Prompt": "A cylinder has a diameter of 8 inches and a h8 of 12 inches. What is the volume, in cubic inches, of the cylinder?",
+        "Answer Choices": [
+            "16 pi",
+            "96 pi",
+            "192 pi",
+            "768 pi"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The base of a cylinder is a circle with a diameter equal to the diameter of the cylinder. The volume, upper V , of a cylinder can be found by multiplying the area of the circular base, upper A , by the height of the cylinder, h , or upper V = upper A h . The area of a circle can be found using the formula upper A = pi r ^2 , where r is the radius of the circle. It\u2019s given that the diameter of the cylinder is 8 inches. Thus, the radius of this circle is 4 inches. Therefore, the area of the circular base of the cylinder is upper A = pi ( 4 ) ^2 , or 16 pi square inches. It\u2019s given that the height h of the cylinder is 12 inches. Substituting 16 pi for upper A and 12 for h in the formula upper V = upper A h gives upper V = 16 pi ( 12 ) , or 192 pi cubic inches.  Choice A is incorrect. This is the area of the circular base of the cylinder.  Choice B is incorrect and may result from using 8 , instead of 16 , as the value of r**2 in the formula for the area of a circle.  Choice D is incorrect and may result from using 8 , instead of 4 , for the radius of the circular base."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "d0b6d927",
+        "Prompt": "A rectangle has an area of 63 square meters and a length of 9 meters. What is the width, in meters, of the rectangle?",
+        "Answer Choices": [
+            "7",
+            "54",
+            "81",
+            "567"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The area upper A , in square meters, of a rectangle is the product of its length script l , in meters, and its width w , in meters; thus, upper A = script l w . It's given that a rectangle has an area of 63 square meters and a length of 9 meters. Substituting 63 for upper A and 9 for script l in the equation upper A = script l w yields 63 = 9 w . Dividing both sides of this equation by 9 yields 7 = w . Therefore, the width, in meters, of the rectangle is 7 .  Choice B is incorrect. This is the difference between the area, in square meters, and the length, in meters, of the rectangle, not the width, in meters, of the rectangle.  Choice C is incorrect. This is the square of the length, in meters, not the width, in meters, of the rectangle.  Choice D is incorrect. This is the product of the area, in square meters, and the length, in meters, of the rectangle, not the width, in meters, of the rectangle."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "ba8ca563",
+        "Prompt": "A cube has a volume of (474, 552) cubic units. What is the surface area, in square units, of the cube?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "36504",
+        "Rationale": "The correct answer is (36, 504) . The volume of a cube can be found using the formula upper V = s ^3 , where s represents the edge length of a cube. It\u2019s given that this cube has a volume of (474, 552) cubic units. Substituting (474, 552) for upper V in upper V = s ^3 yields 474,552 = s ^3 . Taking the cube root of both sides of this equation yields 78 = s . Thus, the edge length of the cube is 78 units. Since each face of a cube is a square, it follows that each face has an edge length of 78 units. The area of a square can be found using the formula upper A = s ^2 . Substituting 78 for s in this formula yields upper A = 78 ^2 , or upper A = 6,084 . Therefore, the area of one face of this cube is 6,084 square units. Since a cube has 6 faces, the surface area, in square units, of this cube is 6 ( 6,084 ) , or (36, 504) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "899c6042",
+        "Prompt": "A right circular c1 has a h8 of 22 centimeters ( cm ) and a base with a diameter of 6 cm. The volume of this c1 is n pi cm ^3. What is the value of n?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "66",
+        "Rationale": "The correct answer is 66 . It\u2019s given that the right circular cone has a height of 22 centimeters cm and a base with a diameter of 6 cm . Since the diameter of the base of the cone is 6 cm , the radius of the base is 3 cm . The volume upper V , in cm ^3 , of a right circular cone can be found using the formula upper V = 1 /3 pi r ^2 h , where h is the height, in cm , and r is the radius, in cm ,\u00a0of the base of the cone. Substituting 22 for h and 3 for r in this formula yields upper V = 1 /3 pi ( 3 ) ^2 ( 22 ) , or upper V = 66 pi . Therefore, the volume of the cone is 66 pi italic cm ^3 . It\u2019s given that the volume of the cone is n pi italic cm ^3 . Therefore, the value of n is 66 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "38517165",
+        "Prompt": "A circle has a circumference of 31 pi centimeters. What is the diameter, in centimeters, of the circle?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "31",
+        "Rationale": "The correct answer is 31 . The circumference of a circle is equal to 2 pi r centimeters, where r represents the radius, in centimeters, of the circle, and the diameter of the circle is equal to 2 r centimeters. It's given that a circle has a circumference of 31 pi centimeters. Therefore, 31 pi = 2 pi r . Dividing both sides of this equation by pi yields 31 = 2 r . Since the diameter of the circle is equal to 2 r centimeters, it follows that the diameter, in centimeters, of the circle is 31 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "5b2b8866",
+        "Prompt": "A rectangular poster has an area of 360 square inches. A copy of the poster is made in which the length and width of the original poster are each increased by20 percent sign. What is the area of the copy, in square inches?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "2592/5,  518.4",
+        "Rationale": "The correct answer is 518.400000000000 . It's given that the area of the original poster is 360 square inches. Let script l represent the length, in inches, of the original poster, and let w represent the width, in inches, of the original poster. Since the area of a rectangle is equal to its length times its width, it follows that 360 = script l w . It's also given that a copy of the poster is made in which the length and width of the original poster are each increased by 20 percent sign . It follows that the length of the copy is the length of the original poster plus 20 percent sign of the length of the original poster, which is equivalent to script l + ( 20 / 100 ) script l inches. This length can be rewritten as script l + 0.2 script l inches, or 1.2 script l inches. Similarly, the width of the copy is the width of the original poster plus 20 percent sign of the width of the original poster, which is equivalent to w + ( 20 / 100 ) w inches. This width can be rewritten as w + 0.2 w inches, or 1.2 w inches. Since the area of a rectangle is equal to its length times its width, it follows that the area, in square inches, of the copy is equal to ( 1.2 script l ) ( 1.2 w ) , which can be rewritten as ( 1.2 ) ( 1.2 ) ( script l w ) . Since 360 = script l w , the area, in square inches, of the copy can be found by substituting 360 for script l w in the expression ( 1.2 ) ( 1.2 ) ( script l w ) , which yields ( 1.2 ) ( 1.2 ) ( 360 ) , or 518.400000000000 . Therefore, the area of the copy, in square inches, is 518.400000000000 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "9f934297",
+        "Prompt": "A right rectangular prism has a length of 28 centimeters ( cm ), a width of 15 cm, and a h8 of 16 cm. What is the surface area, in cm ^2, of the right rectangular prism?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "2216",
+        "Rationale": "The correct answer is (2, 216) . The surface area of a prism is the sum of the areas of all its faces. A right rectangular prism consists of six rectangular faces, where opposite faces are congruent. It's given that this prism has a length of 28 cm , a width of 15 cm , and a height of 16 cm . Thus, for this prism, there are two faces with area ( 28 ) ( 15 ) cm ^2 , two faces with area ( 28 ) ( 16 ) cm ^2 , and two faces with area ( 15 ) ( 16 ) cm ^2 . Therefore, the surface area, in cm ^2 , of the right rectangular prism is 2 ( 28 ) ( 15 ) + 2 ( 28 ) ( 16 ) + 2 ( 15 ) ( 16 ) , or (2, 216) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "575f1e12",
+        "Prompt": "What is the area, in square centimeters, of a rectangle with a length of 34 centimeters ( cm ) and a width of 29 cm?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "986",
+        "Rationale": "The correct answer is 986 . The area, upper A , of a rectangle is given by upper A = script l w , where script l is the length of the rectangle and w is its width. It\u2019s given that the length of the rectangle is 34 centimeters (cm) and the width is 29 cm. Substituting 34 for script l and 29 for w in the equation upper A = script l w yields upper A = ( 34 ) ( 29 ) , or upper A = 986 . Therefore, the area, in square centimeters, of this rectangle is 986 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "c88183f7",
+        "Prompt": "A rectangle has a length of 13 and a width of 6. What is the perimeter of the rectangle?",
+        "Answer Choices": [
+            "12",
+            "26",
+            "38",
+            "52"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The perimeter of a quadrilateral is the sum of the lengths of its four sides. It's given that the rectangle has a length of 13 and a width of 6 . It follows that the rectangle has two sides with length 13 and two sides with length 6 . Therefore, the perimeter of the rectangle is 38 , or 38 .  Choice A is incorrect. This is the sum of the lengths of the two sides with length 6 , not the sum of the lengths of all four sides of the rectangle.  Choice B is incorrect. This is the sum of the lengths of the two sides with length 13 , not the sum of the lengths of all four sides of the rectangle.  Choice D is incorrect. This is the perimeter of a rectangle that has four sides with length 13 , not two sides with length 13 and two sides with length 6 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "08b7a3f5",
+        "Prompt": "A triangular prism has a h8 of 8 centimeters ( cm ) and a volume of 216 cm ^3. What is the area, in cm ^2, of the base of the prism? (The volume of a triangular prism is equal to upper B h, where upper B is the area of the base and h is the h8 of the prism.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": "27",
+        "Rationale": "The correct answer is 27 . It's given that a triangular prism has a volume of 216 cubic centimeters ( cm ^3 ) and the volume of a triangular prism is equal to upper B h , where upper B is the area of the base and h is the height of the prism. Therefore, 216 = upper B h . It's also given that the triangular prism has a height of 8 cm . Therefore, h = 8 . Substituting 8 for h in the equation 216 = upper B h yields 216 = upper B ( 8 ) . Dividing both sides of this equation by 8 yields 27 = upper B . Therefore, the area, in cm ^2 , of the base of the prism is 27 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "29e9b28c",
+        "Prompt": "The lengths of the sides are x, y, and z. A note indicates the figure is not drawn to scale. The triangle shown has a perimeter of 22 units. If x = 9 units and y = 7 units, what is the value of z, in units?",
+        "Answer Choices": [
+            "6",
+            "7",
+            "9",
+            "16"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The perimeter of a triangle is the sum of the lengths of its three sides. The triangle shown has side lengths x , y , and z . It's given that the triangle has a perimeter of 22 units. Therefore, x + y + z = 22 . If x = 9 units and y = 7 units, the value of z , in units, can be found by substituting 9 for x and 7 for y in the equation x + y + z = 22 , which yields 9 + 7 + z = 22 , or 16 + z = 22 . Subtracting 16 from both sides of this equation yields z = 6 . Therefore, if x = 9 units and y = 7 units, the value of z , in units, is 6 .  Choice B is incorrect. This is the value of y , in units, not the value of z , in units.  Choice C is incorrect. This is the value of x , in units, not the value of z , in units.  Choice D is incorrect. This is the value of x + y , in units, not the value of z , in units."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "3453aafc",
+        "Prompt": "What is the area, in square centimeters, of a rectangle with a length of 36 centimeters and a width of 34 centimeters?",
+        "Answer Choices": [
+            "70",
+            "140",
+            "(1, 156)",
+            "(1, 224)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The area upper A , in square centimeters, of a rectangle can be found using the formula upper A = script l w , where script l is the length, in centimeters, of the rectangle and w is its width, in centimeters. It's given that the rectangle has a length of 36 centimeters and a width of 34 centimeters. Substituting 36 for script l and 34 for w in the formula upper A = script l w yields upper A = 36 ( 34 ) , or upper A = 1,224 . Therefore, the area, in square centimeters, of this rectangle is (1, 224) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the perimeter, in centimeters, not the area, in square centimeters, of the rectangle.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "f243c383",
+        "Prompt": "Two identical rectangular prisms each have a h8 of 90 centimeters ( cm ). The base of each prism is a square, and the surface area of each prism is upper K cm ^2. If the prisms are glued together along a square base, the resulting prism has a surface area of ( 92 / 47 ) upper K cm ^2. What is the side length, in cm, of each square base?",
+        "Answer Choices": [
+            "4",
+            "8",
+            "9",
+            "16"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Let x represent the side length, in cm , of each square base. If the two prisms are glued together along a square base, the resulting prism has a surface area equal to twice the surface area of one of the prisms, minus the area of the two square bases that are being glued together, which yields 2 upper K - 2 x ^2 cm ^2 . It\u2019s given that this resulting surface area is equal to ( 92 / 47 ) upper K cm ^2 , so 2 upper K - 2 x ^2 = ( 92 / 47 ) upper K . Subtracting ( 92 / 47 ) upper K from both sides of this equation yields 2 upper K - ( 92 / 47 ) upper K - 2 x ^2 = 0 . This equation can be rewritten by multiplying 2 upper K on the left-hand side by 1 , which yields ( 94 / 47 ) upper K - ( 92 / 47 ) upper K - 2 x ^2 = 0 , or 2 forty /7s upper K - 2 x ^2 = 0 . Adding 2 x ^2 to both sides of this equation yields 2 forty /7s upper K = 2 x ^2 . Multiplying both sides of this equation by 47/2 yields upper K = 47 x ^2 . The surface area upper K , in cm**2 , of each rectangular prism is equivalent to the sum of the areas of the two square bases and the areas of the four lateral faces. Since the height of each rectangular prism is 90 cm and the side length of each square base is x cm , it follows that the area of each square base is x ^2 cm ^2 and the area of each lateral face is 90 x cm ^2 . Therefore, the surface area of each rectangular prism can be represented by the expression 2 x ^2 + 4 ( 90 x ) , or 2 x ^2 + 360 x . Substituting this expression for upper K in the equation upper K = 47 x ^2 yields 2 x ^2 + 360 x = 47 x ^2 . Subtracting 2 x ^2 and 360 x from both sides of this equation yields 0 = 45 x ^2 - 360 x . Factoring x from the right-hand side of this equation yields 0 = x ( 45 x - 360 ) . Applying the zero product property, it follows that x = 0 and 45 x - 360 = 0 . Adding 360 to both sides of the equation 45 x - 360 = 0 yields 45 x = 360 . Dividing both sides of this equation by 45 yields x = 8 . Since a side length of a rectangular prism can\u2019t be 0 , the length of each square base is 8  cm .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "93de3f84",
+        "Prompt": "The volume of right circular cylinder A is 22 cubic centimeters. What is the volume, in cubic centimeters, of a right circular cylinder with twice the radius and /2 the h8 of cylinder A?",
+        "Answer Choices": [
+            "11",
+            "22",
+            "44",
+            "66"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The volume of right circular cylinder A is given by the expression pi r ^2 * h , where r is the radius of its circular base and h is its height. The volume of a cylinder with twice the radius and half the height of cylinder A is given by pi * open parenthesis, 2 r, close parenthesis, ^2, * 1 /2 h , which is equivalent to 4 pi r ^2, * 1 /2 h, and = 2 pi r ^2 * h . Therefore, the volume is twice the volume of cylinder A, or 2 * 22, = 44 . Choice A is incorrect and likely results from not multiplying the radius of cylinder A by 2. Choice B is incorrect and likely results from not squaring the 2 in 2 r when applying the volume formula. Choice D is incorrect and likely results from a conceptual error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "f60bb551",
+        "Prompt": "The area of a rectangle is 630 square inches. The length of the rectangle is 70 inches. What is the width, in inches, of this rectangle?",
+        "Answer Choices": [
+            "9",
+            "70",
+            "315",
+            "560"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The area upper A , in square inches, of a rectangle is the product of its length script l , in inches, and its width w , in inches; thus, upper A = script l w . It's given that the area of a rectangle is 630 square inches and the length of the rectangle is 70 inches. Substituting 630 for upper A and 70 for script l in the equation upper A = script l w yields 630 = 70 w . Dividing both sides of this equation by 70 yields 9 = w . Therefore, the width, in inches, of this rectangle is 9 .  Choice B is incorrect. This is the length, not the width, in inches, of the rectangle.  Choice C is incorrect. This is half the area, in square inches, not the width, in inches, of the rectangle.  Choice D is incorrect. This is the difference between the area, in square inches, and the length, in inches, of the rectangle, not the width, in inches, of the rectangle."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "d2047497",
+        "Prompt": "What is the area of a rectangle with a length of 17 centimeters ( cm ) and a width of 7 cm?",
+        "Answer Choices": [
+            "24 cm ^2",
+            "48 cm ^2",
+            "119 cm ^2",
+            "576 cm ^2"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The area of a rectangle with length l and width w can be found using the formula upper A = l w . It\u2019s given that the rectangle has a length of 17 cm and a width of 7 cm . Therefore, the area of this rectangle is upper A = 17 ( 7 ) , or 119 cm ^2 .  Choice A is incorrect. This is the sum of the length and width of the rectangle, not the area.  Choice B is incorrect. This is the perimeter of the rectangle, not the area.  Choice D is incorrect. This is the sum of the length and width of the rectangle squared, not the area."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "eb70d2d0",
+        "Prompt": "Moving from left to right, the points have the following coordinates: ((-) 3 , 4) (4 , (-) 3) (5 , 3) What is the area, in square units, of the triangle formed by connecting the 3 points shown?",
+        "Answer Choices": [
+            "Moving from left to right, the points have the following coordinates :((-) 3, 4)(4, (-) 3)(5, 3)",
+            "((-) 3, 4)",
+            "(4, (-) 3)",
+            "(5, 3)"
+        ],
+        "Correct Answer": "24.5,  49/2",
+        "Rationale": "The correct answer is 24.5000000000000 . It's given that a triangle is formed by connecting the three points shown, which are ( (-) 3, 4 ) , (5, 3) , and ( 4, (-) 3 ) . Let this triangle be triangle A. The area of triangle A can be found by calculating the area of the rectangle that circumscribes it and subtracting the areas of the three triangles that are inside the rectangle but outside triangle A. The rectangle formed by the points ( (-) 3, 4 ) , (5, 4) , ( 5, (-) 3 ) , and ( (-) 3, (-) 3 ) circumscribes triangle A. The width, in units, of this rectangle can be found by calculating the distance between the points (5, 4) and ( 5, (-) 3 ) . This distance is 4 - ( (-) 3 ) , or 7 . The length, in units, of this rectangle can be found by calculating the distance between the points (5, 4) and ( (-) 3, 4 ) . This distance is 5 - ( (-) 3 ) , or 8 . It follows that the area, in square units, of the rectangle is ( 7 ) ( 8 ) , or 56 . One of the triangles that lies inside the rectangle but outside triangle A is formed by the points ( (-) 3, 4 ) , (5, 4) , and (5, 3) . The length, in units, of a base of this triangle can be found by calculating the distance between the points (5, 4) and (5, 3) . This distance is 1 , or 1 . The corresponding height, in units, of this triangle can be found by calculating the distance between the points (5, 4) and ( (-) 3, 4 ) . This distance is 5 - ( (-) 3 ) , or 8 . It follows that the area, in square units, of this triangle is 1 /2 ( 8 ) ( 1 ) , or 4 . A second triangle that lies inside the rectangle but outside triangle A is formed by the points ( 4, (-) 3 ) , (5, 3) , and ( 5, (-) 3 ) . The length, in units, of a base of this triangle can be found by calculating the distance between the points (5, 3) and ( 5, (-) 3 ) . This distance is 3 - ( (-) 3 ) , or 6 . The corresponding height, in units, of this triangle can be found by calculating the distance between the points ( 5, (-) 3 ) and ( 4, (-) 3 ) . This distance is 1 , or 1 . It follows that the area, in square units, of this triangle is 1 /2 ( 1 ) ( 6 ) , or 3 . The third triangle that lies inside the rectangle but outside triangle A is formed by the points ( (-) 3, 4 ) , ( (-) 3, (-) 3 ) , and ( 4, (-) 3 ) . The length, in units, of a base of this triangle can be found by calculating the distance between the points ( 4, (-) 3 ) and ( (-) 3, (-) 3 ) . This distance is 4 - ( (-) 3 ) , or 7 . The corresponding height, in units, of this triangle can be found by calculating the distance between the points ( (-) 3, 4 ) and ( (-) 3, (-) 3 ) . This distance is 4 - ( (-) 3 ) , or 7 . It follows that the area, in square units, of this triangle is 1 /2 ( 7 ) ( 7 ) , or 24.5000000000000 . Thus, the area, in square units, of the triangle formed by connecting the three points shown is 24.5000000000000 , or 24.5000000000000 . Note that 24.5 and 49/2 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "f329442c",
+        "Prompt": "Circle upper A has a radius of 3 n and circle upper B has a radius of 129 n, where n is a positive constant. The area of circle upper B is how many * the area of circle upper A?",
+        "Answer Choices": [
+            "43",
+            "86",
+            "129",
+            "(1, 849)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The area of a circle can be found by using the formula upper A = pi r ^2 , where upper A is the area and r is the radius of the circle. It\u2019s given that the radius of circle A is 3 n . Substituting this value for r into the formula upper A = pi r ^2 gives upper A = pi ( 3 n ) ^2 , or 9 pi n ^2 . It\u2019s also given that the radius of circle B is 129 n . Substituting this value for r into the formula upper A = pi r ^2 gives upper A = pi ( 129 n ) ^2 , or 16,641 pi n ^2 . Dividing the area of circle B by the area of circle A gives ( 16,641 pi n ^2 / 9 pi n ^2 ) , which simplifies to (1, 849) . Therefore, the area of circle B is (1, 849) times the area of circle A .  Choice A is incorrect. This is how many times greater the radius of circle B is than the radius of circle A .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the coefficient on the term that describes the radius of circle B ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "76670c80",
+        "Prompt": "Each side of a square has a length of 45. What is the perimeter of this square?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "180",
+        "Rationale": "The correct answer is 180 . The perimeter of a polygon is equal to the sum of the lengths of the sides of the polygon. It\u2019s given that each side of the square has a length of 45 . Since a square is a polygon with 4 sides, the perimeter of this square is 180 , or 180 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "4420e500",
+        "Prompt": "What is the area of a rectangle with a length of 4 centimeters ( cm ) and a width of 2 cm?",
+        "Answer Choices": [
+            "6 cm ^2",
+            "8 cm ^2",
+            "12 cm ^2",
+            "36 cm ^2"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The area of a rectangle with length script l and width w can be found using the formula upper A = script l w . It\u2019s given that the rectangle has a length of 4 cm and a width of 2 cm . Therefore, the area of this rectangle is ( 4 cm ) ( 2 cm ) , or 8 cm ^2 .  Choice A is incorrect. This is the sum, in cm , of the length and width of the rectangle, not the area, in cm ^2 .  Choice C is incorrect. This is the perimeter, in cm , of the rectangle, not the area, in cm ^2 .  Choice D is incorrect. This is the sum of the length and width of the rectangle squared, not the area."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "165c30c4",
+        "Prompt": "A rectangle has a length of 64 inches and a width of 32 inches. What is the area, in square inches, of the rectangle?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "2048",
+        "Rationale": "The correct answer is 2,048 . The area upper A , in square inches, of a rectangle is equal to the product of its length script l , in inches, and its width w , in inches, or upper A = script l w . It's given that the rectangle has a length of 64 inches and a width of 32 inches. Substituting 64 for script l and 32 for w in the equation upper A = script l w yields upper A = ( 64 ) ( 32 ) , or upper A = 2,048 . Therefore, the area, in square inches, of the rectangle is 2,048 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "f7e626b2",
+        "Prompt": "The dimensions of a right rectangular prism are 4 inches by 5 inches by 6 inches. What is the surface area, in square inches, of the prism?",
+        "Answer Choices": [
+            "30",
+            "74",
+            "120",
+            "148"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice D is correct. The surface area is found by summing the area of each face. A right rectangular prism consists of three pairs of congruent rectangles, so the surface area is found by multiplying the areas of three adjacent rectangles by 2 and adding these products. For this prism, the surface area is equal to 2 * open parenthesis, 4 * 5, close parenthesis, +, 2 * open parenthesis, 5 * 6, close parenthesis, +, 2 * open parenthesis, 4 * 6, close parenthesis , or 2 * 20, +, 2 * 30, +, 2 * 24 , which is equal to 148. Choice A is incorrect. This is the area of one of the faces of the prism. Choice B is incorrect and may result from adding the areas of three adjacent rectangles without multiplying by 2. Choice C is incorrect. This is the volume, in cubic inches, of the prism."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "306264ab",
+        "Prompt": "A right triangle has sides of length 2 sqrt( 2 ), 6 sqrt( 2 ), and 4*sqrt(5) units. What is the area of the triangle, in square units?",
+        "Answer Choices": [
+            "8 sqrt( 2 ) + sqrt( 80 )",
+            "12",
+            "24 sqrt( 80 )",
+            "24"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The area, upper A , of a triangle can be found using the formula upper A = 1 /2 b h , where b is the length of the base of the triangle and h is the height of the triangle. It's given that the triangle is a right triangle. Therefore, its base and height can be represented by the two legs. It\u2019s also given that the triangle has sides of length 2 sqrt( 2 ) , 6 sqrt( 2 ) , and 4*sqrt(5) units. Since 4*sqrt(5) units is the greatest of these lengths, it's the length of the hypotenuse. Therefore, the two legs have lengths 2 sqrt( 2 ) and 6 sqrt( 2 ) units. Substituting these values for b and h in the formula upper A = 1 /2 b h gives upper A = 1 /2 ( 2 sqrt( 2 ) ) ( 6 sqrt( 2 ) ) , which is equivalent to upper A = 6 sqrt( 4 ) square units, or upper A = 12 square units.  Choice A is incorrect. This expression represents the perimeter, rather than the area, of the triangle.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Easy",
+        "ID": "02b02213",
+        "Prompt": "What is the perimeter, in inches, of a rectangle with a length of 4 inches and a width of 9 inches?",
+        "Answer Choices": [
+            "13",
+            "17",
+            "22",
+            "26"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The perimeter of a figure is equal to the sum of the measurements of the sides of the figure. It\u2019s given that the rectangle has a length of 4 inches and a width of 9 inches. Since a rectangle has 4 sides, of which opposite sides are parallel and equal, it follows that the rectangle has two sides with a length of 4 inches and two sides with a width of 9 inches. Therefore, the perimeter of this rectangle is 26 , or 26 inches.  Choice A is incorrect. This is the sum, in inches, of the length and the width of the rectangle.  Choice B is incorrect. This is the sum, in inches, of the two lengths and the width of the rectangle.  Choice C is incorrect. This is the sum, in inches, of the length and the two widths of the rectangle."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "459dd6c5",
+        "Prompt": "Triangles italic upper A italic upper B italic upper C and italic upper D italic upper E italic upper F are similar. Each side length of triangle italic upper A italic upper B italic upper C is 4 * the corresponding side length of triangle italic upper D italic upper E italic upper F. The area of triangle italic upper A italic upper B italic upper C is 270 square inches. What is the area, in square inches, of triangle italic upper D italic upper E italic upper F?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "135/8,  16.87,  16.88",
+        "Rationale": "The correct answer is 135/8 . It's given that triangles italic upper A italic upper B italic upper C and italic upper D italic upper E italic upper F are similar and each side length of triangle italic upper A italic upper B italic upper C is 4 times the corresponding side length of triangle italic upper D italic upper E italic upper F . For two similar triangles, if each side length of the first triangle is k times the corresponding side length of the second triangle, then the area of the first triangle is k**2 times the area of the second triangle. Therefore, the area of triangle italic upper A italic upper B italic upper C is 16 , or 16 , times the area of triangle italic upper D italic upper E italic upper F . It's given that the area of triangle italic upper A italic upper B italic upper C is 270 square inches. Let a represent the area, in square inches, of triangle italic upper D italic upper E italic upper F . It follows that 270 is 16 times a , or 270 = 16 a . Dividing both sides of this equation by 16 yields ( 270 / 16 ) = a , which is equivalent to ( 135 / 8 ) = a . Thus, the area, in square inches, of triangle italic upper D italic upper E italic upper F is 135/8 . Note that 135/8, 16.87, and 16.88 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Hard",
+        "ID": "310c87fe",
+        "Prompt": "A cube has a surface area of 54 square meters. What is the volume, in cubic meters, of the cube?",
+        "Answer Choices": [
+            "18",
+            "27",
+            "36",
+            "81"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The surface area of a cube with side length s is equal to 6 s ^2 . Since the surface area is given as 54 square meters, the equation 54 = 6 s ^2 can be used to solve for s . Dividing both sides of the equation by 6 yields 9 = s ^2 . Taking the square root of both sides of this equation yields 3 = s and (-) 3, = s . Since the side length of a cube must be a positive value, s = (-) 3 can be discarded as a possible solution, leaving s = 3 . The volume of a cube with side length s is equal to s ^3 . Therefore, the volume of this cube, in cubic meters, is 3 ^3 , or 27. Choices A, C, and D are incorrect and may result from calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Area and volume",
+        "Difficulty": "Medium",
+        "ID": "cf53cb56",
+        "Prompt": "In the xy - plane shown, square ABCD has its diagonals on the x - and y - axes. What is the area, in square units, of the square?",
+        "Answer Choices": [
+            "20",
+            "25",
+            "50",
+            "100"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The two diagonals of square ABCD divide the square into 4 congruent right triangles, where each triangle has a vertex at the origin of the graph shown. The formula for the area of a triangle is A = 1 /2 * b h , where b is the base length of the triangle and h is the height of the triangle. Each of the 4 congruent right triangles has a height of 5 units and a base length of 5 units. Therefore, the area of each triangle is A = 1 /2 * 5 * 5 , or 12.5 square units. Since the 4 right triangles are congruent, the area of each is 1 /4 of the area of square ABCD . It follows that the area of the square ABCD is equal to 4 * 12. 5 , or 50 square units. Choices A and D are incorrect and may result from using 5 or 25, respectively, as the area of one of the 4 congruent right triangles formed by diagonals of square ABCD . However, the area of these triangles is 12.5. Choice B is incorrect and may result from using 5 as the length of one side of square ABCD . However, the length of a side of square ABCD is 5 * the square root of 2 ."
+    }
+]

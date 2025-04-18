@@ -1,0 +1,769 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "3c8fdc40",
+        "Prompt": "A printer produces posters at a constant rate of 42 posters per minute. At what rate, in posters per hour, does the printer produce the posters?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "2520",
+        "Rationale": "The correct answer is (2, 520) . There are 60 minutes in one hour. At a rate of 42 posters per minute, the number of posters produced in one hour can be determined by ( ( 42 posters / 1 minute ) ) ( ( 60 minutes / 1 hour ) ) , which is (2, 520) posters per hour."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "d28c29e1",
+        "Prompt": "The International Space Station orbits Earth at an average speed of 4.76 miles per second. What is the space station\u2019s average speed in miles per hour?",
+        "Answer Choices": [
+            "285.6",
+            "571.2",
+            "856.8",
+            "17,136.0"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since 1 minute = 60 seconds and 1 hour = 60 minutes, it follows that 1 hour = (60)(60), or 3,600 seconds. Using this conversion factor, the space station\u2019s average speed of 4.76 miles per second is equal to an average speed of the fraction with ( 4. 7 6 miles, and )/( second, * the fraction with ( 3,600 seconds, and )/( hour, = the fraction with ( 17,136 miles, and )/( hour , or 17,136 miles per hour. Choice A is incorrect. This is the space station\u2019s average speed in miles per minute. Choice B is incorrect. This is double the space station\u2019s average speed in miles per minute, or the number of miles the space station travels on average in 2 minutes. Choice C is incorrect. This is triple the space station\u2019s average speed in miles per minute, or the number of miles the space station travels on average in 3 minutes."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "3f5398a6",
+        "Prompt": "For a person m miles from a flash of lightning, the length of the time interval from the moment the person sees the lightning to the moment the person hears the thunder is k seconds. The ratio of m to k can be estimated to be 1 to 5. According to this estimate, the person is how many miles from a flash of lightning if the time interval is 25 seconds?",
+        "Answer Choices": [
+            "10",
+            "9",
+            "6",
+            "5"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice D is correct. It\u2019s given that the ratio of m to k is estimated to be 1 to 5. Therefore, when k = 25 , the relationship between these ratios can be expressed by the proportion m over 25, = 1 /5 . Multiplying both sides of this equation by 25 yields m = 5 . Choices A, B, and C are incorrect and may result from calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "b4912cc5",
+        "Prompt": "The population density of Iceland, in people per square kilometer of land area, increased from 2.5 in 1990 to 3.3 in 2014. During this time period, the land area of Iceland was 100,250 square kilometers. By how many people did Iceland\u2019s population increase from 1990 to 2014?",
+        "Answer Choices": [
+            "330,825",
+            "132,330",
+            "125,312",
+            "80,200"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The increase in Iceland\u2019s population can be found by multiplying the increase in population density, in people per square kilometer, by the area, in square kilometers. It\u2019s given that the population density of Iceland was 2.5 people per square kilometer in 1990 and 3.3 people per square kilometer in 2014. The increase in population density can be found by subtracting 2.5 from 3.3, which yields 0.8. It\u2019s given that the land area of Iceland was 100,250 square kilometers. Thus, the increase in population is 0. 8 * 100,250 , or 80,200. Alternate approach: It\u2019s given that the population density of Iceland, in people per square kilometer of land area, in 1990 was 2.5. Since the land area of Iceland was 100,250 square kilometers, it follows that the population of Iceland in 1990 was 2. 5 * 100,250 , or 250,625. Similarly, the population of Iceland in 2014 was 3. 3 * 100,250 , or 330,825. The population increase is the difference in the population from 1990 to 2014, or 330,825 - 250,625 , which yields 80,200. Therefore, Iceland\u2019s population increased by 80,200 from 1990 to 2014. Choice A is incorrect. This is the population of Iceland in 2014. Choice B is incorrect and may result from dividing 3.3 by 2.5, instead of subtracting 2.5 from 3.3. Choice C is incorrect and may result from dividing the population of Iceland in 1990 by 2."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "86636d8f",
+        "Prompt": "A customer spent dollar sign 27 to purchase oranges at dollar sign 3 per pound. How many pounds of oranges did the customer purchase?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "9",
+        "Rationale": "The correct answer is 9 . It\u2019s given that the customer spent dollar sign 27 to purchase oranges at dollar sign 3 per pound. Therefore, the number of pounds of oranges the customer purchased is dollar sign 27 ( ( 1 pound / dollar sign 3 ) ) , or 9 pounds."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "000259aa",
+        "Prompt": "A group of monarch butterflies migrated from Chicago, Illinois, to Michoac\u00e1n, Mexico, flying a total of 2,100 miles. It took a single butterfly in the group 120 days to travel this route 1 way. On average, how many miles did the butterfly travel per day?",
+        "Answer Choices": [
+            "0.057",
+            "0.729",
+            "17.5",
+            "24"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice C is correct. If the butterfly traveled 2,100 miles in 120 days, then it traveled, on average, 2,100 miles over 120 days = 17. 5 miles per day. Choice A is incorrect. This is approximately the average amount of time, in days, it took the butterfly to fly one mile: 120 days over 2,100 miles = 0. 0 5 7 days per mile. Choice B is incorrect and may result from an arithmetic error. Choice D is incorrect. This is the number of hours in a day rather than the number of miles flown per day."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "3726e079",
+        "Prompt": "If ( x / y ) = 4 and ( 24 x / n y ) = 4, what is the value of n?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "24",
+        "Rationale": "The correct answer is 24 . The equation ( 24 x / n y ) = 4 can be rewritten as ( ( 24 / n ) ) ( ( x / y ) ) = 4 . It's given that ( x / y ) = 4 . Substituting 4 for x/y in the equation ( ( 24 / n ) ) ( ( x / y ) ) = 4 yields ( ( 24 / n ) ) ( 4 ) = 4 . Multiplying both sides of this equation by n yields ( 24 ) ( 4 ) = 4 n . Dividing both sides of this equation by 4 yields 24 = n . Therefore, the value of n is 24 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "312ba47c",
+        "Prompt": "In a box of pens, the ratio of black pens to red pens is 8 to 1. There are 40 black pens in the box. How many red pens are in the box?",
+        "Answer Choices": [
+            "5",
+            "8",
+            "40",
+            "320"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the ratio of black pens to red pens is 8 to 1 . Therefore, there are 1/8 as many red pens as black pens in the box. It\u2019s also given that there are 40 black pens in the box. Therefore, the number of red pens is 1/8 of the 40 black pens. Thus, the number of red pens is 40 ( 1 /8 ) , or 5 .  Choice B is incorrect. This is the number of black pens in the box for every red pen.  Choice C is incorrect. This is the number of black pens in the box.  Choice D is incorrect. This is the number of red pens in the box if the ratio of black pens to red pens is 1 to 8 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "8e528129",
+        "Prompt": "Pure beeswax has a density of 0.555 ounce per cubic inch. An online company sells pure beeswax at a price of $8.00 per ounce. What is the selling price, in dollars per cubic inch, for pure beeswax purchased from this company?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 4.44. The selling price, in dollars per cubic inch, is found by multiplying the density, in ounces per cubic inch, by the unit price, in dollars per ounce: open parenthesis, 0. 5 5 5 ounce, over 1 cubic inch, close parenthesis, * open parenthesis, 8 dollars, over 1 ounce, close parenthesis yields 4. 4 4 dollars over 1 cubic inch . Thus, the selling price, in dollars per cubic inch, is 4.44."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "15617f62",
+        "Prompt": "The population density of Worthington is 290 people per square mile. Worthington has a population of (92, 800) people. What is the area, in square miles, of Worthington?",
+        "Answer Choices": [
+            "(102, 400)",
+            "93,090",
+            "320",
+            "32"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the population density of Worthington is 290 people per square mile and Worthington has a population of (92, 800) people. Therefore, the area of Worthington is 92,800 people ( ( 1 square mile / 290 people ) ) , which is equivalent to ( 92,800 square miles / 290 ) , or 320 square miles.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "be35c117",
+        "Prompt": "A wind turbine completes 900 revolutions in 50 minutes. At this rate, how many revolutions per minute does this turbine complete?",
+        "Answer Choices": [
+            "18",
+            "850",
+            "950",
+            "(1, 400)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Dividing the number of revolutions by the number of minutes gives the number of revolutions the turbine completes per minute. It\u2019s given that the wind turbine completes 900 revolutions in 50 minutes. Therefore, at this rate, this turbine completes 18 , or 18 , revolutions per minute.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "3f236a64",
+        "Prompt": "In the table above, the ratio of y to x for each ordered pair is constant. What is the value of k ?",
+        "Answer Choices": [
+            "28",
+            "36",
+            "80",
+            "160"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since the ratio of y to x is constant for each ordered pair in the table, the first row can be used to determine that the ratio of y to x is 4 to 1. The proportion 4 over 1, = k over 40 can be used to solve for k . Multiplying each side of the equation by 40 yields 160 = k . Choice A is incorrect. This is the value of y when the value of x is 7, not 40. Choice B is incorrect and may result from subtracting 4 from 40 instead of multiplying 40 by 4. Choice C is incorrect and may result from incorrectly setting up the proportion."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "c9fb15ad",
+        "Prompt": "One method of calculating the approximate age, in years, of a tree of a particular species is to multiply the diameter of the tree, in inches, by a constant called the growth factor for that species. The table above gives the growth factors for 8 species of trees. If a white birch tree and a pin oak tree each now have a diameter of 1 foot, which of the following will be closest to the difference, in inches, of their diameters 10 years from now? (1 foot = 12 inches)",
+        "Answer Choices": [
+            "1.0",
+            "1.2",
+            "1.3",
+            "1.4"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. According to the given information, multiplying a tree species\u2019 growth factor by the tree\u2019s diameter is a method to approximate the age of the tree. A white birch with a diameter of 12 inches (or 1 foot) has a given growth factor of 5 and is approximately 60 years old. A pin oak with a diameter of 12 inches (or 1 foot) has a given growth factor of 3 and is approximately 36 years old. The diameters of the two trees 10 years from now can be found by dividing each tree\u2019s age in 10 years, 70 years, and 46 years, by its respective growth factor. This yields 14 inches and 15 and 1 /3 inches. The difference between 15 and 1 /3 and 14 is 1 and 1 /3 , or approximately 1.3 inches. Alternate approach: Since a white birch has a growth factor of 5, the age increases at a rate of 5 years per inch or, equivalently, the diameter increases at a rate of 1 /5 of an inch per year. Likewise, the pin oak has a growth factor of 3, so its diameter increases at a rate of 1 /3 of an inch per year. Thus, the pin oak grows 2 /15 of an inch per year more than the white birch. In 10 years it will grow 2 /15 * 10, = 4 /3s of an inch more, which is approximately 1.3 inches. Choices A, B, and D are incorrect and a result of incorrectly calculating the diameters of the two trees in 10 years."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "2d16d62c",
+        "Prompt": "A special camera is used for underwater ocean research. When the camera is at a depth of 58 fathoms, what is the camera's depth in feet? ( 1 fathom = 6 feet )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "348",
+        "Rationale": "The correct answer is 348 . It's given that 1 fathom is equivalent to 6 feet. Therefore, 58 fathoms is equivalent to ( 58 fathoms ) ( ( 6 feet / 1 fathom ) ) , or 348 feet. Thus, when the camera is at a depth of 58 fathoms, the camera's depth, in feet, is 348 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "69f6717f",
+        "Prompt": "A sample of oak has a density of 807 kilograms per cubic meter. The sample is in the shape of a cube, where each edge has a length of 0.900000000000000 meters. To the nearest whole number, what is the mass, in kilograms, of this sample?",
+        "Answer Choices": [
+            "588",
+            "726",
+            "897",
+            "(1, 107)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the sample is in the shape of a cube with edge lengths of 0.900000000000000 meters. Therefore, the volume of the sample is 0.729000000000000 , or 0.729000000000000 , cubic meters. It\u2019s also given that the sample has a density of 807 kilograms per 1 cubic meter. Therefore, the mass of this sample is 0.729 cubic meters ( ( 807 kilograms / 1 cubic meter ) ) , or 588.303000000000 kilograms. Rounding this mass to the nearest whole number gives 588 kilograms. Therefore, to the nearest whole number, the mass, in kilograms, of this sample is 588 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C\u00a0is incorrect and may result from conceptual or calculation errors.  Choice D\u00a0is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "fea831fc",
+        "Prompt": "On April 18, 1775, Paul Revere set off on his midnight ride from Charlestown to Lexington. If he had ridden straight to Lexington without stopping, he would have traveled 11 miles in 26 minutes. In such a ride, what would the average speed of his horse have been, to the nearest /10 of a mile per hour?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 25.4. The average speed is the total distance divided by the total time. The total distance is 11 miles and the total time is 26 minutes. Thus, the average speed is 11 over 26 miles per minute. The question asks for the average speed in miles per hour, and there are 60 minutes in an hour; converting miles per minute to miles per hour gives the following: Average speed = the fraction 11 miles over 26 minutes, ), * the fraction 60 minutes over 1 hour, )  which = the fraction 660 over 26, ), miles per hour  which is approximately equal to 25. 3 8 miles per hour Therefore, to the nearest tenth of a mile per hour, the average speed of Paul Revere\u2019s ride would have been 25.4 miles per hour. Note that 25.4 and 127/5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "aeeaec96",
+        "Prompt": "How many yards are equivalent to 612 inches? ( 1 yard = 36 inches )",
+        "Answer Choices": [
+            "0.0590000000000000",
+            "17",
+            "576",
+            "22,032"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that 1 yard = 36 inches . Therefore, 612 inches\u00a0is equivalent to 612 inches ( ( 1 yard / 36 inches ) ) , which can be rewritten as ( 612 yards / 36 ) , or 17 yards.  Choice A is incorrect. This is the number of yards that are equivalent to 2.12400000000000 inches.  Choice C is incorrect. This is the number of yards that are equivalent to (20, 736) inches.  Choice D is incorrect. This is the number of yards that are equivalent to (793, 152) inches."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "e9841407",
+        "Prompt": "Shaquan has 7 red cards and 28 blue cards. What is the ratio of red cards to blue cards that Shaquan has?",
+        "Answer Choices": [
+            "1 to 4",
+            "4 to 1",
+            "1 to 7",
+            "7 to 1"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that Shaquan has 7 red cards and 28 blue cards. Therefore, the ratio of red cards to blue cards that Shaquan has is 7 to 28. This ratio can be reduced by dividing both parts of the ratio by 7, which yields the ratio 1 to 4. Choice B is incorrect. This is the ratio of blue cards to red cards that Shaquan has. Choice C is incorrect and may result from a calculation error when reducing the ratio. Choice D is incorrect. This may result from finding the ratio of blue cards to red cards, or 28 to 7, and then making a calculation error when reducing the ratio."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "3638f413",
+        "Prompt": "Jeremy deposited x dollars in his investment account on January1, 2001. The amount of money in the account doubled each year until Jeremy had 480 dollars in his investment account on January 1, 2005. What is the value of x ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 30. The situation can be represented by the equation x * open parenthesis, 2 to the /4 ^, close parenthesis, = 480 , where the 2 represents the fact that the amount of money in the account doubled each year and the 4 represents the fact that there are 4 years between January 1, 2001, and January 1, 2005. Simplifying x * open parenthesis, 2 to the /4 ^, close parenthesis, = 480 gives 16 x = 480 . Therefore, x = 30 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "fe1ec415",
+        "Prompt": "A cherry pitting machine pits 12 pounds of cherries in 3 minutes. At this rate, how many minutes does it take the machine to pit 96 pounds of cherries?",
+        "Answer Choices": [
+            "8",
+            "15",
+            "24",
+            "36"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the cherry pitting machine pits 12 pounds of cherries in 3 minutes. This rate can be written as ( 12 pounds of cherries / 3 minutes ) . If the number of minutes it takes the machine to pit 96 pounds of cherries is represented by x , the value of x can be calculated by solving the equation ( 12 pounds of cherries / 3 minutes ) = ( 96 pounds of cherries / x minutes ) , which can be rewritten as ( 12 / 3 ) = ( 96 / x ) , or 4 = ( 96 / x ) . Multiplying each side of this equation by x yields 4 x = 96 . Dividing each side of this equation by 4 yields x = 24 . Therefore, it takes the machine 24 minutes to pit 96 pounds of cherries.  Choice A is incorrect. This is the number of minutes it takes the machine to pit 32 , not 96 , pounds of cherries.  Choice B is incorrect. This is the number of minutes it takes the machine to pit 60 , not 96 , pounds of cherries.  Choice D is incorrect. This is the number of minutes it takes the machine to pit 144 , not 96 , pounds of cherries."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "ba62b0b0",
+        "Prompt": "A kangaroo has a mass of 28 kilograms. What is the kangaroo's mass, in grams? ( 1 kilogram = 1,000 grams )",
+        "Answer Choices": [
+            "(28, 0)",
+            "1,028",
+            "972",
+            "784"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that a kangaroo has a mass of 28 kilograms and that 1 kilogram is equal to (1, 0) grams. Therefore, the kangaroo's mass, in grams, is 28 kilograms ( ( 1,000 grams / 1 kilogram ) ) , which is equivalent to (28, 0) grams.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "7cd1c6db",
+        "Prompt": "An object travels at a constant speed of 12 centimeters per second. At this speed, what is the time, in seconds, that it would take for the object to travel 108 centimeters?",
+        "Answer Choices": [
+            "9",
+            "96",
+            "120",
+            "972"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. If the object travels 108 centimeters at a speed of 12 centimeters per second, the time of travel can be determined by dividing the total distance by the speed. This results in ( 108 centimeters / 12 centimeters slash second ) , which is 9 seconds.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "3f775bbf",
+        "Prompt": "The table shows the distribution, by location and ^ capacity (maximum rate of ^ generation) of the twenty largest wind projects in the United States in 2013. The total ^ capacity of the 9 wind projects located in Texas was 4,952 megawatts (MW), and the total ^ capacity of the twenty wind projects was 11,037 MW in 2013. The amount of energy produced in 1 hour at a rate of 1 megawatt is 1 megawatt-hour. If each of the 9 Texas wind projects in 2013 had operated continuously for 24 hours at the maximum rate of ^ generation, approximately how many megawatt-hours of energy would the 9 projects have produced?",
+        "Answer Choices": [
+            "200",
+            "5,000",
+            "11,000",
+            "120,000"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the total power capacity of the nine wind projects in Texas was 4,952 megawatts. Therefore, if all nine Texas projects operated continuously for 1 hour, the amount of energy produced would be 4,952 megawatt-hours. It follows that, if all nine Texas projects operated continuously for 24 hours, the amount of energy produced, in megawatt-hours, would be 4,952 * 24, = 118,848 , which is closest to 120,000. Choice A is incorrect. This is approximately the amount of energy produced for the nine projects divided by 24 hours. Choice B is incorrect. This is approximately the amount of energy produced for the nine projects. Choice C is incorrect. This is approximately the given amount of energy produced for all twenty projects in the table."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "8637294f",
+        "Prompt": "If ( 4 a / b ) = 6.7 and ( a / b n ) = 26.8, what is the value of n?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".0625,  1/16",
+        "Rationale": "The correct answer is 0.0625000000000000 . It's given that ( 4 a / b ) = 6.7 and ( a / b n ) = 26.8 . The equation ( 4 a / b ) = 6.7 can be rewritten as ( 4 ) ( ( a / b ) ) = 6.7 . Dividing both sides of this equation by 4 yields ( a / b ) = 1.675 . The equation ( a / b n ) = 26.8 can be rewritten as ( ( a / b ) ) ( ( 1 / n ) ) = 26.8 . Substituting 1.67500000000000 for a/b in this equation yields ( 1.675 ) ( ( 1 / n ) ) = 26.8 , or ( 1.675 / n ) = 26.8 . Multiplying both sides of this equation by n yields 1.675 = 26.8 n . Dividing both sides of this equation by 26.8000000000000 yields n = 0.0625 . Therefore, the value of n is 0.0625000000000000 . Note that .0625, 0.062, 0.063, and 1/16 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "e21d10a7",
+        "Prompt": "One of a planet's moons orbits the planet every252 days. A second moon orbits the planet every287 days. How many more days does it take the second moon to orbit the planet 29 * than it takes the first moon to orbit the planet 29 *?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "1015",
+        "Rationale": "The correct answer is 1,015 . It\u2019s given that the first moon orbits the planet every 252 days. Therefore, it takes the first moon 252 ( 29 ) , or (7, 308) ,\u00a0days to orbit the planet 29 times. It\u2019s also given that the second moon orbits the planet every 287 days. Therefore, it takes the second moon 287 ( 29 ) , or (8, 323) ,\u00a0days to orbit the planet 29 times. Since it takes the first moon (7, 308) days and the second moon (8, 323) days, it takes the second moon (8, 316, 308) , or 1,015 , more days than it takes the first moon to orbit the planet 29 times."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "7d721177",
+        "Prompt": "The density of a certain type of wood is 353 kilograms per cubic meter. A sample of this type of wood is in the shape of a cube and has a mass of 345 kilograms. To the nearest hundredth of a meter, what is the length of 1 edge of this sample?",
+        "Answer Choices": [
+            "0.98",
+            "0.99",
+            "1.01",
+            "1.02"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the density of a certain type of wood is 353 kilograms per cubic meter ( kg slash m ^3 ) , and a sample of this type of wood has a mass of 345 kg . Let x represent the volume, in m**3 , of the sample. It follows that the relationship between the density, mass, and volume of this sample can be written as ( 353 kg / 1 m ^3 ) = ( 345 kg / x m ^3 ) , or 353 = ( 345 / x ) . Multiplying both sides of this equation by x yields 353 x = 345 . Dividing both sides of this equation by 353 yields x = ( 345 / 353 ) . Therefore, the volume of this sample is ( 345 / 353 ) m ^3 . Since it\u2019s given that the sample of this type of wood is a cube, it follows that the length of one edge of this sample can be found using the volume formula for a cube, upper V = s ^3 , where upper V represents the volume, in m**3 , and s represents the length, in m, of one edge of the cube. Substituting 345/353 for upper V in this formula yields ( 345 / 353 ) = s ^3 . Taking the cube root of both sides of this equation yields ^1/ 3 sqrt( ( 345 / 353 ) ) = s , or s almost = 0 period 99 . Therefore, the length of one edge of this sample to the nearest hundredth of a meter is 0.990000000000000 .  Choices A, C, and D are incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "d0d9ede4",
+        "Prompt": "How many feet are equivalent to 34 yards? ( 1 yard = 3 feet )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "102",
+        "Rationale": "The correct answer is 102 . It\u2019s given that 1 yard is equivalent to 3 feet. Therefore, 34 yards is equivalent to ( 34 yards ) ( ( 3 feet / 1 yard ) ) , or 102 feet."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "06a152cd",
+        "Prompt": "To make a bakery\u2019s signature chocolate muffins, a baker needs 2.5 ounces of chocolate for each muffin. How many pounds of chocolate are needed to make 48 signature chocolate muffins? (1 pound = 16 ounces)",
+        "Answer Choices": [
+            "7.5",
+            "10",
+            "50.5",
+            "120"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. If 2.5 ounces of chocolate are needed for each muffin, then the number of ounces of chocolate needed to make 48 muffins is 48 * 2. 5, = 120 ounces. Since 1 pound = 16 ounces, the number of pounds that is equivalent to 120 ounces is 120 over 16 = 7. 5 pounds. Therefore, 7.5 pounds of chocolate are needed to make the 48 muffins. Choice B is incorrect. If 10 pounds of chocolate were needed to make 48 muffins, then the total number of ounces of chocolate needed would be 10 * 16, = 160 ounces. The number of ounces of chocolate per muffin would then be 160 over 48, = 3. 3 3 ounces per muffin, not 2.5 ounces per muffin. Choices C and D are also incorrect. Following the same procedures as used to test choice B gives 16.8 ounces per muffin for choice C and 40 ounces per muffin for choice D, not 2.5 ounces per muffin. Therefore, 50.5 and 120 pounds cannot be the number of pounds needed to make 48 signature chocolate muffins."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "8917ce38",
+        "Prompt": "Which of the following speeds is equivalent to 90 kilometers per hour? (1 kilometer = 1,000 meters)",
+        "Answer Choices": [
+            "25 meters per second",
+            "32 meters per second",
+            "250 meters per second",
+            "324 meters per second"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since 1 kilometer is equal to 1,000 meters, it follows that 90 kilometers is equal to 90 * 1,000, = 90,000 meters. Since 1 hour is equal to 60 minutes and 1 minute is equal to 60 seconds, it follows that 1 hour is equal to 60 * 60, = 3,600 seconds. Now the fraction 90 kilometers over 1 hour is equal to the fraction 90,000 meters over 3,600 seconds , which reduces to the fraction 25 meters over 1 second or 25 meters per second. Choices B, C, and D are incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "ec787383",
+        "Prompt": "A distance of 61 furlongs is equivalent to how many feet? ( 1 furlong = 220 yards and 1 yard = 3 feet )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "40260",
+        "Rationale": "The correct answer is (40, 260) . It's given that 1 furlong = 220 yards and 1 yard = 3 feet . It follows that a distance of 61 furlongs is equivalent to ( 61 furlongs ) ( ( 220 yards / 1 furlong ) ) ( ( 3 feet / 1 yard ) ) ,\u00a0or (40, 260) feet."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "7e6c745f",
+        "Prompt": "Food Protein Cost 1 large egg 6 grams $0.36 1 cup of milk 8 grams $0.24 The table above shows the amount of protein in 2 foods and the cost of each food. Based on the table, what is the ratio of the cost per gram of protein in a large egg to the cost per gram of protein in a cup of milk?",
+        "Answer Choices": [
+            "1 : 2",
+            "2 : 3",
+            "3 : 4",
+            "2 : 1"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The cost per gram of protein in 1 large egg is $0.36 \u00f7 6 = $0.06. The cost per gram of protein in 1 cup of milk is $0.24 \u00f7 8 = $0.03. It follows that the ratio of the cost per gram of protein in a large egg to the cost per gram of protein in a cup of milk is\u00a00.06:0.03, which can be rewritten as 2:1. Choice A is incorrect and may result from finding the ratio of the cost per gram of protein in a cup of milk to the cost per gram of protein in a large egg (the reciprocal of the ratio specified in the question). Choices B and C are incorrect and may result from incorrectly calculating the unit rates or from errors made when simplifying the ratio."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "85b33aa8",
+        "Prompt": "A fish swam a distance of (5, 104) yards. How far did the fish swim, in miles? ( 1 mile = 1,760 yards )",
+        "Answer Choices": [
+            "0.300000000000000",
+            "2.90000000000000",
+            "(3, 344)",
+            "(6, 864)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the fish swam (5, 104) yards and that 1 mile is equal to (1, 760) yards. Therefore, the fish swam 5,104 yards ( ( 1 mile / 1, 760 yards ) ) , which is equivalent to ( 5, 104 / 1, 760 ) miles , or 2.90000000000000 miles.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "873d2838",
+        "Prompt": "The population density of Cedar County is 230 people per square mile. The county has a population of (85, 100) people. What is the area, in square miles, of Cedar County?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "370",
+        "Rationale": "The correct answer is 370 . It\u2019s given that the population density of Cedar County is 230 people per square mile and the county has a population of (85, 100) people. Based on the population density, it follows that the area of Cedar County is ( 85,100 people ) ( ( 1 square mile / 230 people ) ) , or 370 square miles."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "2cdefcb1",
+        "Prompt": "What length, in centimeters, is equivalent to a length of 51 meters? ( 1 meter = 100 centimeters )",
+        "Answer Choices": [
+            "0.0510000000000000",
+            "0.510000000000000",
+            "(5, 100)",
+            "(51, 0)"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since 1 meter is equal to 100 centimeters, 51 meters is equal to 51 meters ( ( 100 centimeters / 1 meter ) ) , or (5, 100) centimeters.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from dividing, rather than multiplying, 51 by 100 .  Choice D is incorrect. This is the length, in millimeters rather than centimeters, that is equivalent to a length of 51 meters."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "c7c6445f",
+        "Prompt": "A certain town has an area of 4.36000000000000 square miles. What is the area, in square yards, of this town? ( 1 mile = 1,760 yards )",
+        "Answer Choices": [
+            "404",
+            "(7, 674)",
+            "(710, 459)",
+            "(13, 505, 536)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since the number of yards in 1 mile is (1, 760) , the number of square yards in 1 square mile is ( 1,760 ) ( 1,760 ) = 3,097,600 . Therefore, if the area of the town is 4.36000000000000 square miles, it is 4.36 ( 3,097,600 ) = 13,505,536 , in square yards.  Choice A is incorrect and may result from dividing the number of yards in a mile by the square mileage of the town.  Choice B is incorrect and may result from multiplying the number of yards in a mile by the square mileage of the town.  Choice C is incorrect and may result from dividing the number of square yards in a square mile by the square mileage of the town."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "73ddfdac",
+        "Prompt": "A distance of 112 furlongs is equivalent to how many feet? ( 1 furlong = 220 yards and 1 yard = 3 feet )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "73920",
+        "Rationale": "The correct answer is (73, 920) . It's given that 1 furlong = 220 yards and 1 yard = 3 feet . It follows that a distance of 112 furlongs\u00a0is equivalent to ( 112 furlongs ) ( ( 220 yards / 1 furlong ) ) ( ( 3 feet / 1 yard ) ) , or (73, 920) feet."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "61b87506",
+        "Prompt": "For the values j and k, the ratio of j to k is 11 to 12. If j is multiplied by17, what is k multiplied by in order to maintain the same ratio?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "17",
+        "Rationale": "The correct answer is 17 . If one value is multiplied by a number, then the other value must be multiplied by the same number in order to maintain the same ratio. It\u2019s given that j is multiplied by 17 . Therefore, in order to maintain the same ratio, k must also be multiplied by 17 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "3ac09984",
+        "Prompt": "Marta has 7,500 pesos she will convert to US dollars using a currency exchange service. At this time, the currency exchange rate is 1 peso = 0.075 US dollars. The exchange service will charge Marta a 2% fee on the converted US dollar amount. How many US dollars will Marta receive from the currency exchange after the 2% fee is applied?",
+        "Answer Choices": [
+            "$551.25",
+            "$562.50",
+            "$5,625.00",
+            "$98,000.00"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. At the exchange rate of 1 peso = 0.075 US dollars, 7,500 pesos would be converted to 7,500 \u00d7 0.075 = $562.50. However, since Maria pays a 2% fee on the converted US dollar amount, she receives only (100 \u2013 2)%, or 98%, of the converted US dollars, and 562.50 \u00d7 0.98 = $551.25. Choice B is incorrect. This is the number of US dollars Maria would receive if the exchange service did not charge a 2% fee. Choice C is incorrect and may result from a decimal point error made when calculating the conversion to US dollars and from not assessing the 2% fee. Choice D is incorrect and may result from reversing the units of the exchange rate."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "eb672707",
+        "Prompt": "How many tablespoons are equivalent to 14 teaspoons? ( 3 teaspoons = 1 tablespoon )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "14/3,  4.666,  4.667",
+        "Rationale": "The correct answer is 14/3 . It's given that 3 teaspoons is equivalent to 1 tablespoon. Therefore, 14 teaspoons is equivalent to ( 14 teaspoons ) ( ( 1 tablespoon / 3 teaspoons ) ) , or 14/3 tablespoons. Note that 14/3, 4.666, and 4.667 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "cb4894f9",
+        "Prompt": "A triathlon is a multisport race consisting of 3 different legs. A triathlon participant completed the cycling leg with an average speed of 19.7000000000000 miles per hour. What was the average speed, in yards per hour, of the participant during the cycling leg? ( 1 mile = 1,760 yards )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "34672",
+        "Rationale": "The correct answer is (34, 672) . It's given\u00a0that 1 mile = 1,760 yards . It follows that an average speed of 19.7000000000000 miles per hour is equivalent to ( ( 19.700 miles / 1 hour ) ) ( ( 1,760 yards / 1 mile ) ) , or (34, 672) yards per hour."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "551c52b9",
+        "Prompt": "Tilly earns p dollars for every w hours of work. Which expression represents the amount of money, in dollars, Tilly earns for 39 w hours of work?",
+        "Answer Choices": [
+            "39 p",
+            "p/39",
+            "p + 39",
+            "p - 39"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that Tilly earns p dollars for every w hours of work. This can be represented by the proportion p/w . The amount of money, x , Tilly earns for 39 w hours of work can be found by setting up the proportion ( p / w ) = ( x / 39 w ) . This can be rewritten as 39 p w = x w . Dividing both sides by w results in x = 39 p .  Choice B is incorrect. This is the amount of money Tilly earns in dollars per hour, not the amount of money Tilly earns for 39 w hours of work.  Choice C is incorrect. This is the amount of money Tilly earns for w hours of work plus 39 , not the amount of money Tilly earns for 39 w hours of work.  Choice D is incorrect. This is the amount of money Tilly earns for w hours of work minus 39 , not the amount of money Tilly earns for 39 w hours of work."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "1180401d",
+        "Prompt": "The total area of a coastal city is 92.1 square miles, of which 11.3 square miles is water. If the city had a population of 621,000 people in the year 2010, which of the following is closest to the population density, in people per square mile of land area, of the city at that time?",
+        "Answer Choices": [
+            "6,740",
+            "7,690",
+            "55,000",
+            "76,000"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The land area of the coastal city can be found by subtracting the area of the water from the total area of the coastal city; that is, 92. 1, - 11. 3, = 80. 8 square miles. The population density is the population divided by the land area, or the fraction 621,000 over 80. 8, ), = 7,686 , which is closest to 7,690 people per square mile. Choice A is incorrect and may be the result of dividing the population by the total area, instead of the land area. Choice C is incorrect and may be the result of dividing the population by the area of water. Choice D is incorrect and may be the result of making a computational error with the decimal place."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "96c3e32d",
+        "Prompt": "One side of a flat board has an area of 874 square inches. If a pressure of 19 pounds per square inch of area is exerted on this side of the board, what is the total force, in pounds, exerted on this side of the board?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "16606",
+        "Rationale": "The correct answer is (16, 606) . It's given that one side of a flat board has an area of 874 square inches. If a pressure of 19 pounds per square inch of area is exerted on this side of the board, the total force exerted on this side of the board is ( 874 square inches ) ( ( 19 pounds / 1 square inch ) ) , or (16, 606) pounds."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "99550621",
+        "Prompt": "Makayla is planning an event in a 5,400 - square-foot room. If there should be at least 8 square feet per person, what is the maximum number of people that could at10d this event?",
+        "Answer Choices": [
+            "588",
+            "675",
+            "15,274",
+            "43,200"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the event will be in a 5,400-square-foot room and that there should be at least 8 square feet per person. The maximum number of people that could attend the event can be found by dividing the total square feet in the room by the minimum number of square feet needed per person, which gives the fraction 5,400 over 8, = 675 . Choices A and C are incorrect and may result from conceptual or computational errors. Choice D is incorrect and may result from multiplying, rather than dividing, 5,400 by 8."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "89c39d77",
+        "Prompt": "A competition consisted of 4 different events. One participant completed the first event with an average speed of 20.3000000000000 miles per hour. What was this average speed, in yards per hour? ( 1 mile = 1,760 yards )",
+        "Answer Choices": "N/A",
+        "Correct Answer": "35728",
+        "Rationale": "The correct answer is (35, 728) . It's given that 1 mile = 1,760 yards . It follows that an average speed of 20.3000000000000 miles per hour is equivalent to ( ( 20.300 miles / 1 hour ) ) ( ( 1,760 yards / 1 mile ) ) , or (35, 728) yards per hour."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "20b69297",
+        "Prompt": "Anita created a batch of green paint by mixing 2 ounces of blue paint with 3 ounces of yellow paint. She must mix a second batch using the same ratio of blue and yellow paint as the first batch. If she uses 5 ounces of blue paint for the second batch, how much yellow paint should Anita use?",
+        "Answer Choices": [
+            "Exactly 5 ounces",
+            "3 ounces more than the amount of yellow paint used in the first batch",
+            "1.5 * the amount of yellow paint used in the first batch",
+            "1.5 * the amount of blue paint used in the second batch"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that Anita used a ratio of 2 ounces of blue paint to 3 ounces of yellow paint for the first batch. For any batch of paint that uses the same ratio, the amount of yellow paint used will be 3 /2 , or 1.5, times the amount of blue paint used in the batch. Therefore, the amount of yellow paint Anita will use in the second batch will be 1.5 times the amount of blue paint used in the second batch. Alternate approach: It\u2019s given that Anita used a ratio of 2 ounces of blue paint to 3 ounces of yellow paint for the first batch and that she will use 5 ounces of blue paint for the second batch. A proportion can be set up to solve for x , the amount of yellow paint she will use for the second batch: 2 over 3, = 5 over x . Multiplying both sides of this equation by 3 yields 2 = 15 over x , and multiplying both sides of this equation by x yields 2 x = 15 . Dividing both sides of this equation by 2 yields x = 7. 5 . Since Anita will use 7.5 ounces of yellow paint for the second batch, this is 7. 5 over 5 = 1. 5 times the amount of blue paint (5 ounces) used in the second batch. Choices A, B, and C are incorrect and may result from incorrectly interpreting the ratio of blue paint to yellow paint used."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Hard",
+        "ID": "d6456c7a",
+        "Prompt": "A certain park has an area of (11, 863, 808) square yards. What is the area, in square miles, of this park? ( 1 mile = 1,760 yards )",
+        "Answer Choices": [
+            "1.96000000000000",
+            "3.83000000000000",
+            "(3, 444.390000000000)",
+            "(6, 740.800000000000)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Since 1 mile is equal to (1, 760) yards, 1 square mile\u00a0is equal to (1, 577600) , or 3,097,600 , square yards. It\u2019s given that the park has an area of (11, 863, 808) square yards. Therefore, the park has an area of ( 11,863,808 square yards ) ( ( 1 square mile / 3,097,600 square yards ) ) , or ( 11,863,808 / 3,097,600 ) square miles. Thus, the area, in square miles, of the park is 3.83000000000000 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the square root of the area of the park in square yards, not the area of the park in square miles.  Choice D is incorrect and may result from converting (11, 863, 808) yards to miles, rather than converting (11, 863, 808) square yards to square miles."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "4347a032",
+        "Prompt": "How many teaspoons are equivalent to 44 tablespoons? ( 3 teaspoons = 1 tablespoon )",
+        "Answer Choices": [
+            "47",
+            "88",
+            "132",
+            "176"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that 3 teaspoons is equivalent to 1 tablespoon. Therefore, 44 tablespoons is equivalent to ( 44 tablespoons ) ( ( 3 teaspoons / 1 tablespoon ) ) , or 132 teaspoons.  Choice A is incorrect. This is equivalent to approximately 15.6600000000000 tablespoons, not 44 tablespoons.  Choice B is incorrect. This is equivalent to approximately 29.3300000000000 tablespoons, not 44 tablespoons.  Choice D is incorrect. This is equivalent to approximately 58.6600000000000 tablespoons, not 44 tablespoons."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Medium",
+        "ID": "51c9d65f",
+        "Prompt": "For a certain rectangular region, the ratio of its length to its width is 35 to 10. If the width of the rectangular region increases by 7 units, how must the length change to maintain this ratio?",
+        "Answer Choices": [
+            "It must decrease by24.5000000000000units.",
+            "It must increase by24.5000000000000units.",
+            "It must decrease by7units.",
+            "It must increase by7units."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the ratio of the rectangular region\u2019s length to its width is 35 to 10 . This can be written as a proportion: ( length / width ) = ( 35 / 10 ) , or ( script l / w ) = ( 35 / 10 ) . This proportion can be rewritten as 10 script l = 35 w , or script l = 3.5 w . If the width of the rectangular region increases by 7 , then the length will increase by some number x in order to maintain this ratio. The value of x can be found by replacing script l with script l + x and w with w + 7 in the equation, which gives script l + x = 3.5 ( w + 7 ) . This equation can be rewritten using the distributive property as script l + x = 3.5 w + 24.5 . Since script l = 3.5 w , the right-hand side of this equation can be rewritten by substituting script l for 3.5 w , which gives script l + x = script l + 24.5 , or x = 24.5 . Therefore, if the width of the rectangular region increases by 7 units, the length must increase by 24.5000000000000 units in order to maintain the given ratio.  Choice A is incorrect. If the width of the rectangular region increases, the length must also increase, not decrease.  Choice C is incorrect. If the width of the rectangular region increases, the length must also increase, not decrease.  Choice D is incorrect. Since the ratio of the length to the width of the rectangular region is 35 to 10 , if the width of the rectangular region increases by 7 units, the length would have to increase by a proportional amount, which would have to be greater than 7 units."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Ratios, rates, proportional relationships, and units",
+        "Difficulty": "Easy",
+        "ID": "763e6769",
+        "Prompt": "The ratio x to y is equivalent to the ratio 12 to t. When x = 156, what is the value of y in terms of t?",
+        "Answer Choices": [
+            "13 t",
+            "12 t",
+            "144 t",
+            "168 t"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the ratio x to y is equivalent to the ratio 12 to t . This can be represented by ( x / y ) = ( 12 / t ) . Substituting 156 for x in this equation yields ( 156 / y ) = ( 12 / t ) . This can be rewritten as 12 y = 156 t . Dividing both sides of this equation by 12 yields y = 13 t . Therefore, when x = 156 , the value of y in terms of t is 13 t .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    }
+]

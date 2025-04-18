@@ -1,0 +1,559 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "6d99b141",
+        "Prompt": "Triangle upper A upper C upper D partially overlaps triangle upper E upper B upper D. Point upper C is on line segment upper B upper D. Point upper E is on line segment upper A upper D. The measure of angle upper A upper E upper B is x\u00b0. A note indicates the figure is not drawn to scale. In the figure, upper A upper C = upper C upper D. The measure of angle upper E upper B upper C is 45 degree, and the measure of angle upper A upper C upper D is 104 degree. What is the value of x?",
+        "Answer Choices": [
+            "Point upper C is on line segment upper B upper D.",
+            "Point upper E is on line segment upper A upper D.",
+            "The measure of angle upper A upper E upper B is x\u00b0.",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "83",
+        "Rationale": "The correct answer is 83 . It's given that in the figure, upper A upper C = upper C upper D . Thus, triangle upper A upper C upper D is an isosceles triangle and the measure of angle upper C upper D upper A is equal to the measure of angle upper C upper A upper D . The sum of the measures of the interior angles of a triangle is 180 degree . Thus, the sum of the measures of the interior angles of triangle upper A upper C upper D is 180 degree . It's given that the measure of angle upper A upper C upper D is 104 degree . It follows that the sum of the measures of angles upper C upper D upper A and upper C upper A upper D is ( 180 - 104 ) degree , or 76 degree . Since the measure of angle upper C upper D upper A is equal to the measure of angle upper C upper A upper D , the measure of angle upper C upper D upper A is half of 76 degree , or 38 degree . The sum of the measures of the interior angles of triangle upper B upper D upper E is 180 degree . It's given that the measure of angle upper E upper B upper C is 45 degree . Since the measure of angle upper B upper D upper E , which is the same angle as angle upper C upper D upper A , is 38 degree , it follows that the measure of angle upper D upper E upper B is ( 180 - 45 - 38 ) degree , or 97 degree . Since angle upper D upper E upper B and angle upper A upper E upper B form a straight line, the sum of the measures of these angles is 180 degree . It's given in the figure that the measure of angle upper A upper E upper B is x degree . It follows that 97 + x = 180 . Subtracting 97 from both sides of this equation yields x = 83 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "e10d8313",
+        "Prompt": "From left to right, horizontal line segment upper P upper V includes the following points: Upper P Upper Q Upper R Upper S Upper T Upper V Points upper X and upper U are each below line segment upper P upper V. From left to right, the following 2 overlapping triangles are formed between points on line segment upper P upper V and points upper X and upper U: Triangle upper Q upper X upper S Triangle upper R upper U upper T Line segments upper R upper U and upper S upper X intersect at . upper W. A note indicates the figure is not drawn to scale. In the figure shown, points upper Q, upper R, upper S, and upper T lie on line segment upper P upper V, and line segment upper R upper U intersects line segment upper S upper X at . upper W. The measure of angle upper S upper Q upper X is 48 degree, the measure of angle upper S upper X upper Q is 86 degree, the measure of angle upper S upper W upper U is 85 degree, and the measure of angle upper V upper T upper U is 162 degree. What is the measure, in degrees, of angle upper T upper U upper R?",
+        "Answer Choices": [
+            "Triangle upper Q upper X upper S",
+            "Triangle upper R upper U upper T",
+            "Line segments upper R upper U and upper S upper X intersect at . upper W.",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "123",
+        "Rationale": "The correct answer is 123 . The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is 180 degrees. It's given that the measure of angle upper S upper Q upper X is 48 degree and the measure of angle upper S upper X upper Q is 86 degree . Since points upper S , upper Q , and upper X form a triangle, it follows from the triangle angle sum theorem that the measure, in degrees, of angle upper Q upper S upper X is 46 , or 46 . It's also given that the measure of angle upper S upper W upper U is 85 degree . Since angle upper S upper W upper U and angle upper S upper W upper R are supplementary angles, the sum of their measures is 180 degrees. It follows that the measure, in degrees, of angle upper S upper W upper R is 95 , or 95 . Since points upper R , upper S , and upper W form a triangle, and angle upper R upper S upper W is the same angle as angle upper Q upper S upper X , it follows from the triangle angle sum theorem that the measure, in degrees, of angle upper W upper R upper S is 39 , or 39 . It's given that the measure of angle upper V upper T upper U is 162 degree . Since angle upper V upper T upper U and angle upper S upper T upper U are supplementary angles, the sum of their measures is 180 degrees. It follows that the measure, in degrees, of angle upper S upper T upper U is 18 , or 18 . Since points upper R , upper T , and upper U form a triangle, and angle upper U upper R upper T is the same angle as angle upper W upper R upper S , it follows from the triangle angle sum theorem that the measure, in degrees, of angle upper T upper U upper R is 123 , or 123 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "f88f27e5",
+        "Prompt": "What is the value of x ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 97. The intersecting lines form a triangle, and the angle with measure of x degrees is an exterior angle of this triangle. The measure of an exterior angle of a triangle is equal to the sum of the measures of the two nonadjacent interior angles of the triangle. One of these angles has measure of 23 degrees and the other, which is supplementary to the angle with measure 106 degrees , has measure of 180 degrees - 106 degrees, = 74 degrees . Therefore, the value of x is 23 + 74, = 97 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "5207e508",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled t, m, and n. Line t intersects both line m and line n. At the intersection of line t and line m, 1 angle is labeled clockwise from top left as follows: Bottom left: 170\u00b0 At the intersection of line t and line n, 1 angle is labeled clockwise from top left as follows: Bottom left: w\u00b0 A note indicates the figure is not drawn to scale. In the figure, line m is parallel to line n. What is the value of w?",
+        "Answer Choices": [
+            "17",
+            "30",
+            "70",
+            "170"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that lines m and n are parallel. Since line t intersects both lines m and n , it's a transversal. The angles in the figure marked as 170 degree and w degree are on the same side of the transversal, where one is an interior angle with line m as a side, and the other is an exterior angle with line n as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and, therefore, have equal measure. It follows that w degree = 170 degree . Therefore, the value of w is 170 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "d5f349b7",
+        "Prompt": "Right triangle upper P upper Q upper R is labeled as follows: Angle upper R is a right angle. Right triangle upper S upper T upper U is labeled as follows: Angle upper U is a right angle. A note indicates the figures are not drawn to scale. Right triangles upper P upper Q upper R and upper S upper T upper U are similar, where upper P corresponds to upper S. If the measure of angle upper Q is 18 degree, what is the measure of angle upper S?",
+        "Answer Choices": [
+            "18 degree",
+            "72 degree",
+            "82 degree",
+            "162 degree"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. In similar triangles, corresponding angles are congruent. It\u2019s given that right triangles upper P upper Q upper R and upper S upper T upper U are similar, where angle upper P corresponds to angle upper S . It follows that angle upper P is congruent to angle upper S . In the triangles shown, angle upper R and angle upper U are both marked as right angles, so angle upper R and angle upper U are corresponding angles. It follows that angle upper Q and angle upper T are corresponding angles, and thus, angle upper Q is congruent to angle upper T . It\u2019s given that the measure of angle upper Q is 18 degree , so the measure of angle upper T is also 18 degree . Angle upper U is a right angle, so the measure of angle upper U is 90 degree . The sum of the measures of the interior angles of a triangle is 180 degree . Thus, the sum of the measures of the interior angles of triangle upper S upper T upper U is 180 degrees. Let s represent the measure, in degrees, of angle upper S . It follows that s + 18 + 90 = 180 , or s + 108 = 180 . Subtracting 108 from both sides of this equation yields s = 72 . Therefore, if the measure of angle upper Q is 18 degrees, then the measure of angle upper S is 72 degrees.  Choice A is incorrect. This is the measure of angle upper T .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the sum of the measures of angle upper S and angle upper U ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "686b5212",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled s, q, and r. Line s intersects both line q and line r. At the intersection of line s and line q, 1 angle is labeled clockwise from top left as follows: Top right: 58\u00b0 At the intersection of line s and line r, 1 angle is labeled clockwise from top left as follows: Top left: y\u00b0 A note indicates the figure is not drawn to scale. In the figure, line q is parallel to line r, and both lines are intersected by line s. If y = 2 x + 8, what is the value of x?",
+        "Answer Choices": [
+            "Top right: 58\u00b0",
+            "At the intersection of line s and line r, 1 angle is labeled clockwise from top left as follows:Top left: y\u00b0",
+            "Top left: y\u00b0",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "57",
+        "Rationale": "The correct answer is 57 . Based on the figure, the angle with measure y degree and the angle vertical to the angle with measure 58 degree are same side interior angles. Since vertical angles are congruent, the angle vertical to the angle with measure 58 degree also has measure 58 degree . It\u2019s given that lines q and r are parallel. Therefore, same side interior angles between lines q and r are supplementary. It follows that y + 58 = 180 . If y = 2 x + 8 , then the value of x can be found by substituting 2 x + 8 for y in the equation y + 58 = 180 , which yields ( 2 x + 8 ) + 58 = 180 , or 2 x + 66 = 180 . Subtracting 66 from both sides of this equation yields 2 x = 114 . Dividing both sides of this equation by 2 yields x = 57 . Thus, if y = 2 x + 8 , the value of x is 57 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "a0369739",
+        "Prompt": "In triangle upper A upper B upper C, the measure of angle upper B is 90 degree and line segment upper B upper D is an altitude of the triangle. The length of line segment upper A upper B is 15 and the length of line segment upper A upper C is 23 greater than the length of line segment upper A upper B. What is the value of ( upper B upper C / upper B upper D )?",
+        "Answer Choices": [
+            "15/38",
+            "15/23",
+            "23/15",
+            "38/15"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that in triangle upper A upper B upper C , the measure of angle upper B is 90 degree and line segment upper B upper D is an altitude of the triangle. Therefore, the measure of angle upper B upper D upper C is 90 degree . It follows that angle upper B is congruent to angle upper D and angle upper C is congruent to angle upper C . By the angle-angle similarity postulate, triangle upper A upper B upper C is similar to triangle upper B upper D upper C . Since triangles upper A upper B upper C and upper B upper D upper C are similar, it follows that ( upper A upper C / upper A upper B ) = ( upper B upper C / upper B upper D ) . It's also given that the length of line segment upper A upper B is 15 and the length of line segment upper A upper C is 23 greater than the length of line segment upper A upper B . Therefore, the length of line segment upper A upper C is 38 , or 38 . Substituting 15 for upper A upper B and 38 for upper A upper C in the equation ( upper A upper C / upper A upper B ) = ( upper B upper C / upper B upper D ) yields ( 38 / 15 ) = ( upper B upper C / upper B upper D ) . Therefore, the value of ( upper B upper C / upper B upper D ) is 38/15 .  Choice A is incorrect. This is the value of ( upper B upper D / upper B upper C ) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "cbe8ca31",
+        "Prompt": "In triangle upper X upper Y upper Z, the measure of angle upper X is 24 degree and the measure of angle upper Y is 98 degree. What is the measure of angle upper Z?",
+        "Answer Choices": [
+            "58 degree",
+            "74 degree",
+            "122 degree",
+            "212 degree"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is 180 degree . It's given that in triangle upper X upper Y upper Z , the measure of angle upper X is 24 degree and the measure of angle upper Y is 98 degree . It follows that the measure of angle upper Z is ( 180 - 24 - 98 ) degree , or 58 degree .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the sum of the measures of angle upper X and angle upper Y , not the measure of angle upper Z .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "94364a79",
+        "Prompt": "Two nearby trees are perpendicular to the ground, which is flat. One of these trees is 10 feet tall and has a shadow that is 5 feet long. At the same time, the shadow of the other tree is 2 feet long. How tall, in feet, is the other tree?",
+        "Answer Choices": [
+            "3",
+            "4",
+            "8",
+            "27"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Each tree and its shadow can be modeled using a right triangle, where the height of the tree and the length of its shadow are the legs of the triangle. At a given point in time, the right triangles formed by two nearby trees and their respective shadows will be similar. Therefore, if the height of the other tree is x , in feet, the value of x can be calculated by solving the proportional relationship ( 10 feet tall / 5 feet long ) = ( x feet tall / 2 feet long ) . This equation is equivalent to ( 10 / 5 ) = ( x / 2 ) , or 2 = ( x / 2 ) . Multiplying each side of the equation 2 = ( x / 2 ) by 2 yields 4 = x . Therefore, the other tree is 4 feet tall.  Choice A is incorrect and may result from calculating the difference between the lengths of the shadows, rather than the height of the other tree.  Choice C is incorrect and may result from calculating the difference between the height of the 10 -foot-tall tree and the length of the shadow of the other tree, rather than calculating the height of the other tree.  Choice D is incorrect and may result from a conceptual or calculation error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "c24e1bda",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled t, m, and n. Line t intersects both line m and line n. At the intersection of line t and line m, 1 angle is labeled clockwise from top left as follows: Bottom left: 134\u00b0 At the intersection of line t and line n, 1 angle is labeled clockwise from top left as follows: Bottom left: w\u00b0 A note indicates the figure is not drawn to scale. In the figure, line m is parallel to line n. What is the value of w?",
+        "Answer Choices": [
+            "13",
+            "34",
+            "66",
+            "134"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that lines m and n are parallel. Since line t intersects both lines m and n , it's a transversal. The angles in the figure marked as 134 degree and w degree are on the same side of the transversal, where one is an interior angle with line m as a side, and the other is an exterior angle with line n as a side. Thus, the marked angles are corresponding angles. When two parallel lines are intersected by a transversal, corresponding angles are congruent and, therefore, have equal measure. It follows that w degree = 134 degree . Therefore, the value of w is 134 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "901c3215",
+        "Prompt": "In triangles upper A upper B upper C and upper D upper E upper F, angles upper B and upper E each have measure 27 degree and angles upper C and upper F each have measure 41 degree. Which additional piece of information is sufficient to determine whether triangle upper A upper B upper C is congruent to triangle upper D upper E upper F?",
+        "Answer Choices": [
+            "The measure of angleupper A",
+            "The length of sideupper A upper B",
+            "The lengths of sidesupper B upper Candupper E upper F",
+            "No additional information is necessary."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since angles upper B and upper E each have the same measure and angles upper C and upper F each have the same measure, triangles upper A upper B upper C and upper D upper E upper F are similar, where side upper B upper C corresponds to side upper E upper F . To determine whether two similar triangles are congruent, it is sufficient to determine whether one pair of corresponding sides are congruent. Therefore, to determine whether triangles upper A upper B upper C and upper D upper E upper F are congruent, it is sufficient to determine whether sides upper B upper C and upper E upper F have equal length. Thus, the lengths of upper B upper C and upper E upper F are sufficient to determine whether triangle upper A upper B upper C is congruent to triangle upper D upper E upper F .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect. The given information is sufficient to determine that triangles upper A upper B upper C and upper D upper E upper F are similar, but not whether they are congruent."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "f7dbde16",
+        "Prompt": "In triangles upper L upper M upper N and upper R upper S upper T, angles upper L and upper R each have measure 60 degree, upper L upper N = 10, and upper R upper T = 30. Which additional piece of information is sufficient to prove that triangle upper L upper M upper N is similar to triangle upper R upper S upper T?",
+        "Answer Choices": [
+            "upper M upper N = 7andupper S upper T = 7",
+            "upper M upper N = 7andupper S upper T = 21",
+            "The measures of anglesupper Mandupper Sare70 degreeand60 degree, respectively.",
+            "The measures of anglesupper Mandupper Tare70 degreeand50 degree, respectively."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Two triangles are similar if they have three pairs of congruent corresponding angles. It\u2019s given that angles upper L and upper R each measure 60 degree , and so these corresponding angles are congruent. If angle upper M is 70 degree , then angle upper N must be 50 degree so that the sum of the angles in triangle upper L upper M upper N is 180 degree . If angle upper T is 50 degree , then angle upper S must be 70 degree so that the sum of the angles in triangle upper R upper S upper T is 180 degree . Therefore, if the measures of angles upper M and upper T are 70 degree and 50 degree , respectively, then corresponding angles upper M and upper S are both 70 degree , and corresponding angles upper N and upper T are both 50 degree . It follows that triangles upper L upper M upper N and upper R upper S upper T have three pairs of congruent corresponding angles, and so the triangles are similar. Therefore, the additional piece of information that is sufficient to prove that triangle upper L upper M upper N is similar to triangle upper R upper S upper T is that the measures of angles upper M and upper T are 70 degree and 50 degree , respectively.  Choice A is incorrect. If the measures of two sides in one triangle are proportional to the corresponding sides in another triangle and the included angles are congruent, then the triangles are similar. However, the two sides given are not proportional and the angle given is not included by the given sides.  Choice B is incorrect. If the measures of two sides in one triangle are proportional to the corresponding sides in another triangle and the included angles are congruent, then the triangles are similar. However, the angle given is not included between the proportional sides.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "3b225698",
+        "Prompt": "Triangle upper X upper Y upper Z is similar to triangle upper R upper S upper T such that upper X, upper Y, and upper Z correspond to upper R, upper S, and upper T, respectively. The measure of angle upper Z is 20 degree and 2 upper X upper Y = upper R upper S. What is the measure of angle upper T?",
+        "Answer Choices": [
+            "2 degree",
+            "10 degree",
+            "20 degree",
+            "40 degree"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that triangle upper X upper Y upper Z is similar to triangle upper R upper S upper T , such that upper X , upper Y , and upper Z correspond to upper R , upper S , and upper T , respectively. Since corresponding angles of similar triangles are congruent, it follows that the measure of angle upper Z is congruent to the measure of angle upper T . It\u2019s given that the measure of angle upper Z is 20 degree . Therefore, the measure of angle upper T is 20 degree .  Choice A is incorrect and may result from a conceptual error.  Choice B is incorrect. This is half the measure of angle upper Z .  Choice D is incorrect. This is twice the measure of angle upper Z ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "a4c05a1b",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled m, r, and s. Line m intersects both line r and line s. At the intersection of line m and line r, 1 angle is labeled clockwise from top left as follows: Top right: x\u00b0 At the intersection of line m and line s, 1 angle is labeled clockwise from top left as follows: Bottom right: y\u00b0 A note indicates the figure is not drawn to scale. In the figure shown, lines r and s are parallel, and line m intersects both lines. If y less than 65, which of the following must be true?",
+        "Answer Choices": [
+            "x less than 115",
+            "x greater than 115",
+            "x + y less than 180",
+            "x + y greater than 180"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. In the figure shown, the angle measuring y degree is congruent to its vertical angle formed by lines s and m , so the measure of the vertical angle is also y degree . The vertical angle forms a same-side interior angle pair with the angle measuring x degree . It's given that lines r and s are parallel. Therefore, same-side interior angles in the figure are supplementary, which means the sum of the measure of the vertical angle and the measure of the angle measuring x degree is 180 degree , or x + y = 180 . Subtracting x from both sides of this equation yields y = 180 - x .\u00a0Substituting 180 - x for y in the inequality y less than 65 yields 180 - x less than 65 . Adding x to both sides of this inequality yields 180 less than 65 + x . Subtracting 65 from both sides of this inequality yields 115 less than x , or x greater than 115 . Thus, if y less than 65 , it must be true that x greater than 115 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. x + y must be equal to, not less than, 180 .  Choice D is incorrect. x + y must be equal to, not greater than, 180 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "d3fe472f",
+        "Prompt": "Triangle upper A upper B upper C is similar to triangle upper X upper Y upper Z, such that upper A, upper B, and upper C correspond to upper X, upper Y, and upper Z respectively. The length of each side of triangle upper X upper Y upper Z is 2 * the length of its corresponding side in triangle upper A upper B upper C. The measure of side upper A upper B is 16. What is the measure of side upper X upper Y?",
+        "Answer Choices": [
+            "14",
+            "16",
+            "18",
+            "32"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that triangle upper A upper B upper C is similar to triangle upper X upper Y upper Z , such that upper A , upper B , and upper C correspond to upper X , upper Y , and upper Z , respectively. Therefore, side upper A upper B corresponds to side upper X upper Y . Since the length of each side of triangle upper X upper Y upper Z is 2 times the length of its corresponding side in triangle upper A upper B upper C , it follows that the measure of side upper X upper Y is 2 times the measure of side upper A upper B . Thus, since the measure of side upper A upper B is 16 , then the measure of side upper X upper Y is 2 ( 16 ) , or 32 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the measure of side upper A upper B , not side upper X upper Y .  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "f9d40000",
+        "Prompt": "In triangle upper X upper Y upper Z, the measure of angle upper X is 23 degree and the measure of angle upper Y is 66 degree. What is the measure of angle upper Z?",
+        "Answer Choices": [
+            "43 degree",
+            "89 degree",
+            "91 degree",
+            "179 degree"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The triangle angle sum theorem states that the sum of the measures of the interior angles of a triangle is 180 degree . It's given that in triangle upper X upper Y upper Z , the measure of angle upper X is 23 degree and the measure of angle upper Y is 66 degree . It follows that the measure of angle upper Z is ( 180 - 23 - 66 ) degree , or 91 degree .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the sum of the measures of angle upper X and angle upper Y , not the measure of angle upper Z .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "0d3f51dc",
+        "Prompt": "Clockwise from top left, the lines are labeled t, m, and n. Line t intersects both line m and line n. At the intersection of line t and line m, 1 angle is labeled clockwise from top left as follows: Bottom left: x\u00b0 At the intersection of line t and line n, 1 angle is labeled clockwise from top left as follows: Bottom right: 33\u00b0 A note indicates the figure is not drawn to scale. In the figure, line m is parallel to line n, and line t intersects both lines. What is the value of x?",
+        "Answer Choices": [
+            "33",
+            "57",
+            "123",
+            "147"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that line m is parallel to line n , and line t intersects both lines. It follows that line t is a transversal. When two lines are parallel and intersected by a transversal, exterior angles on the same side of the transversal are supplementary. Thus, x + 33 = 180 . Subtracting 33 from both sides of this equation yields x = 147 . Therefore, the value of x is 147 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "fd8745fc",
+        "Prompt": "In triangle upper J upper K upper L, the measures of angle upper K and angle upper L are each 48 degree. What is the measure of angle upper J, in degrees? (Disregard the degree symbol when entering your answer.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": "84",
+        "Rationale": "The correct answer is 84 . The sum of the measures of the interior angles of a triangle is 180 degree . It's given that in triangle upper J upper K upper L , the measures of angle upper K and angle upper L are each 48 degree . Adding the measures, in degrees, of angle upper K and angle upper L gives 96 , or 96 . Therefore, the measure of angle upper J , in degrees, is 84 , or 84 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "c7bed21d",
+        "Prompt": "Quadrilateral upper P prime upper Q prime upper R prime upper S prime is similar to quadrilateral upper P upper Q upper R upper S, where upper P, upper Q, upper R, and upper S correspond to upper P prime, upper Q prime, upper R prime, and upper S prime, respectively. The measure of angle upper P is 30 degree, the measure of angle upper Q is 50 degree, and the measure of angle upper R is 70 degree. The length of each side of upper P prime upper Q prime upper R prime upper S prime is 3 * the length of each corresponding side of upper P upper Q upper R upper S. What is the measure of angle upper P prime?",
+        "Answer Choices": [
+            "10 degree",
+            "30 degree",
+            "40 degree",
+            "90 degree"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that quadrilateral upper P prime upper Q prime upper R prime upper S prime is similar to quadrilateral upper P upper Q upper R upper S , where upper P , upper Q , upper R , and upper S correspond to upper P prime , upper Q prime , upper R prime , and upper S prime , respectively. Since corresponding angles of similar quadrilaterals are congruent, it follows that the measure of angle upper P is equal to the measure of angle upper P prime . It's given that the measure of angle upper P is 30 degree . Therefore, the measure of angle upper P prime is 30 degree .  Choice A is incorrect. This is 1/3 the measure of angle upper P prime .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is 3 times the measure of angle upper P prime ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "3563d76d",
+        "Prompt": "At a certain time and day, the Washington Monument in Washington, DC, casts a shadow that is 300 feet long. At the same time, a nearby cherry tree casts a shadow that is 16 feet long. Given that the Washington Monument is approximately 555 feet tall, which of the following is closest to the h8, in feet, of the cherry tree?",
+        "Answer Choices": [
+            "10",
+            "20",
+            "30",
+            "35"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice C is correct. There is a proportional relationship between the height of an object and the length of its shadow. Let c represent the height, in feet, of the cherry tree. The given relationship can be expressed by the proportion 555 over 300, = c over 16 . Multiplying both sides of this equation by 16 yields c = 29. 6 . This height is closest to the value given in choice C, 30. Choices A, B, and D are incorrect and may result from calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "2adbf1b1",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled t, m, and n. Line t intersects both line m and line n. At the intersection of line t and line m, 2 angles are labeled clockwise from top left as follows: Top right: x\u00b0 Bottom left: y\u00b0 At the intersection of line t and line n, 1 angle is labeled clockwise from top left as follows: Top left: z\u00b0 A note indicates the figure is not drawn to scale. In the figure, lines m and n are parallel. If x = 6 k + 13 and y = 8 k - 29, what is the value of z?",
+        "Answer Choices": [
+            "3",
+            "21",
+            "41",
+            "139"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Vertical angles, which are angles that are opposite each other when two lines intersect, are congruent. The figure shows that lines t and m intersect. It follows that the angle with measure x degree and the angle with measure y degree are vertical angles, so x = y . It's given that x = 6 k + 13 and y = 8 k - 29 . Substituting 6 k + 13 for x and 8 k - 29 for y in the equation x = y yields 6 k + 13 = 8 k - 29 . Subtracting 6 k from both sides of this equation yields 13 = 2 k - 29 . Adding 29 to both sides of this equation yields 42 = 2 k , or 2 k = 42 . Dividing both sides of this equation by 2 yields k = 21 . It's given that lines m and n are parallel, and the figure shows that lines m and n are intersected by a transversal, line t . If two parallel lines are intersected by a transversal, then the same-side interior angles are supplementary. It follows that the same-side interior angles with measures y degree and z degree are supplementary, so y + z = 180 . Substituting 8 k - 29 for y in this equation yields 8 k - 29 + z = 180 . Substituting 21 for k in this equation yields 8 ( 21 ) - 29 + z = 180 , or 139 + z = 180 . Subtracting 139 from both sides of this equation yields z = 41 . Therefore, the value of z is 41 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the value of k , not z .  Choice D is incorrect. This is the value of x or y , not z ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "eeb4143c",
+        "Prompt": "The area of triangle ABC above is at least 48 but no more than 60. If y is an integer, what is 1 possible value of x ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is either the fraction 10 over 3 , the fraction 15 over 4 , or the fraction 25 over 6 . The area of triangle ABC can be expressed as 1 /2 * open parenthesis, 5 + 7, close parenthesis, * y or 6 y . It\u2019s given that the area of triangle ABC is at least 48 but no more than 60. It follows that 48 is less than or equal to 6 y, which is less than or equal to 60 . Dividing by 6 to isolate y in this compound inequality yields 8 is less than or equal to y, which is less than or equal to 10 . Since y is an integer, y = 8, 9, or 10 . In the given figure, the two right triangles shown are similar because they have two pairs of congruent angles: their respective right angles and angle A . Therefore, the following proportion is true: the fraction x over y = the fraction 5 over 12 . Substituting 8 for y in the proportion results in the fraction x over 8 = the fraction 5 over 12 . Cross multiplying and solving for x yields the fraction 10 over 3 . Substituting 9 for y in the proportion results in the fraction x over 9 = the fraction 5 over 12 . Cross multiplying and solving for x yields the fraction 15 over 4 . Substituting 10 for y in the proportion results in the fraction x over 10 = the fraction 5 over 12 . Cross multiplying and solving for x yields the fraction 25 over 6 . Note that 10/3, 15/4, 25/6, 3.333, 3.75, 4.166, and 4.167 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "afa3c48b",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled l, m, and n. Line l intersects both line m and line n. At the intersection of line l and line m, 1 angle is labeled clockwise from top left as follows: Top right: x\u00b0 At the intersection of line l and line n, 1 angle is labeled clockwise from top left as follows: Top left: 26\u00b0 A note indicates the figure is not drawn to scale. In the figure shown, line m is parallel to line n. What is the value of x?",
+        "Answer Choices": [
+            "13",
+            "26",
+            "52",
+            "154"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The sum of consecutive interior angles between two parallel lines and on the same side of the transversal is 180 degrees. Since it's given that line m is parallel to line n , it follows that x + 26 = 180 . Subtracting 26 from both sides of this equation yields 154 . Therefore, the value of x is 154 .  Choice A is incorrect. This is half of the given angle measure.  Choice B is incorrect. This is the value of the given angle measure.  Choice C is incorrect. This is twice the value of the given angle measure."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "f1747a6a",
+        "Prompt": "In triangle upper A upper B upper C, the measure of angle upper B is 52 degree and the measure of angle upper C is 17 degree. What is the measure of angle upper A?",
+        "Answer Choices": [
+            "21 degree",
+            "35 degree",
+            "69 degree",
+            "111 degree"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The sum of the angle measures of a triangle is 180 degree . Adding the measures of angles upper B and upper C gives 52 + 17 = 69 degree . Therefore, the measure of angle upper A is 180 - 69 = 111 degree .  Choice A is incorrect and may result from subtracting the sum of the measures of angles upper B and upper C from 90 degree , instead of from 180 degree .  Choice B is incorrect and may result from subtracting the measure of angle upper C from the measure of angle upper B .  Choice C is incorrect and may result from adding the measures of angles upper B and upper C but not subtracting the result from 180 degree ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "3b4b5b1e",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled t, j, and k. Line t intersects both line j and line k. At the intersection of line t and line j, 2 angles are labeled clockwise from top left as follows: Bottom right: 133\u00b0 Bottom left: x\u00b0 A note indicates the figure is not drawn to scale. In the figure, line j is parallel to line k. What is the value of x?",
+        "Answer Choices": [
+            "At the intersection of line t and line j, 2 angles are labeled clockwise from top left as follows:Bottom right: 133\u00b0Bottom left: x\u00b0",
+            "Bottom right: 133\u00b0",
+            "Bottom left: x\u00b0",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "47",
+        "Rationale": "The correct answer is 47 . Based on the figure, the angle with measure x degree and the angle with measure 133 degree together form a straight line. Therefore, these two angles are supplementary, so the sum of their measures is 180 degree . It follows that x + 133 = 180 . Subtracting 133 from both sides of this equation yields x = 47 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "5b4757df",
+        "Prompt": "In triangle upper R upper S upper T, angle upper T is a right angle, . upper L lies on line segment upper R upper S, . upper K lies on line segment upper S upper T, and line segment upper L upper K is parallel to line segment upper R upper T. If the length of line segment upper R upper T is 72 units, the length of line segment upper L upper K is 24 units, and the area of triangle upper R upper S upper T is 792 square units, what is the length of line segment upper K upper T, in units?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "14.66,  14.67,  44/3",
+        "Rationale": "The correct answer is 44/3 . It's given that in triangle upper R upper S upper T , angle upper T is a right angle. The area of a right triangle can be found using the formula upper A = 1 /2 script l 1 script l 2 , where upper A represents the area of the right triangle, script l 1 represents the length of one leg of the triangle, and script l 2 represents the length of the other leg of the triangle. In triangle upper R upper S upper T , the two legs are line segment upper R upper T and line segment upper S upper T . Therefore, if the length of line segment upper R upper T is 72 and the area of triangle upper R upper S upper T is 792 , then 792 = 1 /2 ( 72 ) ( upper S upper T ) , or 792 = ( 36 ) ( upper S upper T ) . Dividing both sides of this equation by 36 yields 22 = upper S upper T . Therefore, the length of line segment upper S upper T is 22 . It's also given that point upper L lies on line segment upper R upper S , point upper K lies on line segment upper S upper T , and line segment upper L upper K is parallel to line segment upper R upper T . It follows that angle upper L upper K upper S is a right angle. Since triangles upper R upper S upper T and upper L upper S upper K share angle upper S and have right angles upper T and upper K , respectively, triangles upper R upper S upper T and upper L upper S upper K are similar triangles. Therefore, the ratio of the length of line segment upper R upper T to the length of line segment upper L upper K is equal to the ratio of the length of line segment upper S upper T to the length of line segment upper S upper K . If the length of line segment upper R upper T is 72 and the length of line segment upper L upper K is 24 , it follows that the ratio of the length of line segment upper R upper T to the length of line segment upper L upper K is 3 , or 3 , so the ratio of the length of line segment upper S upper T to the length of line segment upper S upper K is 3 . Therefore, ( 22 / upper S upper K ) = 3 . Multiplying both sides of this equation by upper S upper K yields 22 = ( 3 ) ( upper S upper K ) . Dividing both sides of this equation by 3 yields ( 22 / 3 ) = upper S upper K . Since the length of line segment upper S upper T , 22 , is the sum of the length of line segment upper S upper K , 22/3 , and the length of line segment upper K upper T , it follows that the length of line segment upper K upper T is 44/3 , or 44/3 . Note that 44/3, 14.66, and 14.67 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "cf0d3050",
+        "Prompt": "Clockwise from top left, the 3 lines are labeled, c, s, and t. Line c intersects both line s and line t. At the intersection of line c and line s, 1 angle is labeled clockwise from top left as follows: Top right: x\u00b0 At the intersection of line c and line t, 1 angle is labeled clockwise from top left as follows: Top left: 110\u00b0 A note indicates the figure is not drawn to scale. In the figure shown, line c intersects parallel lines s and t. What is the value of x?",
+        "Answer Choices": [
+            "Top right: x\u00b0",
+            "At the intersection of line c and line t, 1 angle is labeled clockwise from top left as follows:Top left: 110\u00b0",
+            "Top left: 110\u00b0",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "70",
+        "Rationale": "The correct answer is 70 . Based on the figure, the angle with measure 110 degree and the angle vertical to the angle with measure x degree are same side interior angles. Since vertical angles are congruent, the angle vertical to the angle with measure x degree also has measure x degree . It\u2019s given that lines s and t are parallel. Therefore, same side interior angles between lines s and t are supplementary. It follows that x + 110 = 180 . Subtracting 110 from both sides of this equation yields x = 70 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "0bb39de4",
+        "Prompt": "Triangles upper A upper B upper C and upper D upper E upper F are congruent, where upper A corresponds to upper D, and upper B and upper E are right angles. The measure of angle upper A is 18 degree. What is the measure of angle upper F?",
+        "Answer Choices": [
+            "18 degree",
+            "72 degree",
+            "90 degree",
+            "162 degree"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that triangle upper A upper B upper C is congruent to triangle upper D upper E upper F . Corresponding angles of congruent triangles are congruent and, therefore, have equal measure. It\u2019s given that angle upper A corresponds to angle upper D , and that the measure of angle upper A is 18 degree . It's also given that the measures of angles upper B and upper E are 90 degree . Since these angles have equal measure, they are corresponding angles. It follows that angle upper C corresponds to angle upper F . Let x degree represent the measure of angle upper C . Since the sum of the measures of the interior angles of a triangle is 180 degree , it follows that 18 degree + 90 degree + x degree = 180 degree , or 108 degree + x degree = 180 degree . Subtracting 108 degree from both sides of this equation yields x degree = 72 degree . Therefore, the measure of angle upper C is 72 degree . Since angle upper C corresponds to angle upper F , it follows that the measure of angle upper F is also 72 degree .  Choice A is incorrect. This is the measure of angle upper D , not the measure of angle upper F .  Choice C is incorrect. This is the measure of angle upper E , not the measure of angle upper F .  Choice D is incorrect. This is the sum of the measures of angles upper E and upper F , not the measure of angle upper F ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "6dd463ca",
+        "Prompt": "In the figure above, segments AE and BD are parallel. If angle BDC measures 58\u00b0 and angle ACE measures 62\u00b0, what is the measure of angle CAE ?",
+        "Answer Choices": [
+            "58\u00b0",
+            "60\u00b0",
+            "62\u00b0",
+            "120\u00b0"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that angle ACE measures 62 degrees . Since segments AE and BD are parallel, angles BDC and CEA are congruent. Therefore, angle CEA measures 58 degrees . The sum of the measures of angles ACE , CEA , and CAE is 180 degrees since the sum of the interior angles of triangle ACE is equal to 180 degrees . Let the measure of angle CAE be x degrees . Therefore, 62 + 58, + x, = 180 , which simplifies to x = 60 . Thus, the measure of angle CAE is 60 degrees . Choice A is incorrect. This is the measure of angle A EC , not that of angle CAE . Choice C is incorrect. This is the measure of angle ACE , not that of CAE . Choice D is incorrect. This is the sum of the measures of angles ACE and CEA ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Hard",
+        "ID": "17912810",
+        "Prompt": "Counterclockwise from top right, the lines are labeled s, r, q, and t. Line s intersects line r above line q. Line s and line r each intersect line q and line t. At the intersection of line s and line r, 1 angle is labeled counterclockwise from top as follows: Top: a\u00b0 At the intersection of line s and line q, 1 angle is labeled counterclockwise from top-left as follows: Top left: b\u00b0 At the intersection of line r and line t: The line segment divides the bottom-left angle into 2 equal angles, each labeled w\u00b0. A note indicates the figure is not drawn to scale. In the figure, parallel lines q and t are intersected by lines r and s. If a = 43 and b = 122, what is the value of w?",
+        "Answer Choices": [
+            "Top left: b\u00b0",
+            "At the intersection of line r and line t:The line segment divides the bottom-left angle into 2 equal angles, each labeled w\u00b0.",
+            "The line segment divides the bottom-left angle into 2 equal angles, each labeled w\u00b0.",
+            "A note indicates the figure is not drawn to scale."
+        ],
+        "Correct Answer": "101/2,  50.5",
+        "Rationale": "The correct answer is 101/2 . In the figure, lines q , r , and s form a triangle. One interior angle of this triangle is vertical to the angle marked a degree ; therefore, the interior angle\u00a0also has measure a degree . It's given that a = 43 . Therefore, the interior angle of the triangle has measure 43 degree . A second interior angle of the triangle forms a straight line, q , with the angle marked b degree . Therefore, the sum of the measures of these two angles is 180 degree . It's given that b = 122 . Therefore, the angle marked b degree has measure 122 degree and the second interior angle of the triangle has measure ( 180 - 122 ) degree , or 58 degree . The sum of the interior angles of a triangle is 180 degree . Therefore, the measure of the third interior angle of the triangle is ( 180 - 43 - 58 ) degree , or 79 degree . It's given that parallel lines q and t are intersected by line r . It follows that the triangle's interior angle with measure 79 degree is congruent to the same side interior angle between lines q and t formed by lines t and r . Since this angle is supplementary to the two angles marked w degree , the sum of 79 degree , w degree , and w degree is 180 degree . It follows that 79 + w + w = 180 , or 79 + 2 w = 180 . Subtracting 79 from both sides of this equation yields 2 w = 101 . Dividing both sides of this equation by 2 yields w = ( 101 / 2 ) . Note that 101/2 and 50.5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "3828f53d",
+        "Prompt": "In the figure above, lines m and n are parallel. What is the value of b ?",
+        "Answer Choices": [
+            "40",
+            "50",
+            "65",
+            "80"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Given that\u00a0lines m and n are parallel, the angle marked 130\u00b0 must be supplementary to the leftmost\u00a0angle marked a \u00b0 because they are same-side interior angles. Therefore, 130\u00b0 + a\u00b0 = 180\u00b0, which yields a = 50\u00b0. Lines l and m intersect at a right angle, so lines j , l , and m form a right triangle where the two acute angles are a \u00b0 and b \u00b0. The acute angles of a right triangle are complementary, so a\u00b0 + b\u00b0 = 90\u00b0, which yields 50\u00b0 + b\u00b0 = 90\u00b0, and b = 40. Choice B is incorrect. This is the value of a , not b . Choice C is incorrect and may be the result of\u00a0dividing 130\u00b0\u00a0by 2. Choice D is incorrect and may be the result of multiplying b by 2."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Medium",
+        "ID": "4ff7b652",
+        "Prompt": "Right triangles upper L upper M upper N and upper P upper Q upper R are similar, where upper L and upper M correspond to upper P and upper Q, respectively. Angle upper M has a measure of 53 degree. What is the measure of angle upper Q?",
+        "Answer Choices": [
+            "37 degree",
+            "53 degree",
+            "127 degree",
+            "143 degree"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that triangle upper L upper M upper N is similar to triangle upper P upper Q upper R . Corresponding angles of similar triangles are congruent. Since angle upper M and angle upper Q correspond to each other, they must be congruent. Therefore, if the measure of angle upper M is 53 degree , then the measure of angle upper Q is also 53 degree .  Choice A is incorrect and may result from concluding that angle upper M and angle upper Q are complementary rather than congruent.  Choice C is incorrect and may result from concluding that angle upper M and angle upper Q are supplementary rather than congruent.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Lines, angles, and triangles",
+        "Difficulty": "Easy",
+        "ID": "42b4493b",
+        "Prompt": "In a right triangle, the measure of 1 of the acute angles is 51 degree. What is the measure, in degrees, of the other acute angle?",
+        "Answer Choices": [
+            "6",
+            "39",
+            "49",
+            "51"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The sum of the measures of the interior angles of a triangle is 180 degrees. Since the triangle is a right triangle, it has one angle that measures 90 degrees. Therefore, the sum of the measures, in degrees, of the remaining two angles is 90 , or 90 . It\u2019s given that the measure of one of the acute angles in the triangle is 51 degrees. Therefore, the measure, in degrees, of the other acute angle is 39 , or 39 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the measure, in degrees, of the acute angle whose measure is given."
+    },
+    "question contains image",
+    "question contains image"
+]

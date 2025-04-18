@@ -1,0 +1,862 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "f890dc20",
+        "Prompt": "What is the median of the 7 data values shown?",
+        "Answer Choices": [
+            "2",
+            "3",
+            "4",
+            "9"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. When a data set has an odd number of values, the median can be found by ordering the values from least to greatest and determining the value in the middle. Since the values are already presented in order from least to greatest and there are 7 values, the median is the fourth value in the list. Therefore, the median is 3. Choice A is incorrect. This is the mode. Choice C is incorrect. This is the mean. Choice D is incorrect. This is the range."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "d3b9c8d8",
+        "Prompt": "From left to right the values of the vertical bars in the Group 1 box plot are as follows: First vertical bar: 21 Second vertical bar: 22 Third vertical bar: 25 Fourth vertical bar: 26 Fifth vertical bar: 28 From left to right the values of the vertical bars in the Group 2 box plot are as follows: First vertical bar: 22 Second vertical bar: 23 Third vertical bar: 24 Fourth vertical bar: 25 Fifth vertical bar: 28 The box plots summarize the masses, in kilograms, of 2 groups of gazelles. Based on the box plots, which of the following statements must be true?",
+        "Answer Choices": [
+            "The mean mass of group 1 is greater than the mean mass of group 2.",
+            "The mean mass of group 1 is less than the mean mass of group 2.",
+            "The median mass of group 1 is greater than the median mass of group 2.",
+            "The median mass of group 1 is less than the median mass of group 2."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The median of a data set represented in a box plot is represented by the vertical line within the box. It follows that the median mass of the gazelles in group 1 is 25 kilograms, and the median mass of the gazelles in group 2 is 24 kilograms. Since 25 kilograms is greater than 24 kilograms, the median mass of group 1 is greater than the median mass of group 2 .  Choice A is incorrect. The mean mass of each of the two groups cannot be determined from the box plots.  Choice B is incorrect. The mean mass of each of the two groups cannot be determined from the box plots.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "4c774b00",
+        "Prompt": "The table above shows the distribution of ages of the 20 students enrolled in a college class. Which of the following gives the correct order of the mean, median, and mode of the ages?",
+        "Answer Choices": [
+            "mode < median < mean",
+            "mode < mean < median",
+            "median < mode < mean",
+            "mean < mode < median"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The mode is the data value with the highest frequency. So for the data shown, the mode is 18. The median is the middle data value when the data values are sorted from least to greatest. Since there are 20 ages ordered, the median is the average of the two middle values, the 10th and 11th, which for these data are both 19. Therefore, the median is 19. The mean is the sum of the data values divided by the number of the data values. So for these data, the mean is the fraction with (, open parenthesis, 18 * 6, close parenthesis, +, open parenthesis, 19 * 5, close parenthesis, +, open parenthesis, 20 * 4, close parenthesis, +, open parenthesis, 21 * 2, close parenthesis, +, open parenthesis, 22 * 1, close parenthesis, +, open parenthesis, 23 * 1, close parenthesis, +, open parenthesis, 30 * 1, close parenthesis, and )/( 20, = 20 . Since the mode is 18, the median is 19, and the mean is 20, mode is less than median, which is less than mean . Choices B and D are incorrect because the mean is greater than the median. Choice C is incorrect because the median is greater than the mode. Alternate approach: After determining the mode, 18, and the median, 19, it remains to determine whether the mean is less than 19 or more than 19. Because the mean is a balancing point, there is as much deviation below the mean as above the mean. It is possible to compare the data to 19 to determine the balance of deviation above and below the mean. There is a total deviation of only 6 below 19 (the 6 values of 18); however, the data value 30 alone deviates by 11 above 19. Thus the mean must be greater than 19."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "52f9a246",
+        "Prompt": "4, 4, 4, 4, 8, 8, 8, 13, 13 Which frequency table correctly represents the data listed?",
+        "Answer Choices": [
+            "NumberFrequency4483132",
+            "NumberFrequency4438213",
+            "NumberFrequency4168241326",
+            "NumberFrequency1642482613"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. A frequency table is a table that lists the data value and shows the number of times the data value occurs. In the data listed, the number 4 occurs four times, the number 8 occurs three times, and the number 13 occurs two times. This corresponds to the table in choice A.  Choice B is incorrect. This table has the values for number and frequency reversed.  Choice C is incorrect because the frequency values don't represent the data listed.  Choice D is incorrect. This table represents the listed number values as the frequency values."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "a456cfd2",
+        "Prompt": "Data value Frequency 6 3 7 3 8 8 9 8 10 9 11 11 12 9 13 0 14 6 The frequency table summarizes the 57 data values in a data set. What is the maximum data value in the data set?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "14",
+        "Rationale": "The correct answer is 14 . The maximum value is the largest value in the data set. The frequency refers to the number of times a data value occurs. The given frequency table shows that for this data set, the data value 6 occurs three times, the data value 7 occurs three times, the data value 8 occurs eight times, the data value 9 occurs eight times, the data value 10 occurs nine times, the data value 11 occurs eleven times, the data value 12 occurs nine times, the data value 13 occurs zero times, and the data value 14 occurs six times. Therefore, the maximum data value in the data set is 14 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "8736334b",
+        "Prompt": "Data set A and data set B each contain 5 numbers. If the mean of data set A is equal to the mean of data set B, what is the value of x ?",
+        "Answer Choices": [
+            "77",
+            "85",
+            "86",
+            "95"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The mean of a data set is found by dividing the sum of the values in the data set by the number of values in the data set. Therefore, the mean of data set A is the fraction with ( 72, + 73, + 73, + 76, + 76, and )/( 5 , which simplifies to 74. The mean of data set B is represented by the equation the fraction with ( 61, + 64, + 74, + 85, + x, and )/( 5 , or the fraction with ( 284 + x, and )/( 5 . It\u2019s given that the mean of data set A is equal to the mean of data set B. Therefore, the equation 74 = the fraction with ( 284 + x, and )/( 5 can be used to solve for x . Multiplying both sides of this equation by 5 yields 370 = 284 + x . Subtracting 284 from both sides of this equation yields 86 = x . Choices A, B, and D are incorrect and may result from calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "c88e0663",
+        "Prompt": "For a school fund-raiser, 10 students sold a total of 90 boxes of cookies. Which of the following can be calculated from this information?",
+        "Answer Choices": [
+            "The average number of boxes sold per student",
+            "The median number of boxes sold per student",
+            "The greatest number of boxes sold by 1 student",
+            "The least number of boxes sold by 1 student"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The average can be found by dividing the total number of boxes sold by the number of students, which is the fraction 90 over 10, = 9 . Choices B, C, and D are incorrect. Each results from choosing measures that require the results of individual students, which are not given."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "3f2ee20a",
+        "Prompt": "Which statement is true based on the table?",
+        "Answer Choices": [
+            "The Group A data set was identical to the Group B data set.",
+            "Group B contained the tallest participant.",
+            "The h8s of the men in Group B had a larger spread than the h8s of the men in Group A.",
+            "The median h8 of Group B is larger than the median h8 of Group A."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Standard deviation is a measure of spread, so data sets with larger standard deviations tend to have larger spread. The standard deviation of the heights of the men in Group B is larger than the standard deviation of the heights of the men in Group A. Therefore, the heights of the men in Group B had a larger spread than the heights of the men in Group A. Choice A is incorrect. If two data sets are identical, they will have equivalent means and equivalent standard deviations. Since the two data sets have different standard deviations, they cannot be identical. Choice B is incorrect. Without knowing the maximum value for each data set, it\u2019s impossible to know which group contained the tallest participant. Choice D is incorrect. Since the means of the two groups are equivalent, the medians could also be the same or could be different, but it's impossible to tell from the given information."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "d0efc1dd",
+        "Prompt": "The mean and the median of the 5 numbers above are equal. Which of the following is NOT a possible value of x ?",
+        "Answer Choices": [
+            "6",
+            "11",
+            "16",
+            "21"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. If x is 6, then the five numbers in the given list are 15, 14, 18, 17, 6. The mean of these five numbers is the sum of all the values divided by the number of values, or the fraction with ( 15 + 14, + 18, + 17, + 6, and )/( 5, ), = 70 over 5, which = 14 . The median of these five numbers can be found by ordering the numbers from least to greatest and determining the middle value. When ordered from least to greatest, the numbers in the given list are 6, 14, 15, 17, 18, and the middle value is 15. Since the mean is 14 and the median is 15, the mean and median aren\u2019t equal when x is 6. Choices B, C, and D are incorrect. If any of these values is substituted for x , the mean and median of the data set would be equal."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "190be2fc",
+        "Prompt": "Data set A consists of 10 positive integers less than 60. The list shown gives 9 of the integers from data set A. 43, 45, 44, 43, 38, 39, 40, 46, 40 The mean of these 9 integers is 42. If the mean of data set A is an integer that is greater than 42, what is the value of the largest integer from data set A?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "52",
+        "Rationale": "The correct answer is 52 . The mean of a data set is calculated by dividing the sum of the data values by the number of values. It\u2019s given that data set A consists of 10 values, 9 of which are shown. Let x represent the 10 th data value in data set A, which isn\u2019t shown. The mean of data set A can be found using the expression x/10 + 378 , or x/10 + 378 . It\u2019s given that the mean of the 9 values shown is 42 and that the mean of all 10 numbers is greater than 42 . Consequently, the 10 th data value, x , is larger than 42 . It\u2019s also given that the data values in data set A are positive integers less than 60 . Thus, 42 less than x less than 60 . Finally, it\u2019s given that the mean of data set A is an integer. This means that the sum of the 10 data values, x + 378 , is divisible by 10 . Thus, x + 378 must have a ones digit of 0 . It follows that x must have a ones digit of 2 . Since 42 less than x less than 60 and x has a ones digit of 2 , the only possible value of x is 52 . Since 52 is larger than any of the integers shown, the largest integer from data set A is 52 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "c178d4da",
+        "Prompt": "Value Data set A frequency Data set B frequency 30 2 9 34 4 7 38 5 5 42 7 4 46 9 2 Data set A and data set B each consist of 27 values. The table shows the frequencies of the values for each data set. Which of the following statements best compares the means of the 2 data sets?",
+        "Answer Choices": [
+            "The mean of data set A is greater than the mean of data set B.",
+            "The mean of data set A is less than the mean of data set B.",
+            "The mean of data set A is equal to the mean of data set B.",
+            "There is not enough information to compare the means of the data sets."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The mean value of a data set is the sum of the values of the data set divided by the number of values in the data set. When a data set is represented in a frequency table, the sum of the values in the data set is the sum of the products of each value and its frequency. For data set A, the sum of products of each value and its frequency is 30 ( 2 ) + 34 ( 4 ) + 38 ( 5 ) + 42 ( 7 ) + 46 ( 9 ) , or 1,094 . It's given that there are 27 values in data set A. Therefore, the mean of data set A is ( 1,094 / 27 ) , or approximately 40.5200000000000 . Similarly, the mean of data B is 958/27 , or approximately 35.4800000000000 . Therefore, the mean of data set A is greater than the mean of data set B.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "457d2f2c",
+        "Prompt": "A data set of 27 different numbers has a mean of 33 and a median of 33. A new data set is created by adding 7 to each number in the original data set that is greater than the median and subtracting 7 from each number in the original data set that is less than the median. Which of the following measures does NOT have the same value in both the original and new data sets?",
+        "Answer Choices": [
+            "Median",
+            "Mean",
+            "Sum of the numbers",
+            "Standard deviation"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. When a data set has an odd number of elements, the median can be found by ordering the values from least to greatest and determining the middle value. Out of the 27 different numbers in this data set, 13 numbers are below the median, one number is exactly 33, and 13 numbers are above the median. When 7 is subtracted from each number below the median and added to each number above the median, the data spread out from the median. Since the median of this data set, 33, is equivalent to the mean of the data set, the data also spread out from the mean. Since standard deviation is a measure of how spread out the data are from the mean, a greater spread from the mean indicates an increased standard deviation. Choice A is incorrect. All the numbers less than the median decrease and all the numbers greater than the median increase, but the median itself doesn\u2019t change. Choices B and C are incorrect. The mean of a data set is found by dividing the sum of the values by the number of values. The net change from subtracting 7 from 13 numbers and adding 7 to 13 numbers is zero. Therefore, neither the mean nor the sum of the numbers changes."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "35bec412",
+        "Prompt": "73, 74, 75, 77, 79, 82, 84, 85, 91 What is the median of the data shown?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "79",
+        "Rationale": "The correct answer is 79 . The median of a data set with an odd number of values is the middle value of the set when the values are ordered from least to greatest. Because the given data set consists of nine values that are ordered from least to greatest, the median is the fifth value in the data set. Therefore, the median of the data shown is 79 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "07f2829b",
+        "Prompt": "International Tourist Arrivals, in millionsCountry20122013France83.084.7United States66.769.8Spain57.560.7China57.755.7Italy46.447.7Turkey35.737.8Germany30.431.5United Kingdom26.332.2Russia24.728.4The table above shows the number of international tourist arrivals, rounded to the nearest /10 of a million, to the top 9 tourist destinations in both 2012 and 2013. Based on the information given in the table, how much greater, in millions, was the median number of international tourist arrivals to the top 9 tourist destinations in 2013 than the median number in 2012, to the nearest /10 of a million?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1.3. The median number of tourists is found by ordering the number of tourists from least to greatest and determining the middle value from this list. When the number of tourists in 2012 is ordered from least to greatest, the middle value, or the fifth number, is 46.4 million. When the number of tourists in 2013 is ordered from least to greatest, the middle value, or the fifth number, is 47.7 million. The difference between these two medians is 47. 7 million - 46. 4 million, = 1. 3 million . Note that 1.3 and 13/10 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "d65b9a87",
+        "Prompt": "The * plots represent the distributions of values in data sets A and B. For the * plot titled Data Set A: The number line ranges from 10 to 16 in increments of 1. The data for the * plot are as follows: 10: 1 * 11: 4 *s 12: 2 *s 13: 3 *s 14: 2 *s 15: 4 *s 16: 1 * For the * plot titled Data Set B: The number line ranges from 10 to 16 in increments of 1. The data for the * plot are as follows: 10: 2 *s 11: 4 *s 12: 2 *s 13: 1 * 14: 2 *s 15: 4 *s 16: 2 *s Which of the following statements must be true? The median of data set A is equal to the median of data set B. The standard deviation of data set A is equal to the standard deviation of data set B.",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The median of a data set with an odd number of values that are in ascending or descending order is the middle value of the data set. Since the distribution of the values of both data set A and data set B form symmetric dot plots, and each data set has an odd number of values, it follows that the median is given by the middle value in each of the dot plots. Thus, the median of data set A is 13 , and the median of data set B is 13 . Therefore, statement I is true. Data set A and data set B have the same frequency for each of the values 11 , 12 , 14 , and 15 . Data set A has a frequency of 1 for values 10 and 16 , whereas data set B has a frequency of 2 for values 10 and 16 . Standard deviation is a measure of the spread of a data set; it is larger when there are more values further from the mean, and smaller when there are more values closer to the mean. Since both distributions are symmetric with an odd number of values, the mean of each data set is equal to its median. Thus, each data set has a mean of 13 . Since more of the values in data set A are closer to 13 than data set B, it follows that data set A has a smaller standard deviation than data set B. Thus, statement II is false. Therefore, only statement I must be true.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "f8a322d9",
+        "Prompt": "Data Set A: The horizontal axis is labeled Integer. It ranges from 10 to 60 and is divided into 5 equal intervals. The vertical axis is labeled Frequency. It ranges from 0 to 12 in increments of 1, with values marked every2 grid lines. The histogram has a skewed right shape. The histogram has 4 bins. The Frequency data for the 4 bins are as follows: 20 to 30: 3 30 to 40: 4 40 to 50: 7 50 to 60: 9 Data Set B: The horizontal axis is labeled Integer. It ranges from 10 to 60 and is divided into 5 equal intervals. The vertical axis is labeled Frequency. It ranges from 0 to 12 in increments of 1, with values marked every2 grid lines. The histogram has a skewed right shape. The histogram has 4 bins. The Frequency data for the 4 bins are as follows: 10 to 20: 3 20 to 30: 4 30 to 40: 7 40 to 50: 9 Two data sets of 23 integers each are summarized in the histograms shown. For each of the histograms, the first interval represents the frequency of integers greater than or equal to 10, but less than 20. The second interval represents the frequency of integers greater than or equal to 20, but less than 30, and so on. What is the smallest possible difference between the mean of data set A and the mean of data set B?",
+        "Answer Choices": [
+            "0",
+            "1",
+            "10",
+            "23"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The histograms shown have the same shape, but data set A contains values between 20 and 60 and data set B contains values between 10 and 50 . Thus, the mean of data set A is greater than the mean of data set B. Therefore, the smallest possible difference between the mean of data set A and the mean of data set B is the difference between the smallest possible mean of data set A and the greatest possible mean of data set B. In data set A, since there are 3 integers in the interval greater than or equal to 20 but less than 30 , 4 integers greater than or equal to 30 but less than 40 , 7 integers greater than or equal to 40 but less than 50 , and 9 integers greater than or equal to 50 but less than 60 , the smallest possible mean for data set A is 11030/23 . In data set B, since there are 3 integers greater than or equal to 10 but less than 20 , 4 integers greater than or equal to 20 but less than 30 , 7 integers greater than or equal to 30 but less than 40 , and 9 integers greater than or equal to 40 but less than 50 , the largest possible mean for data set B is 10699/23 . Therefore, the smallest possible difference between the mean of data set A and the mean of data set B is 331/23 , which is equivalent to 10231/23 . This expression can be rewritten as ( 3 ( 20 - 19 ) + 4 ( 30 - 29 ) + 7 ( 40 - 39 ) + 9 ( 50 - 49 ) / 23 ) , or 1 , which is equal to 1 . Therefore, the smallest possible difference between the mean of data set A and the mean of data set B is 1 .  Choice A is incorrect. This is the smallest possible difference between the ranges, not the means, of the data sets.  Choice C is incorrect. This is the difference between the greatest possible mean, not the smallest possible mean, of data set A and the greatest possible mean of data set B.  Choice D is incorrect. This is the smallest possible difference between the sum of the values in data set A and the sum of the values in data set B, not the smallest possible difference between the means."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "12dae628",
+        "Prompt": "2, 9, 14, 23, 32 What is the mean of the data shown?",
+        "Answer Choices": [
+            "14",
+            "16",
+            "17",
+            "32"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The mean of a set of data values is the sum of all the data values divided by the number of data values in the set. The sum of the data values shown is 80 , or 80 . Since there are 5 data values in the set, the mean of the data shown is 16 , or 16 .  Choice A is incorrect. This is the median, not the mean, of the data shown.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the maximum, not the mean, of the data shown."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "1142af44",
+        "Prompt": "The frequency distribution above summarizes a set of data, where a is a positive integer. How much greater is the mean of the set of data than the median?",
+        "Answer Choices": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since the frequencies of values less than the middle value, 3, are the same as the frequencies of the values greater than 3, the set of data has a symmetric distribution. When a set of data has a symmetric distribution, the mean and median values are equal. Therefore, the mean is 0 greater than the median. Choices B, C, and D are incorrect and may result from misinterpreting the set of data."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "651d83bb",
+        "Prompt": "Which of the following MUST be true? Every member of team A completed the race in less time than any member of team B. The median time it took the members of team B to complete the race is greater than the median time it took the members of team A to complete the race. There is at least 1 member of team B who took more time to complete the race than some member of team A.",
+        "Answer Choices": [
+            "III only",
+            "I and III only",
+            "II and III only",
+            "I, II, and III"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since the average time for the 10 members of team A is 3.41 minutes, the sum of the 10 times for team A is equal to 10 * 3. 4 1, = 34. 1 minutes. Since the average time for the 10 members of team B is 3.79 minutes, the sum of the 10 times for team B is equal to 10 * 3. 7 9, = 37. 9 minutes. Since the sum of the 10 times for team B is greater than the sum of the 10 times for team A, it must be true that at least one of the times for team B must be greater than one of the times for team A. Thus, statement III is true. However, it\u2019s possible that at least some of the times for team A were greater than some of the times for team B. For example, all of team A\u2019s times could be 3.41 minutes, and team B could have 1 time of 3.34 minutes and 9 times of 3.84 minutes. Thus, statement I need not be true. It\u2019s also possible that the median of the times for team B is less than the median of the times for team A. For example, all of team A\u2019s times could be 3.41 minutes, and team B could have 6 times of 3.37 minutes and 4 times of 4.42 minutes; then the median of team B\u2019s times would be 3.37 minutes and the median of team A\u2019s times would be 3.41 minutes. Thus, statement II need not be true. Choices B, C, and D are incorrect because neither statement I nor statement II must be true."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "1e8ccffd",
+        "Prompt": "The mean score of 8 players in a basketball game was 14.5 points. If the highest individual score is removed, the mean score of the remaining 7 players becomes 12 points. What was the highest score?",
+        "Answer Choices": [
+            "20",
+            "24",
+            "32",
+            "36"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If the mean score of 8 players is 14.5, then the total of all 8 scores is 14. 5 * 8, = 116 . If the mean of 7 scores is 12, then the total of all 7 scores is 12 * 7, = 84 . Since the set of 7 scores was made by removing the highest score of the set of 8 scores, then the difference between the total of all 8 scores and the total of all 7 scores is equal to the removed score: 116 - 84, = 32 . Choice A is incorrect because if 20 is removed from the group of 8 scores, then the mean score of the remaining 7 players is the fraction with (, open parenthesis, 14. 5 * 8, close parenthesis, - 20, and )/( 7 is approximately 13.71, not 12. Choice B is incorrect because if 24 is removed from the group of 8 scores, then the mean score of the remaining 7 players is the fraction with (, open parenthesis, 14. 5 * 8, close parenthesis, - 24, and )/( 7 is approximately 13.14, not 12. Choice D is incorrect because if 36 is removed from the group of 8 scores, then the mean score of the remaining 7 players is the fraction with (, open parenthesis, 14. 5 * 8, close parenthesis, - 36, and )/( 7 or approximately 11.43, not 12."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "7b65bb28",
+        "Prompt": "In the table above, Melissa recorded the price of 1 gallon of regular gas from 5 different local gas stations on the same day. What is the median of the gas prices Melissa recorded?",
+        "Answer Choices": [
+            "$3.679",
+            "$3.689",
+            "$3.699",
+            "$3.729"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The median of a data set is the middle value when the data is in ascending or descending order. In ascending order, the gas prices are\u00a0$3.609, $3.679, $3.699, $3.729, and $3.729. The middle number of this list is 3.699, so it follows that $3.699 is the median gas price. Choice A is incorrect. When the gas prices are listed in ascending order, this value isn\u2019t the middle number.\u00a0Choice B is incorrect. This value represents the mean gas price. Choice D is incorrect. This value represents both the mode and the maximum gas price."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "be00d896",
+        "Prompt": "For which of the following data sets is the mean greater than the median?",
+        "Answer Choices": [
+            "5, 5, 5, 5, 5, 5, 5, 5, 5",
+            "0, 10, 20, 30, 40, 50, 60, 70, 80",
+            "2, 4, 8, 16, 32, 64, 128, 256, 512",
+            "7, 107, 107, 207, 207, 207, 307, 307, 307"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If the values in a data set are ordered from least to greatest, the median of the data set will be the middle value. Since each data set in the choices is ordered and contains exactly 9 data values, the 5th value in each is the median. It follows that the median of the data set in choice C is 32. The sum of the positive differences between 32 and each of the values that are less than 32 is significantly smaller than the sum of the positive differences between 32 and each of the values that are greater than 32. If 32 were the mean, these sums would have been equal to each other. Therefore, the mean of this data set must be greater than 32. This can also be confirmed by calculating the mean as the sum of the values divided by the number of values in the data set: The fraction with ( 2, + 4, + 8, + 16, + 32, + 64, + 128, + 256, + 512, and )/( 9, = 113 and 5 /9s . Choices A and B are incorrect. Each of the data sets in these choices is symmetric with respect to its median, so the mean and the median for each of these choices are equivalent. Choice D is incorrect. The median of this data set is 207. Since the sum of the positive differences between 207 and each of the values less than 207 is greater than the sum of the positive differences between 207 and each value greater than 207 in this data set, the mean must be less than the median."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "560fab82",
+        "Prompt": "The table shows the frequency of values in a data set. Value Frequency 19 7 21 1 23 7 25 4 What is the minimum value of the data set?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "19",
+        "Rationale": "The correct answer is 19 . The minimum value of a data set is the least value in the data set. The frequency refers to the number of times a value occurs. The given table shows that for this data set, the value 19 occurs 7 times, the value 21 occurs 1 time, the value 23 occurs 7 times, and the value 25 occurs 4 times. Therefore, of the values 19 , 21 , 23 , and 25 given in the data set, the minimum value of the data set is 19 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "d94018fd",
+        "Prompt": "For the * plot titled Class A: The number line ranges from 1 to 7 in increments of 1. The data for the * plot are as follows: 1: 1 * 2: 1 * 3: 3 *s 4: 4 *s 5: 5 *s 6: 6 *s 7: 7 *s For the * plot titled Class B: The number line ranges from 14 to 20 in increments of 1. The data for the * plot are as follows: 14: 1 * 15: 1 * 16: 3 *s 17: 4 *s 18: 5 *s 19: 6 *s 20: 7 *s Each of the * plots shown represents the number of glue sticks brought in by each student for 2 classes, class A and class B. Which statement best compares the standard deviations of the numbers of glue sticks brought in by each student for these 2 classes?",
+        "Answer Choices": [
+            "The standard deviation of the number of glue sticks brought in by each student for class A is less than the standard deviation of the number of glue sticks brought in by each student for class B.",
+            "The standard deviation of the number of glue sticks brought in by each student for class A is equal to the standard deviation of the number of glue sticks brought in by each student for class B.",
+            "The standard deviation of the number of glue sticks brought in by each student for class A is greater than the standard deviation of the number of glue sticks brought in by each student for class B.",
+            "There is not enough information to compare these standard deviations."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Standard deviation is a measure of the spread of a data set from its mean. The dot plot for class A and the dot plot for class B have the same shape. Thus, the frequency distributions for both class A and class B are the same. Since both class A and class B have the same frequency distribution of glue sticks brought in by each student, it follows that both class A and class B have the same spread of the number of glue sticks brought in by each student from their respective means. Therefore, the standard deviation of the number of glue sticks brought in by each student for class A is equal to the standard deviation of the number of glue sticks brought in by each student for class B.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "4b09f783",
+        "Prompt": "A list of 10 data values is shown. 6, 8, 16, 4, 17, 26, 8, 5, 5, 5 What is the mean of these data?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "10",
+        "Rationale": "The correct answer is 10 . The mean of a data set is calculated by dividing the sum of the data values by the number of data values in the data set. For this data set, the mean can be calculated as 191/2 , which is equivalent to 10 , or 10 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "bfa8a85c",
+        "Prompt": "6, 6, 8, 8, 8, 10, 21 Which of the following lists represents a data set that has the same median as the data set shown?",
+        "Answer Choices": [
+            "4,6,6,6,8,8",
+            "6,6,8,8,10,10",
+            "6,8,10,10,10,12",
+            "8,8,10,10,21,21"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. If a data set contains an odd number of data values, the median is represented by the middle data value in the list when the data values are listed in ascending or descending order. Since the data set shown has 7 data values and is in ascending order, it follows that the median is the fourth data value in the list, or 8 . If a data set contains an even number of data values, the median is between the two middle data values when the values are listed in ascending or descending order. Since each of the choices consists of a data set with 6 data values in ascending order, it follows that the median is between the third and fourth data value. The third and fourth data values in choice B are 8 and 8 . Thus, choice B represents a data set with a median of 8 . Since the median of the data set shown is 8 and choice B represents a data set with a median of 8 , it follows that choice B represents a data set that has the same median as the data set shown.  Choice A is incorrect. This list represents a data set with a median of 6 , not 8 .  Choice C is incorrect. This list represents a data set with a median of 10 , not 8 .  Choice D is incorrect. This list represents a data set with a median of 10 , not 8 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "fa7a0164",
+        "Prompt": "What was the mean low temperature, in degrees Fahrenheit, during the 5 - day period?",
+        "Answer Choices": [
+            "48.8",
+            "49",
+            "59",
+            "59.1"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The mean low temperature can be calculated by finding the sum of the low temperatures for all the days shown in the table, 49 + 37 + 41 + 54 + 63 = 244, and then dividing the sum by the number of days the temperature was recorded, 244 divided by 5, = 48. 8 . Choice B is incorrect. This may be the result of choosing the median rather than calculating the mean.\u00a0Choices C and D are incorrect and may be the result of calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "708590d7",
+        "Prompt": "Which of the following statements correctly compares the means of data set A and data set B?",
+        "Answer Choices": [
+            "The mean of each data set is 2.",
+            "The mean of each data set is 4.",
+            "The mean of data set A is less than the mean of data set B.",
+            "The mean of data set A is greater than the mean of data set B."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The mean of a data set is found by dividing the sum of the values in the data set by the number of values in the data set. Therefore, the mean of data set A is the fraction with ( 1 + 2, + 3, + 4, + 5, + 6, + 7, and )/( 7, = the fraction 28 over 7 , or 4. The mean of data set B is the fraction with ( 1 + 1, + 2, + 2, + 3, + 3, + 4, and )/( 7, = the fraction 16 over 7 , or approximately 2.2857. Therefore, the mean of data set A is greater than the mean of data set B. Alternate approach: Data set A and data set B are both ordered from least to greatest value. Besides the first value in each data set, which is 1, each value in ordered data set B is less than the respective value in ordered data set A. Therefore, conceptually, the mean of data set A must be greater than the mean of data set B. Choices A, B, and C are incorrect and may result from various misconceptions or miscalculations."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "bf47ad54",
+        "Prompt": "Each of the following frequency tables represents a data set. Which data set has the greatest mean?",
+        "Answer Choices": [
+            "ValueFrequency7048059061007",
+            "ValueFrequency7068069061006",
+            "ValueFrequency7078069061007",
+            "ValueFrequency7088059051008"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The tables in choices B, C, and D each represent a data set where the values 80 and 90 have the same frequency and the values 70 and 100 have the same frequency. It follows that each of these data sets is symmetric around the value halfway between 80 and 90 , or 85 . When a data set is symmetric around a value, that value is the mean of the data set. Therefore, the data sets represented by the tables in choices B, C, and D each have a mean of 85 . The table in choice A represents a data set where the value 90 has a greater frequency than the value 80 and the value 100 has a greater frequency than the value 70 . It follows that this data set has a mean greater than 85 . Therefore, of the given choices, choice A represents the data set with the greatest mean.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "7760c516",
+        "Prompt": "Each value in the data set shown represents the h8, in centimeters, of a plant. 6, 10, 13, 2, 15, 22, 10, 4, 4, 4 What is the mean h8, in centimeters, of these plants?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "9",
+        "Rationale": "The correct answer is 9 . The mean of a data set is the sum of the values in the data set divided by the number of values in the data set. It follows that the mean height, in centimeters, of these plants is the sum of the heights, in centimeters, of each plant, 90 , or 90 , divided by the number of plants in the data set, 10 . Therefore, the mean height, in centimeters, of these plants is 9 , or 9 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "374b18f9",
+        "Prompt": "The number of acres of useful timberland in 13 counties in California is summarized in the box plot above. Which of the following is closest to the median number of acres?",
+        "Answer Choices": [
+            "4,399",
+            "7,067",
+            "8,831",
+            "10,595"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The median of the data summarized by a box plot is the value associated with the vertical line segment within the box. According to the box plot shown, this value is slightly greater than 7,000. Therefore, the closest value for the median number of acres is 7,067. Choice A is incorrect. This is the value associated with the vertical line segment forming the left-hand side of the box. Choice C is incorrect. This value is greater than the value associated with the vertical line segment within the box. Choice D is incorrect. This is the value associated with the vertical line segment forming the right-hand side of the box."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "4ff597db",
+        "Prompt": "The mean amount of time that the 20 employees of a construction company have worked for the company is 6.7 years. After 1 of the employees leaves the company, the mean amount of time that the remaining employees have worked for the company is reduced to 6.25 years. How many years did the employee who left the company work for the company?",
+        "Answer Choices": [
+            "0.45",
+            "2.30",
+            "9.00",
+            "15.25"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The mean amount of time that the 20 employees worked for the company is 6.7 years. This means that the total number of years all 20 employees worked for the company is (6.7)(20) = 134 years. After the employee left, the mean amount of time that the remaining 19 employees worked for the company is 6.25 years. Therefore, the total number of years all 19 employees worked for the company is (6.25)(19) = 118.75 years. It follows that the number of years that the employee who left had worked for the company is 134 \u2013 118.75 = 15.25 years. Choice A is incorrect; this is the change in the mean, which isn\u2019t the same as the amount of time worked by the employee who left. Choice B is incorrect and likely results from\u00a0making the assumption that there were still 20 employees, rather than 19, at the company after the employee left and then subtracting the original mean of 6.7 from that result. Choice C is incorrect and likely\u00a0results from making the assumption that there were still 20 employees, rather than 19, at the company after the employee left."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "c54b92a2",
+        "Prompt": "What is the range of the number of wheels made for the 11 1 - hour periods?",
+        "Answer Choices": [
+            "5.5",
+            "5.0",
+            "4.5",
+            "4.0"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Range is defined as the difference between the greatest and least values from a set of data. The greatest number of wheels made during a one-hour period was 24 wheels. The least number of wheels was 19. Hence, the range is 24 - 19, = 5 , or 5.0. Choices A, C, and D are incorrect and may be the result of arithmetic errors or incorrectly identifying the greatest or least number of wheels made during a one-hour period."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "5c3c2e3c",
+        "Prompt": "The w8s, in pounds, for 15 horses in a stable were reported, and the mean, median, range, and standard deviation for the data were found. The horse with the lowest reported w8 was found to actually weigh 10 pounds less than its reported w8. What value remains unchanged if the 4 values are reported using the corrected w8?",
+        "Answer Choices": [
+            "Mean",
+            "Median",
+            "Range",
+            "Standard deviation"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The median weight is found by ordering the horses\u2019 weights from least to greatest and then determining the middle value from this list of weights. Decreasing the value for the horse with the lowest weight doesn\u2019t affect the median since it\u2019s still the lowest value. Choice A is incorrect. The mean is calculated by finding the sum of all the weights of the horses and then dividing by the number of horses. Decreasing one of the weights would decrease the sum and therefore decrease the mean. Choice C is incorrect. Range is the difference between the highest and lowest weights, so decreasing the lowest weight would increase the range. Choice D is incorrect. Standard deviation is calculated based on the mean weight of the horses. Decreasing one of the weights decreases the mean and therefore would affect the standard deviation."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "66f03086",
+        "Prompt": "71, 72, 73, 76, 77, 79, 83, 87, 93 What is the median of the data shown?",
+        "Answer Choices": [
+            "71",
+            "77",
+            "78",
+            "79"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The median of a data set with an odd number of data values is defined as the middle value of the ordered list of values. The data set shown has nine values, so the median is the fifth value in the ordered list, which is 77 .  Choice A is incorrect. This is the minimum value of the data set, not the median.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the mean of the data set, not the median."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "9110c120",
+        "Prompt": "Which of the following statements about the means and medians of data set A and data set B is true?",
+        "Answer Choices": [
+            "Only the means are different.",
+            "Only the medians are different.",
+            "Both the means and the medians are different.",
+            "Neither the means nor the medians are different."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The mean of a data set is the sum of the values divided by the number of values. The mean of data set A is the fraction 45 over 9 , or 5. The mean of data set B is the fraction 145 over 10 , or 14.5. Thus, the means are different. The median of a data set is the middle value when the values are ordered from least to greatest. The medians of data sets A and B are both 5. Therefore, the medians are the same, so only the means are different. Choices B, C, and D are incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "d1db8def",
+        "Prompt": "Response Frequency Once a week or more 3 Two or 3 * a month 16 About once a month 26 A few * a year 73 Almost never 53 Never 29 Total 200 The table gives the results of a survey of 200 people who were asked how of10 they see a movie in a theater. How many people responded either \u201cnever\u201d or \u201calmost never\u201d?",
+        "Answer Choices": [
+            "24",
+            "53",
+            "82",
+            "118"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The table gives the results of 200 people who were asked how often they see a movie in a theater. The table shows that 29 people responded \u201cnever\u201d and 53 people responded \u201calmost never.\u201d Therefore, 82 , or 82 , people responded either \u201cnever\u201d or \u201calmost never.\u201d  Choice A is incorrect. This is the difference between the number of people who responded \u201calmost never\u201d and the number of people who responded \u201cnever.\u201d  Choice B is incorrect. This is the number of people who responded \u201calmost never\u201d but doesn't include those who responded \u201cnever.\u201d  Choice D is incorrect. This is the number of people who responded something other than \u201cnever\u201d or \u201calmost never,\u201d rather than the number of people who responded either \u201cnever\u201d or \u201calmost never.\u201d"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "4626102e",
+        "Prompt": "The data for the * plot are as follows: 22: 5 *s 23: 4 *s 24: 3 *s 25: 2 *s 26: 1 * The * plot represents the 15 values in data set A. Data set B is created by adding 56 to each of the values in data set A. Which of the following correctly compares the medians and the ranges of data sets A and B?",
+        "Answer Choices": [
+            "The median of data set B is equal to the median of data set A, and the range of data set B is equal to the range of data set A.",
+            "The median of data set B is equal to the median of data set A, and the range of data set B is greater than the range of data set A.",
+            "The median of data set B is greater than the median of data set A, and the range of data set B is equal to the range of data set A.",
+            "The median of data set B is greater than the median of data set A, and the range of data set B is greater than the range of data set A."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The median of a data set with an odd number of values, in ascending or descending order, is the middle value of the data set, and the range of a data set is the positive difference between the maximum and minimum values in the data set. Since the dot plot shown gives the values in data set A in ascending order and there are 15 values in the data set, the eighth value in data set A, 23 , is the median. The maximum value in data set A is 26 and the minimum value is 22 , so the range of data set A is 4 , or 4 . It\u2019s given that data set B is created by adding 56 to each of the values in data set A. Increasing each of the 15 values in data set A by 56 will also increase its median value by 56 making the median of data set B 79 . Increasing each value of data set A by 56 does not change the range, since the maximum value of data set B is 82 , or 82 , and the minimum value is 78 , or 78 , making the range of data set B 4 , or 4 . Therefore, the median of data set B is greater than the median of data set A, and the range of data set B is equal to the range of data set A.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "55cfaf22",
+        "Prompt": "Data set X: 5, 9, 9, 13 Data set Y: 5, 9, 9, 13, 27 The lists give the values in data sets X and Y. Which statement correctly compares the mean of data set X and the mean of data set Y?",
+        "Answer Choices": [
+            "The mean of data set X is greater than the mean of data set Y.",
+            "The mean of data set X is less than the mean of data set Y.",
+            "The means of data set X and data set Y are equal.",
+            "There is not enough information to compare the means."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. \u200b\u200bThe mean of a data set is the sum of the values in the data set divided by the number of values in the data set. It follows that the mean of data set X is 105/4 , or 9 , and the mean of data set Y is 207/5 , or 12.6000000000000 . Since 9 is less than 12.6000000000000 , the mean of data set X is less than the mean of data set Y.  Alternate approach: Data set Y consists of the 4 values in data set X and one additional value, 27 . Since the additional value, 27 , is larger than any value in data set X, the mean of data set X is less than the mean of data set Y.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "820d7a73",
+        "Prompt": "The data for the 10 categories are as follows: Group 1: 30 Group 2: 63 Group 3: 38 Group 4: 50 Group 5: 47 Group 6: 40 Group 7: 54 Group 8: 60 Group 9: 17 Group 10: 20 The bar graph shows the distribution of 419 cans collected by10 different groups for a food drive. How many cans were collected by group 6?",
+        "Answer Choices": [
+            "Group 7: 54",
+            "Group 8: 60",
+            "Group 9: 17",
+            "Group 10: 20"
+        ],
+        "Correct Answer": "40",
+        "Rationale": "The correct answer is 40 . The height of each bar in the bar graph shown represents the number of cans collected by the group specified at the bottom of the bar. The bar for group 6 reaches a height of 40 . Therefore, group 6 collected 40 cans."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "4bb25495",
+        "Prompt": "The table above shows the land area, in square kilometers, of the 5 smallest countries of the world in 2016. Based on the table, what is the mean land area of the 5 smallest countries in 2016, to the nearest square kilometer?",
+        "Answer Choices": [
+            "20",
+            "22",
+            "61",
+            "110"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The mean land area of these 5 countries is equal to the sum of the land areas of these countries, or 2. 0, + 21, + 61, + 26, + 0. 4 4 , divided by the number of countries in the table, 5, or the fraction with ( 2. 0, + 21, + 61, + 26, + 0. 4 4, and )/( 5 . Combining like terms in the numerator yields 110. 4 4 over 5 , which simplifies to 22.088 square kilometers. This value, when rounded to the nearest square kilometer, is 22. Choice A is incorrect and may result from a calculation error. Choice C is incorrect. This is the greatest land area of the 5 countries in the table. Choice D is incorrect. This is the sum of the land areas of the 5 countries in the table, rounded to the nearest square kilometer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "98958ae8",
+        "Prompt": "Data set A consists of the h8s of 75 objects and has a mean of 25 meters. Data set B consists of the h8s of 50 objects and has a mean of 65 meters. Data set C consists of the h8s of the 125 objects from data sets A and B. What is the mean, in meters, of data set C?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "41",
+        "Rationale": "The correct answer is 41 . The mean of a data set is computed by dividing the sum of the values in the data set by the number of values in the data set. It\u2019s given that data set A consists of the heights of 75 objects and has a mean of 25 meters. This can be represented by the equation ( x / 75 ) = 25 , where x represents the sum of the heights of the objects, in meters, in data set A. Multiplying both sides of this equation by 75 yields x = 75 ( 25 ) , or x = 1,875 meters. Therefore, the sum of the heights of the objects in data set A is (1, 875) meters. It\u2019s also given that data set B consists of the heights of 50 objects and has a mean of 65 meters. This can be represented by the equation ( y / 50 ) = 65 , where y represents the sum of the heights of the objects, in meters, in data set B. Multiplying both sides of this equation by 50 yields y = 50 ( 65 ) , or y = 3,250 meters. Therefore, the sum of the heights of the objects in data set B is (3, 250) meters. Since it\u2019s given that data set C consists of the heights of the 125 objects from data sets A and B, it follows that the mean of data set C is the sum of the heights of the objects, in meters, in data sets A and B divided by the number of objects represented in data sets A and B, or (1, 878, 2) , which is equivalent to 41 meters. Therefore, the mean, in meters, of data set C is 41 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "391ae4b2",
+        "Prompt": "Data set F consists of 55 integers between 170 and 290. Data set G consists of all the integers in data set F as well as the integer 10. Which of the following must be less for data set F than for data set G? The mean The median",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that data set F consists of 55 integers between 170 and 290 and data set G consists of all the integers in data set F as well as the integer 10 . Since the integer 10 is less than all the integers in data set F, the mean of data set G must be less than the mean of data set F. Thus, the mean of data set F isn't less than the mean of data set G. When a data set is in ascending order, the median is between the two middle values when there is an even number of values and the median is the middle value when there is an odd number of values. It follows that the median of data set F is either greater than or equal to the median of data set G. Therefore, the median of data set F isn't less than the median of data set G. Thus, neither the mean nor the median must be less for data set F than for data set G.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "57f45509",
+        "Prompt": "From left to right the values of the vertical bars in the box plot are as follows: First vertical bar: 2 Second vertical bar: 4 Third vertical bar: 5 Fourth vertical bar: 7 Fifth vertical bar: 8 The box plot summarizes 15 data values. What is the median of this data set?",
+        "Answer Choices": [
+            "2",
+            "3",
+            "5",
+            "8"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The median of a data set represented in a box plot is given by the vertical line within the box. In the given box plot, the vertical line within the box occurs at 5 . Therefore, the median of this data set is 5 .  Choice A is incorrect. This is the minimum value of the data set.  Choice B is incorrect and may result from conceptual errors.  Choice D is incorrect. This is the maximum value of the data set."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "2a59eb45",
+        "Prompt": "Data set A consists of the h8s of 75 buildings and has a mean of 32 meters. Data set B consists of the h8s of 50 buildings and has a mean of 62 meters. Data set C consists of the h8s of the 125 buildings from data sets A and B. What is the mean, in meters, of data set C?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "44",
+        "Rationale": "The correct answer is 44 . The mean of a data set is computed by dividing the sum of the values in the data set by the number of values in the data set. It's given that data set A consists of the heights of 75 buildings and has a mean of 32 meters. This can be represented by the equation ( x / 75 ) = 32 , where x represents the sum of the heights of the buildings, in meters, in data set A. Multiplying both sides of this equation by 75 yields x = 75 ( 32 ) , or x = 2,400 meters. Therefore, the sum of the heights of the buildings in data set A is (2, 400) meters. It's also given that data set B consists of the heights of 50 buildings and has a mean of 62 meters. This can be represented by the equation ( y / 50 ) = 62 , where y represents the sum of the heights of the buildings, in meters, in data set B. Multiplying both sides of this equation by 50 yields y = 50 ( 62 ) , or y = 3,100 meters. Therefore, the sum of the heights of the buildings in data set B is (3, 100) meters. Since it's given that data set C consists of the heights of the 125 buildings from data sets A and B, it follows that the mean of data set C is the sum of the heights of the buildings, in meters, in data sets A and B divided by the number of buildings represented in data sets A and B, or (2, 403, 4/5) , which is equivalent to 44 meters. Therefore, the mean, in meters, of data set C is 44 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "79340403",
+        "Prompt": "The data for the 10 categories are as follows: Group 1: 30 Group 2: 62 Group 3: 36 Group 4: 50 Group 5: 46 Group 6: 40 Group 7: 54 Group 8: 60 Group 9: 16 Group 10: 20 The bar graph shows the distribution of 414 books collected by10 different groups for a book drive. How many books were collected by group 1?",
+        "Answer Choices": [
+            "Group 7: 54",
+            "Group 8: 60",
+            "Group 9: 16",
+            "Group 10: 20"
+        ],
+        "Correct Answer": "30",
+        "Rationale": "The correct answer is 30 . The height of each bar in the bar graph shown represents the number of books collected by the group specified at the bottom of the bar. The bar for group 1 reaches a height of 30 . Therefore, group 1 collected 30 books."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "93779b53",
+        "Prompt": "The data for the 5 categories are as follows: 1: More than /2way above 25 students 2: Less than /2way above 30 students 3: More than /2way above 35 students 4: About /2way above 40 students 5: About /2way above 45 students A group of students voted on 5 after-school activities. The bar graph shows the number of students who voted for each of the 5 activities. How many students chose activity 3?",
+        "Answer Choices": [
+            "25",
+            "39",
+            "48",
+            "50"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The height of each bar in the bar graph given represents the number of students that voted for the activity specified at the bottom of the bar. The bar for activity 3 has a height that is between 35 and 40 . In other words, the number of students that chose activity 3 is between 35 students and 40 students. Of the given choices, 39 is the only value between 35 and 40 . Therefore, 39 students chose activity 3 .  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect. This is the number of students that chose activity 5 , not activity 3 .  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "9d935bd8",
+        "Prompt": "A survey was given to residents of all 50 states asking if they had earned a bachelor\u2019s degree or higher. The results from 7 of the states are given in the table above. The median percent of residents who earned a bachelor\u2019s degree or higher for all 50 states was 26.95%. What is the difference between the median percent of residents who earned a bachelor\u2019s degree or higher for these 7 states and the median for all 50 states?",
+        "Answer Choices": [
+            "0.05%",
+            "0.95%",
+            "1.22%",
+            "7.45%"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The median of a set of numbers is the middle value of the set values when ordered from least to greatest. If the percents in the table are ordered from least to greatest, the middle value is 27.9%. The difference between 27.9% and 26.95% is 0.95%. Choice A is incorrect and may be the result of calculation errors or not finding the median of the data in the table correctly. Choice C is incorrect and may be the result of finding the mean instead of the median. Choice D is incorrect and may be the result of using the middle value of the unordered list."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "9e2bf782",
+        "Prompt": "A fish hatchery has 3 tanks for holding fish before they are introduced into the wild. Ten fish weighing less than 5 ounces are placed in tank A. Eleven fish weighing at least 5 ounces but no more than 13 ounces are placed in tank B. Twelve fish weighing more than 13 ounces are placed in tank C. Which of the following could be the median of the w8s, in ounces, of these 33 fish?",
+        "Answer Choices": [
+            "4.5",
+            "8",
+            "13.5",
+            "15"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The median of a set of numbers is the middle number when the values in the set are ordered from least to greatest. There are 33 fish, so in an ordered list of the weights, the 17th value would be the median weight. The 10 fish in tank A weigh the least, and these 10 weights would be the first 10 values on the ordered list. The 11 fish in tank B have the next set of higher weights, and so would be the 11th through 21st weights in the ordered list, which includes the median weight as the 17th value. The fish in tank B weigh at least 5 ounces but no more than 13 ounces; of the given choices, only 8 ounces falls within this range of values. Choice A is incorrect. It\u2019s given that tank A has ten fish weighing less than 5 ounces. Since there are more than ten fish in tanks B and C combined, the median weight cannot be less than 5 ounces. Choice C and D are incorrect. It\u2019s given that tank C has twelve fish weighing more than 13 ounces. There are more than twelve fish in tanks A and B combined, so the median weight can\u2019t be more than 13 ounces."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Medium",
+        "ID": "8193e8cd",
+        "Prompt": "The mean of the list of numbers above is what fraction of the sum of the 5 numbers?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1 /5 . The mean of the list of numbers is found by dividing the sum of the numbers by the number of values in the list. Since there are 5 numbers in the list, the mean is 1 /5 of the sum of the numbers. Note that 1/5 and .2 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "54d93874",
+        "Prompt": "Andrew and Maria each collected 6 rocks, and the masses of the rocks are shown in the table above. The mean of the masses of the rocks Maria collected is 0.1 kilogram greater than the mean of the masses of the rocks Andrew collected. What is the value of x ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 2.6. Since the mean of a set of numbers can be found by adding the numbers together and dividing by how many numbers there are in the set, the mean mass, in kilograms, of the rocks Andrew collected is the fraction with ( 2. 4, + 2. 5, + 3. 6, + 3. 1, + 2. 5, + 2. 7, and )/( 6, = 16. 8 over 6. , or 2.8. Since the mean mass of the rocks Maria collected is 0.1 kilogram greater than the mean mass of rocks Andrew collected, the mean mass of the rocks Maria collected is 2. 8, + 0. 1, = 2. 9 kilograms. The value of x can be found by writing an equation for finding the mean: the fraction with ( x + 3. 1, + 2. 7, + 2. 9, + 3. 3, + 2. 8, and )/( 6, = 2. 9 . Solving this equation gives x = 2. 6 . Note that 2.6 and 13/5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "869a32f1",
+        "Prompt": "/ this 5 - day period, which of the following is NOT equal to 81\u00b0F?",
+        "Answer Choices": [
+            "Median of the high temperatures",
+            "Mean of the high temperatures",
+            "Mode of the high temperatures",
+            "Range of the high temperatures"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The range of a data set is the difference between the maximum and the minimum values in the set. The maximum value among the high temperatures in the table is 82\u00b0F and the minimum value is 80\u00b0F. Therefore, the range is 82\u00b0F \u2013 80\u00b0F = 2\u00b0F. Choice A is incorrect. The median of a data set is the middle value when the values in the set are ordered from least to greatest. Ordering the high temperatures this way gives the list 80, 81, 81, 81, 82. Therefore, the median high temperature is 81\u00b0F. Choice B is incorrect. The mean high temperature is the fraction with ( 81, + 80, + 81, + 81, + 82, and )/( 5, = the fraction 405 over 5, which = 81 . Choice C is incorrect. The mode is the value that occurs the greatest number of times. For the set of high temperatures shown,\u00a081 is the value that occurs 3 times, and therefore, 81\u00b0F is the StartFragment mode of the high temperatures EndFragment ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Easy",
+        "ID": "6670e407",
+        "Prompt": "The table above shows the number of students from 2 different high schools who completed summer internships in each of 5 years. No student at10ded both schools. Which of the following statements are true about the number of students who completed summer internships for the 5 years shown?The mean number from Foothill High School is greater than the mean number from Valley High School.The median number from Foothill High School is greater than the median number from Valley High School.",
+        "Answer Choices": [
+            "I only",
+            "II only",
+            "I and II",
+            "Neither I nor II"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The mean of a data set is found by dividing the sum of the values by the number of values. Therefore, the mean number of students who completed summer internships from Foothill High School is the fraction with ( 87 + 80, + 75, + 76, + 70, and )/( 5, = the fraction 388 over 5 , or 77.6. Similarly, the mean number from Valley High School is the fraction with ( 44 + 54, + 65, + 76, + 82, and )/( 5, = the fraction 321 over 5 , or 64.2. Thus, the mean number from Foothill High School is greater than the mean number from Valley High School. When a data set has an odd number of elements, the median can be found by ordering the values from least to greatest and determining the value in the middle. Since there are five values in each data set, the third value in each ordered list is the median. Therefore, the median number from Foothill High School is 76 and the median number from Valley High School is 65. Thus, the median number from Foothill High School is greater than the median number from Valley High School. Choices A, B, and D are incorrect and may result from various misconceptions or miscalculations."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "One-variable data: Distributions and measures of center and spread",
+        "Difficulty": "Hard",
+        "ID": "94237701",
+        "Prompt": "The median of the scores for group B is how much greater than the median of the scores for group A?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1. When there are an odd number of values in a data set, the median of the data set is the middle number when the data values are ordered from least to greatest. The scores for group A, ordered from least to greatest, are 2, 3, 4, 4, 5, 6, 6, 6, and 9. The median of the scores for group A is therefore 5. The scores for group B, ordered from least to greatest, are 5, 5, 5, 5, 6, 6, 8, 8, 9, 10, and 10. The median of the scores for group B is therefore 6. The median score for group B is 6 - 5, = 1 more than the median score for group A."
+    }
+]

@@ -1,0 +1,316 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Hard",
+        "ID": "85939da5",
+        "Prompt": "In a study of cell ph1 use, 799 randomly selected US teens were asked how of10 they talked on a cell ph1 and about their texting behavior. The data are summarized in the table above. Based on the data from the study, an estimate of the percent of US teens who are heavy texters is 30% and the associated margin of error is 3%. Which of the following is a correct statement based on the given margin of error?",
+        "Answer Choices": [
+            "Approximately 3% of the teens in the study who are classified as heavy texters are not really heavy texters.",
+            "It is not possible that the percent of all US teens who are heavy texters is less than 27%.",
+            "The percent of all US teens who are heavy texters is 33%.",
+            "It is doubtful that the percent of all US teens who are heavy texters is 35%."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given margin of error of 3% indicates that the actual percent of all US teens who are heavy texters is likely within 3% of the estimate of 30%, or between 27% and 33%. Therefore, it is unlikely, or doubtful, that the percent of all US teens who are heavy texters would be 35%. Choice A is incorrect. The margin of error doesn\u2019t provide any information about the accuracy of reporting in the study. Choice B is incorrect. Based on the estimate and given margin of error, it is unlikely that the percent of all US teens who are heavy texters would be less than 27%, but it is possible. Choice C is incorrect. While the percent of all US teens who are heavy texters is likely between 27% and 33%, any value within this interval is equally likely. We can\u2019t be certain that the value is exactly 33%."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "affb2315",
+        "Prompt": "There are 55 students in Spanish club. A sample of the Spanish club students was selected at random and asked whether they in10d to enroll in a new study program. Of those surveyed, 20 percent sign responded that they in10d to enroll in the study program. Based on this survey, which of the following is the best estimate of the total number of Spanish club students who in10d to enroll in the study program?",
+        "Answer Choices": [
+            "11",
+            "20",
+            "44",
+            "55"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that 20 percent sign of the students surveyed responded that they intend to enroll in the study program. Therefore, the proportion of students in Spanish club who intend to enroll in the study program, based on the survey, is 0.200000000000000 . Since there are 55 total students in Spanish club, the best estimate for the total number of these students who intend to enroll in the study program is 55 ( 0.20 ) , or 11 .  Choice B is incorrect. This is the best estimate for the percentage, rather than the total number, of students in Spanish club who intend to enroll in the study program.  Choice C is incorrect. This is the best estimate for the total number of Spanish club students who do not intend to enroll in the study program.  Choice D is incorrect. This is the total number of students in Spanish club."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Hard",
+        "ID": "c7e73ece",
+        "Prompt": "A researcher interviewed 411 randomly selected US residents and asked about their views on the use of nuclear energy. The table above summarizes the responses of the interviewees. If the population of the United States was 300 million when the survey was given, based on the sample data for the 411 US residents, what is the best estimate, in millions, of the difference between the number of US residents who somewhat favor or strongly favor the use of nuclear energy and the number of those who somewhat oppose or strongly oppose it? (Round your answer to the nearest whole number.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 94. Of those interviewed, 56 + 214, = 270 \u201cstrongly favor\u201d or \u201csomewhat favor\u201d the use of nuclear energy, and 104 + 37, = 141 interviewees \u201csomewhat oppose\u201d or \u201cstrongly oppose\u201d the use of nuclear energy. The difference between the sizes of the two surveyed groups is 270 - 141, = 129 . The proportion of this difference among the entire group of interviewees is the fraction 129 over 411 . Because the sample of interviewees was selected at random from US residents, it is reasonable to assume that the proportion of this difference is the same among all US residents as in the sample. Therefore, the best estimate, in millions, of the difference between the number of US residents who somewhat favor or strongly favor the use of nuclear energy and the number of those who somewhat oppose or strongly oppose it is the fraction 129 over 411, ), * 300 , which to the nearest million is 94."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "90eed2e5",
+        "Prompt": "A city has 50 city council members. A reporter polled a random sample of 20 city council members and found that 6 of those polled supported a specific bill. Based on the sample, which of the following is the best estimate of the number of city council members in the city who support the bill?",
+        "Answer Choices": [
+            "6",
+            "9",
+            "15",
+            "30"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice C is correct. Because a random sample of the city council was polled, the proportion of the sample who supported the bill is expected to be approximately equal to the proportion of the total city council who supports the bill. Since 6 of the 20 polled, or 30%, supported the bill, it can be estimated that 50 * 0. 3 , or 15, city council members support the bill. Choice A is incorrect. This is the number of city council members in the sample who supported the bill. Choice B is incorrect and may result from a computational error. Choice D is incorrect. This is the number of city council members in the sample of city council members who were not polled."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "53d97af5",
+        "Prompt": "A study was d1 on the w8s of different types of fish in a pond. A random sample of fish were caught and marked in order to ensure that n1 were weighed more than once. The sample contained 150 largemouth bass, of which 30% weighed more than 2 pounds. Which of the following conclusions is best supported by the sample data?",
+        "Answer Choices": [
+            "The majority of all fish in the pond weigh less than 2 pounds.",
+            "The average w8 of all fish in the pond is approximately2 pounds.",
+            "Approximately 30% of all fish in the pond weigh more than 2 pounds.",
+            "Approximately 30% of all largemouth bass in the pond weigh more than 2 pounds."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "StartFragment  Choice D is correct. The sample of 150 largemouth bass was selected at random from all the largemouth bass in the pond, and since 30% of the fish in the sample weighed more than 2 pounds, it can be concluded that approximately 30% of all largemouth bass in the pond weigh more than 2 pounds. Choices A, B, and C are incorrect. Since the sample contained 150 largemouth bass, of which 30% weighed more than 2 pounds, this result can be generalized only to largemouth bass in the pond, not to all fish in the pond.  EndFragment"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "f8f79e11",
+        "Prompt": "A park ranger asked a random sample of visitors how far they hiked during their visit. Based on the responses, the estimated mean was found to be 4.5 miles, with an associated margin of error of 0.5 miles. Which of the following is the best conclusion from these data?",
+        "Answer Choices": [
+            "It is likely that all visitors hiked between 4 and 5 miles.",
+            "It is likely that most visitors hiked exactly 4.5 miles.",
+            "It is not possible that any visitor hiked less than 3 miles.",
+            "It is plausible that the mean distance hiked for all visitors is between 4 and 5 miles."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given estimated mean has an associated margin of error because from sample data, the population mean can\u2019t be determined precisely. Rather, from the sample mean, an interval can be determined within which it\u2019s plausible that the population\u2019s mean is likely to lie. Since the estimated mean is 4.5 miles with an associated margin of error of 0.5 miles, it follows that between 4. 5 - 0. 5 miles and 4. 5 + 0. 5 miles, or between 4 and 5 miles, is plausibly the mean distance hiked for all visitors. Choices A, B, and C are incorrect. Based on the estimated mean, no determination can be made about the number of miles hiked for all visitors to the park."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "e03f3477",
+        "Prompt": "A sample consisting of 720 adults who own televisions was selected at random for a study. Based on the sample, it is estimated that 32 percent sign of all adults who own televisions use their televisions to watch nature shows, with an associated margin of error of 3.41 percent sign. Which of the following is the most plausible conclusion about all adults who own televisions?",
+        "Answer Choices": [
+            "More than35.41 percent signof all adults who own televisions use their televisions to watch nature shows.",
+            "Between28.59 percent signand35.41 percent signof all adults who own televisions use their televisions to watch nature shows.",
+            "Since the sample included adults who own televisions and not just those who use their televisions to watch nature shows, no conclusion can be made.",
+            "Since the sample did not include all the people who watch nature shows, no conclusion can be made."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that based on a sample selected at random, it's estimated that 32 percent sign of all adults who own televisions use their televisions to watch nature shows, with an associated margin of error of 3.41 percent sign . Subtracting the margin of error from the estimate and adding the margin of error to the estimate gives an interval of plausible values for the true percentage of adults who own televisions who use their televisions to watch nature shows. This means it's plausible that between 32 percent sign - 3.41 percent sign , or 28.59 percent sign , and 32 percent sign + 3.41 percent sign , or 35.41 percent sign , of all adults who own televisions use their televisions to watch nature shows. Therefore, of the given choices, the most plausible conclusion is that between 28.59 percent sign and 35.41 percent sign of all adults who own televisions use their televisions to watch nature shows.  Choice A is incorrect and may result from conceptual errors.  Choice C is incorrect. To make a plausible conclusion about all adults who own televisions, the sample must be selected at random from all adults who own televisions, not just those who use their televisions to watch nature shows.  Choice D is incorrect. Since the sample was selected at random from all adults who own televisions, a plausible conclusion can be made about all adults who own televisions."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "e7d9649f",
+        "Prompt": "A random sample of 50 people from a town with a population of 14,878 were asked to name their favorite flavor of ice cream. If 7 people in the sample named chocolate as their favorite ice\u2011cream flavor, about how many people in the town would be expected to name chocolate?",
+        "Answer Choices": [
+            "350",
+            "2,100",
+            "7,500",
+            "10,500"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Let x be the number of people in the entire town that would be expected to name chocolate. Since the sample of 50 people was selected at random, it is reasonable to expect that the proportion of people who named chocolate as their favorite ice-cream flavor would be the same for both the sample and the town population. Symbolically, this can be expressed as the fraction 7 over 50, ), = the fraction x over 14,878 . Using cross multiplication, 7 * 14,878 = x * 50 ; solving for x yields 2,083. The choice closest to the value of 2,083 is choice B, 2,100. Choices A, C, and D are incorrect and may be the result of errors when setting up the proportion, solving for the unknown, or incorrectly comparing the choices to the number of people expected to name chocolate, 2,083."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Hard",
+        "ID": "308084c5",
+        "Prompt": "The results of 2 random samples of votes for a proposition are shown above. The samples were selected from the same population, and the margins of error were calculated using the same method. Which of the following is the most appropriate reason that the margin of error for sample A is greater than the margin of error for sample B?",
+        "Answer Choices": [
+            "Sample A had a smaller number of votes that could not be recorded.",
+            "Sample A had a higher percent of favorable responses.",
+            "Sample A had a larger sample size.",
+            "Sample A had a smaller sample size."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Sample size is an appropriate reason for the margin of error to change. In general, a smaller sample size increases the margin of error because the sample may be less representative of the whole population. Choice A is incorrect. The margin of error will depend on the size of the sample of recorded votes, not the number of votes that could not be recorded. In any case, the smaller number of votes that could not be recorded for sample A would tend to decrease, not increase, the comparative size of the margin of error. Choice B is incorrect. Since the percent in favor for sample A is the same distance from 50% as the percent in favor for sample B, the percent of favorable responses doesn\u2019t affect the comparative size of the margin of error for the two samples. Choice C is incorrect. If sample A had a larger margin of error than sample B, then sample A would tend to be less representative of the population. Therefore, sample A is not likely to have a larger sample size."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "f04d40b2",
+        "Prompt": "From a population of (50, 0) people, (1, 0) were chosen at random and surveyed about a proposed piece of legislation. Based on the survey, it is estimated that 35 percent sign of people in the population support the legislation, with an associated margin of error of 3 percent sign. Based on these results, which of the following is a plausible value for the total number of people in the population who support the proposed legislation?",
+        "Answer Choices": [
+            "350",
+            "650",
+            "(16, 750)",
+            "(31, 750)"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that an estimated 35 percent sign of people in the population support the legislation, with an associated margin of error of 3 percent sign . Subtracting and adding the margin of error from the estimate gives an interval of plausible values for the true percentage of people in the population who support the legislation. Therefore, it\u2019s plausible that between 32 percent sign and 38 percent sign of people in this population support the legislation. The corresponding numbers of people represented by these percentages in the population can be calculated by multiplying the total population, (50, 0) , by 0.320000000000000 and by 0.380000000000000 , which gives 50,000 ( 0.32 ) = 16,000 and 50,000 ( 0.38 ) = 19,000 , respectively. It follows that any value in the interval (16, 0) to (19, 0) is a plausible value for the total number of people in the population who support the proposed legislation. Of the choices given, only (16, 750) is in this interval.  Choice A is incorrect. This is the number of people in the sample, rather than in the population, who support the legislation.  Choice B is incorrect. This is the number of people in the sample who do not support the legislation.  Choice D is incorrect. This is a plausible value for the total number of people in the population who do not support the proposed legislation."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "f4b3672a",
+        "Prompt": "A certain forest is 253 acres. To estimate the number of trees in the forest, a ranger randomly selects 5 different 1 - acre parcels in the forest and determines the number of trees in each parcel. The numbers of trees in the sample acres are 51, 59, 45, 52, and 73. Based on the mean of the sample, which of the following ranges contains the best estimate for the number of trees in the entire forest?",
+        "Answer Choices": [
+            "11,000 to 12,000",
+            "12,500 to 13,500",
+            "13,500 to 14,500",
+            "18,000 to 19,000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The mean of the 5 samples is the fraction with (, 51 + 59 + 45 + 52 + 73, and )/( 5, = 56 trees per acre. The best estimate for the total number of trees in the forest is the product of the mean number of trees per acre in the sample and the total number of acres in the forest. This is (56)(253) = 14,168, which is between 13,500 and 14,500. Choice A is incorrect and may result from multiplying the minimum number of trees per acre in the sample, 45, by the number of acres, 253. Choice B is incorrect and may result from multiplying the median number of trees per acre in the sample, 52, by the number of acres, 253. Choice D is incorrect and may result from multiplying the maximum number of trees per acre in the sample, 73, by the number of acres, 253."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "0108ac2d",
+        "Prompt": "At a large high school, 300 students were selected at random and were asked in a survey about a menu change in the school cafeteria. All 300 students completed the survey. It was estimated that 38% of the students were in support of a menu change, with a margin of error of 5.5%. Which of the following is the best interpretation of the survey results?",
+        "Answer Choices": [
+            "The percent of the students at the school who support a menu change is 38%.",
+            "The percent of the students at the school who support a menu change is greater than 38%.",
+            "Plausible values of the percent of the students at the school who support a menu change are between 32.5% and 43.5%.",
+            "Plausible values of the number of the students at the school who support a menu change are between 295 and 305."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that an estimated 38% of sampled students at the school were in support of a menu change, with a margin of error of 5.5%. It follows that the percent of the students at the school who support a menu change is 38% plus or minus 5.5%. The lower bound of this estimation is 38 - 5. 5 , or 32.5%. The upper bound of this estimation is 38 + 5. 5 , or 43.5%. Therefore, plausible values of the percent of the students at the school who support a menu change are between 32.5% and 43.5%. Choice A is incorrect. This is the percent of the sampled students at the school who support a menu change. Choices B and D are incorrect and may result from misinterpreting the margin of error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "4096a482",
+        "Prompt": "Based on a random sample from a population, a researcher estimated that the mean value of a certain variable for the population is 20.5000000000000, with an associated margin of error of 1. Which of the following is the most appropriate conclusion?",
+        "Answer Choices": [
+            "It is plausible that the actual mean value of the variable for the population is between19.5000000000000and21.5000000000000.",
+            "It is not possible that the mean value of the variable for the population is less than19.5000000000000or greater than21.5000000000000.",
+            "Every value of the variable in the population is between19.5000000000000and21.5000000000000.",
+            "The mean value of the variable for the population is20.5000000000000."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that based on a random sample from a population, the estimated mean value for a certain variable for the population is 20.5000000000000 , with an associated margin of error of 1 . This means that it is plausible that the actual mean value of the variable for the population is between 19.5000000000000 and 21.5000000000000 . Therefore, the most appropriate conclusion is that it is plausible that the actual mean value of the variable for the population is between 19.5000000000000 and 21.5000000000000 .  Choice B is incorrect. The estimated mean value and associated margin of error describe only plausible values, not all the possible values, for the actual mean value of the variable, so this is not an appropriate conclusion.  Choice C is incorrect. The estimated mean value and associated margin of error describe only plausible values for the actual mean value of the variable, not all the possible values of the variable, so this is not an appropriate conclusion.  Choice D is incorrect. Since 20.5000000000000 is the estimated mean value of the variable based on a random sample, the actual mean value of the variable may not be exactly 20.5000000000000 . Therefore, this is not an appropriate conclusion."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Hard",
+        "ID": "9ba3e283",
+        "Prompt": "In State X, Mr. Camp\u2019s /8 - grade class consisting of 26 students was surveyed and 34.6 percent of the students reported that they had at least 2 siblings. The average /8\u2011grade class size in the state is 26. If the students in Mr. Camp\u2019s class are representative of students in the state\u2019s /8 - grade classes and there are 1,800 /8 - grade classes in the state, which of the following best estimates the number of /8\u2011grade students in the state who have fewer than 2 siblings?",
+        "Answer Choices": [
+            "16,200",
+            "23,400",
+            "30,600",
+            "46,800"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It is given that 34.6% of 26 students in Mr. Camp\u2019s class reported that they had at least two siblings. Since 34.6% of 26 is 8.996, there must have been 9 students in the class who reported having at least two siblings and 17 students who reported that they had fewer than two siblings. It is also given that the average eighth-grade class size in the state is 26 and that Mr. Camp\u2019s class is representative of all eighth-grade classes in the state. This means that in each eighth-grade class in the state there are about 17 students who have fewer than two siblings. Therefore, the best estimate of the number of eighth-grade students in the state who have fewer than two siblings is 17 \u00d7 (number of eighth-grade classes in the state), or 17 * 1,800, = 30,600 . Choice A is incorrect because 16,200 is the best estimate for the number of eighth-grade students in the state who have at least, not fewer than, two siblings. Choice B is incorrect because 23,400 is half of the estimated total number of eighth-grade students in the state; however, since the students in Mr. Camp\u2019s class are representative of students in the eighth-grade classes in the state and more than half of the students in Mr. Camp\u2019s class have fewer than two siblings, more than half of the students in each eighth-grade class in the state have fewer than two siblings, too. Choice D is incorrect because 46,800 is the estimated total number of eighth-grade students in the state."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "1e562f24",
+        "Prompt": "To estimate the proportion of a population that has a certain characteristic, a random sample was selected from the population. Based on the sample, it is estimated that the proportion of the population that has the characteristic is 0.490000000000000, with an associated margin of error of 0.0400000000000000. Based on this estimate and margin of error, which of the following is the most appropriate conclusion about the proportion of the population that has the characteristic?",
+        "Answer Choices": [
+            "It is plausible that the proportion is between0.450000000000000and0.530000000000000.",
+            "It is plausible that the proportion is less than0.450000000000000.",
+            "The proportion is exactly0.490000000000000.",
+            "It is plausible that the proportion is greater than0.530000000000000."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the estimate for the proportion of the population that has the characteristic is 0.490000000000000 with an associated margin of error of 0.0400000000000000 . Subtracting the margin of error from the estimate and adding the margin of error to the estimate gives an interval of plausible values for the true proportion of the population that has the characteristic. Therefore, it\u2019s plausible that the proportion of the population that has this characteristic is between 0.450000000000000 and 0.530000000000000 .  Choice B is incorrect. A value less than 0.450000000000000 is outside the interval of plausible values for the proportion of the population that has the characteristic.  Choice C is incorrect. The value 0.490000000000000 is an estimate for the proportion based on this sample. However, since the margin of error for this estimate is known, the most appropriate conclusion is not that the proportion is exactly one value but instead lies in an interval of plausible values.  Choice D is incorrect. A value greater than 0.530000000000000 is outside the interval of plausible values for the proportion of the population that has the characteristic."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "89f8d08a",
+        "Prompt": "A store manager reviewed the receipts from 80 customers who were selected at random from all the customers who made purchases last Thursday. Of those selected, 20 receipts showed that the customer had purchased fruit. If 1,500 customers made purchases last Thursday, which of the following is the most appropriate conclusion?",
+        "Answer Choices": [
+            "Exactly 75 customers must have purchased fruit last Thursday.",
+            "Exactly 375 customers must have purchased fruit last Thursday.",
+            "The best estimate for the number of customers who purchased fruit last Thursday is 75.",
+            "The best estimate for the number of customers who purchased fruit last Thursday is 375."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the manager took a random selection of the receipts of 80 customers from a total of 1,500. It\u2019s also given that of those 80 receipts, 20 showed that the customer had purchased fruit. This means that an appropriate estimate of the fraction of customers who purchased fruit is the fraction 20 over 80 , or 1 /4 . Multiplying this fraction by the total number of customers yields 1 /4 * 1,500, = 375 . Therefore, the best estimate for the number of customers who purchased fruit is 375. Choices A and B are incorrect because an exact number of customers can\u2019t be known from taking a random selection. Additionally, choice A may also be the result of a calculation error. Choice C is incorrect and may result from a calculation error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Easy",
+        "ID": "6a305cd0",
+        "Prompt": "In a study, the data from a random sample of a population had a mean of 37, with an associated margin of error of 3. Which of the following is the most appropriate conclusion that can be made about the population mean?",
+        "Answer Choices": [
+            "It is less than 37.",
+            "It is greater than 37.",
+            "It is between 34 and 40.",
+            "It is less than 34 or greater than 40."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the mean of the data from a random sample of a population is 37, with an associated margin of error of 3. The most appropriate conclusion that can be made is that the mean of the entire population will fall between 37, plus or minus 3. Therefore, the population mean is between 37 - 3, which = 34 and 37 + 3, which = 40 . Choice A is incorrect. While it\u2019s an appropriate conclusion that the population mean is as low as 37 - 3 , or 34, it isn\u2019t appropriate to conclude that the population mean is less than 34. Choice B is incorrect. While it\u2019s an appropriate conclusion that the population mean is as high as 37 + 3 , or 40, it isn\u2019t appropriate to conclude that the population mean is greater than 40. Choice D is incorrect. It isn\u2019t an appropriate conclusion that the population mean is less than 34 or greater than 40."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Hard",
+        "ID": "916ffe9b",
+        "Prompt": "Poll Results Angel Cruz 483 Terry Smith 320 The table shows the results of a poll. A total of 803 voters selected at random were asked which candidate they would vote for in the upcoming election. According to the poll, if (6, 424) people vote in the election, by how many votes would Angel Cruz be expected to win?",
+        "Answer Choices": [
+            "163",
+            "(1, 304)",
+            "(3, 864)",
+            "(5, 621)"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that 483 out of 803 voters responded that they would vote for Angel Cruz. Therefore, the proportion of voters from the poll who responded they would vote for Angel Cruz is 483/803 . It\u2019s also given that there are a total of (6, 424) voters in the election. Therefore, the total number of people who would be expected to vote for Angel Cruz is 6,424 ( ( 483 / 803 ) ) , or (3, 864) . Since (3, 864) of the (6, 424) total voters would be expected to vote for Angel Cruz, it follows that (6, 421, 864) , or (2, 560) voters would be expected not to vote for Angel Cruz. The difference in the number of votes for and against Angel Cruz is (3, 862, 560) , or (1, 304) votes. Therefore, if (6, 424) people vote in the election, Angel Cruz would be expected to win by (1, 304) votes.  Choice A is incorrect. This is the difference in the number of voters from the poll who responded that they would vote for and against Angel Cruz.  Choice C is incorrect. This is the total number of people who would be expected to vote for Angel Cruz.  Choice D is incorrect. This is the difference between the total number of people who vote in the election and the number of voters from the poll."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Inference from sample statistics and margin of error",
+        "Difficulty": "Medium",
+        "ID": "9ee22c16",
+        "Prompt": "The town has a total of 6,000 voters. Based on the table, what is the best estimate of the number of voters who plan to vote for Candidate A?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 3,540. According to the table, of 400 voters randomly sampled, the total number of men and women who plan to vote for Candidate A is 202 + 34 = 236 . The best estimate of the total number of voters in the town who plan to vote for Candidate A is the fraction of voters in the sample who plan to vote for Candidate A, the fraction 236 over 400 , multiplied by the total voter population of 6000. Therefore, the answer is open parenthesis, the fraction 236 over 400, close parenthesis, * 6000, = 3540 ."
+    }
+]

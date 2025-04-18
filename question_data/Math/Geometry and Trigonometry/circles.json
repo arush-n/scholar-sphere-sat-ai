@@ -1,0 +1,263 @@
+[
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "76c73dbf",
+        "Prompt": "The graph of x ^2 + x + y ^2 + y = ( 199 / 2 ) in the xy - plane is a circle. What is the length of the circle\u2019s radius?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "10",
+        "Rationale": "The correct answer is 10 . It's given that the graph of x ^2 + x + y ^2 + y = ( 199 / 2 ) in the xy -plane is a circle. The equation of a circle in the xy -plane can be written in the form ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where the coordinates of the center of the circle are (h, k) and the length of the radius of the circle is r . The term (-h + x)**2 in this equation can be obtained by adding the square of half the coefficient of x to both sides of the given equation to complete the square. The coefficient of x is 1 . Half the coefficient of x is 1/2 . The square of half the coefficient of x is 1/4 . Adding 1/4 to each side of ( x ^2 + x ) + ( y ^2 + y ) = ( 199 / 2 ) yields ( x ^2 + x + 1 /4 ) + ( y ^2 + y ) = ( 199 / 2 ) + 1 /4 , or ( x + 1 /2 ) ^2 + ( y ^2 + y ) = ( 199 / 2 ) + 1 /4 . Similarly, the term (-k + y)**2 can be obtained by adding the square of half the coefficient of y to both sides of this equation, which yields ( x + 1 /2 ) ^2 + ( y ^2 + y + 1 /4 ) = ( 199 / 2 ) + 1 /4 + 1 /4 , or ( x + 1 /2 ) ^2 + ( y + 1 /2 ) ^2 = ( 199 / 2 ) + 1 /4 + 1 /4 . This equation is equivalent to ( x + 1 /2 ) ^2 + ( y + 1 /2 ) ^2 = 100 , or ( x + 1 /2 ) ^2 + ( y + 1 /2 ) ^2 = 10 ^2 . Therefore, the length of the circle's radius is 10 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "ebbf23ae",
+        "Prompt": "A circle in the xy - plane has a diameter with endpoints (2, 4) and (2, 14). An equation of this circle is ( x - 2 ) ^2 + ( y - 9 ) ^2 = r ^2, where r is a positive constant. What is the value of r?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "5",
+        "Rationale": "The correct answer is 5 . The standard form of an equation of a circle in the xy -plane is ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where h , k , and r are constants, the coordinates of the center of the circle are (h, k) , and the length of the radius of the circle is r . It\u2032s given that an equation of the circle is ( x - 2 ) ^2 + ( y - 9 ) ^2 = r ^2 .\u00a0Therefore, the center of this circle is (2, 9) . It\u2019s given that the endpoints of a diameter of the circle are (2, 4) and (2, 14) . The length of the radius is the distance from the center of the circle to an endpoint of a diameter of the circle, which can be found using the distance formula, sqrt((x1 - x2)**2 + (y1 - y2)**2) . Substituting the center of the circle (2, 9) and one endpoint of the diameter (2, 4) in this formula gives a distance of 5 , or 5 , which is equivalent to 5 . Since the distance from the center of the circle to an endpoint of a diameter is 5 , the value of r is 5 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "b8a225ff",
+        "Prompt": "Circle A in the xy - plane has the equation ( x + 5 ) ^2 + ( y - 5 ) ^2 = 4. Circle B has the same center as circle A. The radius of circle B is 2 * the radius of circle A. The equation defining circle B in the xy - plane is ( x + 5 ) ^2 + ( y - 5 ) ^2 = k, where k is a constant. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "16",
+        "Rationale": "The correct answer is 16 . An equation of a circle in the xy -plane can be written as ( x - t ) ^2 + ( y - u ) ^2 = r ^2 , where the center of the circle is (t, u) , the radius of the circle is r , and where t , u , and r are constants. It\u2019s given that the equation of circle A is ( x + 5 ) ^2 + ( y - 5 ) ^2 = 4 , which is equivalent to ( x + 5 ) ^2 + ( y - 5 ) ^2 = 2 ^2 . Therefore, the center of circle A is ( (-) 5, 5 ) and the radius of circle A is 2 . It\u2019s given that circle B has the same center as circle A and that the radius of circle B is two times the radius of circle A. Therefore, the center of circle B is ( (-) 5, 5 ) and the radius of circle B is 2 ( 2 ) , or 4 . Substituting (-) 5 for t , 5 for u , and 4 for r into the equation ( x - t ) ^2 + ( y - u ) ^2 = r ^2 yields ( x + 5 ) ^2 + ( y - 5 ) ^2 = 4 ^2 , which is equivalent to ( x + 5 ) ^2 + ( y - 5 ) ^2 = 16 . It follows that the equation of circle B in the xy -plane is ( x + 5 ) ^2 + ( y - 5 ) ^2 = 16 . Therefore, the value of k is 16 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "b0a72bdc",
+        "Prompt": "What is the diameter of the circle in the xy - plane with equation ( x - 5 ) ^2 + ( y - 3 ) ^2 = 16?",
+        "Answer Choices": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The standard form of an equation of a circle in the xy -plane is ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where the coordinates of the center of the circle are (h, k) and the length of the radius of the circle is r . For the circle in the xy -plane with equation ( x - 5 ) ^2 + ( y - 3 ) ^2 = 16 , it follows that r ^2 = 16 . Taking the square root of both sides of this equation yields r = 4 or r = (-) 4 . Because r represents the length of the radius of the circle and this length must be positive, r = 4 . Therefore, the radius of the circle is 4 . The diameter of a circle is twice the length of the radius of the circle. Thus, 2 ( 4 ) yields 8 . Therefore, the diameter of the circle is 8 .  Choice A is incorrect. This is the radius of the circle.  Choice C is incorrect. This is the square of the radius of the circle.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "249d3f80",
+        "Prompt": "Point upper O is the center of a circle. The measure of arc upper R upper S on this circle is 100 degree. What is the measure, in degrees, of its associated angle upper R upper O upper S?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "100",
+        "Rationale": "The correct answer is 100 . It's given that point upper O is the center of a circle and the measure of arc upper R upper S on the circle is 100 degree . It follows that points upper R and upper S lie on the circle. Therefore, ModifyingAbove upper O upper R With bar and ModifyingAbove upper O upper S With bar are radii of the circle. A central angle is an angle formed by two radii of a circle, with its vertex at the center of the circle. Therefore, angle upper R upper O upper S is a central angle. Because the degree measure of an arc is equal to the measure of its associated central angle, it follows that the measure, in degrees, of angle upper R upper O upper S is 100 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "3e577e4a",
+        "Prompt": "A circle in the xy - plane has its center at ( (-) 4, (-) 6 ). Line k is tangent to this circle at the . ( (-) 7, (-) 7 ). What is the slope of line k?",
+        "Answer Choices": [
+            "(-) 3",
+            "(-) 1 /3",
+            "1/3",
+            "3"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. A line that's tangent to a circle is perpendicular to the radius of the circle at the point of tangency. It's given that the circle has its center at ( (-) 4, (-) 6 ) and line k is tangent to the circle at the point ( (-) 7, (-) 7 ) . The slope of a radius defined by the points (q, r) and (s, t) can be calculated as -q - r/s + t . The points ( (-) 7, (-) 7 ) and ( (-) 4, (-) 6 ) define the radius of the circle at the point of tangency. Therefore, the slope of this radius can be calculated as ( ( (-) 6 ) - ( (-) 7 ) / ( (-) 4 ) - ( (-) 7 ) ) , or 1/3 . If a line and a radius are perpendicular, the slope of the line must be the negative reciprocal of the slope of the radius. The negative reciprocal of 1/3 is (-) 3 . Thus, the slope of line k is (-) 3 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the slope of the radius of the circle at the point of tangency, not the slope of line k .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "24cec8d1",
+        "Prompt": "A circle has center upper O, and points upper R and upper S lie on the circle. In triangle upper O upper R upper S, the measure of angle upper R upper O upper S is 88 degree. What is the measure of angle upper R upper S upper O, in degrees? (Disregard the degree symbol when entering your answer.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": "46",
+        "Rationale": "The correct answer is 46 . It's given that upper O is the center of a circle and that points upper R and upper S lie on the circle. Therefore, ModifyingAbove upper O upper R With bar and ModifyingAbove upper O upper S With bar are radii of the circle. It follows that upper O upper R = upper O upper S . If two sides of a triangle are congruent, then the angles opposite them are congruent. It follows that the angles angle upper R upper S upper O and angle upper O upper R upper S , which are across from the sides of equal length, are congruent. Let x degree represent the measure of angle upper R upper S upper O . It follows that the measure of angle upper O upper R upper S is also x degree . It's given that the measure of angle upper R upper O upper S is 88 degree . Because the sum of the measures of the interior angles of a triangle is 180 degree , the equation x degree + x degree + 88 degree = 180 degree , or 2 x + 88 = 180 , can be used to find the measure of angle upper R upper S upper O . Subtracting 88 from both sides of this equation yields 2 x = 92 . Dividing both sides of this equation by 2 yields x = 46 . Therefore, the measure of angle upper R upper S upper O , in degrees, is 46 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Medium",
+        "ID": "74d8b897",
+        "Prompt": "An angle has a measure of ( 9 pi / 20 ) radians. What is the measure of the angle in degrees?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "81",
+        "Rationale": "The correct answer is 81 . The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by ( 180 degrees / pi radians ) . Multiplying the given angle measure, ( 9 pi / 20 ) radians, by ( 180 degrees / pi radians ) yields ( ( 9 pi / 20 ) radians ) ( ( 180 degrees / pi radians ) ) , which is equivalent to 81 degrees."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Medium",
+        "ID": "a0cacec1",
+        "Prompt": "An angle has a measure of ( 16 pi / 15 ) radians. What is the measure of the angle, in degrees?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "192",
+        "Rationale": "The correct answer is 192 . The measure of an angle, in degrees, can be found by multiplying its measure, in radians, by ( 180 degrees / pi radians ) . Multiplying the given angle measure, ( 16 pi / 15 ) radians , by ( 180 degrees / pi radians ) yields ( ( 16 pi / 15 ) radians ) ( ( 180 degrees / pi r a d i a n s ) ) , which simplifies to 192 degrees."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Medium",
+        "ID": "f1c1e971",
+        "Prompt": "The measure of angle upper R is ( 2 pi / 3 ) radians. The measure of angle upper T is ( 5 pi / 12 ) radians greater than the measure of angle upper R. What is the measure of angle upper T, in degrees?",
+        "Answer Choices": [
+            "75",
+            "120",
+            "195",
+            "390"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the measure of angle upper R is ( 2 pi / 3 ) radians, and the measure of angle upper T is ( 5 pi / 12 ) radians greater than the measure of angle upper R . Therefore, the measure of angle upper T is equal to ( 2 pi / 3 ) + ( 5 pi / 12 ) radians. Multiplying ( 2 pi / 3 ) by 4 /4s to get a common denominator with ( 5 pi / 12 ) yields ( 8 pi / 12 ) . Therefore, ( 2 pi / 3 ) + ( 5 pi / 12 ) is equivalent to ( 8 pi / 12 ) + ( 5 pi / 12 ) , or ( 13 pi / 12 ) . Therefore, the measure of angle upper T is ( 13 pi / 12 ) radians. The measure of angle upper T , in degrees, can be found by multiplying its measure, in radians, by 180/pi . This yields ( 13 pi / 12 ) * ( 180 / pi ) , which is equivalent to 195 degrees. Therefore, the measure of angle upper T is 195 degrees.  Choice A is incorrect. This is the number of degrees that the measure of angle upper T is greater than the measure of angle upper R .  Choice B is incorrect. This is the measure of angle upper R , in degrees.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "9acd101f",
+        "Prompt": "The equation x ^2 + ( y - 1 ) ^2 = 49 represents circle A. Circle B is obtained by shifting circle A down 2 units in the xy - plane. Which of the following equations represents circle B?",
+        "Answer Choices": [
+            "( x - 2 ) ^2 + ( y - 1 ) ^2 = 49",
+            "x ^2 + ( y - 3 ) ^2 = 49",
+            "( x + 2 ) ^2 + ( y - 1 ) ^2 = 49",
+            "x ^2 + ( y + 1 ) ^2 = 49"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The graph in the xy -plane of an equation of the form ( x - h ) ^2 + ( y - k ) ^2 = r ^2 is a circle with center (h, k) and a radius of length r . It's given that circle A is represented by x ^2 + ( y - 1 ) ^2 = 49 , which can be rewritten as x ^2 + ( y - 1 ) ^2 = 7 ^2 . Therefore, circle A has center (0, 1) and a radius of length 7 . Shifting circle A down two units is a rigid vertical translation of circle A that does not change its size or shape. Since circle B is obtained by shifting circle A down two units, it follows that circle B has the same radius as circle A, and for each point (x, y) on circle A, the point (x, y - 2) lies on circle B. Moreover, if (h, k) is the center of circle A, then (h, k - 2) is the center of circle B. Therefore, circle B has a radius of 7 and the center of circle B is (0, -1) , or ( 0, (-) 1 ) . Thus, circle B can be represented by the equation x ^2 + ( y + 1 ) ^2 = 7 ^2 , or x ^2 + ( y + 1 ) ^2 = 49 .  Choice A is incorrect. This is the equation of a circle obtained by shifting circle A right 2 units.  Choice B is incorrect. This is the equation of a circle obtained by shifting circle A up 2 units.  Choice C is incorrect. This is the equation of a circle obtained by shifting circle A left 2 units."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "ca2235f6",
+        "Prompt": "A circle has center O, and points A and B lie on the circle. The measure of arc AB is 45\u2218 and the length of arc AB is 3 inches. What is the circumference, in inches, of the circle?",
+        "Answer Choices": [
+            "3",
+            "6",
+            "9",
+            "24"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the measure of arc upper A upper B is 45 degree and the length of arc upper A upper B is 3 inches . The arc measure of the full circle is 360 degree . If x represents the circumference, in inches, of the circle, it follows that ( 45 degree / 360 degree ) = ( 3 inches / x inches ) . This equation is equivalent to ( 45 / 360 ) = ( 3 / x ) , or 1 /8 = ( 3 / x ) . Multiplying both sides of this equation by 8 x yields 1 ( x ) = 3 ( 8 ) , or x = 24 . Therefore, the circumference of the circle is 24 inches .  Choice A is incorrect. This is the length of arc upper A upper B .  Choice B is incorrect and may result from multiplying the length of arc upper A upper B by 2 .  Choice C is incorrect and may result from squaring the length of arc upper A upper B ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "9d159400",
+        "Prompt": "Which of the following equations represents a circle in the xy - plane that intersects the y - axis at exactly 1 .?",
+        "Answer Choices": [
+            "( x - 8 ) ^2 + ( y - 8 ) ^2 = 16",
+            "( x - 8 ) ^2 + ( y - 4 ) ^2 = 16",
+            "( x - 4 ) ^2 + ( y - 9 ) ^2 = 16",
+            "x ^2 + ( y - 9 ) ^2 = 16"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The graph of the equation ( x - h ) ^2 + ( y - k ) ^2 = r ^2 in the xy -plane is a circle with center (h, k) and a radius of length r . The radius of a circle is the distance from the center of the circle to any point on the circle. If a circle in the xy -plane intersects the y -axis at exactly one point, then the perpendicular distance from the center of the circle to this point on the y -axis must be equal to the length of the circle's radius. It follows that the x -coordinate of the circle's center must be equivalent to the length of the circle's radius. In other words, if the graph of ( x - h ) ^2 + ( y - k ) ^2 = r ^2 is a circle that intersects the y -axis at exactly one point, then r = StartAbsoluteValue h EndAbsoluteValue must be true. The equation in choice C is ( x - 4 ) ^2 + ( y - 9 ) ^2 = 16 , or ( x - 4 ) ^2 + ( y - 9 ) ^2 = 4 ^2 . This equation is in the form ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where h = 4 , k = 9 , and r = 4 , and represents a circle in the xy -plane with center (4, 9) and radius of length 4 . Substituting 4 for r and 4 for h in the equation r = StartAbsoluteValue h EndAbsoluteValue yields 4 = StartAbsoluteValue 4 EndAbsoluteValue , or 4 = 4 , which is true. Therefore, the equation in choice C represents a circle in the xy -plane that intersects the y -axis at exactly one point.  Choice A is incorrect. This is the equation of a circle that does not intersect the y -axis at any point.  Choice B is incorrect. This is an equation of a circle that intersects the x -axis, not the y -axis, at exactly one point.  Choice D is incorrect. This is the equation of a circle with the center located on the y -axis and thus intersects the y -axis at exactly two points, not exactly one point."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "89661424",
+        "Prompt": "A circle in the xy - plane has its center at ( (-) 5, 2 ) and has a radius of 9. An equation of this circle is x ^2 + y ^2 + a x + b y + c = 0, where a, b, and c are constants. What is the value of c?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-52",
+        "Rationale": "The correct answer is (-) 52 . The equation of a circle in the xy -plane with its center at (h, k) and a radius of r can be written in the form ( x - h ) ^2 + ( y - k ) ^2 = r ^2 . It's given that a circle in the xy -plane has its center at ( (-) 5, 2 ) and has a radius of 9 . Substituting (-) 5 for h , 2 for k , and 9 for r in the equation ( x - h ) ^2 + ( y - k ) ^2 = r ^2 yields ( x - ( (-) 5 ) ) ^2 + ( y - 2 ) ^2 = 9 ^2 , or ( x + 5 ) ^2 + ( y - 2 ) ^2 = 81 . It's also given that an equation of this circle is x ^2 + y ^2 + a x + b y + c = 0 , where a , b , and c are constants. Therefore, ( x + 5 ) ^2 + ( y - 2 ) ^2 = 81 can be rewritten in the form x ^2 + y ^2 + a x + b y + c = 0 . The equation ( x + 5 ) ^2 + ( y - 2 ) ^2 = 81 , or ( x + 5 ) ( x + 5 ) + ( y - 2 ) ( y - 2 ) = 81 , can be rewritten as x ^2 + 5 x + 5 x + 25 + y ^2 - 2 y - 2 y + 4 = 81 . Combining like terms on the left-hand side of this equation yields x ^2 + y ^2 + 10 x - 4 y + 29 = 81 . Subtracting 81 from both sides of this equation yields x ^2 + y ^2 + 10 x - 4 y - 52 = 0 , which is equivalent to x ^2 + y ^2 + 10 x + ( (-) 4 ) y + ( (-) 52 ) = 0 . This equation is in the form x ^2 + y ^2 + a x + b y + c = 0 . Therefore, the value of c is (-) 52 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Hard",
+        "ID": "e80d62c6",
+        "Prompt": "The equation x ^2 + ( y - 2 ) ^2 = 36 represents circle A. Circle B is obtained by shifting circle A down 4 units in the xy - plane. Which of the following equations represents circle B?",
+        "Answer Choices": [
+            "x ^2 + ( y + 2 ) ^2 = 36",
+            "x ^2 + ( y - 6 ) ^2 = 36",
+            "( x - 4 ) ^2 + ( y - 2 ) ^2 = 36",
+            "( x + 4 ) ^2 + ( y - 2 ) ^2 = 36"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The standard form of an equation of a circle in the xy -plane is ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where the coordinates of the center of the circle are (h, k) and the length of the radius of the circle is r . The equation of circle A, x ^2 + ( y - 2 ) ^2 = 36 , can be rewritten as ( x - 0 ) ^2 + ( y - 2 ) ^2 = 6 ^2 . Therefore, the center of circle A is at (0, 2) and the length of the radius of circle A is 6 .  If circle A is shifted down 4 units, the y -coordinate of its center will decrease by 4 ; the radius of the circle and the x -coordinate of its center will not change. Therefore, the center of circle B is at (0, -2) , or ( 0, (-) 2 ) , and its radius is 6 . Substituting 0 for h , (-) 2 for k , and 6 for r in the equation ( x - h ) ^2 + ( y - k ) ^2 = r ^2 yields ( x - 0 ) ^2 + ( y - ( (-) 2 ) ) ^2 = ( 6 ) ^2 , or x ^2 + ( y + 2 ) ^2 = 36 . Therefore, the equation x ^2 + ( y + 2 ) ^2 = 36 represents circle B.  Choice B is incorrect. This equation represents a circle obtained by shifting circle A up, rather than down, 4 units.  Choice C is incorrect. This equation represents a circle obtained by shifting circle A right, rather than down, 4 units.  Choice D is incorrect. This equation represents a circle obtained by shifting circle A left, rather than down, 4 units."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Medium",
+        "ID": "0815a5af",
+        "Prompt": "The center of the circle is . upper O. Points upper S, upper R, upper Q, and upper P are on the circle. Line segment upper P upper R is a diameter of the circle. Line segment upper Q upper S is a diameter of the circle. Diameters upper P upper R and upper Q upper S intersect at . upper O. A note indicates the figure is not drawn to scale. The circle shown has center upper O, circumference 144 pi, and diameters line segment upper P upper R and line segment upper Q upper S. The length of arc upper P upper S is twice the length of arc upper P upper Q. What is the length of arc upper Q upper R?",
+        "Answer Choices": [
+            "24 pi",
+            "48 pi",
+            "72 pi",
+            "96 pi"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Since Line Segment upper P upper R and Line Segment upper Q upper S are diameters of the circle shown, Line Segment upper O upper S , Line Segment upper O upper R , Line Segment upper O upper P , and Line Segment upper O upper Q are radii of the circle and are therefore congruent. Since angle upper S upper O upper P and angle upper R upper O upper Q are vertical angles, they are congruent. Therefore, arc upper P upper S and arc upper Q upper R are formed by congruent radii and have the same angle measure, so they are congruent arcs. Similarly, angle upper S upper O upper R and angle upper P upper O upper Q are vertical angles, so they are congruent. Therefore, arc upper S upper R and arc upper P upper Q are formed by congruent radii and have the same angle measure, so they are congruent arcs. Let x represent the length of arc upper S upper R . Since arc upper S upper R and arc upper P upper Q are congruent arcs, the length of arc upper P upper Q can also be represented by x . It\u2019s given that the length of arc upper P upper S is twice the length of arc upper P upper Q . Therefore, the length of arc upper P upper S can be represented by the expression 2 x . Since arc upper P upper S and arc upper Q upper R are congruent arcs, the length of arc upper Q upper R can also be represented by 2 x . This gives the expression x + x + 2 x + 2 x . Since it's given that the circumference is 144 pi , the expression x + x + 2 x + 2 x is equal to 144 pi . Thus x + x + 2 x + 2 x = 144 pi , or 6 x = 144 pi . Dividing both sides of this equation by 6 yields x = 24 pi . Therefore, the length of arc upper Q upper R is 2 ( 24 pi ) , or 48 pi .  Choice A is incorrect. This is the length of arc upper P upper Q , not arc upper Q upper R .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Geometry and Trigonometry",
+        "Skill": "Circles",
+        "Difficulty": "Medium",
+        "ID": "82c8325f",
+        "Prompt": "A circle in the xy - plane has its center at ( (-) 4, 5 ) and the . ( (-) 8, 8 ) lies on the circle. Which equation represents this circle?",
+        "Answer Choices": [
+            "( x - 4 ) ^2 + ( y + 5 ) ^2 = 5",
+            "( x + 4 ) ^2 + ( y - 5 ) ^2 = 5",
+            "( x - 4 ) ^2 + ( y + 5 ) ^2 = 25",
+            "( x + 4 ) ^2 + ( y - 5 ) ^2 = 25"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. A circle in the xy -plane can be represented by an equation of the form ( x - h ) ^2 + ( y - k ) ^2 = r ^2 , where (h, k) is the center of the circle and r is the length of a radius of the circle. It's given that the circle has its center at ( (-) 4, 5 ) . Therefore, h = (-) 4 and k = 5 . Substituting (-) 4 for h and 5 for k in the equation ( x - h ) ^2 + ( y - k ) ^2 = r ^2 yields ( x - ( (-) 4 ) ) ^2 + ( y - 5 ) ^2 = r ^2 , or ( x + 4 ) ^2 + ( y - 5 ) ^2 = r ^2 . It's also given that the point ( (-) 8, 8 ) lies on the circle. Substituting (-) 8 for x and 8 for y in the equation ( x + 4 ) ^2 + ( y - 5 ) ^2 = r ^2 yields ( (-) 8 + 4 ) ^2 + ( 8 - 5 ) ^2 = r ^2 , or ( (-) 4 ) ^2 + ( 3 ) ^2 = r ^2 , which is equivalent to 16 + 9 = r ^2 , or 25 = r ^2 . Substituting 25 for r**2 in the equation ( x + 4 ) ^2 + ( y - 5 ) ^2 = r ^2 yields ( x + 4 ) ^2 + ( y - 5 ) ^2 = 25 . Thus, the equation ( x + 4 ) ^2 + ( y - 5 ) ^2 = 25 represents the circle.  Choice A is incorrect. The circle represented by this equation has its center at ( 4, (-) 5 ) , not ( (-) 4, 5 ) , and the point ( (-) 8, 8 ) doesn't lie on the circle.  Choice B is incorrect. The point ( (-) 8, 8 ) doesn't lie on the circle represented by this equation.  Choice C is incorrect. The circle represented by this equation has its center at ( 4, (-) 5 ) , not ( (-) 4, 5 ) , and the point ( (-) 8, 8 ) doesn't lie on the circle."
+    }
+]

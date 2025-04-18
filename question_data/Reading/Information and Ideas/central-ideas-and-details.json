@@ -1,0 +1,1256 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "87aa7bab",
+        "Prompt": "Based on the text, what can be concluded about the diminishing popularity of the portrait miniature in the 9teenth century?",
+        "Paragraph": "A common assumption among art historians is that the invention of photography in the mid-nineteenth century displaced the painted portrait in the public consciousness. The diminishing popularity of the portrait miniature, which coincided with the rise of photography, seems to support this claim. However, photography\u2019s impact on the portrait miniature may be overstated. Although records from art exhibitions in the Netherlands from 1820 to 1892 show a decrease in the number of both full-sized and miniature portraits submitted, this trend was established before the invention of photography.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Factors other than the rise of photography may be more directly responsible for the portrait miniature\u2019s decline.",
+            "Although portrait miniatures became less common than photographs, they were widely regarded as having more artistic merit.",
+            "The popularity of the portrait miniature likely persisted for longer than art historians have assumed.",
+            "As demand for portrait miniatures decreased, portrait artists likely shifted their creative focus to photography."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The text says that the impact of photography on the portrait miniature might be \"overstated,\" as some records show a decrease in the number of portrait miniatures before the invention of photography. From this, we can conclude that factors other than the rise of photography may be more directly responsible for the portrait miniature\u2019s decline. Choice B is incorrect. The text never discusses the \"artistic merit\" of either art form. Choice C is incorrect. The text never suggests that the portrait miniature was popular for longer than historians thought\u2014if anything, it suggests that the portrait miniature started losing its popularity earlier than historians thought. Choice D is incorrect. The text never suggests that portrait painters shifted to become photographers."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "d73a908a",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Believing that living in an impractical space can heighten awareness and even improve health, conceptual artists Madeline Gins and Shusaku Arakawa designed an apartment building in Japan to be more fanciful than functional. A kitchen counter is chest-high on one side and knee-high on the other; a ceiling has a door to nowhere. The effect is disorienting but invigorating: after four years there, filmmaker Nobu Yamaoka reported significant health benefits.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Although inhabiting a home surrounded by fanciful features such as those designed by Gins and Arakawa can be rejuvenating, it is unsustainable.",
+            "Designing disorienting spaces like those in the Gins and Arakawa building is the most effective way to create a physically stimulating environment.",
+            "As a filmmaker, Yamaoka has long supported the designs of conceptual artists such as Gins and Arakawa.",
+            "Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building\u2019s residents."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately states the main idea of the text. According to the text, conceptual artists Gins and Arakawa have designed an apartment building that is disorienting because of several unconventional elements, such as uneven kitchen counters and \u201ca door to nowhere.\u201d The text goes on to suggest that there may be benefits to this kind of design because filmmaker Yamaoka lived in the apartment building for four years and reported health benefits. Thus, although the design is impractical, it may improve the well-being of the apartment building\u2019s residents. Choice A is incorrect. Although the text mentions that Yamaoka lived in the apartment for four years, it doesn\u2019t address how long someone can beneficially live in a home surrounded by fanciful features or whether doing so can be sustained.\u00a0Choice B is incorrect. Although the text mentions the potential benefits of living in a home with disorienting design features, it doesn\u2019t suggest that this is the most effective method to create a physically stimulating environment.\u00a0Choice C is incorrect because the text refers to Yamaoka to support the claim that Gins and Arakawa\u2019s apartment building design may be beneficial, but the text doesn\u2019t indicate that Yamaoka supports the designs of other conceptual artists."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "ed314256",
+        "Prompt": "What does the text most strongly suggest about Sleep No More\u2019s use of its performance space?",
+        "Paragraph": "The most recent iteration of the immersive theater experience\nSleep No More\n, which premiered in New York City in 2011, transforms its performance space\u2014a five-story warehouse\u2014into a 1930s-era hotel. Audience members, who wander through the labyrinthine venue at their own pace and follow the actors as they play out simultaneous, interweaving narrative loops, confront the impossibility of experiencing the production in its entirety. The play\u2019s refusal of narrative coherence thus hinges on the sense of spatial fragmentation that the venue\u2019s immense and intricate layout generates.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The choice of a New York City venue likely enabled the play\u2019s creators to experiment with the use of theatrical space in a way that venues from earlier productions could not.",
+            "Audience members likely find the experience of the play disap.ing because they generally cannot make their way through the entire venue.",
+            "The production\u2019s dependence on a particular performance environment would likely make it difficult to reproduce exactly in a different theatrical space.",
+            "Audience members who navigate the space according to a recommended itinerary will likely have a better grasp of the play\u2019s narrative than audience members who depart from that itinerary."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The text says that the production\u2019s use of its large, winding space has a very specific effect on the audience. Given that the space itself is so important to creating this effect, it would be difficult to reproduce the production in a different space. Choice A is incorrect. The fact that the venue is in New York City isn\u2019t connected to the experimental nature of the performance. It\u2019s the size of the venue, not its location in New York, that affects the theatrical experience. Choice B is incorrect. The text never suggests that audience members are disappointed because they can\u2019t see the entire production. In fact, it suggests that that\u2019s an important part of the experience. Choice D is incorrect. The text doesn\u2019t mention a recommended itinerary for audience members."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "92c2564d",
+        "Prompt": "According to the text, why are ecologists worried about Pando?",
+        "Paragraph": "Utah is home to Pando, a colony of about 47,000 quaking aspen trees that all share a single root system. Pando is one of the largest single organisms by mass on Earth, but ecologists are worried that its growth is declining in part because of grazing by animals. The ecologists say that strong fences could prevent deer from eating young trees and help Pando start thriving again.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It isn\u2019t growing at the same rate it used to.",
+            "It isn\u2019t producing young trees anymore.",
+            "It can\u2019t grow into new areas because it is blocked by fences.",
+            "Its root system can\u2019t support many more new trees."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it presents an explanation that is directly stated in the text for why ecologists are worried about Pando. The text states that Pando is a colony of about 47,000 quaking aspen trees that represents one of the largest organisms on Earth. According to the text, ecologists are worried that Pando\u2019s growth is declining, partly because animals are feeding on the trees. In other words, the ecologists are worried that Pando isn\u2019t growing at the same rate it used to. Choice B is incorrect. Rather than indicating that Pando isn\u2019t producing young trees anymore, the text reveals that Pando is indeed producing young trees, stating that those trees can be protected from grazing deer by strong fences. Choice C is incorrect because the text states that fences can be used to prevent deer from eating Pando\u2019s young trees, not that Pando itself can\u2019t grow in new areas because it\u2019s blocked by fences.\u00a0Choice D is incorrect because the text offers no evidence that Pando\u2019s root system is incapable of supporting new trees or is otherwise a cause of worry for ecologists."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "3543e6e2",
+        "Prompt": "According to the text, what is true about Elinor?",
+        "Paragraph": "The following text is from Jane Austen\u2019s 1811 novel\nSense and Sensibility\n. Elinor lives with her younger sisters and her mother, Mrs. Dashwood.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Elinor of10 argues with her mother but fails to change her mind.",
+            "Elinor can be overly sensitive with regard to family matters.",
+            "Elinor thinks her mother is a bad role model.",
+            "Elinor is remarkably mature for her age."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it provides a detail about Elinor that is established in the text. The text indicates that although Elinor is \u201conly nineteen,\u201d she gives good advice and exhibits such a high level of understanding and judgment that she serves as \u201cthe counsellor of her mother.\u201d Thus, Elinor is mature beyond her years. Choice A is incorrect because it isn\u2019t supported by the text: although the text says that Elinor advises her mother and often counteracts her mother\u2019s impulses, there\u2019s no mention of Elinor arguing with her mother or failing to change her mother\u2019s mind. Choice B is incorrect because it isn\u2019t supported by the text: although the text mentions that Elinor has strong feelings, it doesn\u2019t indicate that she\u2019s excessively sensitive when it comes to family issues. Choice C is incorrect because it isn\u2019t supported by the text: there\u2019s no mention of what Elinor thinks about her mother and no suggestion that she thinks her mother is a bad role model. Because she\u2019s described as having \u201can excellent heart,\u201d Elinor likely doesn\u2019t think ill of her mother."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "602b47c7",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Biologists have predicted that birds\u2019 feather structures vary with habitat temperature, but this hadn\u2019t been tested in mountain environments. Ornithologist Sahas Barve studied feathers from 249 songbird species inhabiting different elevations\u2014and thus experiencing different temperatures\u2014in the Himalaya Mountains. He found that feathers of high-elevation species not only have a greater proportion of warming downy sections to flat and smooth sections than do feathers of low-elevation species, but high-elevation species\u2019 feathers also tend to be longer, providing a thicker layer of insulation.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Barve\u2019s investigation shows that some species of Himalayan songbirds have evolved feathers that better regulate body temperature than do the feathers of other species, contradicting previous predictions.",
+            "Barve found an association between habitat temperature and feather structure among Himalayan songbirds, lending new support to a general prediction.",
+            "Barve discovered that songbirds have adapted to their environment by growing feathers without flat and smooth sections, complicating an earlier hypothesis.",
+            "The results of Barve\u2019s study suggest that the ability of birds to withstand cold temperatures is determined more strongly by feather length than feather structure, challenging an established belief."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text describes how Barve found an association between habitat temperature and feather structure among Himalayan songbirds, which supports the general prediction that birds\u2019 feather structures vary with habitat temperature. Choice A is incorrect. Barve\u2019s study isn\u2019t said to contradict previous predictions. In fact, the study supports the prediction described in the first sentence, which is that birds\u2019 feather structures vary with habitat temperature. Choice C is incorrect. Barve\u2019s study isn\u2019t said to \u201ccomplicate an earlier hypothesis.\u201d In fact, the study supports the earlier prediction described in the first sentence, which is that birds\u2019 feather structures vary with habitat temperature. Choice D is incorrect. The text doesn\u2019t compare the importance of feather length and feather structure, and it doesn\u2019t say that Barve\u2019s study challenges any established beliefs. In fact, the study supports the prediction described in the first sentence, which is that birds\u2019 feather structures vary with habitat temperature."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "11a9f635",
+        "Prompt": "What does the text indicate about the geological formation at Mistaken Point?",
+        "Paragraph": "Paleontologists searching for signs of ancient life have found many fossilized specimens of prehistoric human ancestors, including several from the Pleistocene era discovered in a geological formation in the Minatogawa quarry in Japan. However, to study the emergence of the earliest multicellular organisms to appear on Earth, researchers must turn elsewhere, such as to the Ediacaran geological formation at Mistaken Point in Canada. A UNESCO World Heritage Site, the 146-hectare reserve contains more than 10,000 fossils that together document a critical moment in evolutionary history.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It holds a greater number of fossils but from a smaller variety of species than the formation in the Minatogawa quarry does.",
+            "It has provided evidence that the earliest human species may have emerged before the Pleistocene era.",
+            "It is widely considered by paleontologists to be the most valuable source of information about prehistoric life forms.",
+            "It contains specimens from an older time period than those found in the formation in the Minatogawa quarry."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The text says that the formation at Mistaken Point contains fossils of \u201cthe earliest multicellular organisms,\u201d which implies that these fossils are from an older time period than the fossils of \u201cprehistoric human ancestors\u201d found in the Minatogawa quarry. Choice A is incorrect. The text says that the formation at Mistake Point contains \u201cmore than 10,000 fossils,\u201d but it doesn\u2019t compare this number to the number of fossils in the Minatogawa quarry. It also doesn\u2019t say anything about the variety of species in either formation. Choice B is incorrect. The text says that the formation at Mistaken Point contains fossils of \u201cthe earliest multicellular organisms,\u201d but it never says that the site contains early human fossils too. Rather, the early human fossils mentioned in the text were found in the formation at Minatogawa quarry. Choice C is incorrect. The text says that the fossils at Mistaken Point \u201cdocument a critical moment in evolutionary history,\u201d but it never says that Mistaken Point is the most valuable source of information about prehistoric life forms."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "57485f5e",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Johanna Spyri\u2019s 1881 novel\nHeidi\n(translated by Elisabeth Stork in 1915). Eight-year-old Heidi and her friend\u2019s grandmother are looking at some illustrated books.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Heidi is upset until she sees a serene image of a pasture in 1 of Grandmama\u2019s books.",
+            "Heidi is delighted and fascinated by an image she sees in 1 of Grandmama\u2019s books.",
+            "Heidi is initially frigh10ed by an image in 1 of Grandmama\u2019s books but quickly comes to appreciate its beauty.",
+            "Heidi is inspecting an image in 1 of Grandmama\u2019s books because she has never seen a shepherd with his sheep before."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it most effectively states the main idea of the text, which is that Heidi is delighted and fascinated by an image she sees in one of Grandmama\u2019s books. In the text, Heidi screams upon first seeing the picture of the green pasture. In another context, such a reaction might suggest fear, but here the reaction is followed by descriptions of an image that\u2019s peaceful rather than scary. The text goes on to describe Heidi\u2019s eyes as \u201cglowing\u201d and states that she \u201cdevoured the scene,\u201d suggesting that the image delights and fascinates her so much that she wants to examine every detail. Together, these descriptions suggest that Heidi is thrilled and intrigued by the image in the book. Choice A is incorrect because there\u2019s nothing in the text to suggest that Heidi is upset before seeing the peaceful image of the green pasture. Before Heidi sees that image, the text describes her as \u201clooking with wondering eyes at the splendid pictures\u201d in the book, suggesting that Heidi is intrigued, not that she\u2019s unhappy. Choice C is incorrect. Although Heidi screams upon first seeing the image, the text\u2019s description of the image and Heidi\u2019s other reactions to it suggest that she is screaming with delight, not fear. The text describes the images in the book as \u201csplendid\u201d and the particular image that causes her to scream as peaceful rather than frightening. It also describes Heidi\u2019s eyes as \u201cglowing\u201d and states that she \u201cdevoured the scene,\u201d suggesting that the image of the green pasture delights and fascinates her so much that she wants to examine every detail. Choice D is incorrect because it\u2019s unclear from the text whether Heidi has ever seen a shepherd with his sheep before. The text merely suggests that she is delighted and fascinated by the image of the shepherd and his sheep."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "e677fa6c",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Edgar Allan Poe\u2019s 1849 story \u201cLandor\u2019s Cottage.\u201d",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The narrator remembers a trip he took and admits to getting lost.",
+            "The narrator recalls fond memories of a journey that he took through some beautiful river counties.",
+            "The narrator describes what he saw during a long trip through a frequently visited location.",
+            "The narrator explains the difficulties he encountered on a trip and how he overcame them."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The narrator is \u201cembarrassed\u201d about the route he took, which ends up leaving him lost and confused about how to get to his destination for the evening. Choice B is incorrect. This choice doesn\u2019t match the passage. The narrator is embarrassed, rather than fond, and he doesn\u2019t describe the beauty of the place. Choice C is incorrect. This choice doesn\u2019t match the passage. We don\u2019t know from this excerpt whether or not the narrator has visited this part of New York multiple times. Choice D is incorrect. This choice doesn\u2019t match the passage. The narrator doesn\u2019t explain how he overcame being lost in this excerpt."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "66c47028",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "In 1934 physicist Eugene Wigner posited the existence of a crystal consisting entirely of electrons in a honeycomb-like structure. The so-called Wigner crystal remained largely conjecture, however, until Feng Wang and colleagues announced in 2021 that they had captured an image of one. The researchers trapped electrons between two semiconductors and then cooled the apparatus, causing the electrons to settle into a crystalline structure. By inserting an ultrathin sheet of graphene above the crystal, the researchers obtained an impression\u2014the first visual confirmation of the Wigner crystal.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Researchers have obtained the most definitive evidence to date of the exis10ce of the Wigner crystal.",
+            "Researchers have identified an innovative new method for working with unusual crystalline structures.",
+            "Graphene is the most important of the comp1nts required to capture an image of a Wigner crystal.",
+            "It\u2019s difficult to acquire an image of a Wigner crystal because of the crystal\u2019s h1ycomb structure."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately states the main idea of the text. According to the text, Eugene Wigner hypothesized that a crystal could exist that would be composed of electrons and have a honeycomb-like shape. The text goes on to say that the existence of the Wigner crystal remained unconfirmed until Feng Wang and colleagues were able to make an impression of one using two semiconductors and an ultrathin sheet of graphene. Thus, the main idea is that researchers have obtained the most definitive evidence to date of the existence of the Wigner crystal. Choice B is incorrect because the text focuses on one kind of crystal\u2014the Wigner crystal\u2014 and doesn\u2019t discuss crystalline structures in general. And although the text conveys that Wang and colleagues figured out a way to capture an image of a Wigner crystal, it doesn\u2019t address the idea of applying this approach to other types of crystals. Choice C is incorrect because the text describes in general the process Wang and colleagues followed to obtain an impression of the Wigner crystal; it doesn\u2019t address the relative importance of each component in that process.\u00a0Choice D is incorrect because the text doesn\u2019t state that researchers had a hard time getting an impression of the Wigner crystal because of its honeycomb structure. Nothing in the text indicates why it took so long to prove the existence of this crystal or take an impression of it."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "1a2b29c9",
+        "Prompt": "Based on the text, how do people in the capital of Mexico most likely regard Dr. Malsufrido?",
+        "Paragraph": "The following text is adapted from Mar\u00eda Cristina Mena\u2019s 1914 short story \u201cThe Vine-Leaf.\u201d",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Many have come to tolerate him despite his disheveled appearance.",
+            "Few feel concerned that he will divulge their confidences.",
+            "Some dislike how freely he discusses his own family.",
+            "Most would be unimpressed by him were it not for his professional expertise."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text describes a saying in the capital that Malsufrido keeps more secrets than an archbishop. It also says that when he takes off his hat, \u201cthe family secrets do not fly out\u2026 but remain nicely bottled up,\u201d suggesting that he will not betray his confidences. Choice A is incorrect. This choice doesn\u2019t reflect the text. While his hat is large and appears to have been brushed in the wrong direction, Dr. Malsufrido does not seem to be regarded as ill-dressed or disheveled. Choice C is incorrect. This choice is the opposite of what the text says. The secrets of families (his and others\u2019) remain \u201cbottled up\u201d in his head. Choice D is incorrect. This choice isn\u2019t supported by the text. His professional expertise is not discussed in the passage."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "2fdfe002",
+        "Prompt": "Based on the text, what challenge do humans some* experience?",
+        "Paragraph": "The following text is adapted from Countee Cullen\u2019s 1926 poem \u201cThoughts in a Zoo.\u201d",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "They cannot effectively tame certain wild animals because of a lack of compassion.",
+            "They cannot focus on setting attainable goals because of a lack of motivation.",
+            "They quickly become frustrated when faced with difficult tasks because of a lack of self-control.",
+            "They have aspirations that cannot be fulfilled because of certain limitations."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The text metaphorically likens humans to animals in a zoo, suggesting that humans have dreams that they cannot fulfill because they are trapped. Choice A is incorrect. The speaker says that the lion has an \u201cuntamed heart,\u201d but the speaker doesn\u2019t actually mention anything about humans taming wild animals or a lack of compassion. Choice B is incorrect. The speaker doesn\u2019t suggest that humans lack motivation. Rather, the speaker thinks that humans are \u201ctrapped\u201d and prevented from achieving their dreams. Choice C is incorrect. The speaker doesn\u2019t mention anything about humans becoming frustrated or lacking self-control. Rather, the speaker thinks that humans are \u201ctrapped\u201d and prevented from achieving their dreams."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "701126bc",
+        "Prompt": "Based on the text, how are polarons believed to be involved in the superfluorescence observed in Biliroglu and colleagues\u2019 study?",
+        "Paragraph": "In superfluorescence, electrical charges known as dipoles emit light in synchronized bursts so intense that they are visible to the eye. Until recently, this phenomenon has only been observed at extremely cold temperatures because dipoles cannot synchronize at higher temperatures. But in a study, Melike Biliroglu and colleagues observed superfluorescence at room temperature in thin films made of perovskite and other similarly crystalline materials; the researchers propose that the formation of shock-absorbing quasiparticles called polarons in the material protects dipoles from thermal interference.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Polarons enable superfluorescent bursts to cross from 1 crystalline material to another.",
+            "Polarons allow for the dipoles to synchronize despite higher temperatures.",
+            "Polarons accelerate the dipoles\u2019 release of superfluorescent bursts.",
+            "Polarons decrease the in10sity of the superfluorescent burst."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it most accurately describes Biliroglu and colleagues\u2019 claim about how the polarons function in relation to superfluorescence. The text indicates that \u201cuntil recently,\u201d superfluorescence (intense, synchronized bursts of light emitted by dipoles) has solely been observed at very cold temperatures. However, it also states that, recently, Biliroglu and colleagues report observing the phenomenon at room temperature. They achieved this using \u201cthin films made of perovskite and other similarly crystalline materials,\u201d which the researchers claim allows for the formation of polarons. They also suggest that these polarons might absorb the thermal shocks that typically disrupt dipole synchronization at warmer temperatures. Thus, based on the text, Biliroglu and colleagues believe that polarons help dipoles synchronize at temperatures well above those at which superfluorescence had previously been observed. Choice A is incorrect because the text doesn\u2019t address the prospect of a superfluorescent burst moving between crystalline materials or any other mediums. Choice C is incorrect because the text\u2019s discussion of polarons is about how they might enable superfluorescence at higher temperatures than those at which it had previously been observed. Rather than suggesting that polarons speed up superfluorescent bursts, the text suggests that no superfluorescence can occur at room temperature in the absence of polarons. Thus, the text indicates that polarons make superfluorescent bursts more likely to occur at higher temperatures than those at which it had previously been observed, not that polarons accelerate the bursts. Choice D is incorrect because the text\u2019s discussion of polarons is about how they might enable superfluorescence at higher temperatures than those at which it had previously been observed. In the absence of polarons, the text suggests there would be no superfluorescence at room temperature. Thus, rather than decrease the intensity of superfluorescent bursts, polarons make them more likely to occur under certain circumstances."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "8a8236e1",
+        "Prompt": "According to the text, what is 1 reason some archaeologists are interested in recovering scents from ancient artifacts?",
+        "Paragraph": "Scent is tightly interwoven with our daily lives, often evoking significant memories and important social events. This connection is of growing interest to archaeologists who hope to use it to better understand ancient rituals, trade, social hierarchies, and medicine. Although the speed at which odor molecules dissipate makes identifying ancient scents challenging, advancements in biomolecular technologies show promise in unlocking ancient aromas from preserved artifacts. Archaeological studies making use of these advancements may provide new insights into past societies.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "They are investigating whether people\u2019s sense of smell has declined in recent centuries.",
+            "They believe the scents could illuminate important aspects of ancient life.",
+            "They think that ancient scents would be enjoyable to people today.",
+            "They hope to develop new medicines using ancient scent molecules."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text states that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine,\" all of which are important aspects of ancient life. Choice A is incorrect. The text doesn\u2019t say anything about investigating if people\u2019s sense of smell has declined in recent centuries. It says that scents fade over time\u2014not that people have gotten worse at smelling scents. Choice C is incorrect. The text says that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine,\" but it doesn\u2019t say anything about ancient scents being enjoyable to people today. Choice D is incorrect. The text doesn\u2019t say anything about developing new medicines. Rather, it says that archaeologists are interested in using scents to better understand \"ancient rituals, trade, social hierarchies, and medicine.\""
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "c228bd45",
+        "Prompt": "According to the text, what is true about Mother?",
+        "Paragraph": "The following text is adapted from Edith Nesbit\u2019s 1906 novel\nThe Railway Children\n.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "She wishes that more ladies would visit her.",
+            "Birthdays are her favorite special occasion.",
+            "She creates stories and poems for her children.",
+            "Reading to her children is her favorite activity."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it describes something that is true of Mother, as presented in the text. The text indicates that in addition to other activities, Mother writes stories for her children while they are at school and makes up \u201cfunny pieces of poetry\u201d for certain occasions. Choice A is incorrect because the text suggests that Mother prefers to spend her time with her children and doesn\u2019t sit at home hoping that ladies will visit her. Choice B is incorrect because the text says only that Mother makes up poetry for the children\u2019s birthdays, not that she likes birthdays more than other special occasions.\u00a0Choice D is incorrect because the text doesn\u2019t suggest that Mother prefers reading to her children over the other activities she does with them, such as playing with them and writing stories and poems for them."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "9731a22b",
+        "Prompt": "What does the text most strongly suggest about the site discovered by the researchers?",
+        "Paragraph": "Paleontologist Lucas E. Fiorelli and colleagues have reported the discovery at a mine in Brazil of several egg clutches, partially preserved single eggs, and egg shells from the Late Cretaceous period. The researchers have concluded that the area was once a nesting and breeding site for titanosaurs, a group of sauropod dinosaurs. The finding is significant given the previous lack of known nesting sites in northern regions of South America, which led many paleontologists to assume that titanosaurs migrated south to lay eggs.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It is the earliest known example of a titanosaur nesting and breeding site.",
+            "It was very difficult to excavate given that it was discovered in a mine.",
+            "It may have been occupied by other sauropods in addition to titanosaurs.",
+            "It is farther north than any other nesting site discovered in South America."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it presents a statement about the site discovered by the researchers that is supported by the text. The text discusses Fiorelli and colleagues\u2019 discovery of egg clutches, single eggs, and eggshells in a Brazilian mine. According to the text, the presence of these eggs, which are from the Late Cretaceous period, led the researchers to conclude that the location was once a nesting and breeding site for titanosaurs. The text then explains that the finding is important because of the \u201cprevious lack of known nesting sites in northern regions of South America.\u201d If there haven\u2019t been any other discoveries of a nesting site in South America\u2019s northern regions and the site in the Brazilian mine is the first, then the text strongly suggests that the site is farther north than other nesting sites that have been discovered in South America. Choice A is incorrect because the text doesn\u2019t suggest that the site discovered by Fiorelli and colleagues is the earliest titanosaur nesting and breeding site known to paleontologists but rather that it\u2019s the first nesting site found in northern regions of South America. Moreover, the text doesn\u2019t suggest how the timeline of the newly discovered site compares with that of other titanosaur nesting and breeding sites.\u00a0Choice B is incorrect because there is no mention in the text about any difficulties that Fiorelli and colleagues faced when they were excavating the nesting and breeding site in the Brazilian mine.\u00a0Choice C is incorrect because the text doesn\u2019t support the idea that the nesting and breeding site in the Brazilian mine was occupied by sauropods other than titanosaurs. The text simply mentions that titanosaurs are sauropod dinosaurs and presents the researchers\u2019 conclusion that the site they discovered was for titanosaurs."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "5325b3cc",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Philadelphia\u2019s Black Pearl Chamber Orchestra, founded by Jeri Lynne Johnson, performs classical music, from well-known compositions by Beethoven to contemporary works by Jessie Montgomery. For the orchestra\u2019s iConduct! program, Johnson invites community members to learn some basic elements of conducting and then experience conducting the Black Pearl orchestra themselves.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The Black Pearl orchestra performs music from all over the world but mostly performs music composed by Philadelphians.",
+            "Johnson founded the Black Pearl orchestra to perform classical music by contemporary artist Jessie Montgomery.",
+            "The Black Pearl orchestra gives community members the chance to both lis10 to and participate in classical music performance.",
+            "Johnson has community members conduct an orchestra to demonstrate how difficult the task is."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it most accurately states the main idea of the text. The text begins by stating that the Black Pearl orchestra performs classical music, and then goes on to explain that the orchestra offers an iConduct! program. According to the text, this program offers community members the opportunity to learn some basics about conducting and then apply what they learn by conducting the orchestra themselves. Thus, the main idea of the text is that community members can both listen to and participate in a classical music performance. Choice A is incorrect. Although the text states that the Black Pearl orchestra is based in Philadelphia, it doesn\u2019t indicate that most of the music it plays was composed by Philadelphians. Choice B is incorrect. Although the text does state that Johnson founded the Black Pearl orchestra, this is just a detail and not the main focus of the text. Moreover, while the text does say that the orchestra sometimes plays music by Montgomery, it doesn\u2019t assert that the orchestra was founded solely for the purpose of performing Montgomery\u2019s work. Choice D is incorrect. Although the text explains that community members are invited to conduct the Black Pearl orchestra after participating in the iConduct! program, the text doesn\u2019t indicate that Johnson allows community members to do this for the specific purpose of showing how difficult the task is."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "f7bd14de",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Several scholars have argued that conditions in England in the late ninth through early eleventh centuries\u2014namely, burgeoning literacy amid running conflicts between England\u2019s Anglo-Saxon kingdoms and Danish invaders\u2014were especially conducive to the production of the Old English epic poem\nBeowulf\n, and they have dated the poem\u2019s composition accordingly. It is not inconceivable that\nBeowulf\nemerged from such a context, but privileging contextual fit over the linguistic evidence of an eighth- or even seventh-century composition requires a level of justification that thus far has not been presented.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Although there are some grounds for believing thatBeowulfwas composed between the late /9 and early /11 centuries, advocates for that view 10d to rely on evidence that has been called into question by advocates for an earlier date.",
+            "Although several scholars have datedBeowulfto the late /9 through early /11 centuries, others have argued that doing so privileges a controversial interpretation of the social conditions of the period.",
+            "AlthoughBeowulffits well with the historical context of England in the late /9 through early /11 centuries, it fits equally well with the historical context of England in the /7 and /8 centuries.",
+            "Although the claim of a late /9- through early /11-century composition date forBeowulfhas some plausibility, advocates for the claim have not compellingly addressed evidence suggesting an earlier date."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately states the main idea of the text. The text states that some scholars have dated the composition of Beowulf to the late ninth through early eleventh centuries due to the poem\u2019s fit with that period\u2019s historical context. The text goes on to say that while it is \u201cnot inconceivable that Beowulf emerged from such a context\u201d\u2014that is, it is possible that Beowulf was composed during the late ninth through eleventh centuries\u2014there is linguistic evidence that the poem was composed earlier, in the seventh or eighth century. According to the text, favoring the historical context over the linguistic evidence requires justification that scholars have not yet supplied. In other words, the text suggests that scholars who favor the later composition date need to explain why the poem\u2019s fit with historical context should take precedence over the linguistic evidence, but they have not yet done so. Thus, the main idea of the text is that while there is some plausibility to the later composition date, advocates for the later date have not compellingly addressed evidence suggestive of an earlier date. Choice A is incorrect because the text says that scholars who date the poem to the late ninth through early eleventh centuries have failed to account for the linguistic evidence that the poem may have been composed earlier, not that the evidence those scholars cite in favor of their view is unreliable or that anyone has cast doubt on that evidence. In other words, the text does not suggest that there are problems with the evidence cited by advocates of the later composition date, only that there is other evidence of an earlier composition date that those advocates need to consider.\u00a0Choice B is incorrect because nothing in the text suggests that those scholars who date the poem to the late ninth through early eleventh centuries are giving priority to a controversial view of the social conditions at that time. The text makes no reference to any controversy about how scholars interpret that historical period. Instead, the text suggests that scholars who date the poem on the basis of its fit with the historical context of England in the late ninth through early eleventh centuries have failed to account for linguistic evidence that the poem may have been composed earlier.\u00a0Choice C is incorrect because the text says nothing about how well the poem fits the historical context of England in the seventh and eighth centuries, let alone that it fits that historical context as well as it fits the historical context of the late ninth through early eleventh centuries. Rather, the text says that there is linguistic evidence that the poem may have been composed in the seventh or eighth century."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "baef99a5",
+        "Prompt": "According to the text, what is true about Dorian?",
+        "Paragraph": "The following text is adapted from Oscar Wilde\u2019s 1891 novel\nThe Picture of Dorian Gray\n. Dorian Gray is taking his first look at a portrait that Hallward has painted of him.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He wants to know Hallward\u2019s opinion of the portrait.",
+            "He is delighted by what he sees in the portrait.",
+            "He prefers portraits to other types of paintings.",
+            "He is uncertain of Hallward\u2019s talent as an artist."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it presents a statement about Dorian that is directly supported by the text. The narrator of the text says that when Dorian sees his portrait, \u201chis cheeks flushed for a moment with pleasure\u201d and \u201ca look of joy came into his eyes.\u201d The narrator goes on to say that Dorian looked at the portrait \u201cin wonder\u201d and presents him as being so entranced by the portrait that he doesn\u2019t notice what Hallward is saying to him. All these details support the description of Dorian as being delighted by what he sees in the portrait. Choice A is incorrect because Dorian isn\u2019t depicted as interested in Hallward\u2019s opinion of the portrait but rather as so enraptured by the painting that he\u2019s hardly even aware of Hallward.\u00a0Choice C is incorrect because the portrait of Dorian is the only painting that is mentioned in the text, so there\u2019s no evidence that Dorian prefers portraits to other types of paintings. Although Dorian is depicted as delighted with this particular portrait, there\u2019s no way of knowing from the text whether he likes portraits better than other kinds of paintings. Choice D is incorrect because nothing in the text suggests that Dorian is uncertain about Hallward\u2019s talent. Instead, the text is focused on Dorian\u2019s delight with the portrait."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "96802cc0",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "For centuries, the widespread acknowledgment of the involvement of the cerebellum\u2014a dense brain structure in vertebrates\u2014in coordinating motor control in humans has hindered recognition of other possible functions of the structure. Neuroscience research from the last two decades now suggests that the cerebellum regulates emotion and social behavior, and recent research by Ilaria Carta and colleagues has identified a pathway connecting the cerebellum to a center for motivation and reward processing known as the ventral tegmental area (VTA).",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The recent verification of a pathway between the VTA and the cerebellum confirms the cerebellum\u2019s long-suspected role in motor coordination.",
+            "Recent advances in the field of neuroscience have challenged widely accepted claims about the function of a pathway connecting the VTA and the cerebellum.",
+            "The cerebellum has primarily been thought to regulate motor functioning, but in recent years neuroscience researchers have been uncovering additional functions.",
+            "Technological limitations have historically hindered the study of the cerebellum, but the recent development of new technologies has led to greater insights into its functions."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The text says that the cerebellum has long been thought to regulate motor functioning, but new research shows that it may also have other functions\u2014including regulating emotion and social behavior and some connection to motivation and rewards processing. Choice A is incorrect. The VTA is described as \u201ca center for motivation and reward processing,\u201d and the discovery of the pathway between the VTA and the cerebellum supports the theory that the cerebellum is involved in functions other than motor coordination. Choice B is incorrect. The text says that recent research has identified this pathway, but it doesn\u2019t discuss any previous \u201cwidely accepted claims\u201d about the pathway\u2019s function. The \u201cwidespread acknowledgement\u201d mentioned early in the passage is about the cerebellum alone, not its connection to the VTA. Choice D is incorrect. The text never discusses any technological limitations or any new technologies."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "b7d51f84",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "In West Africa, jalis have traditionally been keepers of information about family histories and records of important events. They have often served as teachers and advisers, too. New technologies may have changed some aspects of the role today, but jalis continue to be valued for knowing and protecting their peoples\u2019 stories.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Even though there have been some changes in their role, jalis continue to preserve their communities\u2019 histories.",
+            "Although jalis have many roles, many of them like teaching best.",
+            "Jalis have been entertaining the people within their communities for centuries.",
+            "Technology can now do some of the things jalis used to be responsible for."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it best states the main idea of the text. According to the text, jalis\u2019 traditional role has been to maintain information about families\u2019 histories and significant events. The text goes on to say that although technological changes have altered jalis\u2019 role somewhat, jalis are still valued for preserving the histories of their communities. Choice B is incorrect because the text says nothing about jalis\u2019 views of the various tasks they perform. There is no information to support the idea that many jalis prefer teaching to other tasks.\u00a0Choice C is incorrect because the text doesn\u2019t describe jalis as being sources of entertainment. Rather, jalis are presented as valued sources of knowledge. Additionally, the text gives no indication of how long jalis have been serving their communities. Choice D is incorrect because the main focus of the text is on jalis\u2019 role and their continued value despite the effects of technology, not on what technology can now do. Although the text indicates that jalis\u2019 role has changed as a result of technological changes, the text doesn\u2019t present any specific information about technology performing tasks that jalis once performed."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "78b265b2",
+        "Prompt": "According to the text, why would a helicopter built for Earth be unable to fly on Mars?",
+        "Paragraph": "In 2014, Amelia Quon and her team at NASA set out to build a helicopter capable of flying on Mars. Because Mars\u2019s atmosphere is only one percent as dense as Earth\u2019s, the air of Mars would not provide enough resistance to the rotating blades of a standard helicopter for the aircraft to stay aloft. For five years, Quon\u2019s team tested designs in a lab that mimicked Mars\u2019s atmospheric conditions. The craft the team ultimately designed can fly on Mars because its blades are longer and rotate faster than those of a helicopter of the same size built for Earth.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Because Mars and Earth have different atmospheric conditions",
+            "Because the blades of helicopters built for Earth are too large to work on Mars",
+            "Because the gravity of Mars is much weaker than the gravity of Earth",
+            "Because helicopters built for Earth are too small to handle the conditions on Mars"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it presents an explanation about a helicopter that is directly supported by the text. The text states that Mars\u2019s atmosphere is much less dense than Earth\u2019s, and as a result, the air on Mars doesn\u2019t provide the resistance required to support the blades of a helicopter built for Earth and to keep the helicopter aloft. In other words, a helicopter built for Earth can\u2019t fly on Mars because of the differences in the two planets\u2019 atmospheres. Choice B is incorrect because instead of stating that the blades of helicopters built for Earth are too large to work on Mars, the text indicates that the helicopter built to fly on Mars actually has even longer blades than a helicopter built for Earth. Choice C is incorrect because the text never addresses the role of gravity on Mars or on Earth; instead, it focuses on atmospheric conditions. Choice D is incorrect because the text doesn\u2019t indicate that helicopters built for Earth are too small to operate in the conditions on Mars. In fact, the text states that the size of the helicopter built to fly on Mars is the same size as a helicopter built for Earth, even though it has longer blades that rotate faster."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "d0f51067",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Modern dog breeds are largely the result of 160 years of owners crossbreeding certain dogs in order to select for particular physical appearances. Owners often say that some breeds are also more likely than others to have particular personality traits\u2014basset hounds are affectionate; boxers are easy to train\u2014but Kathleen Morrill and colleagues found through a combination of owner surveys and DNA sequencing of 2,000 dogs that while physical traits are predictably heritable among purebred dogs, behavior varies widely among dogs of the same breed.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Dog breeds would not exist without many years of human intervention in dogs\u2019 reproduction.",
+            "Research fails to confirm a commonly held belief about dog breeds and behavior.",
+            "The dog breeds most popular among owners have of10 changed over the past 160 years.",
+            "A study of dog breeds is notable for its usage of both opinion surveys and DNA sequencing."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it most accurately states the main idea of the text. The text indicates that dog owners typically claim that some dog breeds are \u201cmore likely than others to have particular personality traits.\u201d In other words, the text points out that a commonly held belief about dog breeds is that their personality traits are heritable. The text then states that Kathleen Morrill and colleagues undertook research about dog trait heritability and found that \u201cbehavior varies widely among dogs of the same breed.\u201d Because Morrill and colleagues found evidence for variability rather than consistency in the behavior of dogs of the same breed, the statement that research fails to uphold a commonly held belief about dog breeds and behavior accurately reflects the main idea of the text. Choice A is incorrect. Although the text mentions that humans have long intervened in dogs\u2019 reproduction by intentionally crossbreeding certain dogs, it doesn\u2019t argue that such intervention is essential to the existence of dog breeds.\u00a0Choice C is incorrect because the text doesn\u2019t discuss the popularity of any dog breeds; breeds are mentioned as having certain traits, but the text says nothing about the popularity of these breeds or traits. Choice D is incorrect. Although the text briefly mentions that Morrill and colleagues conducted a study about dog traits using both surveys and DNA sequencing, this is not the main focus of the text. The text concerns the study\u2019s results about the heritability of dog traits, not the particular methodology used by Morrill and colleagues."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "1c69ff20",
+        "Prompt": "According to the text, why was Wang and his team\u2019s discovery of the Terropterus xiushanensis fossil significant?",
+        "Paragraph": "For many years, the only existing fossil evidence of mixopterid eurypterids\u2014an extinct family of large aquatic arthropods known as sea scorpions and related to modern arachnids and horseshoe crabs\u2014came from four species living on the paleocontinent of Laurussia. In a discovery that expands our understanding of the geographical distribution of mixopterids, paleontologist Bo Wang and others have identified fossilized remains of a new mixopterid species,\nTerropterus xiushanensis\n, that lived over 400 million years ago on the paleocontinent of Gondwana.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The fossil constitutes the first evidence found by scientists that mixopterids lived more than 400 million years ago.",
+            "The fossil helps establish that mixopterids are more closely related to modern arachnids and horseshoe crabs than previously thought.",
+            "The fossil helps establish a more accurate timeline of the evolution of mixopterids on the paleocontinents of Laurussia and Gondwana.",
+            "The fossil constitutes the first evidence found by scientists that mixopterids existed outside the paleocontinent of Laurussia."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it states why Wang and his team\u2019s discovery of the Terropterus xiushanensis fossil was significant. The text explains that up until Wang and his team\u2019s discovery, the only fossil evidence of mixopterids came from the paleocontinent of Laurussia. Wang and his team, however, identified fossil remains of a mixopterid species from the paleocontinent Gondwana. Therefore, the team\u2019s discovery was significant because the fossil remains of a mixopterid species were outside of the paleocontinent Laurussia. Choice A is incorrect. Although the text states that Wang and his team identified fossilized remains of a mixopterid species that lived more than 400 million years ago, it doesn\u2019t indicate that mixopterid fossils previously found by scientists dated to a more recent period than that. Choice B is incorrect. Although the text states that mixopterids are related to modern arachnids and horseshoe crabs, it doesn\u2019t suggest that the fossil discovered by Wang and his team confirmed that this relationship is closer than scientists had previously thought.\u00a0Choice C is incorrect because the team\u2019s fossil established the presence of mixopterids on Gondwana, not on Laurussia. Moreover, the text only discusses the fossil in relation to the geographical distribution of mixopterids, not in relation to their evolution."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "d0fbf1ae",
+        "Prompt": "What does the text most strongly suggest about corals that produce bright colors?",
+        "Paragraph": "Algae living within the tissues of corals play a critical role in keeping corals, and the marine ecosystems they are part of, thriving. Some coral species appear brown in color when healthy due to the algae colonies living in their tissues. In the event of an environmental stressor, the algae can die or be expelled, causing the corals to appear white. To recover the algae, the bleached corals then begin to produce bright colors, which block intense sunlight, encouraging the light-sensitive algae to recolonize the corals.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "These corals have likely been subjected to stressful environmental conditions.",
+            "These corals are likely more vulnerable to exposure from in10se sunlight than white corals are.",
+            "These corals have likely recovered from an environmental event without the assistance of algae colonies.",
+            "These corals are more likely to survive without algae colonies than brown corals are."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The text says that corals produce bright colors to block sunlight and encourage algae to recolonize after \u201can environmental stressor.\u201d From this, we can infer that corals that produce bright colors have probably been subjected to an environmental stressor. Choice B is incorrect. The text says that corals produce bright colors to block intense sunlight, which protects the light-sensitive algae that keep the coral healthy. In other words, bright colors make the coral\u2019s health less vulnerable to intense sunlight. Choice C is incorrect. The text says that corals produce bright colors to encourage algae to recolonize, not that they have recovered without the assistance of algae colonies. Choice D is incorrect. The text never compares the likelihood of differently colored corals surviving without algae colonies."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "14189fbb",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Having written the impassioned call to arms \u201cLetter to the Spanish Americans\u201d in 1791, Peruvian intellectual Juan Pablo Viscardo y Guzm\u00e1n is often considered a forerunner for the independence movements in Latin America. But Viscardo\u2019s role in history would have remained insignificant were it not for Venezuelan revolutionary Francisco de Miranda, who was handed the unpublished letter after Viscardo\u2019s death. Miranda not only helped circulate the letter, but his edits and footnotes to the text position Miranda as a central figure in the text\u2019s creation.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The original authorship of \u201cLetter to the Spanish Americans\u201d is disputed by contemporary historians.",
+            "The majority of the most eloquently stated arguments in \u201cLetter to the Spanish Americans\u201d were writ10 by Miranda.",
+            "Miranda played a crucial role in influencing the con10t and distribution of \u201cLetter to the Spanish Americans.\u201d",
+            "\u201cLetter to the Spanish Americans\u201d persuaded many people in Latin America to pursue national independence."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The text describes how Miranda circulated, edited, and added footnotes to \u201cLetter to the Spanish Americans,\u201d and it claims that the letter and its author would have \u201cremained insignificant\u201d if it weren\u2019t for Miranda\u2019s efforts. Choice A is incorrect. The text only says that Viscardo wrote the letter and that Miranda edited it: it never suggests that the original authorship of the letter is up for debate. Choice B is incorrect. This contradicts the text. The text says that Miranda edited and footnoted the letter, but it identifies Viscardo as the letter\u2019s author. It also never identifies certain arguments as more eloquent than others. Choice D is incorrect. This is outside the scope of the text. The paragraph describes Miranda\u2019s role in the creation and distribution of the letter, but it doesn\u2019t get into the effects of the letter on other people."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "dc3ea63e",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "To dye wool, Navajo (Din\u00e9) weaver Lillie Taylor uses plants and vegetables from Arizona, where she lives. For example, she achieved the deep reds and browns featured in her 2003 rug\nIn the Path of the Four Seasons\nby using Arizona dock roots, drying and grinding them before mixing the powder with water to create a dye bath. To intensify the appearance of certain colors, Taylor also sometimes mixes in clay obtained from nearby soil.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Reds and browns are not commonly featured in most of Taylor\u2019s rugs.",
+            "Taylor draws on local resources in the approach she uses to dye wool.",
+            "Taylor finds it difficult to locate Arizona dock root in the desert.",
+            "In the Path of the Four Seasonsis widely acclaimed for its many colors and innovative weaving techniques."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. It best states the main idea of the text. The text opens with the statement that Taylor uses local plants and vegetables to dye wool. The rest of the text describes how she does this. Choice A is incorrect. This doesn\u2019t state the main idea of the text. The text only mentions one rug: In the Path of the Four Seasons , in which reds and browns are featured. It never mentions whether or not these colors are featured in her other rugs. Choice C is incorrect. This doesn\u2019t state the main idea of the text. The text never says that Taylor finds it difficult to locate Arizona dock roots. Choice D is incorrect. This doesn\u2019t state the main idea of the text. The text never says that In the Path of the Four Seasons is widely acclaimed. Rather, it discusses the rug to illustrate the point made earlier in the passage: that Taylor uses local plants and vegetables to dye wool."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "2592e0de",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Bicycles were first mass-produced in the late nineteenth century throughout Europe and North America, allowing individuals remarkable freedom to travel longer distances quickly and comfortably. This freedom, coupled with the affordability of the vehicle, made the bicycle immensely popular. Individuals were able to live farther from their workplaces, easily visit neighboring towns, and participate in new leisure and sport activities. Bicycling quickly became a popular social endeavor, with enthusiasts forming local cycling clubs to enjoy these newfound activities with others.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The widespread adoption of the bicycle in the late 9teenth century provided new opportunities for people.",
+            "The affordability of the bicycle in the late 9teenth century made it the preferred way to travel.",
+            "The popularity of the bicycle in the late 9teenth century gave rise to the first cycling clubs.",
+            "The mass production of the bicycle in the late 9teenth century made it safer for people to use."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The text discusses how the mass production of bicycles in the late nineteenth century allowed people to travel longer distances, live farther from their workplaces, visit neighboring towns, and participate in new activities and social clubs. All of these are new opportunities that were provided by the widespread adoption of the bicycle. Choice B is incorrect. The text never says this. It does say that the bicycle was \u201caffordable,\u201d and that the \u201cfreedom to travel longer distances quickly and comfortably\u201d made the bicycle \u201cpopular,\u201d but it never says that the bicycle was more popular than any other way of traveling (like cars or trains or horses). Choice C is incorrect. This is a detail mentioned in the text, but not the main idea. Cycling clubs are only one of the new opportunities that arose from the popularity of the mass-produced bicycle. A \u201cmain idea\u201d should capture more of the information in the text. Choice D is incorrect. The text never says this. It doesn\u2019t mention the safety of the mass-produced bicycle at all."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "89961e26",
+        "Prompt": "According to the text, which piece of Favela\u2019s art was on display in the Petersen Automotive Museum in 2017?",
+        "Paragraph": "Artist Justin Favela explained that he wanted to reclaim the importance of the pi\u00f1ata as a symbol in Latinx culture. To do so, he created numerous sculptures from strips of tissue paper, which is similar to the material used to create pi\u00f1atas. In 2017, Favela created an impressive life-size pi\u00f1ata-like sculpture of the Gypsy Rose lowrider car, which was displayed at the Petersen Automotive Museum in Los Angeles, California. The Gypsy Rose lowrider was famously driven by Jesse Valadez, an early president of the Los Angeles Imperials Car Club.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "A painting of Los Angeles",
+            "A sculpture of a lowrider car",
+            "A painting of a pi\u00f1ata",
+            "A sculpture of Jesse Valadez"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text describes Favela\u2019s approach to sculpture, and then describes the lowrider car that he depicted in 2017. Choice A is incorrect. This isn\u2019t what the text says. The Petersen Automotive Museum is located in Los Angeles, but Favela\u2019s artwork isn\u2019t a painting, and it doesn\u2019t depict L.A. Choice C is incorrect. This isn\u2019t what the text says. Favela makes sculptures similar to pi\u00f1atas, not paintings of them. Choice D is incorrect. This isn\u2019t what the text says. Jesse Valadez owned the lowrider car that Favela depicted in sculpture."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "a59245a1",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The painter Mar\u00eda Izquierdo played an important role in the development of twentieth-century Mexican art, but her work has never been well-known in the United States except among art historians. One reason for Izquierdo\u2019s relative obscurity is the enormous popularity of some of her peers. In particular, the painters Frida Kahlo and Diego Rivera have so captivated the interest of US audiences that Izquierdo and other Mexican artists from the period often get overlooked, despite the high quality of their work.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Izquierdo\u2019s work is not as well-known in the United States as it should be because Kahlo and Rivera draw so much of the public\u2019s at10tion.",
+            "During Izquierdo\u2019s lifetime, her paintings were displayed in galleries in the United States much more frequently than paintings by Kahlo and Rivera were.",
+            "Izquierdo painted some of the same subjects that Kahlo and Rivera painted but used different techniques than they used.",
+            "Few of Izquierdo\u2019s works are in galleries today because she produced only a small number of paintings."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately states the main idea of the text. The text begins by stating that Mar\u00eda Izquierdo was an important figure in the history of twentieth-century Mexican art, but despite her importance, her work hasn\u2019t received widespread recognition in the United States. According to the text, one reason for this is that Frida Kahlo and Diego Rivera are so famous in the US that they overshadow other important Mexican artists, including Izquierdo. Thus, the main idea of the text is that Izquierdo\u2019s work is less well known in the US than it should be because Kahlo and Rivera draw most of the public\u2019s attention. Choice B is incorrect because the text doesn\u2019t discuss the appearance of Izquierdo\u2019s paintings in galleries in the US during her lifetime, nor does it suggest that her paintings were displayed more frequently than paintings by Kahlo or Rivera were. Instead, the text focuses on the fact that Izquierdo has been overlooked in the US because of Kahlo\u2019s and Rivera\u2019s greater popularity. Choice C is incorrect because the text doesn\u2019t discuss either the subject matter of Izquierdo\u2019s paintings or the techniques she used, nor does it compare these aspects of her paintings with those of Kahlo\u2019s and Rivera\u2019s paintings. Choice D is incorrect because the text doesn\u2019t mention how many of Izquierdo\u2019s paintings appear in galleries today, nor does it state that she produced only a small number of paintings."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "4d3e3c52",
+        "Prompt": "What does the text most strongly suggest about conventional ETL fabrication?",
+        "Paragraph": "In a paper about p-i-n planar perovskite solar cells (one of several perovskite cell architectures designed to collect and store solar power), Lyndsey McMillon-Brown et al. describe a method for fabricating the cell\u2019s electronic transport layer (ETL) using a spray coating. Conventional ETL fabrication is accomplished using a solution of nanoparticles. The process can result in a loss of up to 80% of the solution, increasing the cost of manufacturing at scale\u2014an issue that may be obviated by spray coating fabrication, which the researchers describe as \u201chighly reproducible, concise, and practical.\u201d",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It is less suitable for manufacturing large volumes of planar p-i-n perovskite solar cells than an alternative fabrication method may be.",
+            "It is more expensive when manufacturing at scale than are processes for fabricating ETLs used in other perovskite solar cell architectures.",
+            "It typically entails a greater loss of nanoparticle solution than do other established approaches for ETL fabrication.",
+            "It is somewhat imprecise and therefore limits the po10tial effectiveness of p-i-n planar perovskite solar cells at capturing and storing solar ^."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. Conventional solar cell fabrication increases \u201cthe cost of manufacturing at scale,\u201d but spray coating might get rid of that problem. Choice B is incorrect. This is not completely supported by the text. While it\u2019s true that conventional ETL fabrication is expensive at scale, there\u2019s nothing in the text that mentions other perovskite solar cell architectures. Choice C is incorrect. This choice does not match the text. Only one conventional method of ETL fabrication is described, so we can\u2019t compare the solution loss in this method to that of other conventional methods.\u00a0Choice D is incorrect. This choice isn\u2019t supported by the text. The text never suggests that the effectiveness of solar cells changes based on their method of fabrication."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "d1b8a9ad",
+        "Prompt": "What does the text most strongly suggest about the disco genre?",
+        "Paragraph": "Disco remains one of the most ridiculed popular music genres of the late twentieth century. But as scholars have argued, the genre is far less superficial than many people believe. Take the case of disco icon Donna Summer: she may have been associated with popular songs about love and heartbreak (subjects hardly unique to disco, by the way), but like many Black women singers before her, much of her music also reflects concerns about community and identity. These concerns are present in many of the genre\u2019s greatest songs, and they generally don\u2019t require much digging to reveal.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It has been unjustly ignored by most scholars despite the importance of the themes addressed by many of the genre\u2019s songs.",
+            "It evolved over time from a superficial genre focused on romance to a genre focused on more serious concerns.",
+            "It has been unfairly dismissed for the inclusion of subject matter that is also found in other musical genres.",
+            "It gave rise to a Black women\u2019s musical tradition that has endured even though the genre itself faded in the late /20 century."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The text argues that disco is \"far less superficial\" than its popular perception might indicate, and that love and heartbreak are \"subjects hardly unique to disco.\" Choice A is incorrect. This choice conflicts with the text, which says that scholars argue that disco \"is far less superficial than many people believe.\" Choice B is incorrect. This choice says the opposite of what the text suggests. The writer argues that the genre is not as superficial as commonly believed, but that it always reflected \"concerns about community and identity.\" Choice D is incorrect. The text doesn\u2019t support this choice. There\u2019s nothing in the text about disco giving rise to an enduring Black women\u2019s musical tradition."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "66bef967",
+        "Prompt": "Which choice best describes Gibson\u2019s approach to art, as presented in the text?",
+        "Paragraph": "Choctaw/Cherokee artist Jeffrey Gibson turns punching bags used by boxers into art by decorating them with beadwork and elements of Native dressmaking. These elements include leather fringe and jingles, the metal cones that cover the dresses worn in the jingle dance, a women\u2019s dance of the Ojibwe people. Thus, Gibson combines an object commonly associated with masculinity (a punching bag) with art forms traditionally practiced by women in most Native communities (beadwork and dressmaking). In this way, he rejects the division of male and female gender roles.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He draws from traditional Native art forms to create his original works.",
+            "He has been influenced by Native and non-Native artists equally.",
+            "He finds inspiration from boxing in designing the dresses he makes.",
+            "He rejects expectations about color and pattern when incorporating beadwork."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately describes Gibson\u2019s approach to art. As the text explains, Gibson, who is Cherokee and Choctaw, transforms punching bags into art pieces by applying (or attaching) to them beadwork and elements of Native dressmaking, including leather fringe and the jingles of the jingle dress. The text goes on to say that in most Native communities, the art forms of beadwork and dressmaking are traditionally practiced by women. Therefore, Gibson\u2019s approach to art consists of creating original works by drawing from traditional Native art forms. Choice B is incorrect. Because Gibson incorporates Native art forms into his own original artwork, it can be inferred that he has been influenced by other Native artists, but the text never suggests that non-Native artists have influenced him. Choice C is incorrect because the text doesn\u2019t indicate that Gibson designs dresses influenced by boxing but instead that he turns punching bags, which are used in boxing, into works of art by applying elements of Native dressmaking to them. Choice D is incorrect. Although Gibson does incorporate beadwork into his art, the text never mentions the colors or patterns that he uses or suggests that his art defies the expectations that people might have about color and pattern in beadwork."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "04bcb7a9",
+        "Prompt": "According to the text, how old was the fossil that Wang and colleagues discovered?",
+        "Paragraph": "Xin Wang and colleagues have discovered the earliest known example of a flower bud in a 164-million-year-old plant fossil in China. The researchers have named the new species\nFlorigerminis jurassica.\nThey believe that the discovery pushes the emergence of flowering plants, or angiosperms, back to the Jurassic period, which occurred between 145 million and 201 million years ago.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "150 million years old",
+            "145 million years old",
+            "164 million years old",
+            "201 million years old"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it gives the age for the fossil discovered by Wang and colleagues that is directly supported by the text. According to the text, Xin Wang and colleagues discovered a 164-million-year-old plant fossil. This plant fossil included a flower bud, which the researchers believe provides evidence that flowering plants emerged in the Jurassic period, which falls between 145 million and 201 million years ago. Choice A is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 150 million years old. Although 150 million years ago would fall within the Jurassic period, according to the text it isn\u2019t the age of the discovered fossil. Choice B is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 145 million years old. Although 145 million years ago would fall at the end of the Jurassic period, according to the text it isn\u2019t the age of the discovered fossil. Choice D is incorrect because the text states that Wang and colleagues discovered a 164-million-year-old flowering plant fossil in China, not one that is 201 million years old. Although 201 million years ago would fall at the beginning of the Jurassic period, according to the text it isn\u2019t the age of the discovered fossil."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "12030076",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "NASA\u2019s Aspera mission, led by Carlos Vargas, will investigate the circumgalactic medium (CGM), the huge swaths of low-density gas that fill and surround galaxies. Specifically, the team will focus on portions of the gas that exist in a \u201cwarm-hot\u201d phase: these portions haven\u2019t previously been observable but are thought to fuel new star formation and hold most of the mass that makes up a galaxy. Using a telescope capable of revealing these parts of the CGM, the Aspera mission should help answer long-standing questions about how galaxies emerge, change, and even interact.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "As the leader of NASA\u2019s Aspera mission, Vargas will be the first person to investigate the makeup of the CGM.",
+            "Although galaxies that are surrounded by the CGM have been studied, researchers have been unable to directly observe low-density gas in the CGM in the \u201cwarm-hot\u201d phase.",
+            "Researchers don\u2019t yet have a complete understanding of the process of galaxy evolution but have raised the possibility that galaxies interact with each other at *.",
+            "The Aspera mission is expected to produce the first direct observations of CGM gas in the \u201cwarm-hot\u201d phase, which likely has an important role in the evolution of galaxies."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately states the main idea of the text. The text begins by mentioning NASA\u2019s Aspera mission, which will investigate the low-density gas that makes up the circumgalactic medium (CGM). According to the text, this mission will focus on a portion of the CGM\u2019s gas that exists in a \u201cwarm-hot\u201d phase; this \u201cwarm-hot\u201d gas has not been previously observed, but it is thought to make up most of the mass of galaxies and play a part in star formation. Finally, the text mentions a telescope capable of examining this previously unobservable \u201cwarm-hot\u201d gas: the Aspera mission will use this telescope in the hope of answering questions about galaxy formation and change. Therefore, the main idea of the text is that the Aspera mission is likely to produce the first direct observations of CGM gas in the \u201cwarm-hot\u201d phase, which likely has an important role in the evolution of galaxies. Choice A is incorrect. Although this choice mentions the Aspera mission, names its leader, and generally states the mission\u2019s purpose, it does not reference the \u201cwarm-hot\u201d gas or fully convey the reason why the Aspera mission is significant. Choice B is incorrect. Although this choice mentions the \u201cwarm-hot\u201d gas that makes up a portion of the CGM, it does not reference the Aspera mission or describe its importance. The text also does not mention that galaxies surrounded by the CGM have been studied. Choice C is incorrect. Although this choice describes a problem related to the CGM that researchers have been attempting to solve and presents the speculation of those researchers, it does not mention the Aspera mission or describe its purpose."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "f8befe75",
+        "Prompt": "Which choice best describes the main idea of the text?",
+        "Paragraph": "Many intellectual histories of the Black Power movement of the 1960s and 1970s rely heavily on essays and other explicitly ideological works as primary sources, a tendency that can overrepresent the perspectives of a small number of thinkers, most of whom were male. Historian Ashley D. Farmer has shown that expanding the array of primary sources to encompass more types of print material\u2014including political cartoons, advertisements, and artwork\u2014leads to a much better understanding of the movement and the crucial and diverse roles that Black women played in shaping it.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Farmer\u2019s methods and research have enriched the historical understanding of the Black Power movement and Black women\u2019s contributions to it.",
+            "Before Farmer\u2019s research, historians had largely ignored the intellectual dimensions of the Black Power movement.",
+            "Other historians of the Black Power movement have criticized Farmer\u2019s use of unconventional primary sources.",
+            "The figures in the Black Power movement whom historians 10d to cite would have agreed with Farmer\u2019s conclusions about women\u2019s roles in the movement."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. It best describes the main idea of the text. The text starts by saying that historians of the Black Power movement are too reliant on openly ideological works, which were written mostly by men, as sources. The text then describes Farmer\u2019s research: she has shown that including other kinds of sources leads to a better understanding of the Black Power movement and the role Black women played in it. Choice B is incorrect. This doesn\u2019t describe the main idea of the text. In fact, it conflicts with the text. The text says that historians have relied on \"essays and other explicitly ideological works,\" which suggests that they have studied at least some of the intellectual dimensions of the Black Power movement. Choice C is incorrect. This doesn\u2019t describe the main idea of the text. The text never mentions how other historians of the Black Power movement view Farmer\u2019s use of unconventional sources. In fact, the text itself argues in favor of Farmer\u2019s research, claiming that it has led to a \"much better understanding of the movement.\" Choice D is incorrect. This doesn\u2019t describe the main idea of the text. The text never mentions what any figures in the Black Power movement thought about women\u2019s roles in the movement."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "3f05e40f",
+        "Prompt": "Which choice best states the text\u2019s main idea about Hunt?",
+        "Paragraph": "In many of his sculptures, artist Richard Hunt uses broad forms rather than extreme accuracy to hint at specific people or ideas. In his first major work,\nArachne\n(1956), Hunt constructed the mythical character Arachne, a weaver who was changed into a spider, by welding bits of steel together into something that, although vaguely human, is strange and machine-like. And his large bronze sculpture\nThe Light of Truth\n(2021) commemorates activist and journalist Ida B. Wells using mainly flowing, curved pieces of metal that create stylized flame.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He of10 depicts the subjects of his sculptures using an unrealistic style.",
+            "He uses different kinds of materials depending on what kind of sculpture he plans to create.",
+            "He 10ds to base his art on important historical figures rather than on fictional characters.",
+            "He has altered his approach to sculpture over time, and his works have become increasingly abstract."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately states the main idea of the text. According to the text, many of Richard Hunt\u2019s sculptures \u201cuse broad forms rather than extreme accuracy\u201d\u2014in other words, they are more abstract than realistic. To illustrate Hunt\u2019s abstract approach, the text characterizes his sculpture of Arachne as \u201cvaguely human\u201d and his work in honor of Ida B. Wells as \u201cusing mainly flowing, curved pieces of metal that create stylized flame.\u201d Thus, the main idea is that Hunt often depicts the subjects of his sculptures using an unrealistic style. Choice B is incorrect. Although the text indicates that one of Hunt\u2019s sculptures is made of steel and another of bronze, there is no mention of why he chose these materials. Choice C is incorrect because the text says nothing about how Hunt chose the subjects for his sculptures. Furthermore, of the two examples provided in the text, only Ida B. Wells is an important historical figure; Arachne is a \u201cmythical character.\u201d Choice D is incorrect because the text says nothing about how Hunt\u2019s style changed over time. In fact, although the two examples of Hunt\u2019s work discussed in the text were created 65 years apart, they are both described as heavily stylized rather than realistic, which may suggest that some aspects of Hunt\u2019s style haven\u2019t changed over that time."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "de0a5b4e",
+        "Prompt": "According to the text, what challenge did the researchers have to overcome to examine the glyphs?",
+        "Paragraph": "In 2022, researchers rediscovered ancient indigenous glyphs, or drawings, on the walls of a cave in Alabama. The cave\u2019s ceiling was only a few feet high, affording no position from which the glyphs, being as wide as ten feet, could be viewed or photographed in their entirety. However, the researchers used a technique called photogrammetry to assemble numerous photos of the walls into a 3D model. They then worked with representatives of tribes originally from the region, including the Chickasaw Nation, to understand the significance of the animal and humanoid figures adorning the cave.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The cave was so remote that the researchers couldn\u2019t easily reach it.",
+            "Some of the glyphs were so faint that they couldn\u2019t be photographed.",
+            "The researchers were unable to create a 3D model of the cave.",
+            "The cave\u2019s dimensions prevented the researchers from fully viewing the glyphs."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The text describes the very low ceiling of the cave, making it impossible to photograph the very wide glyphs all at once. Choice A is incorrect. The text doesn\u2019t say this. It never suggests that the cave was remote or difficult to access, just that the cave itself was difficult to photograph well. Choice B is incorrect. The text doesn\u2019t say this. The glyphs were so wide that they couldn\u2019t be photographed completely. Choice C is incorrect. The text states the opposite of this. The researchers \u201cused a technique called photogrammetry to assemble numerous photos of the walls into a 3D model.\u201d"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "16025337",
+        "Prompt": "What is the main idea of the text?",
+        "Paragraph": "The following text is adapted from William Shakespeare\u2019s 1609 poem \u201cSonnet 27.\u201d The poem is addressed to a close friend as if he were physically present.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The speaker is asleep and dreaming about traveling to see the friend.",
+            "The speaker is planning an upcoming trip to the friend\u2019s house.",
+            "The speaker is too fatigued to continue a discussion with the friend.",
+            "The speaker is thinking about the friend instead of immediately falling asleep."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer it most accurately states the main idea of the text. The speaker describes going to bed for \u201crepose\u201d (rest) but finding that his thoughts are focused on the friend the speaker is addressing, and the thoughts are keeping the speaker awake. Choice A is incorrect because the speaker isn\u2019t asleep; the thoughts about the friend are keeping the speaker awake. Choice B is incorrect because the speaker isn\u2019t talking about taking a literal trip; rather, the speaker uses the metaphor of a journey to describe internal thoughts. Choice C is incorrect because\u00a0the speaker isn\u2019t having a discussion with the friend."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "659c6c1d",
+        "Prompt": "According to the text, why does Bill regularly ask about \u201cseafaring men\u201d?",
+        "Paragraph": "The following text is adapted from Robert Louis Stevenson\u2019s 1883 novel\nTreasure Island\n. Bill is a sailor staying at the Admiral Benbow, an inn run by the narrator\u2019s parents.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He\u2019s hoping to find an old friend and fellow sailor.",
+            "He\u2019s trying to secure a job as part of the crew on a new ship.",
+            "He isn\u2019t sure that other guests at the inn will be welcoming of sailors.",
+            "He doesn\u2019t want to encounter any other sailor unexpectedly."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The narrator says that, at first, they thought Bill asked regularly about other seafarers because he wanted their company, but eventually they realized that Bill actually wanted to avoid them. Choice A is incorrect. This isn\u2019t the reason the text gives for why Bill regularly asks about \u201cseafaring men.\u201d The narrator says that, at first, they thought Bill asked regularly about other seafarers because he wanted their company, but eventually they realized that Bill wanted to avoid them. Choice B is incorrect. This isn\u2019t the reason the text gives for why Bill regularly asks about \u201cseafaring men.\u201d The narrator says that, at first, they thought Bill asked regularly about other seafarers because he wanted their company, but eventually they realized that Bill wanted to avoid them. Choice C is incorrect. This isn\u2019t the reason the text gives for why Bill regularly asks about \u201cseafaring men.\u201d The narrator says that, at first, they thought Bill asked regularly about other seafarers because he wanted their company, but eventually they realized that Bill wanted to avoid them."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "db2da2bf",
+        "Prompt": "Based on the text, which choice best describes the moon with the eccentric orbit?",
+        "Paragraph": "In 2019, 20 previously unknown moons were confirmed to be orbiting Saturn. Three of the moons have prograde orbits (orbiting in the direction the planet spins), and the other 17 have retrograde orbits (orbiting in the opposite direction of the planet\u2019s spin). All but one of the 20 moons are thought to be remnants of bodies that orbited Saturn until they broke apart in collisions. Although the one exceptional moon orbits in the same direction as the planet\u2019s spin, its orbit is highly eccentric compared to the rest, which may suggest that it has a different origin than the other 19 moons.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It doesn\u2019t have a retrograde orbit, but it likely has the same origin as the moons with retrograde orbits.",
+            "Its orbit is so tilted with respect to the other moons\u2019 orbits that it\u2019s neither prograde nor retrograde.",
+            "It has a prograde orbit that is likely the result of having collided with another body orbiting Saturn.",
+            "It has a prograde orbit and may not be a remnant of an earlier body that orbited Saturn."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately describes the moon with the eccentric orbit. The text indicates that three of the 20 newly discovered moons have prograde orbits, meaning that they orbit Saturn in the same direction as the planet\u2019s spin, while the other 17 moons have retrograde orbits, meaning that they orbit Saturn in the opposite direction of the planet\u2019s spin. The text then states that 19 of the 20 moons appear to be the remains of earlier bodies that orbited Saturn but were broken apart in collisions. The one exception is a moon that orbits Saturn in the same direction as the planet\u2019s spin, meaning that the exceptional moon\u2019s orbit is prograde. The text goes on to state that the exceptional moon\u2019s orbit is so eccentric that the moon may have formed through a different process than the other 19 moons. The moon with the eccentric orbit, therefore, has a prograde orbit and may not be a remnant of an earlier body that orbited Saturn. Choice A is incorrect because nothing in the text supports the idea that the moon with the eccentric orbit likely has the same origin as the moons with retrograde orbits. Although it\u2019s true that the moon has a prograde orbit (and thus doesn\u2019t have a retrograde orbit), the only information the text provides about the moon\u2019s origin is that it may be different than the origin of the other 19 moons. Choice B is incorrect because the text states that the moon in question orbits Saturn in the same direction as the planet\u2019s spin, meaning that the moon\u2019s orbit is prograde, not that its orbit is neither prograde nor retrograde. Choice C is incorrect because the text merely notes that the moon in question has a prograde orbit without giving any indication of what likely caused that orbit."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "d5c2a4d4",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Guy de Maupassant\u2019s nineteenth-century short story \u201cThe Trip of Le Horla\u201d (translated by Albert M. C. McMaster, A. E. Henderson, Mme. Quesada, et al.). The narrator is part of a group traveling in a hot-air balloon at night.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The narrator feels a growing sense of isolation even though his companions are nearby during the balloon ride.",
+            "The narrator and his companions are completely absorbed in the change in perspective they gain while riding in the balloon.",
+            "The narrator and his companions are troubled by the disorienting effects of the altitude while riding in the balloon.",
+            "The narrator is pleasantly surprised by his companions\u2019 unrestrained enthusiasm about the sensation of riding in the balloon."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it most accurately states the main idea of the text. The narrator describes the view he and his companions have from the balloon: the earth lies beneath \"milky vapors,\" and the balloon itself looks like another moon. The narrator goes on to explain how the people riding in the balloon are affected by the ride, explaining that they are immersed in the experience: floating along in \"delicious inertia,\" or inactivity, like \"silent, joyous, irresponsible beings.\" Thus, the main idea is that the narrator and his companions are completely absorbed in the change in perspective they gain while riding in the balloon. Choice A is incorrect because the narrator never describes himself as feeling isolated from his companions; instead, he characterizes riding in the balloon as an experience he is sharing with them. And although he does imply a sense of isolation, it is isolation from those on the ground, as when he says of himself and his companions, \"We are now alone.\" Choice C is incorrect because the narrator doesn\u2019t suggest that he or his companions are troubled by the effects of the balloon ride. Instead, he describes himself and his companions as \"joyous\" and the experience of floating in the balloon as \"delicious.\" Choice D is incorrect because nothing in the text suggests that the narrator is surprised by his companions\u2019 response to the balloon ride. In fact, the text indicates that the narrator and his companions are having the same experience: they\u2019re described as \"silent\" and \"motionless,\" rather than as having unrestrained enthusiasm."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "6675c5c3",
+        "Prompt": "According to the text, why does the narrator consult some family photographs?",
+        "Paragraph": "The following text is from Shyam Selvadurai\u2019s 1994 novel\nFunny Boy.\nThe seven-year-old narrator lives with his family in Sri Lanka. Radha Aunty is the narrator\u2019s aunt.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He wants to use the photographs as inspiration for a story he is writing.",
+            "He is curious about how his father dressed a long time ago.",
+            "He hopes the photographs will help him recall what his aunt looked like.",
+            "He wants to remind his aunt of an event that is shown in an old photograph."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The text states that the narrator couldn\u2019t remember what his Radha Aunty looked like, so he went to look at the family photographs she was in. Choice A is incorrect. There\u2019s no mention of any story that the narrator is writing. Rather, we\u2019re told that the narrator couldn\u2019t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice B is incorrect. The text doesn\u2019t mention how the narrator\u2019s father dressed. Rather, we\u2019re told that the narrator couldn\u2019t remember what his aunt looked like, so he went to look at the family photographs she was in. Choice D is incorrect. The text doesn\u2019t mention any events shown in the photographs. Rather, we\u2019re told that the narrator couldn\u2019t remember what his aunt looked like, so he went to look at the family photographs she was in."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "ad680167",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The recovery of a 1,000-year-old Chinese shipwreck in the Java Sea near present-day Indonesia has yielded a treasure trove of artifacts, including thousands of small ceramic bowls. Using a portable X-ray fluorescence analyzer tool, Lisa Niziolek and her team were able to detect the chemical composition of these bowls without damaging them. By comparing the chemical signatures of the bowls with those of the materials still at old Chinese kiln sites, Niziolek and her team can pinpoint which Chinese kilns likely produced the ceramic bowls.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Because of a new technology, researchers can locate and recover more shipwrecks than they could in the past.",
+            "Researchers have been able to identify the location of a number of Chinese kilns in operation 1,000 years ago.",
+            "With the help of a special tool, researchers have determined the likely origin of bowls recovered from a shipwreck.",
+            "Before the invention of portable X-ray fluorescence, researchers needed to take a small piece out of an artifact to analyze its comp1nts."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it most accurately states the main idea of the text. According to the text, thousands of ceramic bowls were found in a recovered Chinese shipwreck. The text goes on to say that Niziolek and her team used a special tool, a portable X-ray fluorescence analyzer, to determine the bowls\u2019 chemical signatures. Comparing these chemical signatures with the chemical signatures of materials they had collected from old Chinese kiln sites, the text says, allowed the researchers to identify which kilns had produced the bowls. In other words, the researchers determined the bowls\u2019 origin. Choice A is incorrect. Although the text indicates that the researchers used technology in the form of a portable X-ray fluorescence analyzer, it doesn\u2019t specifically state that this technology is new. In addition, the text says that Niziolek and her team used the tool to determine the chemical composition of bowls that were found in a Chinese shipwreck, not to locate and recover the shipwreck itself. There\u2019s no indication in the text that a new technology can help researchers locate and recover shipwrecks. Choice B is incorrect because the text indicates that the researchers collected materials from old kiln sites for chemical comparison with the ceramic bowls, which means that the researchers must have already known the location of those kiln sites. Rather than identifying the location of the kilns, the researchers determined which kilns in operation 1,000 years ago had likely produced the bowls that were found in the shipwreck.\n\u00a0Choice D is incorrect. Although the text says that using a portable X-ray fluorescence analyzer tool enabled Niziolek and her team to analyze artifacts in the form of ceramic bowls without damaging them, the text doesn\u2019t discuss how researchers analyzed artifacts before this tool was invented. Moreover, the point that the bowls were left undamaged isn\u2019t the text\u2019s main idea. Rather, it\u2019s a detail that\u2019s provided to develop the main idea, which is that the researchers used a special tool to determine where the bowls had been produced."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "adbcbce0",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Christina Rossetti\u2019s 1881 poem \u201cMonna Innominata 2.\u201d",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The speaker celebrates how the passage of time has strengthened a relationship that once seemed unimportant.",
+            "Because the speaker did not anticipate how important a relationship would become, she cannot recall how the relationship began, which she regrets.",
+            "As the anniversary of the beginning of an important relationship approaches, the speaker feels conflicted about how best to commemorate it.",
+            "After years of neglecting a once valuable relationship, the speaker worries it may be too late for her to salvage the relationship."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The speaker says that they wish they could remember when they first met someone, but they can\u2019t remember the meeting at all, because they didn\u2019t know at the time that the relationship would \"blossom\" later on. Choice A is incorrect. The speaker does say that the relationship has \"blossomed\" over time, but only briefly at the end\u2014and they don\u2019t really \"celebrate\" that fact. Rather, the text has a more regretful tone: it\u2019s about how the speaker can\u2019t remember first meeting this person, and they wish they could. Choice C is incorrect. The speaker doesn\u2019t mention an anniversary\u2014in fact, the speaker can\u2019t remember when they met the person they\u2019re talking about. Choice D is incorrect. The speaker doesn\u2019t say that they neglected the relationship. In fact, the speaker suggests that the relationship has become very important to them\u2014that\u2019s why the speaker wishes that they could remember their first meeting."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "b7f79059",
+        "Prompt": "Based on the text, in what way is the human mind like a flower?",
+        "Paragraph": "The following text is from Ezra Pound\u2019s 1909 poem \u201cHymn III,\u201d based on the work of Marcantonio Flaminio.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It becomes increasingly vigorous with the passage of time.",
+            "It draws strength from changes in the weather.",
+            "It requires proper nourishment in order to thrive.",
+            "It perseveres despite challenging circumstances."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it presents a description of how the human mind is like a flower that is directly supported by the text. The text compares the needs of a \u201cfragile and lovely flower\u201d to those of the speaker\u2019s \u201ctender mind\u201d: both need to be fed if they\u2019re going to survive. Without such feeding, they\u2019ll \u201cbeginneth straightway to languish,\u201d or weaken. Thus, the text suggests that the human mind is like a flower in that they both need proper nourishment in order to thrive. Choice A is incorrect because the text doesn\u2019t address the passage of time or describe either the human mind or a flower as becoming increasingly vigorous.\u00a0Choice B is incorrect because the text doesn\u2019t suggest that human minds or flowers draw strength from changes in weather. The references to rain in the text pertain to a flower\u2019s need for water rather than the general effects of changing weather.\u00a0Choice D is incorrect because\u00a0the text doesn\u2019t suggest that the human mind or a flower will persist regardless of challenging circumstances. In fact, the text indicates that they\u2019ll both languish right away if not given what they need."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "5eda42a3",
+        "Prompt": "Which choice best states the main purpose of the text?",
+        "Paragraph": "The following text is from Maggie Pogue Johnson\u2019s 1910 poem \u201cPoet of Our Race.\u201d In this poem, the speaker is addressing Paul Laurence Dunbar, a Black author.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "To praise a certain writer for being especially perceptive regarding people and nature",
+            "To establish that a certain writer has read ex10sively about a variety of topics",
+            "To call at10tion to a certain writer\u2019s careful and elaborately detailed writing process",
+            "To recount fond memories of an afternoon spent in nature with a certain writer"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately states the main purpose of the text. In the first part of the text, the speaker addresses Paul Laurence Dunbar\u2019s ability to understand people (he has \u201cread the hearts and souls of men\u201d and written of their \u201cjoy and mirth\u201d). In the second part of the text, the speaker describes Dunbar\u2019s thorough understanding of the natural world (he has read \u201cthe language of the flowers\u201d and engaged with \u201cthe little brook\u201d). Thus, the text mainly praises Dunbar for being especially perceptive about people and nature. Choice B is incorrect because the speaker describes Dunbar as having read the \u201chearts and souls of men\u201d and the \u201clanguage of flowers\u201d to convey Dunbar\u2019s ability to comprehend people and nature, not to suggest that Dunbar has literally read any of these things or has read a great deal about them. Choice C is incorrect because the text notes how well Dunbar has made sense of the topics he\u2019s written about but doesn\u2019t address any specific parts of Dunbar\u2019s writing process beyond the suggestion that he used a pen. Choice D is incorrect because the text focuses on Dunbar\u2019s understanding of people and nature as expressed in his writing. Nothing in the text suggests that the speaker is recalling a particular afternoon actually spent in nature with Dunbar; even if there had been a shared experience, the text isn\u2019t focused on reminiscing."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "0b696a0c",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "NASA\u2019s\nCassini\nprobe has detected an unusual wobble in the rotation of Mimas, Saturn\u2019s smallest moon. Using a computer model to study Mimas\u2019s gravitational interactions with Saturn and tidal forces, geophysicist Alyssa Rhoden and colleagues have proposed that this wobble could be due to a liquid ocean moving beneath the moon\u2019s icy surface. The researchers believe other moons should be examined to see if they too might have oceans hidden beneath their surfaces.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Rhoden and colleagues were the first to confirm that several of Saturn\u2019s moons contain hidden oceans.",
+            "Research has failed to identify signs that there is an ocean hidden beneath the surface of Mimas.",
+            "Rhoden and colleagues created a new computer model that identifies moons with hidden oceans without needing to analyze the moons\u2019 rotation.",
+            "Research has revealed that an oddity in the rotation of Mimas could be explained by an ocean hidden beneath its surface."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The study isn\u2019t definitive, but it says that Mimas\u2019s wobbly rotation could be explained by the hidden ocean. Choice A is incorrect. This choice goes too far beyond the information in the text. Rhoden\u2019s team proposed that one moon of Saturn could have a liquid ocean beneath its surface, and that other moons should also be examined, but no one has confirmed anything. Choice B is incorrect. This choice conflicts with the text. Research has \u00a0identified at least one sign\u2014the unusual wobble in Mimas\u2019s rotation\u2014that might be due to a hidden ocean beneath its surface.\u00a0Choice C is incorrect. This choice doesn\u2019t reflect the text. The computer model studies \u201cgravitational interactions,\u201d which seem to account for the wobbly rotation of Mimas."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "3a1f02b0",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Frances Hodgson Burnett\u2019s 1911 novel\nThe Secret Garden\n. Mary, a young girl, recently found an overgrown hidden garden.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Mary hides in the garden to avoid doing her chores.",
+            "Mary is getting bored with pulling up so many weeds in the garden.",
+            "Mary is clearing out the garden to create a space to play.",
+            "Mary feels very satisfied when she\u2019s taking care of the garden."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately states the main idea of the text. The text describes Mary\u2019s activities in an overgrown hidden garden, saying that she was \u201cvery much absorbed\u201d and was \u201conly becoming more pleased with her work every hour\u201d rather than getting tired of it. She also thinks of garden activities as a \u201cfascinating sort of play.\u201d Thus, the main idea of the text is that Mary feels very satisfied when taking care of the garden. Choice A is incorrect because the text never makes any mention of Mary\u2019s chores. Choice B is incorrect because the text indicates that Mary finds pulling up weeds to be fascinating, not boring. Choice C is incorrect because Mary thinks of garden activities in and of themselves as play, not as something necessary to do to create a space to play."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "23a7038f",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Shimmering is a collective defense behavior that researchers have observed in giant honeybee colonies. When shimmering, different groups of bees flip their bodies up and down in what looks like waves. This defense is initiated when hornets hover near a colony, serving to deter the hornets from approaching the bees. Researchers hypothesize that this behavior is a specialized defense response to hornets, as it is not observed when other, larger predators approach the colony.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Researchers are unsure how giant h1ybees defend against predators larger than hornets.",
+            "Researchers think that shimmering in giant h1ybees is a specific defense against hornets.",
+            "Hornets are known to be the main predator of giant h1ybees.",
+            "Several different species of insects use shimmering to defend against hornets."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text describes a study about how giant honeybees use shimmering to defend against hornets, but not other predators. The researchers conclude that shimmering could be a specialized defense response to hornets. Choice A is incorrect. The text says that giant honeybees don\u2019t appear to use shimmering against other, larger predators. However, it never suggests that researchers don\u2019t know which other defenses giant honeybees do use for those predators. Choice C is incorrect. The text says that hornets are one predator of giant honeybees, but it doesn\u2019t say that hornets are the main predator of giant honeybees. This choice also fails to mention \u201cshimmering,\u201d which is a major focus of the text. Choice D is incorrect. The text only discusses the shimmering of giant honeybees\u2014it doesn\u2019t discuss other insects\u2019 defense responses at all."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "7921b86b",
+        "Prompt": "According to the text, what is 1 reason Moejoh and others founded U-recycle Initiative Africa?",
+        "Paragraph": "Oluwaseyi Moejoh cofounded U-recycle Initiative Africa when she was only a teenager. Moejoh and her team founded the organization to teach young people how their actions affect the environment and why recycling is important. For example, the organization put on an exhibit of art made using recycled materials.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "To bring at10tion to overlooked African artists",
+            "To teach young people why recycling is important",
+            "To help adults gain important outdoor skills",
+            "To give teenagers advice about starting businesses"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer because it describes a reason that Moejoh and team founded U-recycle Initiative Africa. The text mentions two reasons the initiative was founded: to teach young people about how they affect the environment and to teach them \u201cwhy recycling is important.\u201d Thus, teaching the importance of recycling to young people accurately describes a motivation that the text cites as a reason for the initiative\u2019s founding. Choice A is incorrect. Although art is mentioned in the text, there are no details about artists or whether they are being overlooked. Choice C is incorrect because the text is explicitly about young people and their relationship to the environment and recycling. There is no mention of adults or outdoor skills. Choice D is incorrect. Although the text discusses young people, which likely includes teenagers, there is no mention of starting businesses."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "95146ebb",
+        "Prompt": "What does the text indicate about the discovery of the sandal?",
+        "Paragraph": "The ice melted on a Norwegian mountain during a particularly warm summer in 2019, revealing a 1,700-year-old sandal to a mountaineer looking for artifacts. The sandal would normally have degraded quickly, but it was instead well preserved for centuries by the surrounding ice. According to archaeologist Espen Finstad and his team, the sandal, like those worn by imperial Romans, wouldn\u2019t have offered any protection from the cold in the mountains, so some kind of insulation, like fabric or animal skin, would have needed to be worn on the feet with the sandal.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Temperatures contributed to both protecting and revealing the sandal.",
+            "The discovery revealed that the Roman Empire had more influence on Norway than archaeologists previously assumed.",
+            "Archaeologists would have found the sandal eventually without help from the general public.",
+            "The sandal would have degraded if it hadn\u2019t been removed from the ice."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. A \"particularly warm summer\" revealed the sandal, and centuries of ice kept it \"well preserved.\" Choice B is incorrect. This choice doesn\u2019t reflect the information in the text. The sandal is similar to Roman sandals, but there is no indication that it was a result of Roman influence. Choice C is incorrect. The text doesn\u2019t support this choice. We don\u2019t have enough information to know whether or not archaeologists would have found the sandal without people like the treasure-hunting mountaineer. Choice D is incorrect. The text says the opposite of this choice. The sandal was preserved by the ice for centuries."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "d2e0cba5",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "In a study of new technology adoption, Davit Marikyan et al. examined negative disconfirmation (which occurs when experiences fall short of one\u2019s expectations) to determine whether it could lead to positive outcomes for users. The team focused on established users of\u00a0 \u201csmart home\u201d technology, which presents inherent utilization challenges but tends to attract users with high expectations, often leading to feelings of dissonance. The researchers found that many users employed cognitive mechanisms to mitigate those feelings, ultimately reversing their initial sense of disappointment.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Research suggests that most users of smart home technology will not achieve a feeling of satisfaction given the utilization challenges of such technology.",
+            "Although most smart home technology is aimed at meeting or exceeding users\u2019 high expectations, those expectations in general remain poorly understood.",
+            "Research suggests that users with high expectations for a new technology can feel con10t with that technology even after experiencing (-) disconfirmation.",
+            "Although (-) disconfirmation has of10 been studied, little is known about the cognitive mechanisms shaping users\u2019 reactions to it in the context of new technology adoption."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer. The passage begins by describing the study, and concludes with its results: \"many users employed cognitive mechanisms to mitigate those feelings [of negative disconfirmation].\" Choice A is incorrect. This is the opposite of what the text claims. Rather, the researchers found that \"many users\" reversed \"their initial sense of disappointment.\" Choice B is incorrect. This choice doesn\u2019t reflect the text. What the expectations of smart home tech users are is not discussed. Choice D is incorrect. This choice doesn\u2019t reflect the text. How often these topics have been studied is not mentioned."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "7ffae38a",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is adapted from Jack London\u2019s 1903 novel\nThe Call of the Wild\n. Buck is a sled dog living with John Thornton in Yukon, Canada.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Buck has become less social since he began living with Thornton.",
+            "Buck mistrusts humans and does his best to avoid them.",
+            "Buck has been especially well liked by most of Thornton\u2019s friends.",
+            "Buck holds Thornton in higher regard than any other person."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it most accurately states the main idea of the text. After establishing that Buck views most people \u201cas nothing,\u201d the text explains that Buck won\u2019t acknowledge people other than Thornton unless they appear friendly toward Thornton, and even then he\u2019s only reluctantly accepting. Thus, the text focuses on the idea that Thornton has a special status in Buck\u2019s mind, with Buck holding him in higher regard than other people. Choice A is incorrect because the text conveys that Buck isn\u2019t social with people other than Thornton but doesn\u2019t address Buck\u2019s life or temperament before he lived with Thornton. Choice B is incorrect because the text conveys that Buck doesn\u2019t really care about people other than Thornton and is aloof toward them. However, there\u2019s no indication that Buck mistrusts and avoids people generally; indeed, he accepts Thornton, who is a human. Choice C is incorrect because the text refers to random travelers praising and petting Buck and Thornton\u2019s partners giving Buck favors, but there\u2019s no indication that any of these people are Thornton\u2019s friends or that they have a particular fondness for Buck."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "409058ee",
+        "Prompt": "Which choice best states the text\u2019s main idea?",
+        "Paragraph": "To protect themselves when being attacked, hagfish\u2014jawless marine animals that resemble eels\u2014will release large quantities of slimy, mucus-like threads. Because these threads are unusually strong and elastic, scientist Atsuko Negishi and her colleagues have been trying to recreate them in a lab as an eco-friendly alternative to petroleum-based fibers that are often used in fabrics. The researchers want to reproduce the threads in the lab because farming hagfish for their slime would be expensive and potentially harmful to the hagfish.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "The slimy threads that hagfish release might help researchers create a new kind of fabric.",
+            "Hagfish have inspired researchers to develop a new petroleum-based fabric.",
+            "Hagfish are not well suited to being raised in captivity.",
+            "The ability of hagfish to slime their attackers compensates for their being jawless."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The text first describes hagfish slime and its properties, then it transitions to talking about the possibilities of using lab-made equivalents to use in eco-friendly fabrics. Choice B is incorrect. The text says the opposite of this choice. The researchers are developing an alternative to petroleum-based fabric. Choice C is incorrect. This choice is too narrow to be the main point of the text. Only one line describes how farming would be \u201cpotentially harmful\u201d to the hagfish. Choice D is incorrect. This choice isn\u2019t supported by the text. We don\u2019t know from the text whether being jawless makes the hagfish more vulnerable."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "7c9a65bb",
+        "Prompt": "Based on the text, what is 1 advantage of attaching glass beads to particles when using optical tweezers?",
+        "Paragraph": "Optical tweezers are specialized scientific tools\u2014particularly useful in biology and medicine\u2014that use high-powered beams of light to trap and manipulate minuscule particles for study. Use of the tool has led to several scientific and medical breakthroughs over the last few decades, but the particles are often under prolonged exposure to the intense heat of the light beams. To overcome the risk of overheating, and thereby damage, researchers sometimes attach nano-sized glass beads to particles, allowing the light to focus on the beads instead of the particles.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "It decreases the time it takes for the optical tweezers to locate and capture the particles.",
+            "It facilitates the maneuvering of particles without directly heating the particles themselves.",
+            "It allows researchers to use weaker light beams to manipulate particles.",
+            "It adds a material to which particles can transfer any heat absorbed from the optical tweezers\u2019 light beam."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The text says that the glass beads get the \"focus\" of the light beams so that the particles don\u2019t overheat. From this, we can infer that the beads allow the particles to be manipulated without being directly heated by the light beams. Choice A is incorrect. The text never says that attaching the glass beads saves time in any way. Choice C is incorrect. The text never says that attaching the glass beads allows researchers to use weaker light beams. Choice D is incorrect. The text doesn\u2019t say that the particles can transfer heat to the glass beads\u2014rather, it says the heat from the light focuses on the glass beads instead of the particles."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "b62cb782",
+        "Prompt": "Which choice best describes the main idea of the text?",
+        "Paragraph": "Culinary anthropologist Vertamae Smart-Grosvenor may be known for her decades of work in national public television and radio, but her book\nVibration Cooking: or, the Travel Notes of a Geechee Girl\nis likely her most influential project. The 1970 book, whose title refers to Smart-Grosvenor\u2019s roots in the Low Country of South Carolina, was unusual for its time. It combined memoir, recipes, travel writing, and social commentary and challenged notions about conventions of food and cooking. Long admired by many, the book and its author have shaped contemporary approaches to writing about cuisine.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Smart-Grosvenor\u2019s unconventional bookVibration Cooking: or, the Travel Notes of a Geechee Girlis an important contribution to food writing.",
+            "Smart-Grosvenor held many different positions over her life, including reporter and food writer.",
+            "Smart-Grosvenor\u2019s groundbreaking bookVibration Cooking: or, the Travel Notes of a Geechee Girldidn\u2019t receive the praise it deserved when it was first published in 1970.",
+            "Smart-Grosvenor was a talented chef whose work inspired many people to start cooking for themselves."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it most accurately states the main idea of the text. The text describes the book Vibration Cooking: or, the Travel Notes of a Geechee Girl as Smart-Grosvenor\u2019s \u201cmost influential project\u201d and as \u201cunusual for its time.\u201d The text also notes that the book and author have influenced contemporary approaches to writing about food and cooking. Therefore, the text mainly conveys that Vibration Cooking: or, the Travel Notes of a Geechee Girl is an unconventional and important contribution to food writing. Choice B is incorrect. Although the text mentions that Smart-Grosvenor worked in national public television and radio and was a food writer, these details aren\u2019t the main focus. Rather than focusing on Smart-Grosvenor\u2019s various jobs, the text focuses specifically on one specific book she wrote. Choice C is incorrect. Although the text suggests that Vibration Cooking: or, the Travel Notes of a Geechee Girl was groundbreaking, it doesn\u2019t suggest that the book didn\u2019t receive praise when it was published. In fact, the text states that the book is \u201clong admired.\u201d\u00a0Choice D is incorrect because the text states that Smart-Grosvenor was a culinary anthropologist and that her book influenced later approaches to food writing but doesn\u2019t indicate that Smart-Grosvenor or her book influenced people to begin cooking for themselves."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "dc5edbf6",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Microplastics are pieces of plastic that are smaller than a grain of rice. These small plastics can be found in large quantities in ocean waters. Ecologist Jessica Reichert and her team are studying the role reef-building corals have in capturing microplastics from ocean waters. Through research, her team has found that these corals may be storing up to 20 million kilograms of microplastics each year in their skeletons and tissues.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Ecologists are interested in learning more about how certain corals build large reefs.",
+            "Questions remain around the impact certain corals have on ocean ecosystems.",
+            "Microplastics are small pieces of plastic that can be found in ocean waters.",
+            "Ecologists predict that corals store large amounts of microplastics from ocean waters."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The text describes a study about how reef-building corals capture microplastics from ocean waters, which found that these corals are storing 20 million kilograms of microplastics in their skeletons and tissues. Choice A is incorrect. While the researchers are studying \u201creef-building corals,\u201d the focus of their study isn\u2019t how the corals build the reefs. Rather, they\u2019re studying how corals may be storing microplastics from ocean waters. Choice B is incorrect. The text doesn\u2019t mention any unanswered questions about the impact of corals on ocean ecosystems\u2014rather, the study assesses one interaction between corals and microplastics. Choice C is incorrect. The text does say this, but it\u2019s a detail\u2014not the main idea. The main idea of the text is about the study that found that corals may be storing microplastics from ocean waters in their skeletons and tissues."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "d8758c3b",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Psychologists wanted to test how young children think about rewards and fairness. In an experiment, two teachers handed out rewards while children (ages four to six) watched. The teachers gave out the same number of rewards, but one of them counted the rewards out loud. The children were then asked who was fairer. 73% chose the teacher who counted. The psychologists think that counting showed the children that the teacher wanted to be fair. The children may have believed that the teacher who did not count did not care about fairness.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Psychologists think children cannot understand the concept of fairness until they are 6 years old.",
+            "An experiment found that counting out loud is the best way to teach mathematical concepts to children.",
+            "Psychologists think young children expect to be rewarded when the children show that they care about fairness.",
+            "An experiment showed that the way rewards are given out may affect whether young children think the situation is fair."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer. The text describes a study assessing how children think of rewards and fairness and its results. It concludes that the children in the study may have thought that a teacher who counted out loud when giving rewards cared more about fairness than a teacher who did not count out loud. Choice A is incorrect. The children in the study are described as being \u201cfour to six,\u201d and the text doesn\u2019t mention any differences among the different ages. Choice B is incorrect. The experiment wasn\u2019t about teaching math\u2014rather, it was about how counting out loud affected the children\u2019s perception of fairness. Choice C is incorrect. The experiment doesn\u2019t focus on whether the children care about fairness, and the text never mentions the children\u2019s expectations of being rewarded."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "303537cf",
+        "Prompt": "Based on the text, how does the Lord Chancellor respond to the crowd?",
+        "Paragraph": "The following text is adapted from Lewis Carroll\u2019s 1889 satirical novel\nSylvie and Bruno\n. A crowd has gathered outside a room belonging to the Warden, an official who reports to the Lord Chancellor.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "He asks about the meaning of the crowd\u2019s shouting, even though he claims to know what the crowd wants.",
+            "He indicates a desire to speak to the crowd, even though the crowd has asked to speak to the Sub-Warden.",
+            "He expresses sympathy for the crowd\u2019s demands, even though the crowd\u2019s shouting annoys him.",
+            "He describes the crowd as being united, even though the crowd clearly appears otherwise."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it presents a statement about how the Lord Chancellor responds to the crowd that is supported by the text. The text indicates that the people in the crowd are roaring and shouting \u201cBread!\u201d or \u201cTaxes!\u201d and presents them as not knowing what they really want. The Lord Chancellor\u2019s response is to ask what their shouting means but also to observe that they\u2019re shouting with \u201cunanimity,\u201d or total agreement. Clearly, this isn\u2019t the case, which supports the statement that the Lord Chancellor describes the crowd as being united even though it\u2019s not. Choice A is incorrect because it isn\u2019t supported by the text. Although the text indicates that the Lord Chancellor asks about the meaning of the crowd\u2019s shouting, it doesn\u2019t suggest that he knows what the crowd really wants. Choice B is incorrect because the text doesn\u2019t suggest that the Lord Chancellor wants to speak to the crowd. Furthermore, the text doesn\u2019t indicate that the crowd wants to hear from the Sub-Warden. Although the crowd roars when asked \u201cWho roar for the Sub-Warden?\u201d it\u2019s unclear what the roaring means. Choice C is incorrect because the text doesn\u2019t suggest that the Lord Chancellor knows of or sympathizes with the crowd\u2019s demands. In addition, the text doesn\u2019t indicate that the crowd\u2019s shouting annoys the Lord Chancellor, just that it causes him to keep repeating \u201cWhat can it all mean?\u201d"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "0e3b4967",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Scrapbooks of saved fabric pieces were commonly kept by women in the nineteenth-century United States, but few are as meticulously detailed as Hannah Ditzler Alspaugh\u2019s work. Alongside each piece of fabric, Alspaugh recorded intimate memories, such as dressmaking with her sister. Additionally, she listed the prices and how she used the fabric. Historians note that by representing fifty years of changing textures, patterns, and dress styles, the scrapbook is a record of nineteenth-century textiles and dressmaking as well as Alspaugh\u2019s life.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Alspaugh inspired other women to save pieces of fabric in scrapbooks and provide historical records of 9teenth-century fashions in the United States.",
+            "Historians rely on fabric scrapbooks to understand how fashions changed throughout the 9teenth-century United States.",
+            "Fabric scrapbooks were a popular hobby for many women in the 9teenth-century United States.",
+            "Alspaugh\u2019s scrapbook provides a detailed account of her life and historical record of fashion trends in the 9teenth-century United States."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The text describes how Alspaugh\u2019s scrapbook is both a record of her life and a historical record of nineteenth-century textiles and dressmaking. Choice A is incorrect. The text says that it was common for American women to keep scrapbooks of fabric pieces in the nineteenth century, and it says that Alspaugh was one of these women. However, it never says that other women were inspired by Alspaugh. Choice B is incorrect. This is too general and too strong. The text says that Alspaugh\u2019s scrapbook is a historical record of nineteenth-century textiles and dressmaking, but it never says that historians rely on such scrapbooks in general to understand how fashions changed throughout that time period. This choice also fails to even mention Alspaugh, who is the real focus of the text. Choice C is incorrect. The text does say this, but it\u2019s a detail\u2014not the main idea. The text is mainly about one woman\u2019s scrapbook (Alspaugh\u2019s), and this choice doesn\u2019t even mention her."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Hard",
+        "ID": "a3fb5e77",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "Some animal-behavior studies involve observing wild animals in their natural habitat, and some involve capturing wild animals and observing them in a laboratory. Each approach has advantages over the other. In wild studies, researchers can more easily presume that the animals are behaving normally, and in lab studies, researchers can more easily control factors that might affect the results. But if, for example, the results from a wild study and a lab study of Western scrub-jays (\nAphelocoma californica\n) contradict each other, one or both of the studies must have failed to account for some factor that was relevant to the birds\u2019 behavior.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "When the results of a natural-habitat study and those from a lab study of a wild animal such as the Western scrub-jay conflict, the study in the natural habitat is more likely than the lab study to have accurate results.",
+            "Studying wild animals such as the Western scrub-jay in both their natural habitat and lab settings is likely to yield conflicting results that researchers cannot fully resolve.",
+            "Wild animals such as the Western scrub-jay can be effectively studied in their natural habitat and in the lab, but each approach has drawbacks that could affect the accuracy of the findings.",
+            "Differing results between natural-habitat and lab studies of wild animals such as the Western scrub-jay are a strong indication that both of the studies had design flaws that affected the accuracy of their results."
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is the best answer because it most accurately states the main idea of the text. The text begins by explaining that wild animals can be studied in their natural habitat or in a laboratory setting, with each setting offering unique advantages to researchers. The text then highlights an instance in which Western scrub-jays were studied in both settings but with conflicting results, indicating that one or both studies may have failed to account for the disadvantages of its research setting. Thus, the main idea of the text is that while wild animals can be effectively studied in natural or lab settings, there are drawbacks to each that need to be considered to ensure accurate results. Choice A is incorrect because the text does not position one study setting (natural or lab) as superior to the other; rather, the text states that each one has advantages over the other.\u00a0Choice B is incorrect. The text provides a hypothetical example of two studies in different environments with conflicting results, but this single example cannot be extrapolated to a general claim about the likelihood that results of studies in different environments will conflict. Additionally, the text does not assert anything about how researchers can or cannot resolve conflicting study results. Choice D is incorrect because the text does not state that discrepancies between natural-habitat and lab-based animal behavior studies are due to both of the designs being flawed. Rather, the text states that the conflict in results can be the consequence of one or both of the studies having failed to account for some factor."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "835545cd",
+        "Prompt": "Based on the text, what is true about Mrs. Ochiltree\u2019s acquaintances?",
+        "Paragraph": "The following text is adapted from Charles W. Chesnutt\u2019s 1901 novel\nThe Marrow of Tradition\n.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "They try to refrain from discussing topics that would upset Mrs. Ochiltree.",
+            "They are unable to spend as much time with Mrs. Ochiltree as she would like.",
+            "They are too preoccupied with their own concerns to speak with Mrs. Ochiltree.",
+            "They are likely offended by what Mrs. Ochiltree has said about them."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is the best answer because it presents a statement about Mrs. Ochiltree\u2019s acquaintances that is supported by the text. The text indicates that Mrs. Ochiltree makes comments about her acquaintances that are frank, or direct and blunt, and sometimes startling. It also states that because of this behavior, the acquaintances tend to avoid Mrs. Ochiltree. Together, these details suggest that the acquaintances choose not to be around Mrs. Ochiltree because they are offended by the things she has said about them. Choice A is incorrect because the text doesn\u2019t suggest that Mrs. Ochiltree\u2019s acquaintances avoid discussing topics that would upset Mrs. Ochiltree; instead, it states that they avoid being around Mrs. Ochiltree at all. Choice B is incorrect because the text makes it clear that Mrs. Ochiltree knows her acquaintances often avoid her and is pleased about it (she \u201crather exulted in it\u201d), not that she wants to spend more time with them. Choice C is incorrect because the text doesn\u2019t suggest that Mrs. Ochiltree\u2019s acquaintances don\u2019t speak with Mrs. Ochiltree because they are too focused on their own concerns, but rather because they don\u2019t like the frank comments she makes."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "a842db60",
+        "Prompt": "According to the text, what is significant about Catlett\u2019s use of linocut printing?",
+        "Paragraph": "To make her art more widely available, graphic artist Elizabeth Catlett turned to linocuts. In linocut printing, an artist carves an image into a sheet of linoleum to create a stamp that is used to mass-produce prints. In the linocut series\nThe Black Woman\n(1946\u20131947), Catlett depicts the everyday experiences of Black women alongside the achievements of well-known Black women. This pairing invites the viewer to draw connections among the women. The linocut process enabled Catlett\u2019s work to reach a wide audience and supported her aim to unite Black women through her art.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Linocut printing involved using materials that were readily available to Catlett.",
+            "Linocut printing helped Catlett use art to connect people, especially Black women.",
+            "Catlett became commercially successful once she started using linocut printing.",
+            "Catlett was 1 of the first Black artists to use linocut printing."
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is the best answer. The last sentence states that the linocut process \u201csupported her [Catlett\u2019s] aim to unite Black women through her art.\u201d Choice A is incorrect. The text briefly describes the linocut printing process but doesn\u2019t discuss the availability of the materials used in the process. Choice C is incorrect. The text says that the linocut process \u201cenabled Catlett\u2019s work to reach a wide audience,\u201d but that doesn\u2019t mean that linocuts made her \u201ccommercially successful.\u201d In other words, we don\u2019t know how much money she made off her linocuts\u2014we only know that more people were able to see her work. Choice D is incorrect. The text says that Catlett depicted Black women in her linocuts, but not that she was one of the first Black artists to use linocut printing."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Medium",
+        "ID": "a66f9b8d",
+        "Prompt": "According to the text, how did the researchers determine the level of surprise displayed by the cats in the study?",
+        "Paragraph": "Cats can judge unseen people\u2019s positions in space by the sound of their voices and thus react with surprise when the same person calls to them from two different locations in a short span of time. Saho Takagi and colleagues reached this conclusion by measuring cats\u2019 levels of surprise based on their ear and head movements while the cats heard recordings of their owners\u2019 voices from two speakers spaced far apart. Cats exhibited a low level of surprise when owners\u2019 voices were played twice from the same speaker, but they showed a high level of surprise when the voice was played once each from the two different speakers.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "They watched how each cat moved its ears and head.",
+            "They examined how each cat reacted to the voice of a stranger.",
+            "They studied how each cat physically interacted with its owner.",
+            "They tracked how each cat moved around the room."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer because it explains how the researchers determined the level of surprise displayed by the cats in the study. The text states that Saho Takagi and colleagues played recordings of the voice of each cat\u2019s owner and measured how surprised the cat was by the recording based on how it moved its ears and head. Choice B is incorrect because, as the text explains, the recordings played for each cat in the study were of the voice of the cat\u2019s owner, not a stranger\u2019s voice. Choice C is incorrect because the text explains that during the study, the cats didn\u2019t interact directly with their owners; instead, the cats listened to recordings of their owners\u2019 voices. Choice D is incorrect because the text doesn\u2019t indicate that the researchers monitored the cats\u2019 movement around the room in which the study was conducted."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Reading and Writing",
+        "Domain": "Information and Ideas",
+        "Skill": "Central Ideas and Details",
+        "Difficulty": "Easy",
+        "ID": "1e85caa9",
+        "Prompt": "Which choice best states the main idea of the text?",
+        "Paragraph": "The following text is from Edith Nesbit\u2019s 1902 novel\nFive Children and It\n. Five young siblings have just moved with their parents from London to a house in the countryside that they call the White House.",
+        "Stimulus": "N/A",
+        "Answer Choices": [
+            "Although their parents believe the house has several drawbacks, the children are enchanted by it.",
+            "The children don\u2019t like the house nearly as much as their parents do.",
+            "Each member of the family admires a different characteristic of the house.",
+            "The house is beautiful and well built, but the children miss their old home in London."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is the best answer. The text lists complaints about the house made by the mother and father, but then it says that the children thought the house was a \"Fairy Palace\" and \"Earthly Paradise.\" Choice B is incorrect. The text states the opposite of this. It describes how the mother and father dislike the house and says the children think the house seems like paradise. Choice C is incorrect. This isn\u2019t what the text says. Only the children are said to admire the house; mother and father both complain about the house. Choice D is incorrect. The text states the opposite of this. It tells us the house was ugly and poorly built (\"an architect\u2019s nightmare\") and suggests the children were tired of London."
+    }
+]

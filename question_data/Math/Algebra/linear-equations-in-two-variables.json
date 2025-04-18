@@ -1,0 +1,933 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "002dba45",
+        "Prompt": "Line k is defined by y = - ( 17 / 3 ) x + 5. Line j is perpendicular to line k in the xy - plane. What is the slope of line j?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".1764,  .1765,  3/17",
+        "Rationale": "The correct answer is 3 7teenths . It\u2019s given that line j is perpendicular to line k in the xy -plane. This means that the slope of line j is the negative reciprocal of the slope of line k . The equation of line k , y = - ( 17 / 3 ) x + 5 , is written in slope-intercept form y = m x + b , where m is the slope of the line and b is the y -coordinate of the y -intercept of the line. It follows that the slope of line k is (-) ( 17 / 3 ) . The negative reciprocal of a number is (-) 1 divided by the number. Therefore, the negative reciprocal of (-) ( 17 / 3 ) is ( (-) 1 / (-) ( 17 / 3 ) ) , or 3 7teenths . Thus, the slope of line j is 3 7teenths . Note that 3/17, .1764, .1765, and 0.176 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "3008cfc3",
+        "Prompt": "x y k 13 k + 7 (-) 15 The table gives the coordinates of 2 points on a line in the xy - plane. The y - intercept of the line is (k - 5, b), where k and b are constants. What is the value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "33",
+        "Rationale": "The correct answer is 33 . It\u2019s given in the table that the coordinates of two points on a line in the xy -plane are (k, 13) and ( k + 7, (-) 15 ) . The y -intercept is another point on the line. The slope computed using any pair of points from the line will be the same. The slope of a line, m , between any two points, (x1, y1) and (x2, y2) , on the line can be calculated using the slope formula, m = ( ( y2 - y1 ) / ( x2 - x1 ) ) . It follows that the slope of the line with the given points from the table, (k, 13) and ( k + 7, (-) 15 ) , is m = ( (-) 15 - 13 / k + 7 - k ) , which is equivalent to m = ( (-) 28 / 7 ) , or m = (-) 4 . It's given that the y -intercept of the line is (k - 5, b) . Substituting (-) 4 for m and the coordinates of the points (k - 5, b) and (k, 13) into the slope formula yields (-) 4 = ( 13 - b / k - ( k - 5 ) ) , which is equivalent to (-) 4 = ( 13 - b / k - k + 5 ) , or (-) 4 = ( 13 - b / 5 ) . Multiplying both sides of this equation by 5 yields (-) 20 = 13 - b . Subtracting 13 from both sides of this equation yields (-) 33 = (-) b . Dividing both sides of this equation by (-) 1 yields b = 33 . Therefore, the value of b is 33 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "9bbce683",
+        "Prompt": "x y 18 130 23 160 26 178 For line h, the table shows 3 values of x and their corresponding values of y. Line k is the result of translating line h down 5 units in the xy - plane. What is the x - intercept of line k?",
+        "Answer Choices": [
+            "( (-) ( 26 / 3 ) 0 )",
+            "( (-) 9 /2, 0 )",
+            "( (-) ( 11 / 3 ) 0 )",
+            "( (-) ( 17 / 6 ) 0 )"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation of line h can be written in slope-intercept form y = m x + b , where m is the slope of the line and (0, b) is the y -intercept of the line. It\u2019s given that line h contains the points (18, 130) , (23, 160) , and (26, 178) . Therefore, its slope m can be found as 3136/23 , or 6 . Substituting 6 for m in the equation y = m x + b yields y = 6 x + b . Substituting 130 for y and 18 for x in this equation yields 130 = 6 ( 18 ) + b , or 130 = 108 + b . Subtracting 108 from both sides of this equation yields 22 = b . Substituting 22 for b in y = 6 x + b yields y = 6 x + 22 . Since line k is the result of translating line h down 5 units, an equation of line k is y = 6 x + 22 - 5 , or y = 6 x + 17 . Substituting 0 for y in this equation yields 0 = 6 x + 17 . Solving this equation for x yields x = (-) ( 17 / 6 ) . Therefore, the x -intercept of line k is ( (-) ( 17 / 6 ) 0 ) .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "686b7244",
+        "Prompt": "A certain apprentice has enrolled in 85 hours of training courses. The equation 10 x + 15 y = 85 represents this situation, where x is the number of on-site training courses and y is the number of online training courses this apprentice has enrolled in. How many more hours does each online training course take than each on-site training course?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "5",
+        "Rationale": "The correct answer is 5 . It's given that the equation 10 x + 15 y = 85 represents the situation, where x is the number of on-site training courses, y is the number of online training courses, and 85 is the total number of hours of training courses the apprentice has enrolled in. Therefore, 10 x represents the number of hours the apprentice has enrolled in on-site training courses, and 15 y represents the number of hours the apprentice has enrolled in online training courses. Since x is the number of on-site training courses and y is the number of online training courses the apprentice has enrolled in, 10 is the number of hours each on-site course takes and 15 is the number of hours each online course takes. Subtracting these numbers gives 5 , or 5 more hours each online training course takes than each on-site training course."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ee846db7",
+        "Prompt": "A store sells 2 different-sized containers of a certain Greek yogurt. The store\u2019s sales of this Greek yogurt totaled (1, 277.940000000000) dollars last month. The equation 5.48 x + 7.30 y = 1,277.94 represents this situation, where x is the number of smaller containers sold and y is the number of larger containers sold. According to the equation, which of the following represents the price, in dollars, of each smaller container?",
+        "Answer Choices": [
+            "5.48000000000000",
+            "7.30 y",
+            "7.30000000000000",
+            "5.48 x"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that the store's sales of a certain Greek yogurt totaled (1, 277.940000000000) dollars last month. It's also given that the equation 5.48 x + 7.30 y = 1,277.94 represents this situation, where x is the number of smaller containers sold and y is the number of larger containers sold. Since x represents the number of smaller containers of yogurt sold, the expression 5.48 x represents the total sales, in dollars, from smaller containers of yogurt. This means that x smaller containers of yogurt were sold at a price of 5.48000000000000 dollars each. Therefore, according to the equation, 5.48000000000000 represents the price, in dollars, of each smaller container.  Choice B is incorrect. This expression represents the total sales, in dollars, from selling y larger containers of yogurt.  Choice C is incorrect. This value represents the price, in dollars, of each larger container of yogurt.  Choice D is incorrect. This expression represents the total sales, in dollars, from selling x smaller containers of yogurt."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "5b8a8475",
+        "Prompt": "Line k is defined by y = 3 x + 15. Line j is perpendicular to line k in the xy - plane. What is the slope of line j?",
+        "Answer Choices": [
+            "(-) 1 /3",
+            "(-) 1 /12",
+            "(-) 1 8eenth",
+            "(-) 1 forty /5"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that line j is perpendicular to line k in the xy -plane. It follows that the slope of line j is the opposite reciprocal of the slope of line k . The equation for line k is written in slope-intercept form y = m x + b , where m is the slope of the line and b is the y -coordinate of the y -intercept of the line. It follows that the slope of line k is 3 . The opposite reciprocal of a number is (-) 1 divided by the number. Thus, the opposite reciprocal of 3 is (-) 1 /3 . Therefore, the slope of line j is (-) 1 /3 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "db422e7f",
+        "Prompt": "Line p is defined by 4 y + 8 x = 6. Line r is perpendicular to line p in the xy - plane. What is the slope of line r?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".5,  1/2",
+        "Rationale": "The correct answer is 1/2 . For an equation in slope-intercept form y = m x + b , m represents the slope of the line in the xy -plane defined by this equation. It's given that line p is defined by 4 y + 8 x = 6 . Subtracting 8 x from both sides of this equation yields 4 y = - 8 x + 6 . Dividing both sides of this equation by 4 yields y = - 8 /4s x + 6 /4s , or y = - 2 x + 3 /2 . Thus, the slope of line p is (-) 2 . If line r is perpendicular to line p , then the slope of line r is the negative reciprocal of the slope of line p . The negative reciprocal of (-) 2 is - ( 1 / ( (-) 2 ) ) = 1 /2 . Note that 1/2 and .5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "01682aa5",
+        "Prompt": "Line p is defined by2 y + 18 x = 9. Line r is perpendicular to line p in the xy - plane. What is the slope of line r?",
+        "Answer Choices": [
+            "(-) 9",
+            "(-) 1 /9",
+            "1/9",
+            "9"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that line r is perpendicular to line p in the xy -plane. This means that the slope of line r is the negative reciprocal of the slope of line p . If the equation for line p is rewritten in slope-intercept form y = m x + b , where m and b are constants, then m is the slope of the line and (0, b) is its y -intercept. Subtracting 18 x from both sides of the equation 2 y + 18 x = 9 yields 2 y = - 18 x + 9 . Dividing both sides of this equation by 2 yields y = - 9 x + 9 /2 . It follows that the slope of line p is (-) 9 . The negative reciprocal of a number is (-) 1 divided by the number. Therefore, the negative reciprocal of (-) 9 is ( (-) 1 / (-) 9 ) , or 1/9 . Thus, the slope of line r is 1/9 .  Choice A is incorrect. This is the slope of line p , not line r .  Choice B is incorrect. This is the reciprocal, not the negative reciprocal, of the slope of line p .  Choice D is incorrect. This is the negative, not the negative reciprocal, of the slope of line p ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "83f2c3bf",
+        "Prompt": "y = x + 4 Which table gives 3 values of x and their corresponding values of y for the given equation?",
+        "Answer Choices": [
+            "xy041526",
+            "xy061524",
+            "xy021120",
+            "xy001122"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Substituting 0 for x into the given equation yields y = 0 + 4 , or y = 4 . Therefore, when x = 0 , the corresponding value of y for the given equation is 4 . Substituting 1 for x into the given equation yields y = 1 + 4 , or y = 5 . Therefore, when x = 1 , the corresponding value of y for the given equation is 5 . Substituting 2 for x into the given equation yields y = 2 + 4 , or y = 6 . Therefore, when x = 2 , the corresponding value of y for the given equation is 6 . Of the choices given, only the table in choice A gives these three values of x and their corresponding values of y for the given equation.  Choice B is incorrect. This table gives three values of x and their corresponding values of y for the equation y = (-) x + 6 .  Choice C is incorrect. This table gives three values of x and their corresponding values of y for the equation y = (-) x + 2 .  Choice D is incorrect. This table gives three values of x and their corresponding values of y for the equation y = x ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "b23bba4c",
+        "Prompt": "A shipping company charged a customer $25 to ship some small boxes and some large boxes. The equation above represents the relationship between a, the number of small boxes, and b, the number of large boxes, the customer had shipped. If the customer had 3 small boxes shipped, how many large boxes were shipped?",
+        "Answer Choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that a represents the number of small boxes and b represents the number of large boxes the customer had shipped. If the customer had 3 small boxes shipped, then a, = 3 . Substituting 3 for a in the equation 3 a, + 4 b, = 25 yields 3 * 3, + 4 b, = 25 or 9 + 4 b, = 25 . Subtracting 9 from both sides of the equation yields 4 b = 16 . Dividing both sides of this equation by 4 yields b = 4 . Therefore, the customer had 4 large boxes shipped. Choices A, C, and D are incorrect. If the number of large boxes shipped is 3, then b = 3 . Substituting 3 for b in the given equation yields 3 a, +, 4 * 3, = 25 or 3 a, + 12, = 25 . Subtracting 12 from both sides of the equation and then dividing by 3 yields a, = thirteen /3s . However, it\u2019s given that the number of small boxes shipped, a , is 3, not thirteen /3s , so b cannot equal 3. Similarly, if b = 5 or b = 6 , then a, = 5 /3s or a, = 1 /3 , respectively, which is also not true."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "24854644",
+        "Prompt": "What is the equation of the line that passes through the . (0, 5) and is parallel to the graph of y = 7 x + 4 in the xy - plane?",
+        "Answer Choices": [
+            "y = 5 x",
+            "y = 7 x + 5",
+            "y = 7 x",
+            "y = 5 x + 7"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The equation of a line in the xy -plane can be written in slope-intercept form y = m x + b , where m is the slope of the line and (0, b) is its y -intercept. It\u2019s given that the line passes through the point (0, 5) . Therefore, b = 5 . It\u2019s also given that the line is parallel to the graph of y = 7 x + 4 , which means the line has the same slope as the graph of y = 7 x + 4 . The slope of the graph of y = 7 x + 4 is 7 . Therefore, m = 7 . Substituting 7 for m and 5 for b in the equation y = m x + b yields y = 7 x + 5 .  Choice A is incorrect. The graph of this equation passes through the point (0, 0) , not (0, 5) , and has a slope of 5 , not 7 .  Choice C is incorrect. The graph of this equation passes through the point (0, 0) , not (0, 5) .  Choice D is incorrect. The graph of this equation passes through the point (0, 7) , not (0, 5) , and has a slope of 5 , not 7 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "87322577",
+        "Prompt": "The equation above relates the number of minutes, x, Maria spends running each day and the number of minutes, y, she spends biking each day. In the equation, what does the number 75 represent?",
+        "Answer Choices": [
+            "The number of minutes spent running each day",
+            "The number of minutes spent biking each day",
+            "The total number of minutes spent running and biking each day",
+            "The number of minutes spent biking for each minute spent running"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Maria spends x minutes running each day and y minutes biking each day. Therefore, x + y represents the total number of minutes Maria spent running and biking each day. Because x + y = 75 , it follows that 75 is the total number of minutes that Maria spent running and biking each day. Choices A and B are incorrect. The number of minutes Maria spent running each day is represented by x and need not be 75. Similarly, the number of minutes that Maria spends biking each day is represented by y and need not be 75. The number of minutes Maria spends running each day and biking each day may vary; however, the total number of minutes she spends each day on these activities is constant and equal to 75. Choice D is incorrect. The number of minutes Maria spent biking for each minute spent running cannot be determined from the information provided."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "9f3cb472",
+        "Prompt": "Line t in the xy - plane has a slope of (-) 1 /3 and passes through the . (9, 10). Which equation defines line t?",
+        "Answer Choices": [
+            "y = 13 x - 1 /3",
+            "y = 9 x + 10",
+            "y = - ( x / 3 ) + 10",
+            "y = - ( x / 3 ) + 13"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation that defines line t in the xy -plane can be written in slope-intercept form y = m x + b , where m is the slope of line t and (0, b) is its y -intercept. It\u2019s given that line t has a slope of (-) 1 /3 . Therefore, m = (-) 1 /3 . Substituting (-) 1 /3 for m in the equation y = m x + b yields y = - 1 /3 x + b , or y = - ( x / 3 ) + b . It\u2019s also given that line t passes through the point (9, 10) . Substituting 9 for x and 10 for y in the equation y = - ( x / 3 ) + b yields 10 = (-) 9 /3s + b , or 10 = (-) 3 + b . Adding 3 to both sides of this equation yields 13 = b . Substituting 13 for b in the equation y = - ( x / 3 ) + b yields y = - ( x / 3 ) + 13 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This equation defines a line that has a slope of 9 , not (-) 1 /3 , and passes through the point (0, 10) , not (9, 10) .  Choice C is incorrect. This equation defines a line that passes through the point (0, 10) , not (9, 10) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ebf8d2b7",
+        "Prompt": "A machine makes large boxes or small boxes, 1 at a time, for a total of 700 minutes each day. It takes the machine 10 minutes to make a large box or 5 minutes to make a small box. Which equation represents the possible number of large boxes, x, and small boxes, y, the machine can make each day?",
+        "Answer Choices": [
+            "5 x + 10 y = 700",
+            "10 x + 5 y = 700",
+            "( x + y ) ( 10 + 5 ) = 700",
+            "( 10 + x ) ( 5 + y ) = 700"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that it takes the machine 10 minutes to make a large box. It's also given that x represents the possible number of large boxes the machine can make each day. Multiplying 10 by x gives 10 x , which represents the amount of time spent making large boxes. It\u2019s given that it takes the machine 5 minutes to make a small box. It's also given that y represents the possible number of small boxes the machine can make each day. Multiplying 5 by y gives 5 y , which represents the amount of time spent making small boxes. Combining the amount of time spent making x large boxes and y small boxes yields 10 x + 5 y . It\u2019s given that the machine makes boxes for a total of 700 minutes each day. Therefore 10 x + 5 y = 700 represents the possible number of large boxes, x , and small boxes, y , the machine can make each day.  Choice A is incorrect and may result from associating the time of 10 minutes with small, rather than large, boxes and the time of 5 minutes with large, rather than small, boxes.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "c6b151d4",
+        "Prompt": "A total of 364 paper straws of equal length were used to construct 2 types of polygons: triangles and rectangles. The triangles and rectangles were constructed so that no 2 polygons had a common side. The equation 3 x + 4 y = 364 represents this situation, where x is the number of triangles constructed and y is the number of rectangles constructed. What is the best interpretation of ( x, y ) = ( 24, 73 ) in this context?",
+        "Answer Choices": [
+            "If 24 triangles were constructed, then 73 rectangles were constructed.",
+            "If 24 triangles were constructed, then 73 paper straws were used.",
+            "If 73 triangles were constructed, then 24 rectangles were constructed.",
+            "If 73 triangles were constructed, then 24 paper straws were used."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that 364 paper straws of equal length were used to construct triangles and rectangles, where no two polygons had a common side. It's also given that the equation 3 x + 4 y = 364 represents this situation, where x is the number of triangles constructed and y is the number of rectangles constructed. The equation ( x, y ) = ( 24, 73 ) means that if x = 24 , then y = 73 . Substituting 24 for x and 73 for y in 3 x + 4 y = 364 yields 3 ( 24 ) + 4 ( 73 ) = 364 , or 364 = 364 , which is true. Therefore, in this context, the equation ( x, y ) = ( 24, 73 ) means that if 24 triangles were constructed, then 73 rectangles were constructed.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "b450ab03",
+        "Prompt": "An employee at a restaurant prepares sandwiches and salads. It takes the employee 1.50000000000000 minutes to prepare a sandwich and 1.90000000000000 minutes to prepare a salad. The employee spends a total of 46.1000000000000 minutes preparing x sandwiches and y salads. Which equation represents this situation?",
+        "Answer Choices": [
+            "1.9 x + 1.5 y = 46.1",
+            "1.5 x + 1.9 y = 46.1",
+            "x + y = 46.1",
+            "30.7 x + 24.3 y = 46.1"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the employee takes 1.50000000000000 minutes to prepare a sandwich. Multiplying 1.50000000000000 by the number of sandwiches, x , yields 1.5 x , the amount of time the employee spends preparing x sandwiches. It\u2019s also given that the employee takes 1.90000000000000 minutes to prepare a salad. Multiplying 1.90000000000000 by the number of salads, y , yields 1.9 y , the amount of time the employee spends preparing y salads. It follows that the total amount of time, in minutes, the employee spends preparing x sandwiches and y salads is 1.5 x + 1.9 y . It's given that the employee spends a total of 46.1000000000000 minutes preparing x sandwiches and y salads. Thus, the equation 1.5 x + 1.9 y = 46.1 represents this situation.  Choice A is incorrect. This equation represents a situation where it takes the employee 1.90000000000000 minutes, rather than 1.50000000000000 minutes, to prepare a sandwich and 1.50000000000000 minutes, rather than 1.90000000000000 minutes, to prepare a salad.  Choice C is incorrect. This equation represents a situation where it takes the employee 1 minute, rather than 1.50000000000000 minutes, to prepare a sandwich and 1 minute, rather than 1.90000000000000 minutes, to prepare a salad.  Choice D is incorrect. This equation represents a situation where it takes the employee 30.7000000000000 minutes, rather than 1.50000000000000 minutes, to prepare a sandwich and 24.3000000000000 minutes, rather than 1.90000000000000 minutes, to prepare a salad."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "db0107df",
+        "Prompt": "The y - intercept of the graph of 12 x + 2 y = 18 in the xy - plane is (0, y). What is the value of y?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "9",
+        "Rationale": "The correct answer is 9 . It's given that the y -intercept of the graph of 12 x + 2 y = 18 in the xy -plane is (0, y) . Substituting 0 for x in the equation 12 x + 2 y = 18 yields 12 ( 0 ) + 2 y = 18 , or 2 y = 18 . Dividing both sides of this equation by 2 yields y = 9 . Therefore, the value of y is 9 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "b9835972",
+        "Prompt": "In the xy - plane, line script l passes through the . (0, 0) and is parallel to the line represented by the equation y = 8 x + 2. If line script l also passes through the . (3, d), what is the value of d?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "24",
+        "Rationale": "The correct answer is 24 . A line in the xy -plane can be defined by the equation y = m x + b , where m is the slope of the line and b is the y -coordinate of the y -intercept of the line. It's given that line script l passes through the point (0, 0) . Therefore, the y -coordinate of the y -intercept of line script l is 0 . It's given that line script l is parallel to the line represented by the equation y = 8 x + 2 . Since parallel lines have the same slope, it follows that the slope of line script l is 8 . Therefore, line script l can be defined by an equation in the form y = m x + b , where m = 8 and b = 0 . Substituting 8 for m and 0 for b in y = m x + b yields the equation y = 8 x + 0 , or y = 8 x . If line script l passes through the point (3, d) , then when x = 3 , y = d for the equation y = 8 x . Substituting 3 for x and d for y in the equation y = 8 x yields d = 8 ( 3 ) , or d = 24 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "05bb1af9",
+        "Prompt": "The line slants gradually down from left to right. The line passes through the following points: ((-) 8 , 4) (0 , 2) (8 , 0) The graph of y = f ( x ) + 14 is shown. Which equation defines function f?",
+        "Answer Choices": [
+            "f ( x ) = (-) 1 /4 x - 12",
+            "f ( x ) = (-) 1 /4 x + 16",
+            "f ( x ) = (-) 1 /4 x + 2",
+            "f ( x ) = (-) 1 /4 x - 14"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. An equation for the graph shown can be written in slope-intercept form y = m x + b , where m is the slope of the graph and its y -intercept is (0, b) . Since the y -intercept of the graph shown is (0, 2) , the value of b is 2 . Since the graph also passes through the point (4, 1) , the slope can be calculated as 1/2 , or (-) 1 /4 . Therefore, the value of m is (-) 1 /4 . Substituting (-) 1 /4 for m and 2 for b in the equation y = m x + b yields y = - 1 /4 x + 2 . It\u2019s given that an equation for the graph shown is y = f ( x ) + 14 . Substituting f(x) + 14 for y in the equation y = - 1 /4 x + 2 yields f ( x ) + 14 = - 1 /4 x + 2 . Subtracting 14 from both sides of this equation yields f ( x ) = - 1 /4 x - 12 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "cc7ffe02",
+        "Prompt": "Keenan made 32 cups of vegetable broth. Keenan then filled x small jars and y large jars with all the vegetable broth he made. The equation 3 x + 5 y = 32 represents this situation. Which is the best interpretation of 5 y in this context?",
+        "Answer Choices": [
+            "The number of large jars Keenan filled",
+            "The number of small jars Keenan filled",
+            "The total number of cups of vegetable broth in the large jars",
+            "The total number of cups of vegetable broth in the small jars"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the equation 3 x + 5 y = 32 represents the situation where Keenan filled x small jars and y large jars with all the vegetable broth he made, which was 32 cups. Therefore, 3 x represents the total number of cups of vegetable broth in the small jars and 5 y represents the total number of cups of vegetable broth in the large jars.  Choice A is incorrect. The number of large jars Keenan filled is represented by y , not 5 y .  Choice B is incorrect. The number of small jars Keenan filled is represented by x , not 5 y .  Choice D is incorrect. The total number of cups of vegetable broth in the small jars is represented by 3 x , not 5 y ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "8368afd1",
+        "Prompt": "The line slants sharply down from left to right. The line passes through the following points: (0 , 18) (4 , 10) (7 , 4) (9 , 0) The graph shows the possible combinations of the number of pounds of tangerines and lemons that could be purchased for dollar sign 18 at a certain store. If Melvin purchased lemons and 4 pounds of tangerines for a total of dollar sign 18, how many pounds of lemons did he purchase?",
+        "Answer Choices": [
+            "7",
+            "10",
+            "14",
+            "16"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the graph shows the possible combinations of the number of pounds of tangerines, x , and the number of pounds of lemons, y , that could be purchased for dollar sign 18 at a certain store. If Melvin purchased lemons and 4 pounds of tangerines for a total of dollar sign 18 , the number of pounds of lemons he purchased is represented by the y -coordinate of the point on the graph where x = 4 . For the graph shown, when x = 4 , y = 10 . Therefore, if Melvin purchased lemons and 4 pounds of tangerines for a total of dollar sign 18 , then he purchased 10 pounds of lemons.  Choice A is incorrect. This is the number of pounds of tangerines Melvin purchased if he purchased tangerines and 4 pounds of lemons for a total of dollar sign 18 .  Choice C is incorrect. This is the number of pounds of lemons Melvin purchased if he purchased lemons and 2 pounds of tangerines for a total of dollar sign 18 .  Choice D is incorrect. This is the number of pounds of lemons Melvin purchased if he purchased lemons and 1 pound of tangerines for a total of dollar sign 18 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "c307283c",
+        "Prompt": "The line slants gradually down from left to right. The line passes through the following points: ((-) 8 , 0) (0 , (-) 8) What is an equation of the graph shown?",
+        "Answer Choices": [
+            "y = - 2 x - 8",
+            "y = x - 8",
+            "y = (-) x - 8",
+            "y = 2 x - 8"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. An equation of a line can be written in the form y = m x + b , where m is the slope of the line and (0, b) is the y -intercept of the line. The line shown passes through the point ( 0, (-) 8 ) , so b = (-) 8 . The line shown also passes through the point ( (-) 8, 0 ) . The slope, m , of a line passing through two points (x1, y1) and (x2, y2) can be calculated using the equation m = ( y2 - y1 / x2 - x1 ) . For the points ( 0, (-) 8 ) and ( (-) 8, 0 ) , this gives m = ( ( (-) 8 ) - 0 / 0 - ( (-) 8 ) ) , or m = (-) 1 .\u00a0Substituting (-) 8 for b and (-) 1 for m in y = m x + b yields y = ( (-) 1 ) x + ( (-) 8 ) , or y = (-) x - 8 . Therefore, an equation of the graph shown is y = (-) x - 8 .  Choice A is incorrect. This is an equation of a line with a slope of (-) 2 , not (-) 1 .  Choice B is incorrect. This is an equation of a line with a slope of 1 , not (-) 1 .  Choice D is incorrect. This is an equation of a line with a slope of 2 , not (-) 1 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "e7343559",
+        "Prompt": "y = - 4 x + 40 Which table gives 3 values of x and their corresponding values of y for the given equation?",
+        "Answer Choices": [
+            "xy001(-) 42(-) 8",
+            "xy040144248",
+            "xy040136232",
+            "xy001428"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Each of the given choices gives three values of x : 0 , 1 , and 2 . Substituting 0 for x in the given equation yields y = - 4 ( 0 ) + 40 , or y = 40 . Therefore, when x = 0 , the corresponding value of y for the given equation is 40 . Substituting 1 for x in the given equation yields y = - 4 ( 1 ) + 40 , or y = 36 . Therefore, when x = 1 , the corresponding value of y for the given equation is 36 . Substituting 2 for x in the given equation yields y = - 4 ( 2 ) + 40 , or y = 32 . Therefore, when x = 2 , the corresponding value of y for the given equation is 32 . Choice C gives three values of x , 0 , 1 , and 2 , and their corresponding values of y , 40 , 36 , and 32 , respectively, for the given equation.  Choice A is incorrect. This table gives three values of x and their corresponding values of y for the equation y = - 4 x .  Choice B is incorrect. This table gives three values of x and their corresponding values of y for the equation y = 4 x + 40 .  Choice D is incorrect. This table gives three values of x and their corresponding values of y for the equation y = 4 x ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "94b48cbf",
+        "Prompt": "The graph of 7 x + 2 y = (-) 31 in the x y - plane has an x - intercept at (a, 0) and a y - intercept at (0, b), where a and b are constants. What is the value of b/a?",
+        "Answer Choices": [
+            "(-) 7 /2",
+            "(-) 2 /7s",
+            "2 /7s",
+            "7/2"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The x -coordinate a of the x -intercept (a, 0) can be found by substituting 0 for y in the given equation, which gives 7 x + 2 ( 0 ) = (-) 31 , or 7 x = (-) 31 . Dividing both sides of this equation by 7 yields x = (-) ( 31 / 7 ) . Therefore, the value of a is (-) ( 31 / 7 ) . The y -coordinate b of the y -intercept (0, b) can be found by substituting 0 for x in the given equation, which gives 7 ( 0 ) + 2 y = (-) 31 , or 2 y = (-) 31 . Dividing both sides of this equation by 2 yields y = (-) ( 31 / 2 ) . Therefore, the value of b is (-) ( 31 / 2 ) . It follows that the value of b/a is ( (-) ( 31 / 2 ) / (-) ( 31 / 7 ) ) , which is equivalent to ( ( 31 / 2 ) ) ( 7 thirty firsts ) , or 7/2 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "2e0290c3",
+        "Prompt": "The line slants down from left to right. The line passes through the following points: (0 , 40) (60 , 0) The graph shows the relationship between the number of shares of stock from Company A, x, and the number of shares of stock from Company B, y, that Sim1 can purchase. Which equation could represent this relationship?",
+        "Answer Choices": [
+            "y = 8 x + 12",
+            "8 x + 12 y = 480",
+            "y = 12 x + 8",
+            "12 x + 8 y = 480"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The graph shown is a line passing through the points (0, 40) and (60, 0) . Since the relationship between x and y is linear, if two points on the graph make a linear equation true, then the equation represents the relationship.\u00a0Substituting 0 for x and 40 for y in the equation in choice B, 8 x + 12 y = 480 , yields 8 ( 0 ) + 12 ( 40 ) = 480 , or 480 = 480 , which is true. Substituting 60 for x and 0 for y in the equation 8 x + 12 y = 480 yields 8 ( 60 ) + 12 ( 0 ) = 480 , or 480 = 480 , which is true. Therefore, the equation 8 x + 12 y = 480 represents the relationship between x and y .  Choice A is incorrect. The point (0, 40) is not on the graph of this equation, since 40 = 8 ( 0 ) + 12 , or 40 = 12 , is not true.  Choice C is incorrect. The point (0, 40) is not on the graph of this equation, since 40 = 12 ( 0 ) + 8 , or 40 = 8 , is not true.  Choice D is incorrect. The point (0, 40) is not on the graph of this equation, since 12 ( 0 ) + 8 ( 40 ) = 480 , or 320 = 480 , is not true."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "dd797fe2",
+        "Prompt": "Mario purchased 4 binders that cost x dollars each and 3 notebooks that cost y dollars each. If the given equation represents this situation, which of the following is the best interpretation of 24 in this context?",
+        "Answer Choices": [
+            "The total cost, in dollars, for all binders purchased",
+            "The total cost, in dollars, for all notebooks purchased",
+            "The total cost, in dollars, for all binders and notebooks purchased",
+            "The difference in the total cost, in dollars, between the number of binders and notebooks purchased"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Since Mario purchased 4 binders that cost x dollars each, the expression 4 x represents the total cost, in dollars, of the 4 binders he purchased. Since Mario purchased 3 notebooks that cost y dollars each, the expression 3 y represents the total cost, in dollars, of the 3 notebooks he purchased. Therefore, the expression 4 x + 3 y represents the total cost, in dollars, for all binders and notebooks he purchased. In the given equation, the expression 4 x + 3 y is equal to 24. Therefore, it follows that 24 is the total cost, in dollars, for all binders and notebooks purchased. Choice A is incorrect. This is represented by the expression 4 x in the given equation. Choice B is incorrect. This is represented by the expression 3 y in the given equation. Choice D is incorrect. This is represented by the expression the absolute value of, 4 x - 3 y, end absolute value ."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "52a8ef85",
+        "Prompt": "The equation 40 x + 20 y = 160 represents the number of sweaters, x, and number of shirts, y, that Yesenia purchased for dollar sign 160. If Yesenia purchased 2 sweaters, how many shirts did she purchase?",
+        "Answer Choices": [
+            "3",
+            "4",
+            "8",
+            "40"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the equation 40 x + 20 y = 160 represents the number of sweaters, x , and the number of shirts, y , that Yesenia purchased for dollar sign 160 . If Yesenia purchased 2 sweaters, the number of shirts she purchased can be calculated by substituting 2 for x in the given equation, which yields 40 ( 2 ) + 20 y = 160 , or 80 + 20 y = 160 . Subtracting 80 from both sides of this equation yields 20 y = 80 . Dividing both sides of this equation by 20 yields y = 4 . Therefore, if Yesenia purchased 2 sweaters, she purchased 4 shirts.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the number of shirts Yesenia purchased if she purchased 0 sweaters.  Choice D is incorrect. This is the price, in dollars, for each sweater, not the number of shirts Yesenia purchased."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "ba79f10f",
+        "Prompt": "x y 0 18 1 13 2 8 The table shows 3 values of x and their corresponding values of y. There is a linear relationship between x and y. Which of the following equations represents this relationship?",
+        "Answer Choices": [
+            "y = 18 x + 13",
+            "y = 18 x + 18",
+            "y = - 5 x + 13",
+            "y = - 5 x + 18"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. A linear relationship can be represented by an equation of the form y = m x + b , where m and b are constants. It\u2019s given in the table that when x = 0 , y = 18 . Substituting 0 for x and 18 for y in y = m x + b yields 18 = m ( 0 ) + b , or 18 = b . Substituting 18 for b in the equation y = m x + b yields y = m x + 18 . It\u2019s also given in the table that when x = 1 , y = 13 . Substituting 1 for x and 13 for y in the equation y = m x + 18 yields 13 = m ( 1 ) + 18 , or 13 = m + 18 . Subtracting 18 from both sides of this equation yields (-) 5 = m . Therefore, the equation y = - 5 x + 18 represents the relationship between x and y .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "431c3038",
+        "Prompt": "In an article about exercise, it is estimated that a 160 - pound adult uses 200 calories for every 30 minutes of hiking and 150 calories for every 30 minutes of bicycling. An adult who weighs 160 pounds has completed 1 hour of bicycling. Based on the article, how many hours should the adult hike to use a total of 1,900 calories from bicycling and hiking?",
+        "Answer Choices": [
+            "9.5",
+            "8.75",
+            "6",
+            "4"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since a 160-pound adult uses 200 calories for every 30 minutes of hiking, then the same adult uses 200 h calories after hiking for h 30-minute periods. Similarly, the same adult uses 150 b calories after bicycling for b 30-minute periods. Therefore, the equation 200 h + 150 b, = 1,900 represents the situation where a 160-pound adult uses a total of 1,900 calories from hiking for h 30-minute periods and bicycling for b 30-minute periods. It\u2019s given that the adult completes 1 hour, or 2 30-minute periods, of bicycling. Substituting 2 for b in the equation 200 h + 150 b, = 1,900 yields 200 h +, 150 * 2, = 1,900 , or 200 h + 300, = 1,900 . Subtracting 300 from both sides of this equation yields 200 h = 1,600 . Dividing both sides by 200 yields h = 8 . Since h represents the number of 30-minute periods spent hiking and there are 2 30-minute periods in every hour, it follows that the adult will need to hike for the fraction 8 over 2 , or 4 hours to use a total of 1,900 calories from bicycling and hiking. Choice A is incorrect and may result from solving the equation 200 h = 1,900 . This represents 0 30-minute periods bicycling instead of 2. Choice B is incorrect and may result from solving the equation 200 h + 150, = 1,900 . This represents 1 30-minute period of bicycling instead of 2. Choice C is incorrect. This may result from determining that the number of 30-minute periods the adult should hike is 8, but then subtracting 2 from 8, rather than dividing 8 by 2, to find the number of hours the adult should hike."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "cc3e9528",
+        "Prompt": "The graph of 9 x - 10 y = 19 is translated down 4 units in the xy - plane. What is the x - coordinate of the x - intercept of the resulting graph?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "59/9,  6.555,  6.556",
+        "Rationale": "The correct answer is 59/9 . When the graph of an equation in the form upper A x + upper B y = upper C , where upper A , upper B , and upper C are constants, is translated down k units in the xy -plane, the resulting graph can be represented by the equation upper A x + upper B ( y + k ) = upper C . It\u2019s given that the graph of 9 x - 10 y = 19 is translated down 4 units in the xy -plane. Therefore, the resulting graph can be represented by the equation 9 x - 10 ( y + 4 ) = 19 , or 9 x - 10 y - 40 = 19 . Adding 40 to both sides of this equation yields 9 x - 10 y = 59 . The x -coordinate of the x -intercept of the graph of an equation in the xy -plane is the value of x in the equation when y = 0 . Substituting 0 for y in the equation 9 x - 10 y = 59 yields 9 x - 10 ( 0 ) = 59 , or 9 x = 59 . Dividing both sides of this equation by 9 yields x = ( 59 / 9 ) . Therefore, the x -coordinate of the x -intercept of the resulting graph is 59/9 . Note that 59/9, 6.555, and 6.556 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "265f2a53",
+        "Prompt": "When line n is graphed in the xy - plane, it has an x - intercept of ( (-) 4, 0 ) and a y - intercept of (0, 86/3). What is the slope of line n?",
+        "Answer Choices": [
+            "3/344",
+            "6 forty /3s",
+            "43/6",
+            "344/3"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that when line n is graphed in the xy -plane, it has an x -intercept of ( (-) 4, 0 ) and a y -intercept of (0, 86/3) . The slope, m , of a line can be found using any two points on the line, (x1, y1) and (x2, y2) , and the slope formula m = ( y2 - y1 / x2 - x1 ) . Substituting the points ( (-) 4, 0 ) and (0, 86/3) for (x1, y1) and (x2, y2) , respectively, in\u00a0the slope formula yields m = ( ( 86 / 3 ) - 0 / 0 - ( (-) 4 ) ) ,\u00a0or m = ( 43 / 6 ) . Therefore, the slope of line n is 43/6 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the slope of a line that has an x -intercept of ( ( 86 / 3 ) 0 ) and a y -intercept of ( 0, (-) 4 ) .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "f81a0503",
+        "Prompt": "In the xy - plane, line k passes through the points ( 0, (-) 5 ) and ( 1, (-) 1 ). Which equation defines line k?",
+        "Answer Choices": [
+            "y = (-) x + 1 /4",
+            "y = 1 /4 x - 5",
+            "y = (-) x + 4",
+            "y = 4 x - 5"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. An equation defining a line in the xy -plane can be written in the form y = m x + b , where m represents the slope and (0, b) represents the y -intercept of the line. It\u2019s given that line k passes through the point ( 0, (-) 5 ) ; therefore, b = (-) 5 . The slope, m , of a line can be found using any two points on the line, (x1, y1) and (x2, y2) , and the slope formula m = ( y2 - y1 / x2 - x1 ) . Substituting the points ( 0, (-) 5 ) and ( 1, (-) 1 ) for (x1, y1) and (x2, y2) , respectively, in the slope formula yields m = ( ( (-) 1 - ( (-) 5 ) ) / ( 1 - 0 ) ) , or m = 4 . Substituting 4 for m and (-) 5 for b in the equation y = m x + b yields y = 4 x - 5 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "10c448d6",
+        "Prompt": "A line in the xy - plane has a slope of 1/9 and passes through the . (0, 14). Which equation represents this line?",
+        "Answer Choices": [
+            "y = (-) 1 /9 x - 14",
+            "y = (-) 1 /9 x + 14",
+            "y = 1 /9 x - 14",
+            "y = 1 /9 x + 14"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The equation of a line in the xy -plane can be written as y = m x + b , where m represents the slope of the line and (0, b) represents the y -intercept of the line. It's given that the slope of the line is 1/9 . It follows that m = 1 /9 . It's also given that the line passes through the point (0, 14) . It follows that b = 14 . Substituting 1/9 for m and 14 for b in y = m x + b yields y = 1 /9 x + 14 . Thus, the equation y = 1 /9 x + 14 represents this line.  Choice A is incorrect. This equation represents a line with a slope of (-) 1 /9 and a y -intercept of ( 0, (-) 14 ) .  Choice B is incorrect. This equation represents a line with a slope of (-) 1 /9 and a y -intercept of (0, 14) .  Choice C is incorrect. This equation represents a line with a slope of 1/9 and a y -intercept of ( 0, (-) 14 ) ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "7038b587",
+        "Prompt": "Vivian bought party hats and cupcakes for dollar sign 71. Each package of party hats cost dollar sign 3, and each cupcake cost dollar sign 1. If Vivian bought 10 packages of party hats, how many cupcakes did she buy?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "41",
+        "Rationale": "The correct answer is 41 . The number of cupcakes Vivian bought can be found by first finding the amount Vivian spent on cupcakes. The amount Vivian spent on cupcakes can be found by subtracting the amount Vivian spent on party hats from the total amount Vivian spent. The amount Vivian spent on party hats can be found by multiplying the cost per package of party hats by the number of packages of party hats, which yields dollar sign 3 * 10 , or dollar sign 30 . Subtracting the amount Vivian spent on party hats, dollar sign 30 , from the total amount Vivian spent, dollar sign 71 , yields dollar sign 71 - dollar sign 30 , or dollar sign 41 . Since the amount Vivian spent on cupcakes was dollar sign 41 and each cupcake cost dollar sign 1 , it follows that Vivian bought 41 cupcakes."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "4acd05cd",
+        "Prompt": "The line slants sharply up from left to right. The line passes through the following points: (0 , (-) 5) (1 , (-) 3) (2 , (-) 1) The graph shows the linear relationship between x and y. Which table gives 3 values of x and their corresponding values of y for this relationship?",
+        "Answer Choices": [
+            "xy001(-) 72(-) 9",
+            "xy001(-) 32(-) 1",
+            "xy0(-) 51(-) 72(-) 9",
+            "xy0(-) 51(-) 32(-) 1"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the graph shows the linear relationship between x and y . The given graph passes through the points ( 0, (-) 5 ) , ( 1, (-) 3 ) , and ( 2, (-) 1 ) . It follows that when x = 0 , the corresponding value of y is (-) 5 , when x = 1 , the corresponding value of y is (-) 3 , and when x = 2 , the corresponding value of y is (-) 1 . Of the given choices, only the table in choice D gives these three values of x and their corresponding values of y for the relationship shown in the graph.  Choice A is incorrect. This table represents a relationship between x and y such that the graph passes through the points (0, 0) , ( 1, (-) 7 ) , and ( 2, (-) 9 ) .  Choice B is incorrect. This table represents a relationship between x and y such that the graph passes through the points (0, 0) , ( 1, (-) 3 ) , and ( 2, (-) 1 ) .  Choice C is incorrect. This table represents a linear relationship between x and y such that the graph passes through the points ( 0, (-) 5 ) , ( 1, (-) 7 ) , and ( 2, (-) 9 ) ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "a35c7164",
+        "Prompt": "5 x + 7 y = 1 a x + b y = 1 In the given pair of equations, a and b are constants. The graph of this pair of equations in the xy - plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?",
+        "Answer Choices": [
+            "10 x + 7 y = 1a x - 2 b y = 1",
+            "10 x + 7 y = 1a x + 2 b y = 1",
+            "10 x + 7 y = 12 a x + b y = 1",
+            "5 x - 7 y = 1a x + b y = 1"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Two lines are perpendicular if their slopes are negative reciprocals, meaning that the slope of the first line is equal to (-) 1 divided by the slope of the second line. Each equation in the given pair of equations can be written in slope-intercept form, y = m x + b , where m is the slope of the graph of the equation in the xy -plane and (0, b) is the y -intercept. For the first equation, 5 x + 7 y = 1 , subtracting 5 x from both sides gives 7 y = - 5 x + 1 , and dividing both sides of this equation by 7 gives y = - 5 /7s x + 1 /7 . Therefore, the slope of the graph of this equation is (-) 5 /7s . For the second equation, a x + b y = 1 , subtracting a x from both sides gives b y = - a x + 1 , and dividing both sides of this equation by b gives y = - ( a / b ) x + ( 1 / b ) . Therefore, the slope of the graph of this equation is -a/b . Since the graph of the given pair of equations is a pair of perpendicular lines, the slope of the graph of the second equation, -a/b , must be the negative reciprocal of the slope of the graph of the first equation, (-) 5 /7s . The negative reciprocal of (-) 5 /7s is ( (-) 1 / ( (-) 5 /7s ) ) , or 7 /5s . Therefore, - ( a / b ) = 7 /5s ,\u00a0or ( a / b ) = (-) 7 /5s . Similarly, rewriting the equations in choice B in slope-intercept form yields y = - ( 10 / 7 ) x + 1 /7 and y = - ( a / 2 b ) x + ( 1 / 2 b ) . It follows that the slope of the graph of the first equation in choice B is (-) ( 10 / 7 ) and the slope of the graph of the second equation in choice B is - ( a / 2 b ) . Since ( a / b ) = (-) 7 /5s , - ( a / 2 b ) is equal to - ( 1 /2 ) ( (-) 7 /5s ) , or 7 /10s . Since 7 /10s is the negative reciprocal of (-) ( 10 / 7 ) , the pair of equations in choice B represents a pair of perpendicular lines.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "2d54c272",
+        "Prompt": "5 upper G + 45 upper R = 380 At a school fair, students can win colored tokens that are worth a different number of points depending on the color. One student won upper G green tokens and upper R red tokens worth a total of 380 points. The given equation represents this situation. How many more points is a red token worth than a green token?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "40",
+        "Rationale": "The correct answer is 40 . It's given that 5 upper G + 45 upper R = 380 , where upper G is the number of green tokens and upper R is the number of red tokens won by one student and these tokens are worth a total of 380 points. Since the equation represents the situation where the student won points with green tokens and red tokens for a total of 380 points, each term on the left-hand side of the equation represents the number of points won for one of the colors. Since the coefficient of upper G in the given equation is 5 , a green token must be worth 5 points. Similarly, since the coefficient of upper R in the given equation is 45 , a red token must be worth 45 points. Therefore, a red token is worth 40 points, or 40 points, more than a green token."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "2d0e13a6",
+        "Prompt": "Line k is defined by y = 1 /4 x + 1. Line j is parallel to line k in the xy - plane. What is the slope of j?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".25,  1/4",
+        "Rationale": "The correct answer is 1/4 . It's given that line k is defined by y = 1 /4 x + 1 . It's also given that line j is parallel to line k in the xy -plane. A line in the xy -plane represented by an equation in slope-intercept form y = m x + b has a slope of m and a y -intercept of (0, b) . Therefore, the slope of line k is 1/4 . Since parallel lines have equal slopes, the slope of line j is 1/4 . Note that 1/4 and .25 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "c8e0f511",
+        "Prompt": "For a camping trip a group bought x 1 - liter bottles of water and y 3 - liter bottles of water, for a total of 240 liters of water. Which equation represents this situation?",
+        "Answer Choices": [
+            "x + 3 y = 240",
+            "x + y = 240",
+            "3 x + 3 y = 240",
+            "3 x + y = 240"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that for a camping trip a group bought x one-liter bottles of water and y three-liter bottles of water. Since the group bought x one-liter bottles of water, the total number of liters bought from x one-liter bottles of water is represented as 1 x , or x . Since the group bought y three-liter bottles of water, the total number of liters bought from y three-liter bottles of water is represented as 3 y . It's given that the group bought a total of 240 liters; thus, the equation x + 3 y = 240 represents this situation.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect. This equation represents a situation where the group bought x three-liter bottles of water and y one-liter bottles of water, for a total of 240 liters of water."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "c4ea43ef",
+        "Prompt": "To earn money for college, Avery works 2 part-time jobs: A and B. She earns $10 per hour working at job A and $20 per hour working at job B. In 1 week, Avery earned a total of s dollars for working at the 2 part-time jobs. The graph above represents all possible combinations of numbers of hours Avery could have worked at the 2 jobs to earn s dollars. What is the value of s ?",
+        "Answer Choices": [
+            "128",
+            "160",
+            "200",
+            "320"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Avery earns $10 per hour working at job A. Therefore, if she works a hours at job A, she will earn 10 a dollars. Avery earns $20 per hour working at job B. Therefore, if she works b hours at job B, she will earn 20 b dollars. The graph shown represents all possible combinations of the number of hours Avery could have worked at the two jobs to earn s dollars. Therefore, if she worked a hours at job A, worked b hours at job B, and earned s dollars from both jobs, the following equation represents the graph: 10 a, + 20 b, = s , where s is a constant. Identifying any point with coordinates a, b from the graph and substituting the values of the coordinates for a and b , respectively, in this equation yield the value of s . For example, the point with coordinates (16, 0) , where a, = 16 and b = 0 , lies on the graph. Substituting 16 for a and 0 for b in the equation 10 a, + 20 b, = s yields 10 * 16, +, 20 * 0, = s , or 160 = s . Similarly, the point with coordinates (0, 8) , where a, = 0 and b = 8 , lies on the graph. Substituting 0 for a and 8 for b in the equation 10 a, + 20 b, = s yields 10 * 0, +, 20 * 8, = s , or 160 = s . Choices A, C, and D are incorrect. If the value of s is 128, 200, or 320, then no points with coordinates a, b on the graph will satisfy this equation. For example, if the value of s is 128 (choice A), then the equation 10 a, + 20 b, = s becomes 10 a, + 20 b, = 128 . The point the . with coordinates (16, 0) , where a, = 16 and b = 0 , lies on the graph. However, substituting 16 for a and 0 for b in 10 a, + 20 b, = s yields 10 * 16, +, 20 * 0, = 128 , or 160 = 128 , which is false. Therefore, the . with coordinates (16, 0) doesn\u2019t satisfy the equation, and so the value of s can\u2019t be 128. Similarly, if s = 200 (choice C) or s = 320 (choice D), then substituting 16 for a and 0 for b yields 160 = 200 and 160 = 320 , respectively, which are both false."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "029c2dc2",
+        "Prompt": "A teacher is creating an assignment worth 70 points. The assignment will consist of questions worth 1 . and questions worth 3 points. Which equation represents this situation, where x represents the number of 1 - . questions and y represents the number of 3 - . questions?",
+        "Answer Choices": [
+            "4 x y = 70",
+            "4 ( x + y ) = 70",
+            "3 x + y = 70",
+            "x + 3 y = 70"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Since x represents the number of 1 -point questions and y represents the number of 3 -point questions, the assignment is worth a total of x + 3*y , or x + 3 y , points. Since the assignment is worth 70 points, the equation x + 3 y = 70 represents this situation.  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "2e1a7f66",
+        "Prompt": "Figure A and figure B are both regular polygons. The sum of the perimeter of figure A and the perimeter of figure B is 63 inches. The equation 3 x + 6 y = 63 represents this situation, where x is the number of sides of figure A and y is the number of sides of figure B. Which statement is the best interpretation of 6 in this context?",
+        "Answer Choices": [
+            "Each side of figure B has a length of6inches.",
+            "The number of sides of figure B is6.",
+            "Each side of figure A has a length of6inches.",
+            "The number of sides of figure A is6."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that figure A and figure B (not shown) are both regular polygons and the sum of the perimeters of the two figures is 63 inches . It\u2019s also given that x is the number of sides of figure A and y is the number of sides of figure B, and that the equation 3 x + 6 y = 63 represents this situation. Thus, 3 x and 6 y represent the perimeters, in inches, of figure A and figure B, respectively. Since 6 y represents the perimeter, in inches, of figure B and y is the number of sides of figure B, it follows that each side of figure B has a length of 6 inches .  Choice B is incorrect. The number of sides of figure B is y , not 6 .  Choice C is incorrect. Since the perimeter, in inches, of figure A is represented by 3 x , each side of figure A has a length of 3 inches , not 6 inches .  Choice D is incorrect. The number of sides of figure A is x , not 6 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "c5479c1a",
+        "Prompt": "A shipment consists of 5 - pound boxes and 10 - pound boxes with a total w8 of 220 pounds. There are 13 10 - pound boxes in the shipment. How many 5 - pound boxes are in the shipment?",
+        "Answer Choices": [
+            "5",
+            "10",
+            "13",
+            "18"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that the shipment consists of 5 -pound boxes and 10 -pound boxes with a total weight of 220 pounds. Let x represent the number of 5 -pound boxes and y represent the number of 10 -pound boxes in the shipment. Therefore, the equation 5 x + 10 y = 220 represents this situation. It's given that there are 13  10 -pound boxes in the shipment. Substituting 13 for y in the equation 5 x + 10 y = 220 yields 5 x + 10 ( 13 ) = 220 , or 5 x + 130 = 220 . Subtracting 130 from both sides of this equation yields 5 x = 90 . Dividing both sides of this equation by 5 yields 18 . Thus, there are 18  5 -pound boxes in the shipment.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the number of 10 -pound boxes in the shipment."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "637022d2",
+        "Prompt": "2.5 b + 5 r = 80 The given equation describes the relationship between the number of birds, b, and the number of reptiles, r, that can be cared for at a pet care business on a given day. If the business cares for 16 reptiles on a given day, how many birds can it care for on this day?",
+        "Answer Choices": [
+            "0",
+            "5",
+            "40",
+            "80"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The number of birds can be found by calculating the value of b when r = 16 in the given equation. Substituting 16 for r in the given equation yields 2.5 b + 5 ( 16 ) = 80 , or 2.5 b + 80 = 80 . Subtracting 80 from both sides of this equation yields 2.5 b = 0 . Dividing both sides of this equation by 2.50000000000000 yields b = 0 . Therefore, if the business cares for 16 reptiles on a given day, it can care for 0 birds on this day.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "1efd8202",
+        "Prompt": "y = 70 x + 8 Which table gives 3 values of x and their corresponding values of y for the given equation?",
+        "Answer Choices": [
+            "xy0821484288",
+            "xy070278486",
+            "xy07021404280",
+            "xy0821324272"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Each of the given choices gives three values of x : 0 , 2 , and 4 . Substituting 0 for x in the given equation yields y = 70 ( 0 ) + 8 ,\u00a0or y = 8 . Therefore, when x = 0 , the corresponding value of y for the given equation is 8 . Substituting 2 for x in the given equation yields y = 70 ( 2 ) + 8 ,\u00a0or y = 148 . Therefore, when x = 2 , the corresponding value of y for the given equation is 148 . Substituting 4 for x in the given equation yields y = 70 ( 4 ) + 8 , or y = 288 . Therefore, when x = 4 , the corresponding value of y for the given equation is 288 . Thus, if the three values of x are 0 , 2 , and 4 , then their corresponding values of y are 8 , 148 , and 288 , respectively, for the given equation.  Choice B is incorrect. This table gives three values of x and their corresponding values of y for the equation y = 4 x + 70 .  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "9d0396d4",
+        "Prompt": "The line slants gradually down from left to right. The line passes through the following points: (0 , 7) (8 , 0) The . with coordinates (d, 4) lies on the line shown. What is the value of d?",
+        "Answer Choices": [
+            "7/2",
+            "26/7",
+            "24/7",
+            "27/8"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given from the graph that the points (0, 7) and (8, 0) lie on the line. For two points on a line, (x1, y1) and (x2, y2) , the slope of the line can be calculated using the slope formula m = ( y2 - y1 / x2 - x1 ) . Substituting (0, 7) for (x1, y1) and (8, 0) for (x2, y2) in this formula, the slope of the line can be calculated as m = ( 0 - 7 / 8 - 0 ) , or m = (-) 7 /8s . It's also given that the point (d, 4) lies on the line. Substituting (d, 4) for (x1, y1) , (8, 0) for (x2, y2) , and (-) 7 /8s for m in the slope formula yields (-) 7 /8s = ( 0 - 4 / 8 - d ) , or (-) 7 /8s = ( (-) 4 / 8 - d ) . Multiplying both sides of this equation by 8 - d yields - 7 /8s ( 8 - d ) = (-) 4 . Expanding the left-hand side of this equation yields (-) 7 + 7 /8s d = (-) 4 . Adding 7 to both sides of this equation yields 7 /8s d = 3 . Multiplying both sides of this equation by 8 /7s yields d = ( 24 / 7 ) . Thus, the value of d is 24/7 .  Choice A is incorrect. This is the value of y when x = 4 .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "b9839f9e",
+        "Prompt": "In the equation above, F represents the total amount of money, in dollars, a food truck charges for x drinks and y salads. The price, in dollars, of each drink is the same, and the price, in dollars, of each salad is the same. Which of the following is the best interpretation for the number 7.00 in this context?",
+        "Answer Choices": [
+            "The price, in dollars, of 1 drink",
+            "The price, in dollars, of 1 salad",
+            "The number of drinks bought during the day",
+            "The number of salads bought during the day"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that 2. 5 0 x, + 7. 0 0 y is equal to the total amount of money, in dollars, a food truck charges for x drinks and y salads. Since each salad has the same price, it follows that the total charge for y salads is 7. 0 0 y dollars. When y = 1 , the value of the expression 7. 0 0 y is 7. 0 0 * 1 , or 7.00. Therefore, the price for one salad is 7.00 dollars. Choice A is incorrect. Since each drink has the same price, it follows that the total charge for x drinks is 2. 5 0 x dollars. Therefore, the price, in dollars, for one drink is 2.50, not 7.00. Choices C and D are incorrect. In the given equation, F represents the total charge, in dollars, when x drinks and y salads are bought at the food truck. No information is provided about the number of drinks or the number of salads that are bought during the day. Therefore, 7.00 doesn\u2019t represent either of these quantities."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "6f6dfe3e",
+        "Prompt": "x y (-) 6 n + 184 (-) 3 n + 92 0 n The table shows 3 values of x and their corresponding values of y, where n is a constant, for the linear relationship between x and y. What is the slope of the line that represents this relationship in the xy - plane?",
+        "Answer Choices": [
+            "(-) ( 92 / 3 )",
+            "(-) 3 9ty seconds",
+            "( n + 92 / (-) 3 )",
+            "( 2 n - 92 / 3 )"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The slope, m , of a line in the xy -plane can be found using two points on the line, (x1, y1) and (x2, y2) , and the slope formula m = ( y2 - y1 / x2 - x1 ) . Based on the given table, the line representing the relationship between x and y in the xy -plane passes through the points ( (-) 6, n + 184 ) , ( (-) 3, n + 92 ) , and (0, n) , where n is a constant. Substituting two of these points, ( (-) 3, n + 92 ) and (0, n) , for (x1, y1) and (x2, y2) , respectively, in the slope formula yields m = ( n - ( n + 92 ) / 0 - ( (-) 3 ) ) , which is equivalent to m = ( n - n - 92 / 0 + 3 ) , or m = (-) ( 92 / 3 ) . Therefore, the slope of the line that represents this relationship in the xy -plane is (-) ( 92 / 3 ) .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "038d87d7",
+        "Prompt": "A neighborhood consists of a 2 - hectare park and a 35 - hectare residential area. The total number of trees in the neighborhood is (3, 934). The equation 2 x + 35 y = 3,934 represents this situation. Which of the following is the best interpretation of x in this context?",
+        "Answer Choices": [
+            "The average number of trees per hectare in the park",
+            "The average number of trees per hectare in the residential area",
+            "The total number of trees in the park",
+            "The total number of trees in the residential area"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that a neighborhood consists of a 2 -hectare park and a 35 -hectare residential area and that the total number of trees in the neighborhood is (3, 934) . It's also given that the equation 2 x + 35 y = 3,934 represents this situation. Since the total number of trees for a given area can be determined by taking the number of hectares times the average number of trees per hectare, this must mean that the terms 2 x and 35 y correspond to the number of trees in the park and in the residential area, respectively. Since 2 x corresponds to the number of trees in the park, and 2 is the size of the park, in hectares, x must represent the average number of trees per hectare in the park.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "174885f8",
+        "Prompt": "Jay walks at a speed of 3 miles per hour and runs at a speed of 5 miles per hour. He walks for w hours and runs for r hours for a combined total of 14 miles. Which equation represents this situation?",
+        "Answer Choices": [
+            "3 w + 5 r = 14",
+            "1 /3 w + 1 /5 r = 14",
+            "1 /3 w + 1 /5 r = 112",
+            "3 w + 5 r = 112"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Since Jay walks at a speed of 3 miles per hour for w hours, Jay walks a total of 3 w miles. Since Jay runs at a speed of 5 miles per hour for r hours, Jay runs a total of 5 r miles. Therefore, the total number of miles Jay travels can be represented by 3 w + 5 r . Since the combined total number of miles is 14 , the equation 3 w + 5 r = 14 represents this situation.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors.  Choice D is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Hard",
+        "ID": "a1fd2304",
+        "Prompt": "How many liters of a 25% saline solution must be added to 3 liters of a 10% saline solution to obtain a 15% saline solution?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1.5. The total amount, in liters, of a saline solution can be expressed as the liters of each type of saline solution multiplied by the percent concentration of the saline solution. This gives 3 * 0. 1 0 , x * 0. 2 5 , and open parenthesis, x + 3, close parenthesis, * open parenthesis, 0. 1 5, close parenthesis , where x is the amount, in liters, of 25% saline solution and 10%, 15%, and 25% are represented as 0.10, 0.15, and 0.25, respectively. Thus, the equation 3 * 0. 1 0, + 0. 2 5 x, = 0. 1 5 * open parenthesis, x + 3, close parenthesis must be true. Multiplying 3 by 0.10 and distributing 0.15 to open parenthesis, x + 3, close parenthesis yields 0. 3 0, + 0. 2 5 x, = 0. 1 5 x, + 0. 4 5 . Subtracting 0.15 x and 0.30 from each side of the equation gives 0. 1 0 x, = 0. 1 5 . Dividing each side of the equation by 0.10 yields x = 1. 5 . Note that 1.5 and 3/2 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "9ed4c1a2",
+        "Prompt": "What is the slope of the graph of y = 1 /4 ( 27 x + 15 ) + 7 x in the xy - plane?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "13.75,  55/4",
+        "Rationale": "The correct answer is 55/4 . In the xy -plane, the graph of an equation in the form y = m x + b , where m and b are constants, has a slope of m and a y -intercept of (0, b) . Applying the distributive property to the right-hand side of the given equation yields y = ( 27 / 4 ) x + ( 15 / 4 ) + 7 x . Combining like terms yields y = ( 55 / 4 ) x + ( 15 / 4 ) . This equation is in the form y = m x + b , where m = ( 55 / 4 ) and b = ( 15 / 4 ) . It follows that the slope of the graph of y = 1 /4 ( 27 x + 15 ) + 7 x in the xy -plane is 55/4 . Note that 55/4 and 13.75 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Medium",
+        "ID": "fb43b85f",
+        "Prompt": "A line passes through the points (4, 6) and (15, 24) in the xy - plane. What is the slope of the line?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "1.636,  18/11",
+        "Rationale": "The correct answer is 18/11 . For a line that passes through the points (x1, y1) and (x2, y2) in the xy -plane, the slope of the line can be calculated using the slope formula, m = ( y2 - y1 / x2 - x1 ) . It's given that a line passes through the points (4, 6) and (15, 24) in the xy -plane. Substituting (4, 6) for (x1, y1) and (15, 24) for (x2, y2) in the slope formula, m = ( y2 - y1 / x2 - x1 ) , yields m = ( 24 - 6 / 15 - 4 ) , or m = ( 18 / 11 ) . Therefore, the slope of the line is 18/11 . Note that 18/11 and 1.636 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "f40552a9",
+        "Prompt": "The line slants gradually up from left to right. The line passes through the following points: (0 , 8) (5 , 9) (10 , 10) What is the y - intercept of the line graphed?",
+        "Answer Choices": [
+            "( 0, (-) 8 )",
+            "( 0, (-) 1 /8 )",
+            "(0, 0)",
+            "(0, 8)"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The y -intercept of a line graphed in the xy -plane is the point where the line intersects the y -axis. The line graphed intersects the y -axis at the point (0, 8) . Therefore, the y -intercept of the line graphed is (0, 8) .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "12ae3452",
+        "Prompt": "The equation 46 = 2 a + 2 b gives the relationship between the side lengths a and b of a certain parallelogram. If a = 9, what is the value of b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "14",
+        "Rationale": "The correct answer is 14 . It's given that the equation 46 = 2 a + 2 b gives the relationship between the side lengths a and b of a certain parallelogram. Substituting 9 for a in the given equation\u00a0yields 46 = 2 ( 9 ) + 2 b , or 46 = 18 + 2 b . Subtracting 18 from both sides of this equation yields 28 = 2 b . Dividing both sides of this equation by 2 yields 14 = b . Therefore, if a = 9 , the value of b is 14 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "768b2425",
+        "Prompt": "Last week, an interior designer earned a total of dollar sign 1,258 from consulting for x hours and drawing up plans for y hours. The equation 68 x + 85 y = 1,258 represents this situation. Which of the following is the best interpretation of 68 in this context?",
+        "Answer Choices": [
+            "The interior designer earneddollar sign 68per hour consulting last week.",
+            "The interior designer worked68hours drawing up plans last week.",
+            "The interior designer earneddollar sign 68per hour drawing up plans last week.",
+            "The interior designer worked68hours consulting last week."
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that 68 x + 85 y = 1,258 represents the situation where an interior designer earned a total of dollar sign 1,258 last week from consulting for x hours and drawing up plans for y hours. Thus, 68 x represents the amount earned, in dollars, from consulting for x hours, and 85 y represents the amount earned, in dollars, from drawing up plans for y hours. Since 68 x represents the amount earned, in dollars, from consulting for x hours, it follows that the interior designer earned dollar sign 68 per hour consulting last week.  Choice B is incorrect. The interior designer worked y hours, not 68 hours, drawing up plans last week.  Choice C is incorrect. The interior designer earned dollar sign 85 per hour, not dollar sign 68 per hour, drawing up plans last week.  Choice D is incorrect. The interior designer worked x hours, not 68 hours, consulting last week."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "8b2a2a63",
+        "Prompt": "The y - intercept of the graph of y = - 6 x - 32 in the xy - plane is (0, y). What is the value of y?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-32",
+        "Rationale": "The correct answer is (-) 32 . It\u2019s given that the y -intercept of the graph of y = - 6 x - 32 is (0, y) . Substituting 0 for x in this equation yields y = - 6 ( 0 ) - 32 , or y = (-) 32 . Therefore, the value of y that corresponds to the y -intercept of the graph of y = - 6 x - 32 in the xy -plane is (-) 32 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in two variables",
+        "Difficulty": "Easy",
+        "ID": "535fa6e6",
+        "Prompt": "Davio bought some potatoes and celery. The potatoes cost dollar sign 0.69 per pound, and the celery cost dollar sign 0.99 per pound. If Davio spent dollar sign 5.34 in total and bought twice as many pounds of celery as pounds of potatoes, how many pounds of celery did Davio buy?",
+        "Answer Choices": [
+            "2",
+            "2.50000000000000",
+            "2.67000000000000",
+            "4"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. Let p represent the number of pounds of potatoes and let c represent the number of pounds of celery\u00a0that Davio bought. It\u2019s given that potatoes cost dollar sign 0.69 per pound and celery costs dollar sign 0.99 per pound. If Davio spent dollar sign 5.34 in total, then the equation 0.69 p + 0.99 c = 5.34 represents this situation. It\u2019s also given that Davio bought twice as many pounds of celery as pounds of potatoes; therefore, c = 2 p . Substituting 2 p for c in the equation 0.69 p + 0.99 c = 5.34 yields 0.69 p + 0.99 ( 2 p ) = 5.34 , which is equivalent to 0.69 p + 1.98 p = 5.34 , or 2.67 p = 5.34 . Dividing both sides of this equation by 2.67000000000000 yields p = 2 . Substituting 2 for p in the equation c = 2 p yields c = 2 ( 2 ) , or c = 4 . Therefore, Davio bought 4 pounds of celery.  Choice A is incorrect. This is the number of pounds of potatoes, not the number of pounds of celery, Davio bought.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    }
+]

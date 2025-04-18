@@ -1,0 +1,334 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "e29586d5",
+        "Prompt": "Number of Contestants by Score and Day 5 out of 54 out of 53 out of 52 out of 51 out of 50 out of 5TotalDay123462320Day223554120Day 333453220Total7913169660The same 20 contestants, on each of 3 days, answered 5 questions in order to win a prize. Each contestant received 1 . for each correct answer. The number of contestants receiving a given score on each day is shown in the table above.No contestant received the same score on 2 different days. If a contestant is selected at random, what is the probability that the selected contestant received a score of 5 on Day2 or Day 3, given that the contestant received a score of 5 on 1 of the 3 days?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 5 /7s . It is given that no contestant received the same score on two different days, so each of the contestants who received a score of 5 is represented in the \u201c5 out of 5\u201d column of the table exactly once. Therefore, the probability of selecting a contestant who received a score of 5 on Day 2 or Day 3, given that the contestant received a score of 5 on one of the three days, is found by dividing the total number of contestants who received a score of 5 on Day 2 or Day 3 2 + 3, = 5 by the total number of contestants who received a score of 5, which is given in the table as 7. So the probability is 5 /7s . Note that 5/7, .7142, .7143, and 0.714 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "eccbf957",
+        "Prompt": "Each face of a fair 14 - sided die is labeled with a number from 1 through 14, with a different number appearing on each face. If the die is rolled 1 time, what is the probability of rolling a 2?",
+        "Answer Choices": [
+            "1 4teenth",
+            "2 4teenths",
+            "6/7",
+            "13/14"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The total number of possible outcomes for rolling a fair 14 -sided die is 14 . The number of possible outcomes for rolling a 2 is 1 . The probability of rolling a 2 is the number of possible outcomes for rolling a 2 divided by the total number of possible outcomes, or 1 4teenth .  Choice B is incorrect. This is the probability of rolling a number no greater than 2 .  Choice C is incorrect. This is the probability of rolling a number greater than 2 .  Choice D is incorrect. This is the probability of rolling a number other than 2 ."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "16cea46c",
+        "Prompt": "A total of 25 men registered for singing lessons. The frequency table shows how many of these singers have certain voice types. If 1 of these singers is selected at random, what is the probability he is a barit1?",
+        "Answer Choices": [
+            "0.10",
+            "0.40",
+            "0.60",
+            "0.67"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. This probability is calculated by dividing the number of baritone singers by the total number of men registered for singing lessons. It\u2019s given that a total of 25 men registered for singing lessons and that there are 10 baritones. Therefore, the probability of selecting a baritone from this group at random is 10 over 25 , which is equivalent to 0.40. Choice A is incorrect. This would be the probability of selecting a baritone at random if there were 100 total men who registered for singing lessons. Choice C is incorrect. This is the probability of selecting a singer at random who isn\u2019t a baritone. Choice D is incorrect. This would be the probability of selecting a baritone at random if there were 15 total men registered for singing lessons."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "b680e76d",
+        "Prompt": "How many of the males surveyed responded that they do not play a school sport?",
+        "Answer Choices": [
+            "109",
+            "252",
+            "468",
+            "688"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The table summarizes all 1,000 responses from the students surveyed. If 312 are males who play a sport, 220 are females who play a sport, and 216 are females who do not play a sport, then 1,000 \u2013 312 \u2013 220 \u2013 216 = 252 males who do not play a sport. Choices A, C, and D are incorrect. If 109 males who do not play a sport responded, then the table summary would be 109 + 312 + 220 + 216 = 857 total student responses rather than 1,000. If 468 males who do not play a sport responded, then the table summary would be 468 + 312 + 220 + 216 = 1,216 total student responses rather than 1,000. If 688 males who do not play a sport responded, then the table summary would be 688 + 312 + 220 + 216 = 1,436 total student responses rather than 1,000."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Medium",
+        "ID": "0ae37ff3",
+        "Prompt": "In a bag, there are 7 red, 4 white, 33 blue, and 33 yellow cubes. If 1 of these cubes is selected at random, what is the probability of selecting a cube that is neither blue nor yellow?",
+        "Answer Choices": [
+            "6 /7s",
+            "7 /11s",
+            "1/3",
+            "1/7"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that there are 7 red, 4 white, 33 blue, and 33 yellow cubes in the bag. Therefore, there are a total of 77 , or 77 , cubes in the bag. If the cube is neither blue nor yellow, then it must be either red or white. Therefore, the probability of selecting a cube that is neither blue nor yellow is equivalent to the probability of selecting a cube that is either red or white. If one of these cubes is selected at random, the probability of selecting a cube that is either red or white is equal to the sum of the number of red cubes and white cubes divided by the total number of cubes in the bag. There are 7 red cubes, 4 white cubes, and 77 total cubes in the bag. Therefore, the probability of selecting a red or white cube is 543/77 , which is equivalent to 1/7 , or 1/7 . Thus, if one cube is selected at random, the probability of selecting a cube that is neither blue nor yellow is 1/7 .  Choice A is incorrect. This is the probability of selecting a cube that is either blue or yellow, rather than the probability of selecting a cube that is neither blue nor yellow.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "47624288",
+        "Prompt": "The table gives the distribution of votes for a new school mascot and grade level for 80 students. Mascot Grade level Sixth Seventh Eighth Total Badger 4 9 9 22 Lion 9 2 9 20 Longhorn 4 6 4 14 Tiger 6 9 9 24 Total 23 26 31 80 If 1 of these students is selected at random, what is the probability of selecting a student whose vote for new mascot was for a lion?",
+        "Answer Choices": [
+            "1/9",
+            "1/5",
+            "1/4",
+            "2 /3s"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If one of these students is selected at random, the probability of selecting a student whose vote for the new mascot was for a lion is given by the number of votes for a lion divided by the total number of votes. The given table indicates that the number of votes for a lion is 20 votes, and the total number of votes is 80 votes. The table gives the distribution of votes for 80 students, and the table shows a total of 80 votes were counted. It follows that each of the 80 students voted exactly once. Thus, the probability of selecting a student whose vote for the new mascot was for a lion is 1/4 , or 1/4 .  Choice A is incorrect and may result from conceptual or computational errors.  Choice B is incorrect and may result from conceptual or computational errors.  Choice D is incorrect and may result from conceptual or computational errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "60caadfd",
+        "Prompt": "Each rock in a collection of 70 rocks was classified as either igneous, metamorphic, or sedimentary, as shown in the frequency table. Classification Frequency igneous 10 metamorphic 33 sedimentary 27 If 1 of these rocks is selected at random, what is the probability of selecting a rock that is igneous?",
+        "Answer Choices": [
+            "10/27",
+            "10/33",
+            "1/6",
+            "1/7"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. If one of the rocks in the collection is selected at random, the probability of selecting a rock that is igneous is equal to the number of igneous rocks in the collection divided by the total number of rocks in the collection. According to the table, there are 10 igneous rocks in the collection, and it's given that there's a total of 70 rocks in the collection. Therefore, if one of the rocks in the collection is selected at random, the probability of selecting a rock that is igneous is 1/7 .  Choice A is incorrect. This is the number of igneous rocks in the collection divided by the number of sedimentary rocks in the collection, not divided by the total number of rocks in the collection.  Choice B is incorrect. This is the number of igneous rocks in the collection divided by the number of metamorphic rocks in the collection, not divided by the total number of rocks in the collection.  Choice C is incorrect. This is the number of igneous rocks in the collection divided by the number of rocks in the collection that aren't igneous, not divided by the total number of rocks in the collection."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Medium",
+        "ID": "2df8f293",
+        "Prompt": "Each vertex of a 14 - sided polygon is labeled with 1 of the 14 letters upper A through upper N, with a different letter at each vertex. If 1 vertex is selected at random, what is the probability that the letter upper D will be at the selected vertex? (Express your answer as a decimal or fraction, not as a percent.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".0714,  1/14",
+        "Rationale": "The correct answer is 1 4teenth . If one vertex of the polygon is selected at random, the probability that the letter upper D will be at the selected vertex is equal to the number of vertices labeled with the letter upper D divided by the total number of vertices. It's given that each vertex is labeled with one of the 14 letters upper A through upper N , with a different letter at each vertex. It follows that there is 1 vertex labeled with the letter upper D . It's also given that the polygon is 14 -sided. It follows that there are a total of 14 vertices. Thus, the probability that the letter upper D will be at the selected vertex is 1 4teenth . Note that 1/14, .0714, and 0.071 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "79201024",
+        "Prompt": "A band with 45 members has 11 members who play saxoph1. If 1 band member is selected at random, what is the probability of selecting a band member who plays saxoph1?",
+        "Answer Choices": [
+            "1 forty /5",
+            "11/45",
+            "34/45",
+            "1"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The probability of an event occurring is the ratio of the number of favorable outcomes to the total number of possible outcomes. It\u2019s given that there are 45 band members, which is the total number of possible outcomes. It's also given that there are 11 band members who play saxophone. Therefore, the number of favorable outcomes is 11 . Thus, the probability of selecting a band member who plays saxophone is 11/45 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the probability of selecting a band member who does not play saxophone.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "6626cac3",
+        "Prompt": "Ph1EmailDinner dance55%80%Football game20%10%Picnic20%5%Pool party5%5%Total100%100% An alumni association survey asked each high school graduate to select the 1 activity he or she preferred for the association\u2019s next event. Some of the people responded by ph1, and the others responded by email. The table above shows the distribution of preferred activity, in percent, for each response type used. For the survey, the number of email responses was twice the number of ph1 responses. If a person who preferred a picnic is selected at random, what is the probability that the person responded by email?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1 /3 . It\u2019s given that the number of email responses is twice the number of phone responses. Therefore, if the number of phone responses is p , then the number of email responses is 2 p . The table shows that 20% of people who responded by phone preferred a picnic. It follows that the expression 0. 2 0 p represents the number of these people. The table also shows that 5% of the people who responded by email preferred a picnic. The expression 0. 0 5 * 2 p , or 0. 1 p , represents the number of these people. Therefore, a total of 0. 2 0 p + 0. 1 p , or 0. 3 p people preferred a picnic. Thus, the probability of selecting at random a person who responded by email from the people who preferred a picnic is the fraction 0. 1 p over 0. 3 p , or 1 /3 . Note that 1/3, .3333, and 0.333 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "585de39a",
+        "Prompt": "On May10, 2015, there were 83 million Internet subscribers in Nigeria. The major Internet providers were MTN, Globacom, Airtel, Etisalat, and Visaf1. By September 30, 2015, the number of Internet subscribers in Nigeria had increased to 97 million. If an Internet subscriber in Nigeria on September 30, 2015, is selected at random, the probability that the person selected was an MTN subscriber is 0.43. There were p million MTN subscribers in Nigeria on September 30, 2015. To the nearest integer, what is the value of p ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 42. It\u2019s given that in Nigeria on September 30, 2015, the probability of selecting an MTN subscriber from all Internet subscribers is 0.43, that there were p million, or p of 1,000,000 , MTN subscribers, and that there were 97 million, or 97,000,000, Internet subscribers. The probability of selecting an MTN subscriber from all Internet subscribers can be found by dividing the number of MTN subscribers by the total number of Internet subscribers. Therefore, the equation the fraction with ( p of 1,000,000, and )/( 97,000,000, = 0. 4 3 can be used to solve for p . Dividing 1,000,000 from the numerator and denominator of the expression on the left-hand side yields the fraction p over 97, = 0. 4 3 . Multiplying both sides of this equation by 97 yields p = 0. 4 3 * 97, which = 41. 7 1 , which, to the nearest integer, is 42."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "12dbe3de",
+        "Prompt": "A store received a shipment of 1,000 MP3 players, 4 of which were defective. If an MP3 player is randomly selected from this shipment, what is the probability that it is defective?",
+        "Answer Choices": [
+            "0.004",
+            "0.04",
+            "0.4",
+            "4"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The probability of randomly selecting a defective MP3 player from the shipment is equal to the number of defective MP3 players divided by the total number of MP3 players in the shipment. Therefore, the probability is 4 over 1,000 , which is equivalent to 0.004. Choice B is incorrect because 0.04 represents 4 defective MP3 players out of 100 rather than out of 1,000. Choice C is incorrect because 0.4 represents 4 defective MP3 players out of 10 rather than out of 1,000. Choice D is incorrect. This is the number of defective MP3 players in the shipment."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "6a715bed",
+        "Prompt": "The table summarizes the distribution of age and assigned group for 90 participants in a study. 0\u20139 years 10\u201319 years 20 + years Total Group A 7 14 9 30 Group B 6 4 20 30 Group C 17 12 1 30 Total 30 30 30 90 One of these participants will be selected at random. What is the probability of selecting a participant from group A, given that the participant is at least 10 years of age? (Express your answer as a decimal or fraction, not as a percent.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".3833,  23/60",
+        "Rationale": "The correct answer is 23/60 . It's given that one of the participants will be selected at random. The probability of selecting a participant from group A given that the participant is at least 10 years of age is the number of participants in group A who are at least 10 years of age divided by the total number of participants who are at least 10 years of age. The table shows that in group A, there are 14 participants who are 10 \u2013 19 years of age and 9 participants who are 20 + years of age. Therefore, there are 23 , or 23 , participants in group A who are at least 10 years of age. The table also shows that there are a total of 30 participants who are 10 \u2013 19 years of age and 30 participants who are 20 + years of age. Therefore, there are a total of 60 , or 60 , participants who are at least 10 years of age. It follows that the probability of selecting a participant from group A given that the participant is at least 10 years of age is 23/60 . Note that 23/60, .3833, and 0.383 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Medium",
+        "ID": "30db8f77",
+        "Prompt": "At a conference, there are a total of 275 at10dees. Each at10dee is assigned to either group A, group B, or group C. If 1 of these at10dees is selected at random, the probability of selecting an at10dee who is assigned to group A is 0.440000000000000 and the probability of selecting an at10dee who is assigned to group B is 0.240000000000000. How many at10dees are assigned to group C?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "88",
+        "Rationale": "The correct answer is 88 . It's given that there are a total of 275 attendees and each attendee is assigned to either group A, group B, or group C. It's also given that if one of these attendees is selected at random, the probability of selecting an attendee who is assigned to group A is 0.440000000000000 and the probability of selecting an attendee who is assigned to group B is 0.240000000000000 . It follows that there are 0.44 ( 275 ) , or 121 , attendees who are assigned to group A and 0.24 ( 275 ) , or 66 , attendees who are assigned to group B. The number of attendees who are assigned to group C is the number of attendees who are not assigned to group A or group B. In other words, the number of attendees who are assigned to group C is the total number of attendees minus the number of attendees who are assigned to group A and group B. Therefore, the number of attendees who are assigned to group C is 88 , or 88 ."
+    },
+    "question contains image",
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "5dc386fb",
+        "Prompt": "To the nearest /10 of a percent, what percent of states with a state-level sales tax do not have a state-level income tax?",
+        "Answer Choices": [
+            "6.0%",
+            "12.0%",
+            "13.3%",
+            "14.0%"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The sum of the number of states with a state-level sales tax is 39 + 6, = 45 . Of these states, 6 don\u2019t have a state-level income tax. Therefore, 6 over 45, = 0. 1 3 3 3 * * * , or about 13.3%, of states with a state-level sales tax don\u2019t have a state-level income tax. Choice A is incorrect. This is the number of states that have a state-level sales tax and no state-level income tax. Choice B is incorrect. This is the percent of states that have a state-level sales tax and no state-level income tax. Choice D is incorrect. This is the percent of states that have no state-level income tax."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "b8150b17",
+        "Prompt": "For a particular machine that produces beads, 29 out of every100 beads it produces have a defect. A bead produced by the machine will be selected at random. What is the probability of selecting a bead that has a defect?",
+        "Answer Choices": [
+            "(1/2, 900)",
+            "1 twenty /9",
+            "29/100",
+            "29/10"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that 29 out of every 100 beads that the machine produces have a defect. It follows that if the machine produces k beads, then the number of beads that have a defect is ( 29 / 100 ) k , for some constant k . If a bead produced by the machine will be selected at random, the probability of selecting a bead that has a defect is given by the number of beads with a defect, ( 29 / 100 ) k , divided by the number of beads produced by the machine, k . Therefore, the probability of selecting a bead that has a defect is ( ( 29 / 100 ) k / k ) , or 29/100 .  Choice A is incorrect and may result from conceptual or computational errors.  Choice B is incorrect and may result from conceptual or computational errors.  Choice D is incorrect and may result from conceptual or computational errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "1dcea480",
+        "Prompt": "A bag contains a total of 60 marbles. A marble is to be chosen at random from the bag. If the probability that a blue marble will be chosen is 0.35, how many marbles in the bag are blue?",
+        "Answer Choices": [
+            "21",
+            "25",
+            "35",
+            "39"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice A is correct. Multiplying the number of marbles in the bag by the probability of selecting a blue marble gives the number of blue marbles in the bag. Since the bag contains a total of 60 marbles and the probability that a blue marble will be selected from the bag is 0.35, there are a total of 0. 3 5 * 60, = 21 blue marbles in the bag. Choice B is incorrect and may result from subtracting 35 from 60. Choice C is incorrect. This would be the number of blue marbles in the bag if there were a total of 100 marbles, not 60 marbles. Choice D is incorrect. This is the number of marbles in the bag that aren\u2019t blue."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Easy",
+        "ID": "4e527894",
+        "Prompt": "There are 20 buttons in a bag: 8 white buttons, 2 orange buttons, and 10 brown buttons. If 1 of these buttons is selected at random, what is the probability of selecting a white button?",
+        "Answer Choices": [
+            "2 /20s",
+            "8 /20s",
+            "1/2",
+            "3/5"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that there are 20 buttons in a bag and 8 of the buttons are white. If one button from the bag is selected at random, the probability of selecting a white button is the number of white buttons in the bag divided by the total number of buttons in the bag. Therefore, if one button from the bag is selected at random, the probability of selecting a white button is 8 /20s .  Choice A is incorrect. This is the probability of selecting an orange button from the bag.  Choice C is incorrect. This is the probability of selecting a brown button from the bag.  Choice D is incorrect. This is the probability of selecting a button that isn't white from the bag."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Medium",
+        "ID": "46b2e169",
+        "Prompt": "A box contains 13 red pens and 37 blue pens. If 1 of these pens is selected at random, what is the probability of selecting a red pen? (Express your answer as a decimal or fraction, not as a percent.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".26,  13/50",
+        "Rationale": "The correct answer is 13/50 . It's given that a box contains 13 red pens and 37 blue pens. If one of these pens is selected at random, the probability of selecting a red pen is the number of red pens in the box divided by the number of red and blue pens in the box. The number of red and blue pens in the box is 50 , or 50 . Since there are 13 red pens in the box, it follows that the probability of selecting a red pen is 13/50 . Note that 13/50 and .26 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Hard",
+        "ID": "ecd09c38",
+        "Prompt": "If a caller last Monday who asked about his or her bill is selected at random, which of the following is closest to the probability that the customer also asked for repairs?",
+        "Answer Choices": [
+            "0.05",
+            "0.07",
+            "0.20",
+            "0.27"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. According to the table, a total of 671 customers asked about a bill. Of these, 48 also asked for repairs. Therefore, if a customer who asked about a bill is selected at random, the probability that the customer also asked for repairs is 48 over 671 is approximately equal to 0. 0 7 . Choice A is incorrect. This is the probability that a customer selected at random from all customers who called on Monday both asked for repairs and asked about a bill. Choice C is incorrect. This is the probability that a customer selected at random from all customers who called on Monday asked for repairs, regardless of whether or not the customer asked about a bill. Choice D is incorrect. This is the probability that a customer selected at random from those who asked for repairs also asked about a bill."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Probability and conditional probability",
+        "Difficulty": "Medium",
+        "ID": "e9ed719f",
+        "Prompt": "The table summarizes the distribution of color and shape for 100 tiles of equal area. Red Blue Yellow Total Square 10 20 25 55 Pentagon 20 10 15 45 Total 30 30 40 100 If 1 of these tiles is selected at random, what is the probability of selecting a red tile? (Express your answer as a decimal or fraction, not as a percent.)",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".3,  3/10",
+        "Rationale": "The correct answer is 3 /10s . It\u2019s given that there are a total of 100 tiles of equal area, which is the total number of possible outcomes. According to the table, there are a total of 30 red tiles. The probability of an event occurring is the ratio of the number of favorable outcomes to the total number of possible outcomes. By definition, the probability of selecting a red tile is given by 3/10 , or 3 /10s . Note that 3/10 and .3 are examples of ways to enter a correct answer."
+    }
+]

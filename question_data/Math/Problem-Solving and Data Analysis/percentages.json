@@ -1,0 +1,775 @@
+[
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "65c49824",
+        "Prompt": "A school district is forming a committee to discuss plans for the construction of a new high school. Of those invited to join the committee, 15% are parents of students, 45% are teachers from the current high school, 25% are school and district administrators, and the remaining 6 individuals are students. How many more teachers were invited to join the committee than school and district administrators?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 8. The 6 students represent open parenthesis, 100 - 15, - 45, - 25, close parenthesis, percent, = 15 percent of those invited to join the committee. If x people were invited to join the committee, then 0. 1 5 x, = 6 . Thus, there were 6 over, 0. 1 5, = 40 people invited to join the committee. It follows that there were 0. 4 5 * 40, = 18 teachers and 0. 2 5 * 40, = 10 school and district administrators invited to join the committee. Therefore, there were 8 more teachers than school and district administrators invited to join the committee."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "bd90f87e",
+        "Prompt": "What was the percent increase of the minimum wage from 1960 to 1970?",
+        "Answer Choices": [
+            "30%",
+            "60%",
+            "62.5%",
+            "120%"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. According to the table, the minimum wage in 1960 was $1.00 per hour, and in 1970 it was $1.60 per hour. The percentage change is therefore 100 * open parenthesis, the fraction with ( 1. 6 0 - 1. 0 0, and )/( 1. 0 0, close parenthesis, = 60 percent . Choice A is incorrect and may result from averaging the two wages before calculating the percentage change. Choice C is incorrect. This is the 1960 wage expressed as a percentage of the 1970 wage, not the percentage change between the two. Choice D is incorrect and may result from a calculation error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "0ea56bb2",
+        "Prompt": "The manager of an online news service received the report above on the number of _ions sold by the service. The manager estimated that the percent increase from 2012 to 2013 would be double the percent increase from 2013 to 2014. How many _ions did the manager expect would be sold in 2014?",
+        "Answer Choices": [
+            "6,020",
+            "6,027",
+            "6,440",
+            "6,468"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The percent increase from 2012 to 2013 was the fraction with ( 5,880 - 5,600, and )/( 5,600, = 0. 0 5 , or 5%. Since the percent increase from 2012 to 2013 was estimated to be double the percent increase from 2013 to 2014, the percent increase from 2013 to 2014 was expected to be 2.5%. Therefore, the number of subscriptions sold in 2014 is expected to be the number of subscriptions sold in 2013 multiplied by 1 + 0. 0 2 5 , or 5,880 * 1. 0 2 5, = 6,027 . Choice A is incorrect and is the result of adding half of the value of the increase from 2012 to 2013 to the 2013 result. Choice C is incorrect and is the result adding twice the value of the increase from 2012 to 2013 to the 2013 result. Choice D is incorrect and is the result of interpreting the percent increase from 2013 to 2014 as double the percent increase from 2012 to 2013."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "e9fb7774",
+        "Prompt": "What percentage of 300 is 75?",
+        "Answer Choices": [
+            "25 percent sign",
+            "50 percent sign",
+            "75 percent sign",
+            "225 percent sign"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Let x represent the percentage of 300 that is 75 . This can be written as ( x / 100 ) ( 300 ) = 75 , or 3 x = 75 . Dividing both sides of this equation by 3 yields x = 25 . Therefore, 25 percent sign of 300 is 75 .  Choice B is incorrect. 50 percent sign of 300 is 150 , not 75 .  Choice C is incorrect. 75 percent sign of 300 is 225 , not 75 .  Choice D is incorrect. 225 percent sign of 300 is 675 , not 75 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "8705ecba",
+        "Prompt": "The cost of a certain shirt is $20 before a 5% sales tax is added. What is the total cost, including sales tax, to purchase the shirt?",
+        "Answer Choices": [
+            "$20.05",
+            "$20.50",
+            "$21.00",
+            "$25.00"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The total cost to purchase the shirt is the $20 cost of the shirt plus the 5% sales tax. The value of the 5% sales tax on the $20 shirt is equivalent to 0. 0 5 * 20 dollars , or $1. Therefore, the total cost to purchase the shirt is 20 dollars + 1 dollar , or $21. Choice A is incorrect and may result from neglecting to multiply by $20 when finding the value of the sales tax. Choice B is incorrect and may result from dividing by 10, instead of by 100, and then neglecting to multiply by $20 when finding the sales tax. Choice D is incorrect and may result from interpreting the sales tax of 5% as $5."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "707db2d3",
+        "Prompt": "For the finale of a TV show, viewers could use either social media or a text message to vote for their favorite of 2 contestants. The contestant receiving more than 50% of the vote won. An estimated 10% of the viewers voted, and 30% of the votes were cast on social media. Contestant 2 earned 70% of the votes cast using social media and 40% of the votes cast using a text message. Based on this information, which of the following is an accurate conclusion?",
+        "Answer Choices": [
+            "If all viewers had voted, Contestant 2 would have won.",
+            "Viewers voting by social media were likely to be younger than viewers voting by text message.",
+            "If all viewers who voted had voted by social media instead of by text message, Contestant 2 would have won.",
+            "Viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message."
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It is given that Contestant 2 earned 70% of the votes cast using social media and 40% of the votes cast using a text message. Based on this information, viewers voting by social media were more likely to prefer Contestant 2 than were viewers voting by text message. Choices A, B, and C are incorrect. There is not enough information about the viewers to reach these conclusions."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "63573fea",
+        "Prompt": "During the first month of sales, a company sold 1,300,000 units of a certain type of smartph1. During the same month, 15% of the units sold were returned. If sales and the return rate remain the same for each of the next 5 months, about how many units of this smartph1 will be returned to the company during this 6 - month period?",
+        "Answer Choices": [
+            "195,000",
+            "975,000",
+            "1,170,000",
+            "6,630,000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Of the 1,300,000 units sold during the first month, 15% were returned, so 1,300,000 * 0. 1 5, = 195,000 units were returned during the first month. If the units were sold and returned at the same rate for the next 5 months, then a total of 195,000 * 6, = 1,170,000 smartphone units were returned during the 6-month period. Choice A is incorrect. This is the number of units that were returned in 1 month. Choice B is incorrect. This is the number of units that were returned in 5 months. Choice D is incorrect. This is the number of units sold and not returned during the first 6 months."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "191d167b",
+        "Prompt": "Last year, 200 students enrolled in an interior design program. This year, the number of students enrolled is 147 percent sign of last year\u2019s number. How many students are enrolled in the interior design program this year?",
+        "Answer Choices": [
+            "247",
+            "294",
+            "347",
+            "394"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that the number of students enrolled in an interior design program this year is 147 percent sign of last year's number, which is 200 . 147 percent sign of 200 can be expressed as ( ( 147 / 100 ) ) ( 200 ) , or ( 1.47 ) ( 200 ) , which is equivalent to 294 . Therefore, 294 students are enrolled in the interior design program this year.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "d693f563",
+        "Prompt": "Last year, Cedric had 35 plants in his garden. This year, the number of plants in Cedric\u2019s garden is 60 percent sign greater than the number of plants in his garden last year. How many plants does Cedric have in his garden this year?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "56",
+        "Rationale": "The correct answer is 56 . It\u2019s given that Cedric had 35 plants in his garden last year and that the number of plants in Cedric's garden this year is 60 percent sign greater than the number of plants in his garden last year. It follows that the number of plants in Cedric\u2019s garden this year is 35 plus 60 percent sign of 35 , which is equal to 35 + 35 ( ( 60 / 100 ) ) , or 35 + 35 ( 0.6 ) . This expression is equivalent to 56 , or 56 . Therefore, Cedric has 56 plants in his garden this year."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "bb7c8186",
+        "Prompt": "What is 23 percent sign of 100?",
+        "Answer Choices": [
+            "23",
+            "46",
+            "77",
+            "123"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. 23 percent sign of 100 can be calculated by multiplying 23/100 by 100 , which yields ( ( 23 / 100 ) ) 100 , or 23 .  Choice B is incorrect. This is 46 percent sign , not 23 percent sign , of 100 .  Choice C is incorrect. This is 23 percent sign less than 100 ,\u00a0not 23 percent sign of 100 .  Choice D is incorrect. This is 23 percent sign greater than 100 , not 23 percent sign of 100 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "7cab9fe1",
+        "Prompt": "Which expression represents the result of increasing a positive quantity w by 43 percent sign?",
+        "Answer Choices": [
+            "1.43 w",
+            "0.57 w",
+            "43 w",
+            "0.43 w"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The result of increasing a positive quantity w by x percent sign can be represented by the expression ( 1 + ( x / 100 ) ) w .\u00a0Therefore, the result of increasing a positive quantity w by 43 percent sign can be found by substituting 43 for x in the expression ( 1 + ( x / 100 ) ) w , which gives ( 1 + ( 43 / 100 ) ) w , or 1.43 w . Thus, the expression 1.43 w represents the result of increasing a positive quantity w by 43 percent sign .  Choice B is incorrect. This is the result of decreasing a positive quantity w by 43 percent sign .  Choice C is incorrect. This is the result of increasing a positive quantity w by 4,200 percent sign .  Choice D is incorrect. This is the result of decreasing a positive quantity w by 57 percent sign ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "121dc44f",
+        "Prompt": "The population of City A increased by 7 percent sign from 2015 to 2016. If the 2016 population is k * the 2015 population, what is the value of k?",
+        "Answer Choices": [
+            "0.0700000000000000",
+            "0.700000000000000",
+            "1.07000000000000",
+            "1.70000000000000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that the population of City A increased by 7 percent sign from 20 15 to 20 16 . Therefore, the population of City A in 20 16 includes 100 percent sign of the population of City A in 20 15 plus an additional 7 percent sign of the population of City A in 20 15 . This means that the population of City A in 20 16 is 107 percent sign of the population in 20 15 . Thus, the population of City A in 20 16 is 107/100 , or 1.07000000000000 , times the 20 15 population. Therefore, the value of k is 1.07000000000000 .  Choice A is incorrect. This would be the value of k if the population in 20 16 was 7 percent sign of the population in 20 15 .  Choice B is incorrect. This would be the value of k if the population in 20 16 was 70 percent sign of the population in 20 15 .  Choice D is incorrect. This would be the value of k if the population increased by 70 percent sign , not 7 percent sign , from 20 15 to 20 16 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "29c177e6",
+        "Prompt": "What is 10 percent sign of 470?",
+        "Answer Choices": [
+            "37",
+            "47",
+            "423",
+            "460"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. 10 percent sign of a quantity means 1/10 times the quantity. Therefore, 10 percent sign of 470 can be represented as ( 10 / 100 ) ( 470 ) , which is equivalent to 0.10 ( 470 ) , or 47 . Therefore, 10 percent sign of 470 is 47 .  Choice A is incorrect. This is 10 percent sign of 370 , not 10 percent sign of 470 .  Choice C is incorrect. This is 90 percent sign of 470 , not 10 percent sign of 470 .  Choice D is incorrect. This is 460 , not 10 percent sign of 470 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "8e2e424e",
+        "Prompt": "The number k is 36% greater than 50. If k is the product of 50 and r, what is the value of r ?",
+        "Answer Choices": [
+            "36",
+            "3.6",
+            "1.36",
+            "0.36"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that the number k is 36% greater than 50. Therefore, the value of k is the number 50 plus 36% of 50. This can be rewritten as k = 50 +, the fraction 36 over 100, ), * 50 . Multiplying the terms the fraction 36 over 100, ), * 50 yields 18, so k = 50 + 18 , or k = 68 . It\u2019s also given that k is the product of 50 and r , which can be rewritten as k = 50 r . Substituting 68 for k yields 68 = 50 r . Dividing both sides of this equation by 50 yields r = 1. 3 6 . Choice A is incorrect. This is the percentage that k is greater than 50. Choice B is incorrect and may result from a calculation error. Choice D is incorrect. This would be the value of r if k were 36% of 50, instead of 36% greater than 50."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "67c0200a",
+        "Prompt": "The number a is 70 percent sign less than the positive number b. The number c is 80 percent sign greater than a. The number c is how many * b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".54,  27/50",
+        "Rationale": "The correct answer is 0.540000000000000 . It's given that the number a is 70 percent sign less than the positive number b . Therefore, a = ( 1 - ( 70 / 100 ) ) b , which is equivalent to a = ( 1 - 0.70 ) b , or a = 0.30 b . It's also given that the number c is 80 percent sign greater than a . Therefore, c = ( 1 + ( 80 / 100 ) ) a , which is equivalent to c = ( 1 + 0.80 ) a , or c = 1.80 a . Since a = 0.30 b , substituting 0.30 b for a in the equation c = 1.80 a yields c = 1.80 ( 0.30 b ) , or c = 0.54 b . Thus, c is 0.540000000000000 times b . Note that .54 and 27/50 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "40e7a1a9",
+        "Prompt": "210 is p percent sign greater than 30. What is the value of p?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "600",
+        "Rationale": "The correct answer is 600 . It\u2019s given that 210 is p percent sign greater than 30 . It follows that 210 = ( 1 + ( p / 100 ) ) ( 30 ) . Dividing both sides of this equation by 30 yields 7 = 1 + ( p / 100 ) . Subtracting 1 from both sides of this equation yields 6 = ( p / 100 ) . Multiplying both sides of this equation by 100 yields p = 600 . Therefore, the value of p is 600 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "709e04de",
+        "Prompt": "The value of z is 1.13000000000000 * 100. The value of z is what percent greater than 100?",
+        "Answer Choices": [
+            "11.3000000000000",
+            "13",
+            "130",
+            "213"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that the value of z is 1.13000000000000 times 100 . This can be written as z = ( 1.13 ) ( 100 ) , which is equivalent to z = ( 1 + 0.13 ) ( 100 ) , or z = ( 1 + ( 13 / 100 ) ) ( 100 ) . It follows that the value of z is 100 percent sign of 100 plus 13 percent sign of 100 . Therefore, the value of z is 13 percent sign greater than 100 .  Choice A is incorrect. This gives a value of z that is 1.11300000000000 , not 1.13000000000000 , times 100 .  Choice C is incorrect. This gives a value of z that is 2.30000000000000 , not 1.13000000000000 , times 100 .  Choice D is incorrect. This gives a value of z that is 3.13000000000000 , not 1.13000000000000 , times 100 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "949cd96b",
+        "Prompt": "The length of the base of a certain parallelogram is 89 percent sign of the h8 of the parallelogram. Which expression represents the length of the base of the parallelogram, where h is the h8 of the parallelogram?",
+        "Answer Choices": [
+            "89 h",
+            "0.089 h",
+            "8.9 h",
+            "0.89 h"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It's given that the length of the base of the parallelogram is 89 percent sign of the height of the parallelogram. Since h is the height of the parallelogram, it follows that the length of the base of the parallelogram can be represented by the expression ( 89 / 100 ) h , or 0.89 h .  Choice A is incorrect. This expression represents 8,900 percent sign , not 89 percent sign , of the height of the parallelogram.  Choice B is incorrect. This expression represents 8.9 percent sign , not 89 percent sign , of the height of the parallelogram.  Choice C is incorrect. This expression represents 890 percent sign , not 89 percent sign , of the height of the parallelogram."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "28c6bd8c",
+        "Prompt": "The table above shows a summary of 1,200 responses to a survey question. Based on the table, how many of those surveyed get most of their medical information from either a doctor or the Internet?",
+        "Answer Choices": [
+            "865",
+            "887",
+            "912",
+            "926"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. According to the table, 63% of survey respondents get most of their medical information from a doctor and 13% get most of their medical information from the Internet. Therefore, 76% of the 1,200 survey respondents get their information from either a doctor or the Internet, and 76% of 1,200 is 912. Choices A, B, and D are incorrect. According to the table, 76% of survey respondents get their information from either a doctor or the Internet. Choice A is incorrect because 865 is about 72% (the percent of survey respondents who get most of their medical information from a doctor or from magazines/brochures), not 76%, of 1,200. Choice B is incorrect because 887 is about 74%, not 76%, of 1,200. Choice D is incorrect because 926 is about 77%, not 76%, of 1,200."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "3a6ed720",
+        "Prompt": "Of (900, 0) beads, (828, 0) are silver. What percentage of the beads are silver?",
+        "Answer Choices": [
+            "8 percent sign",
+            "36 percent sign",
+            "72 percent sign",
+            "92 percent sign"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The proportion of the beads that are silver can be written as (828, 0, 0) , or 0.920000000000000 . Therefore, the percentage of the beads that are silver is 0.92 ( 100 ) , or 92 percent sign .  Choice A is incorrect. This is the percentage of the beads that are not silver.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "ba61d95f",
+        "Prompt": "The population of Greenville increased by 7 percent sign from 2015 to 2016. If the 2016 population is k * the 2015 population, what is the value of k?",
+        "Answer Choices": [
+            "0.0700000000000000",
+            "0.700000000000000",
+            "1.07000000000000",
+            "1.70000000000000"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Let x be the 2015 population of Greenville. It's given that the population increased by 7 percent sign from 2015 to 2016. The increase in population can be written as ( 0.07 ) x . The 2016 population of Greenville is given as the sum of the 2015 population of Greenville and the increase in population from 2015 to 2016. This can be rewritten as x + ( 0.07 ) x , or 1.07 x . Therefore, the value of k is 1.07000000000000 .  Choice A is incorrect. This is the percent, represented as a decimal, that the population increased from 2015 to 2016, not the value of k .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect. This is the value of k if the population increased by 70 percent sign , not 7 percent sign , from 2015 to 2016."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "8cbf1415",
+        "Prompt": "In a group, 40% of the items are red. Of all the red items in the group, 30% also have stripes. What percentage of the items in the group are red with stripes?",
+        "Answer Choices": [
+            "10%",
+            "12%",
+            "70%",
+            "75%"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that in a group, 40 percent sign of the items are red. It follows that the number of red items in the group can be represented by 0 period 4 x , where x represents the total number of items in the group. It\u2019s also given that of all the red items in the group, 30 percent sign also have stripes. It follows that the number of items in the group that are red and have stripes can be represented by 0 period 3 ( 0 period 4 x ) , or 0 period 12 x . The expression 0 period 12 x represents 12 percent sign of x . Since x represents the total number of items in the group, it follows that 12 percent sign of the items in the group are red and have stripes.  Choice A is incorrect and may result from subtracting 30 percent sign from 40 percent sign rather than calculating 30 percent sign of 40 percent sign .  Choice C is incorrect and may result from adding 30 percent sign and 40 percent sign rather than calculating 30 percent sign of 40 percent sign .  Choice D is incorrect and may result from calculating the percentage that 30 percent sign is of 40 percent sign rather than calculating 30 percent sign of 40 percent sign ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "96a45430",
+        "Prompt": "A number n is increased 6%. If the result is 318, what is the value of n ?",
+        "Answer Choices": [
+            "199",
+            "299",
+            "300",
+            "337"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. The decimal equivalent of 6% is 0.06. Since increasing the number n by 6% yields the number 318, this situation can be represented by the equation n * open parenthesis, 1 + 0. 0 6, close parenthesis, = 318 , or n * 1. 0 6, = 318 . Dividing both sides of this equation by 1.06 yields n = 300 . Choice A is incorrect. This is the result when n is increased by 60%, not by 6%. Choice B is incorrect. This is the approximate result of decreasing 318 by 6%. Choice D is incorrect. This is the approximate result of increasing 318 by 6%."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "b2f6f17d",
+        "Prompt": "A customer\u2019s monthly water bill was $75.74. Due to a rate increase, her monthly bill is now $79.86. To the nearest /10 of a percent, by what percent did the amount of the customer\u2019s water bill increase?",
+        "Answer Choices": [
+            "4.1%",
+            "5.1%",
+            "5.2%",
+            "5.4%"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. To find the percent increase of the customer\u2019s water bill, the absolute increase of the bill, in dollars, is divided by the original amount of the bill, and the result is multiplied by 100%, as follows: the fraction with ( 79. 8 6 - 75. 7 4, and )/( 75. 7 4, is approximately equal to, 0. 0 5 4; ; 0. 0 5 4 * 100 percent, = 5. 4 percent . Choice A is incorrect. This choice is the difference 79. 8 6, - 75. 7 4 rounded to the nearest tenth, which is the (absolute) increase of the bill\u2019s amount, not its percent increase. Choice B is incorrect and may be the result of some calculation errors. Choice C is incorrect and is the result of dividing the difference between the two bill amounts by the new bill amount instead of the original bill amount."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "9c44f828",
+        "Prompt": "There are a total of 840 seats in a school auditorium. During an assembly, students occupied 50 percent sign of the seats in the auditorium. How many seats did the students occupy during this assembly?",
+        "Answer Choices": [
+            "25",
+            "50",
+            "420",
+            "790"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that during an assembly, students occupied 50 percent sign of the 840 seats in the school auditorium. Therefore, the number of seats that the students occupied during this assembly can be calculated by multiplying the number of seats in the school auditorium by 1/2 . Thus, the students occupied 840 ( ( 50 / 100 ) ) , or 420 , seats during this assembly.  Choice A is incorrect. This is approximately 3 percent sign , not 50 percent sign , of 840 .  Choice B is incorrect. This is approximately 6 percent sign , not 50 percent sign , of 840 .  Choice D is incorrect. This is approximately 94 percent sign , not 50 percent sign , of 840 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "273b7f37",
+        "Prompt": "Isabel grows potatoes in her garden. This year, she harvested 760 potatoes and saved 10 percent sign of them to plant next year. How many of the harvested potatoes did Isabel save to plant next year?",
+        "Answer Choices": [
+            "66",
+            "76",
+            "84",
+            "86"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The number of harvested potatoes Isabel saved to plant next year can be calculated by multiplying the total number of potatoes Isabel harvested, 760 , by the proportion of potatoes she saved. Since she saved 10 percent sign of the potatoes she harvested, the proportion of potatoes she saved is 1/10 , or 0.100000000000000 . Multiplying 760 by this proportion gives 760 ( 0.1 ) , or 76 , potatoes that she saved to plant next year.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "55818046",
+        "Prompt": "Which of the following is closest to the difference between the percentage of adults aged 18\u201350 years who responded \u201cwarm\u201d and the percentage of adults aged 51 years or greater who responded \u201cwarm\u201d?",
+        "Answer Choices": [
+            "4%",
+            "5%",
+            "10%",
+            "18%"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. The percentage of adults aged 18\u201350 who responded \u201cwarm\u201d is the fraction with ( 295 + 246, and )/( 508 + 410, ), = the fraction 541 over 918 , or about 58.9%. The percentage of adults aged 51 years or greater who responded \u201cwarm\u201d is the fraction with ( 238 + 137, and )/( 403 + 279, ), = the fraction 375 over 682 , or about 55.0%. The difference between 58.9% and 55.0% is 3.9%. Of the answer choices, 4% is closest to this number. Choices B, C, and D are incorrect and may result from calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "7ed0d098",
+        "Prompt": "Lani spent 15% of her 8 - hour workday in meetings. How many minutes of her workday did she spend in meetings?",
+        "Answer Choices": [
+            "1.2",
+            "15",
+            "48",
+            "72"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. There are 60 minutes in one hour, so an 8-hour workday has 60 * 8, = 480 minutes. To calculate 15% of 480, multiply 0.15 by 480: 0. 1 5 * 480, = 72 . Therefore, Lani spent 72 minutes of her workday in meetings. Choice A is incorrect because 1.2 is 15% of 8, which gives the time Lani spent of her workday in meetings in hours, not minutes. Choices B and C are incorrect and may be the result of computation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "20845d36",
+        "Prompt": "The number a is 70 percent sign less than the positive number b. The number c is 60 percent sign greater than a. The number c is how many * b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".48,  12/25",
+        "Rationale": "The correct answer is 0.480000000000000 . It's given that the number a is 70 percent sign less than the positive number b . Therefore, a = ( 1 - ( 70 / 100 ) ) b , which is equivalent to a = ( 1 - 0.70 ) b , or a = 0.30 b . It's also given that the number c is 60 percent sign greater than a . Therefore, c = ( 1 + ( 60 / 100 ) ) a , which is equivalent to c = ( 1 + 0.60 ) a , or c = 1.60 a . Since a = 0.30 b , substituting 0.30 b for a in the equation c = 1.60 a yields c = 1.60 ( 0.30 b ) , or c = 0.48 b . Thus, c is 0.480000000000000 times b . Note that .48 and 12/25 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "2e92cc21",
+        "Prompt": "The number a is 110 percent sign greater than the number b. The number b is 90 percent sign less than 47. What is the value of a?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "9.87,  987/100",
+        "Rationale": "The correct answer is 9.87000000000000 . It\u2019s given that the number a is 110 percent sign greater than the number b . It follows that a = ( 1 + ( 110 / 100 ) ) b , or a = 2.1 b . It\u2019s also given that the number b is 90 percent sign less than 47 . It follows that b = ( 1 - ( 90 / 100 ) ) ( 47 ) , or b = 0.1 ( 47 ) , which yields b = 4.7 . Substituting 4.70000000000000 for b in the equation a = 2.1 b yields a = 2.1 ( 4.7 ) , which is equivalent to a = 9.87 . Therefore, the value of a is 9.87000000000000 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "77cf4fa6",
+        "Prompt": "There are 170 blocks in a container. Of these blocks, 10 percent sign are green. How many blocks in the container are green?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "17",
+        "Rationale": "The correct answer is 17 . It's given that there are 170 blocks in a container, and of these blocks, 10 percent sign are green. Since 10 percent sign can be rewritten as 1/10 , or 0.100000000000000 , the number of green blocks in the container is 0.1 ( 170 ) , or 17 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "2d31caae",
+        "Prompt": "Call Ratings 1 Star 2 Stars 3 Stars 4 Stars Total Employee A 16 49 72 8 145 Employee B 4 10 22 34 70 Employee C 8 56 45 16 125 Employee D 22 42 84 12 160 Total 50 157 223 70 500 A supervisor at a call center reviewed 500 calls taken by 4 employees and rated the employees\u2019 performance on each call on a scale from 1 star to 4 stars. The ratings for each employee are shown in the table above. According to the table, to the nearest whole percent, what percent of Employee A\u2019s calls received a rating of 1 star?",
+        "Answer Choices": [
+            "3%",
+            "11%",
+            "16%",
+            "32%"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The percent of Employee A\u2019s calls that received a rating of 1 star is the number of\u00a0Employee A\u2019s 1-star calls divided by the total number of Employee A\u2019s\u00a0calls. This quotient, 16 over 145 ,\u00a0is approximately equal to 0. 1 1 0 3 , or 11. 0 3 percent . To the nearest whole percent, this is 11%. Choice A is incorrect. This is the percent of all calls taken by Employee A that received a rating of 1 star. Choice C is incorrect and may result from a conceptual error. For example, 16 is the number, not the percent, of calls taken by Employee A that received a rating of 1 star. Choice D is incorrect. This is the percent of all calls that received a rating of 1 star that were taken by Employee A."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "194ae3b1",
+        "Prompt": "There were approximately113,000 occupational therapy jobs in the United States in 2012. The Bureau of Labor Statistics has projected that this number will increase by29% from 2012 to 2022. Of the following, which is closest to the number of occupational therapy jobs the bureau has projected for the United States in 2022?",
+        "Answer Choices": [
+            "115,900",
+            "116,300",
+            "142,000",
+            "145,800"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The decimal equivalent of 29% is 0.29. It\u2019s given that the 113,000 occupational therapy jobs in the United States in 2012 are projected to increase by 29% by 2022. Increasing 113,000 by 29% can be expressed as 113,000 * open parenthesis, 1 + 0. 2 9, close parenthesis , or 113,000 * 1. 2 9 . Evaluating this expression yields 145,770. The closest number is 145,800 in choice D. Choice A is incorrect and may result from increasing 113,000 by 2,900 instead of by 29%. Choice B is incorrect and may result from increasing 113,000 by 2.9% instead of by 29%. Choice C is incorrect and may result from increasing 113,000 by 29,000 instead of by 29%."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "a8fabad0",
+        "Prompt": "A waiter receives tips from each customer. On average, the tip is 15% of the customer\u2019s bill. At this rate, which of the following is closest to the tip the waiter can expect when a customer has a bill that is $78.20?",
+        "Answer Choices": [
+            "$8.00",
+            "$10.00",
+            "$12.00",
+            "$14.00"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If the bill is $78.20, 15% of the bill can be found by multiplying 78.20 by the decimal conversion of 15%, 78.20 \u00d7 0.15 = $11.73. The exact amount $11.73 is closest in value to $12.00. Choices A, B, and D are incorrect and may be the result of errors when calculating 15% of the total $78.20."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "8c5dbd3e",
+        "Prompt": "The number w is 110 percent sign greater than the number z. The number z is 55 percent sign less than 50. What is the value of w?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "189/4,  47.25",
+        "Rationale": "The correct answer is 47.2500000000000 . It\u2019s given that the number w is 110 percent sign greater than the number z . It follows that w = ( 1 + ( 110 / 100 ) ) z , or w = 2.1 z . It\u2019s also given that the number z is 55 percent sign less than 50 . It follows that z = ( 1 - ( 55 / 100 ) ) ( 50 ) , or z = 0.45 ( 50 ) , which yields z = 22.5 . Substituting 22.5000000000000 for z in the equation w = 2.1 z yields w = 2.1 ( 22.5 ) , which is equivalent to w = 47.25 . Therefore, the value of w is 47.2500000000000 . Note that 47.25 and 189/4 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "94c65646",
+        "Prompt": "432 is 96 percent sign of what number?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "450",
+        "Rationale": "The correct answer is 450 . Let x represent the number that 432 is 96 percent sign of. This can be written as ( ( 96 / 100 ) ) x = 432 , or 0.96 x = 432 . Dividing both sides of this equation by 0.960000000000000 yields x = 450 . Therefore, 432 is 96 percent sign of 450 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "7b731fc3",
+        "Prompt": "What number is 40 percent sign greater than 115?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "161",
+        "Rationale": "The correct answer is 161 . For a number to be 40 percent sign greater than 115 , it follows that the number is ( 100 percent sign of 115 ) + ( 40 percent sign of 115 ) , which can be written as ( 100 / 100 ) ( 115 ) + ( 40 / 100 ) ( 115 ) . This expression is equivalent to 1 ( 115 ) + 0.4 ( 115 ) , or 1.4 ( 115 ) , which is equal to 161 . Therefore, 161 is 40 percent sign greater than 115 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "e9f4521a",
+        "Prompt": "13 is p percent sign of 25. What is the value of p?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "52",
+        "Rationale": "The correct answer is 52 . It's given that 13 is p percent sign of 25 . It follows that ( 13 / 25 ) = ( p / 100 ) . Multiplying both sides of this equation by 100 gives 52 = p . Therefore, the value of p is 52 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "1c2f50a6",
+        "Prompt": "During a sale, the original prices of all the items in a clothing store have been reduced by20%. What is the sale price of a jacket with an original price of $50 ?",
+        "Answer Choices": [
+            "$12",
+            "$30",
+            "$36",
+            "$40"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the original price of the jacket has been reduced by 20%. Multiplying the original price, $50, by 20% gives the amount, in dollars, that the price of the jacket is reduced by: 50 * . 2 0, = 10 . Subtracting this value from the original price results in the sale price of the jacket: 50 dollars - 10 dollars , or $40. Choices A, B, and C are incorrect and may result from a conceptual or calculation error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "3d73a58b",
+        "Prompt": "A gift shop buys souvenirs at a wholesale price of 7.00000000000000 dollars each and resells them each at a retail price that is 290 percent sign of the wholesale price. At the end of the season, any remaining souvenirs are marked at a discounted price that is 80 percent sign off the retail price. What is the discounted price of each remaining souvenir, in dollars?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "203/50,  4.06",
+        "Rationale": "The correct answer is 4.06000000000000 . It's given that the retail price is 290 percent sign of the wholesale price of dollar sign 7.00 . Thus, the retail price is dollar sign 7.00 ( ( 290 / 100 ) ) , which is equivalent to dollar sign 7.00 ( 2.9 ) , or dollar sign 20.30 . It's also given that the discounted price is 80 percent sign off the retail price. Thus, the discounted price is dollar sign 20.30 ( 1 - ( 80 / 100 ) ) , which is equivalent to dollar sign 20.30 ( 0.20 ) , or dollar sign 4.06 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "048811bd",
+        "Prompt": "What is 10 percent sign of 370?",
+        "Answer Choices": [
+            "27",
+            "37",
+            "333",
+            "360"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. 10 percent sign of a quantity means 1/10 times the quantity. Therefore, 10 percent sign of 370 can be represented as ( 10 / 100 ) ( 370 ) , which is equivalent to 0.10 ( 370 ) , or 37 . Therefore, 10 percent sign of 370 is 37 .  Choice A is incorrect. This is 10 percent sign of 270 , not 10 percent sign of 370 .  Choice C is incorrect. This is 90 percent sign of 370 , not 10 percent sign of 370 .  Choice D is incorrect. This is 360 , not 10 percent sign of 370 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Medium",
+        "ID": "566759ef",
+        "Prompt": "Thomas installed a new stove in his restaurant. At the time of installation, the stove had a value of $800. Thomas estimates that each year the value of the stove will depreciate by20% of the previous year\u2019s estimated value. What is the estimated value of the stove exactly2 years after Thomas installed it?",
+        "Answer Choices": [
+            "$480",
+            "$512",
+            "$556",
+            "$640"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice B is correct. If the stove\u2019s value depreciates by 20% of the previous year\u2019s estimated value, then each year it retains 100% \u2013 20% = 80%, or 0.80, of the previous year\u2019s estimated value. Since the stove\u2019s value was $800 when Thomas installed it, the estimated value after two years would be (0.80)(0.80)($800) = $512. Choice A is incorrect. This is the value of the stove if each year it had depreciated by 20% of the original value rather than by 20% of the previous year\u2019s estimated value. Choice C is incorrect and may be the result of a computational error. Choice D is incorrect. This is the estimated value of the stove 1 year after Thomas installed it, not 2 years."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "6e4a60dd",
+        "Prompt": "Rita\u2019s total bill at a restaurant was $25.00, including tax. If she left a tip of 20% of the total bill, what was the amount of the tip?",
+        "Answer Choices": [
+            "$3.50",
+            "$4.00",
+            "$4.50",
+            "$5.00"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The total bill was $25.00. The percentage 20% is equivalent to the decimal 0.2. The tip is the product of the percentage and the total bill; therefore, 0. 2 * 25, = 5 , so the tip was $5.00. Choices A, B, and C are incorrect and may be the result of incorrectly converting the given percentage or a calculation error."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "040f2a84",
+        "Prompt": "The regular price of a shirt at a store is dollar sign 11.70. The sale price of the shirt is 80 percent sign less than the regular price, and the sale price is 30 percent sign greater than the store's cost for the shirt. What was the store\u2019s cost, in dollars, for the shirt? (Disregard the dollar sign sign when entering your answer. For example, if your answer is dollar sign 4.97, enter 4.97000000000000)",
+        "Answer Choices": "N/A",
+        "Correct Answer": "1.8,  9/5",
+        "Rationale": "The correct answer is 1.80000000000000 . It\u2019s given that the regular price of a shirt at a store is dollar sign 11.70 , and the sale price of the shirt is 80 percent sign less than the regular price. It follows that the sale price of the shirt is dollar sign 11.70 ( 1 - ( 80 / 100 ) ) , or dollar sign 11.70 ( 1 - 0.8 ) , which is equivalent to dollar sign 2.34 . It\u2019s also given that the sale price of the shirt is 30 percent sign greater than the store\u2019s cost for the shirt. Let x represent the store\u2019s cost for the shirt. It follows that 2.34 = ( 1 + ( 30 / 100 ) ) x , or 2.34 = 1.3 x . Dividing both sides of this equation by 1.30000000000000 yields x = 1.80 . Therefore, the store\u2019s cost, in dollars, for the shirt is 1.80000000000000 . Note that 1.8 and 9/5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "41b71b4e",
+        "Prompt": "What number is 20% greater than 60 ?",
+        "Answer Choices": [
+            "50",
+            "72",
+            "75",
+            "132"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The decimal equivalent of 20% is 0.2. The number that is 20% greater than 60 is also 120% of 60. The decimal equivalent of 120% is 1.2, and 1. 2 * 60, = 72 . Alternate approach: 10% of 60 is 6, and 20% of 60 is double that amount, or 12. It follows that the number that is 20% greater than 60 is 12 more than 60, or 60 + 12, = 72 . Choice A is incorrect and may result from dividing, instead of multiplying, 60 by 1.2. Choice C is incorrect because it\u2019s 25% greater than 60, rather than 20% greater than 60. Choice D is incorrect and may result from multiplying 60 by 2.2 instead of 1.2."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Easy",
+        "ID": "eaab8bc1",
+        "Prompt": "Out of 300 seeds that were planted, 80 percent sign sprouted. How many of these seeds sprouted?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "240",
+        "Rationale": "The correct answer is 240 . It\u2019s given that 80 percent sign of the 300 seeds sprouted. Therefore, the number of seeds that sprouted can be calculated by multiplying the number of seeds that were planted by 4/5 , which gives 300 ( ( 80 / 100 ) ) , or 240 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "8213b1b3",
+        "Prompt": "According to a set of standards, a certain type of substance can contain a maximum of 0.001 percent sign phosphorus by mass. If a sample of this substance has a mass of 140 grams, what is the maximum mass, in grams, of phosphorus the sample can contain to meet these standards?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".0014",
+        "Rationale": "The correct answer is 0.00140000000000000 . It's given that a certain type of substance can contain a maximum of 0.001 percent sign phosphorus by mass to meet a set of standards. If a sample of the substance has a mass of 140 grams, it follows that the maximum mass, in grams, of phosphorus the sample can contain to meet the standards is 0.001 percent sign of 140 , or ( 0.001 / 100 ) ( 140 ) , which is equivalent to ( 0.00001 ) ( 140 ) , or 0.00140000000000000 . Note that .0014 and 0.001 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "34f8cd89",
+        "Prompt": "37 percent sign of the items in a box are green. Of those, 37 percent sign are also rectangular. Of the green rectangular items, 42 percent sign are also metal. Which of the following is closest to the percentage of the items in the box that are not rectangular green metal items?",
+        "Answer Choices": [
+            "1.16 percent sign",
+            "57.50 percent sign",
+            "94.25 percent sign",
+            "98.84 percent sign"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that 37 percent sign of the items in a box are green. Let x represent the total number of items in the box. It follows that ( 37 / 100 ) x , or 0.37 x , items in the box are green. It's also given that of those, 37 percent sign are also rectangular. Therefore, ( 37 / 100 ) ( 0.37 x ) , or 0.1369 x , items in the box are green rectangular items. It's also given that of the green rectangular items, 42 percent sign are also metal. Therefore, ( 42 / 100 ) ( 0.1369 x ) , or 0.057498 x , items in the box are rectangular green metal items. The number of the items in the box that are not rectangular green metal items is the total number of items in the box minus the number of rectangular green metal items in the box. Therefore, the number of items in the box that are not rectangular green metal items is x - 0.057498 x , or 0.942502 x . The percentage of items in the box that are not rectangular green metal items is the percentage that 0.942502 x is of x . If p percent sign represents this percentage, the value of p is 100 ( ( 0.942502 x / x ) ) , or 94.2502000000000 . Of the given choices, 94.25 percent sign is closest to the percentage of items in the box that are not rectangular green metal items.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "25faa756",
+        "Prompt": "The number a is 60 percent sign greater than the positive number b. The number c is 45 percent sign less than a. The number c is how many * b?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".88,  22/25",
+        "Rationale": "The correct answer is 0.880000000000000 . It\u2019s given that the number a is 60 percent sign greater than the positive number b . Therefore, a = ( 1 + ( 60 / 100 ) ) b , which is equivalent to a = ( 1 + 0.60 ) b , or a = 1.60 b . It\u2019s also given that the number c is 45 percent sign less than a . Therefore, c = ( 1 - ( 45 / 100 ) ) a , which is equivalent to c = ( 1 - 0.45 ) a , or c = 0.55 a . Since a = 1.60 b , substituting 1.60 b for a in the equation c = 0.55 a yields c = 0.55 ( 1.60 b ) , or c = 0.88 b . Thus, the number c is 0.880000000000000 times the number b . Note that .88 and 22/25 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Problem-Solving and Data Analysis",
+        "Skill": "Percentages",
+        "Difficulty": "Hard",
+        "ID": "ad911622",
+        "Prompt": "The value of a collectible comic book increased by167 percent sign from the end of 2011 to the end of 2012 and then decreased by 16 percent sign from the end of 2012 to the end of 2013. What was the net percentage increase in the value of the collectible comic book from the end of 2011 to the end of 2013?",
+        "Answer Choices": [
+            "124.28 percent sign",
+            "140.28 percent sign",
+            "151.00 percent sign",
+            "209.72 percent sign"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the value of the comic book increased by 167 percent sign from the end of 2011 to the end of 2012 . Therefore, if the value of the comic book at the end of 2011 was x dollars, then the value, in dollars, of the comic book at the end of 2012 was x + ( ( 167 / 100 ) ) x , which can be rewritten as 1 x + 1.67 x , or 2.67 x . It\u2019s also given that the value of the comic book decreased by 16 percent sign from the end of 2012 to the end of 2013 . Therefore, the value, in dollars, of the comic book at the end of 2013 was 2.67 x - 2.67 x ( ( 16 / 100 ) ) , which can be rewritten as 2.67 x - ( 2.67 x ) ( 0.16 ) , or 2.2428 x . Thus, if the value of the comic book at the end of 2011 was x dollars, and the value of the comic book at the end of 2013 was 2.2428 x dollars, then from the end of 2011 to the end of 2013 , the value of the comic book increased by 2.2428 x - 1 x , or 1.2428 x , dollars. Therefore, the increase in the value of the comic book from the end of 2011 to the end of 2013 is equal to 1.24280000000000 times the value of the comic book at the end of 2011 . It follows that from the end of 2011 to the end of 2013 , the net percentage increase in the value of the comic book was ( 1.2428 ) ( 100 ) percent sign , or 124.28 percent sign .  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect. This is the difference between the net percentage increase in the value of the comic book from the end of 2011 to the end of 2012 and the net percentage decrease in the value of the comic book from the end of 2012 to the end of 2013 , not the net percentage increase in the value of the comic book from the end of 2011 to the end of 2013 .  Choice D is incorrect. This is the net percentage increase in the value of the comic book from the end of 2011 to the end of 2013 , if the value of the comic book increased by 167 percent sign from the end of 2011 to the end of 2012 and then increased, not decreased, by 16 percent sign from the end of 2012 to the end of 2013 ."
+    }
+]

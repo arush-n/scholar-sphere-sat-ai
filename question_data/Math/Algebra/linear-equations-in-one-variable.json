@@ -1,0 +1,734 @@
+[
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "2937ef4f",
+        "Prompt": "Hector used a tool called an auger to remove corn from a storage bin at a constant rate. The bin contained 24,000 bushels of corn when Hector began to use the auger. After 5 hours of using the auger, 19,350 bushels of corn remained in the bin. If the auger continues to remove corn at this rate, what is the total number of hours Hector will have been using the auger when 12,840 bushels of corn remain in the bin?",
+        "Answer Choices": [
+            "3",
+            "7",
+            "8",
+            "12"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. After using the auger for 5 hours, Hector had removed 24,000 \u2013 19,350 = 4,650 bushels of corn from the storage bin. During the 5-hour period, the auger removed corn from the bin at a constant rate of EndFragment the fraction 4,650 over 5, = 930 StartFragment bushels per hour. Assuming the auger continues to remove corn at this rate, after x hours it will have removed 930 x bushels of corn. Because the bin contained 24,000 bushels of corn when Hector started using the auger, the equation 24,000 \u2013 930 x = 12,840 can be used to find the number of hours, x , Hector will have been using the auger when 12,840 bushels of corn remain in the bin. Subtracting 12,840 from both sides of this equation and adding 930 x to both sides of the equation yields 11,160 = 930 x . Dividing both sides of this equation by 930 yields x = 12. Therefore, Hector will have been using the auger for 12 hours\u00a0when 12,840 bushels of corn remain in the storage bin.  StartFragment Choice A is incorrect. Three hours after Hector began using the auger, 24,000 \u2013 3(930) = 21,210 bushels of corn remained, not 12,840. Choice B is incorrect. Seven hours after Hector began using the auger, 24,000 \u2013 7(930) = 17,490 bushels of corn will remain, not 12,840. Choice C is incorrect. Eight hours after Hector began using the auger, 24,000 \u2013 8(930) = 16,560 bushels of corn will remain, not 12,840. EndFragment"
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "097e10f5",
+        "Prompt": "What value of p satisfies the equation 5 p + 180 = 250?",
+        "Answer Choices": [
+            "14",
+            "65",
+            "86",
+            "250"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Subtracting 180 from both sides of the given equation yields 5 p = 70 . Dividing both sides of this equation by 5 yields p = 14 . Therefore, the value of p that satisfies the equation 5 p + 180 = 250 is 14 .  Choice B is incorrect. This value of p satisfies the equation 5 p + 180 = 505 .  Choice C is incorrect. This value of p satisfies the equation 5 p + 180 = 610 .  Choice D is incorrect. This value of p satisfies the equation 5 p + 180 = 1,430 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "349a5bc1",
+        "Prompt": "4 x + 5 = 165 What is the solution to the given equation?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "40",
+        "Rationale": "The correct answer is 40 . Subtracting 5 from both sides of the given equation yields 4 x = 160 . Dividing both sides of this equation by 4 yields x = 40 . Therefore, the solution to the given equation is 40 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "6105234d",
+        "Prompt": "John paid a total of dollar sign 165 for a microscope by making a down payment of dollar sign 37 + p monthly payments of dollar sign 16 each. Which of the following equations represents this situation?",
+        "Answer Choices": [
+            "16 p - 37 = 165",
+            "37 p - 16 = 165",
+            "16 p + 37 = 165",
+            "37 p + 16 = 165"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that John made a dollar sign 16 payment each month for p months. The total amount of these payments can be represented by the expression 16 p . The down payment can be added to that amount to find the total amount John paid, yielding the expression 16 p + 37 . It\u2019s given that John paid a total of dollar sign 165 . Therefore, the expression for the total amount John paid can be set equal to that amount, yielding the equation 16 p + 37 = 165 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "5c94e6fa",
+        "Prompt": "3 x + 21 = 3 x + k In the given equation, k is a constant. The equation has infinitely many solutions. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "21",
+        "Rationale": "The correct answer is 21 . It's given that the equation 3 x + 21 = 3 x + k has infinitely many solutions. If an equation in one variable has infinitely many solutions, then the equation is true for any value of the variable. Subtracting 3 x from both sides of the given equation yields k = 21 . Since this equation must be true for any value of x , the value of k is 21 ."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "aa85b138",
+        "Prompt": "A tree had a h8 of 6 feet when it was planted. The equation above can be used to find how many years n it took the tree to reach a h8 of 14 feet. Which of the following is the best interpretation of the number 2 in this context?",
+        "Answer Choices": [
+            "The number of years it took the tree to double its h8",
+            "The average number of feet that the tree grew per year",
+            "The h8, in feet, of the tree when the tree was 1 year old",
+            "The average number of years it takes similar trees to grow 14 feet"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. The height of the tree at a given time is equal to its height when it was planted plus the number of feet that the tree grew. In the given equation, 14 represents the height of the tree at the given time, and 6 represents the height of the tree when it was planted. It follows that 2 n represents the number of feet the tree grew from the time it was planted until the time it reached a height of 14 feet. Since n represents the number of years between the given time and the time the tree was planted, 2 must represent the average number of feet the tree grew each year. Choice A is incorrect and may result from interpreting the coefficient 2 as doubling instead of as increasing by 2 each year. Choice C is incorrect. The height of the tree when it was 1 year old was 2 * 1, + 6, = 8 feet, not 2 feet. Choice D is incorrect. No information is given to connect the growth of one particular tree to the growth of similar trees."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "15daa8d6",
+        "Prompt": "2 x + 16 = a ( x + 8 ) In the given equation, a is a constant. If the equation has infinitely many solutions, what is the value of a?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "2",
+        "Rationale": "The correct answer is 2 . An equation with one variable, x , has infinitely many solutions only when both sides of the equation are equal for any defined value of x . It's given that 2 x + 16 = a ( x + 8 ) , where a is a constant. This equation can be rewritten as 2 ( x + 8 ) = a ( x + 8 ) . If this equation has infinitely many solutions, then both sides of this equation are equal for any defined value of x . Both sides of this equation are equal for any defined value of x when 2 = a . Therefore, if the equation has infinitely many solutions, the value of a is 2 .  Alternate approach: If the given equation, 2 x + 16 = a ( x + 8 ) , has infinitely many solutions, then both sides of this equation are equal for any value of x . If x = 0 , then substituting 0 for x in 2 x + 16 = a ( x + 8 ) yields 2 ( 0 ) + 16 = a ( 0 + 8 ) , or 16 = 8 a . Dividing both sides of this equation by 8 yields 2 = a ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "2f0a43b2",
+        "Prompt": "If ( x / 8 ) = 5, what is the value of 8/x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".2,  1/5",
+        "Rationale": "The correct answer is 1/5 . Since the number 5 can also be written as 5 1ths , the given equation can also be written as ( x / 8 ) = 5 1ths . This equation is equivalent to ( 8 / x ) = 1 /5 . Therefore, the value of 8/x is 1/5 . Note that 1/5 and .2 are examples of ways to enter a correct answer.  Alternate approach: Multiplying both sides of the equation ( x / 8 ) = 5 by 8 yields x = 40 . Substituting 40 for x into the expression 8/x yields 8 fortieths , or 1/5 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "997bec28",
+        "Prompt": "The perimeter of an isosceles triangle is 83 inches. Each of the 2 congruent sides of the triangle has a length of 24 inches. What is the length, in inches, of the /3 side?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "35",
+        "Rationale": "The correct answer is 35 . It\u2019s given that the perimeter of an isosceles triangle is 83 inches and that each of the two congruent sides has a length of 24 inches. The perimeter of a triangle is the sum of the lengths of its three sides. The equation 24 + 24 + x = 83 can be used to represent this situation, where x is the length, in inches, of the third side. Combining like terms on the left-hand side of this equation yields 48 + x = 83 . Subtracting 48 from both sides of this equation yields x = 35 . Therefore, the length, in inches, of the third side is 35 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "12ee1edc",
+        "Prompt": "In the given equation, b is a constant. If the equation has no solution, what is the value of b ?",
+        "Answer Choices": [
+            "2",
+            "4",
+            "6",
+            "10"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. This equation has no solution when there is no value of x that produces a true statement. Solving the given equation for x by dividing both sides by open parenthesis, b - 2, close parenthesis gives x = the fraction with ( 8, and )/(, open parenthesis, b - 2, close parenthesis . When open parenthesis, b - 2, close parenthesis, = 0 , the right-hand side of this equation will be undefined, and the equation will have no solution. Therefore, when b = 2 , there is no value of x that satisfies the given equation. Choices B, C, and D are incorrect. Substituting 4, 6, and 10 for b in the given equation yields exactly one solution, rather than no solution, for x . For example, substituting 4 for b in the given equation yields open parenthesis, 4 - 2, close parenthesis, * x, = 8 , or 2 x = 8 . Dividing both sides of 2 x = 8 by 2 yields x = 4 . Similarly, if b = 6 or b = 10 , x = 2 and x = 1 , respectively."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "25e1cfed",
+        "Prompt": "How many solutions does the equation 10 ( 15 x - 9 ) = - 15 ( 6 - 10 x ) have?",
+        "Answer Choices": [
+            "Exactly 1",
+            "Exactly 2",
+            "Infinitely many",
+            "Zero"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Applying the distributive property to each side of the given equation yields 150 x - 90 = (-) 90 + 150 x . Applying the commutative property of addition to the right-hand side of this equation yields 150 x - 90 = 150 x - 90 . Since the two sides of the equation are equivalent, this equation is true for any value of x . Therefore, the given equation has infinitely many solutions.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "e6cb2402",
+        "Prompt": "3 ( k x + 13 ) = ( 48 / 17 ) x + 36 In the given equation, k is a constant. The equation has no solution. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": ".9411,  .9412,  16/17",
+        "Rationale": "The correct answer is 16/17 . It's given that the equation 3 ( k x + 13 ) = ( 48 / 17 ) x + 36 has no solution. A linear equation in the form a x + b = c x + d , where a , b , c , and d are constants, has no solution only when the coefficients of x on each side of the equation are equal and the constant terms aren't equal. Dividing both sides of the given equation by 3 yields k x + 13 = ( 48 / 51 ) x + ( 36 / 3 ) , or k x + 13 = ( 16 / 17 ) x + 12 . Since the coefficients of x on each side of the equation must be equal, it follows that the value of k is 16/17 . Note that 16/17, .9411, .9412, and 0.941 are examples of ways to enter a correct answer."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "3d04de9c",
+        "Prompt": "A principal used a total of 25 flags that were either blue or yellow for field day. The principal used 20 blue flags. How many yellow flags were used?",
+        "Answer Choices": [
+            "5",
+            "20",
+            "25",
+            "30"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It's given that a principal used a total of 25 blue flags and yellow flags. It's also given that of the 25 flags used, 20 flags were blue. Subtracting the number of blue flags used from the total number of flags used results in the number of yellow flags used. It follows that the number of yellow flags used is 5 , or 5 .  Choice B is incorrect. This is the number of blue flags used.  Choice C is incorrect. This is the total number of flags used.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "60f71697",
+        "Prompt": "8 x = 88 What value of x is the solution to the given equation?",
+        "Answer Choices": [
+            "11",
+            "80",
+            "96",
+            "704"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. Dividing both sides of the given equation by 8 yields x = 11 . Therefore, 11 is the solution to the given equation.  Choice B is incorrect. This is the solution to the equation x + 8 = 88 .  Choice C is incorrect. This is the solution to the equation x - 8 = 88 .  Choice D is incorrect. This is the solution to the equation ( x / 8 ) = 88 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "4de87c9a",
+        "Prompt": "3 more than 8 * a number x is equal to 83. Which equation represents this situation?",
+        "Answer Choices": [
+            "( 3 ) ( 8 ) x = 83",
+            "8 x = 83 + 3",
+            "3 x + 8 = 83",
+            "8 x + 3 = 83"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. The given phrase \u201c 8 times a number x \u201d can be represented by the expression 8 x . The given phrase \u201c 3 more than\u201d indicates an increase of 3 to a quantity. Therefore \u201c 3 more than 8 times a number x \u201d can be represented by the expression 8 x + 3 . Since it\u2019s given that 3 more than 8 times a number x is equal to 83 , it follows that 8 x + 3 is equal to 83 , or 8 x + 3 = 83 . Therefore, the equation that represents this situation is 8 x + 3 = 83 .  Choice A is incorrect. This equation represents 3 times the quantity 8 times a number x is equal to 83 .  Choice B is incorrect. This equation represents 8 times a number x is equal to 3 more than 83 .  Choice C is incorrect. This equation represents 8 more than 3 times a number x is equal to 83 ."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "e7b6f0d1",
+        "Prompt": "4 x + 6 = 18 Which equation has the same solution as the given equation?",
+        "Answer Choices": [
+            "4 x = 108",
+            "4 x = 24",
+            "4 x = 12",
+            "4 x = 3"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Subtracting 6 from both sides of the given equation yields 4 x = 12 , which is the equation given in choice C. Since this equation is equivalent to the given equation, it has the same solution as the given equation.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "7d5d1b32",
+        "Prompt": "2 ( k x - n ) = (-) ( 28 / 15 ) x - ( 36 / 19 ) In the given equation, k and n are constants and n greater than 1. The equation has no solution. What is the value of k?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-.9333,  -14/15",
+        "Rationale": "The correct answer is (-) ( 14 / 15 ) . A linear equation in the form a x + b = c x + d has no solution only when the coefficients of x on each side of the equation are equal and the constant terms are not equal. Dividing both sides of the given equation by 2 yields k x - n = - ( 28 / 30 ) x - ( 36 / 38 ) , or k x - n = - ( 14 / 15 ) x - ( 18 / 19 ) . Since it\u2019s given that the equation has no solution, the coefficient of x on both sides of this equation must be equal, and the constant terms on both sides of this equation must not be equal. Since ( 18 / 19 ) less than 1 , and it's given that n greater than 1 , the second condition is true. Thus, k must be equal to (-) ( 14 / 15 ) . Note that -14/15, -.9333, and -0.933 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "f09097b1",
+        "Prompt": "An agricultural scientist studying the growth of corn plants recorded the h8 of a corn plant at the beginning of a study and the h8 of the plant each day for the next 12 days. The scientist found that the h8 of the plant increased by an average of 1.20 centimeters per day for the 12 days. If the h8 of the plant on the last day of the study was 36.8 centimeters, what was the h8, in centimeters, of the corn plant at the beginning of the study?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 22.4. If the height of the plant increased by an average of 1.20 centimeters per day for 12 days, then its total growth over the 12 days was 1. 2 0, * 12, = 14.4 centimeters. The plant was 36.8 centimeters tall after 12 days, so at the beginning of the study\u00a0its height was 36. 8, - 14. 4, = 22. 4 centimeters. Note that 22.4 and 112/5 are examples of ways to enter a correct answer. Alternate approach:\u00a0The equation 36. 8 = 12, * 1. 2 0, + h can be used to represent this situation, where h is the height of the plant, in centimeters, at the beginning of the study. Solving this equation for h yields 22.4 centimeters."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "8339793c",
+        "Prompt": "Nasir bought 9 storage bins that were each the same price. He used a coupon for dollar sign 63 off the entire purchase. The cost for the entire purchase after using the coupon was dollar sign 27. What was the original price, in dollars, for 1 storage bin?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "10",
+        "Rationale": "The correct answer is 10 . It\u2019s given that the cost for the entire purchase was dollar sign 27 after a coupon was used for dollar sign 63 off the entire purchase. Adding the amount of the coupon to the purchase price yields 27 + 63 = 90 . Thus, the cost for the entire purchase before using the coupon was dollar sign 90 . It\u2019s given that Nasir bought 9 storage bins. The original price for 1 storage bin can be found by dividing the total cost by 9 . Therefore, the original price, in dollars, for 1 storage bin is 10 , or 10 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "550b352c",
+        "Prompt": "How many solutions exist to the equation shown above?",
+        "Answer Choices": [
+            "N1",
+            "Exactly1",
+            "Exactly 3",
+            "Infinitely many"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Subtracting 4 from each side of the given equation yields 6 = 2 x , or x = 3 , so the equation has a unique solution of x = 3 . Choice A is incorrect. Since 3 is a value of x that satisfies the given equation, the equation has at least 1 solution. Choice C is incorrect. Linear equations can have 0, 1, or infinitely many solutions; no linear equation has exactly 3 solutions. Choice D is incorrect. If a linear equation has infinitely many solutions, it can be reduced to 0 = 0 . This equation reduces to x = 3 , so there is only 1 solution."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "87071893",
+        "Prompt": "x + 40 = 95 What value of x is the solution to the given equation?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "55",
+        "Rationale": "The correct answer is 55 . Subtracting 40 from both sides of the given equation yields x = 55 . Therefore, the value of x is 55 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "b4553284",
+        "Prompt": "If 2 x = 12, what is the value of 9 x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "54",
+        "Rationale": "The correct answer is 54 . Dividing both sides of the given equation by 2 yields x = 6 . Multiplying both sides of this equation by 9 yields 9 x = 54 . Thus, the value of 9 x is 54 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "771bd0ca",
+        "Prompt": "5 ( t + 3 ) - 7 ( t + 3 ) = 38 What value of t is the solution to the given equation?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "-22",
+        "Rationale": "The correct answer is (-) 22 . The given equation can be rewritten as - 2 ( t + 3 ) = 38 . Dividing both sides of this equation by (-) 2 yields t + 3 = (-) 19 . Subtracting 3 from both sides of this equation yields t = (-) 22 . Therefore, (-) 22 is the value of t that is the solution to the given equation."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "620abf36",
+        "Prompt": "If 5 ( x + 4 ) = 4 ( x + 4 ) + 29, what is the value of x + 4?",
+        "Answer Choices": [
+            "(-) 4",
+            "25",
+            "29",
+            "33"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. Subtracting 4 ( x + 4 ) from both sides of the given equation yields 1 ( x + 4 ) = 29 , or x + 4 = 29 . Therefore, the value of x + 4 is 29 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect. This is the value of x , not x + 4 .  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "0d685865",
+        "Prompt": "If x = 7, what is the value of x + 20?",
+        "Answer Choices": [
+            "13",
+            "20",
+            "27",
+            "34"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that x = 7 . Substituting 7 for x into the given expression x + 20 yields 27 , which is equivalent to 27 .  Choice A is incorrect. This is the value of x + 6 .  Choice B is incorrect. This is the value of x + 13 .  Choice D is incorrect. This is the value of x + 27 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "12255364",
+        "Prompt": "A gym charges its members a 1time dollar sign 36 enrollment fee and a membership fee of dollar sign 19 per month. If there are no charges other than the enrollment fee and the membership fee, after how many months will a member have been charged a total of dollar sign 188 at the gym?",
+        "Answer Choices": [
+            "4",
+            "5",
+            "8",
+            "10"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It\u2019s given that a gym charges its members a onetime dollar sign 36 enrollment fee and a membership fee of dollar sign 19 per month. Let x represent the number of months at the gym after which a member will have been charged a total of dollar sign 188 . If there are no charges other than the enrollment fee and the membership fee, the equation 36 + 19 x = 188 can be used to represent this situation. Subtracting 36 from both sides of this equation yields 19 x = 152 . Dividing both sides of this equation by 19 yields x = 8 . Therefore, a member will have been charged a total of dollar sign 188 after 8 months at the gym.  Choice A is incorrect. A member will have been charged a total of dollar sign ( 36 + 19 * 4 ) , or dollar sign 112 , after 4 months at the gym.  Choice B is incorrect. A member will have been charged a total of dollar sign ( 36 + 19 * 5 ) , or dollar sign 131 , after 5 months at the gym.  Choice D is incorrect. A member will have been charged a total of dollar sign ( 36 + 19 * 10 ) , or dollar sign 226 , after 10 months at the gym."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "b82a943c",
+        "Prompt": "If 7 x = 28, what is the value of 8 x?",
+        "Answer Choices": [
+            "21",
+            "32",
+            "168",
+            "224"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Dividing both sides of the given equation 7 x = 28 by 7 yields x = 4 . Substituting 4 for x in the expression 8 x yields 8 ( 4 ) , which is equivalent to 32 .  Choice A is incorrect. This is the value of ( 21 / 4 ) x .  Choice C is incorrect. This is the value of 42 x .  Choice D is incorrect. This is the value of 56 x ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "90095507",
+        "Prompt": "The Townsend Realty Group invested in the 5 different properties listed in the table above. The table shows the amount, in dollars, the company paid for each property and the corresponding monthly rental price, in dollars, the company charges for the property at each of the 5 locations. Townsend Realty purchased the Glenview Street property and received a 40% discount off the original price along with an additional 20% off the discounted price for purchasing the property in cash. Which of the following best approximates the original price, in dollars, of the Glenview Street property?",
+        "Answer Choices": [
+            "$350,000",
+            "$291,700",
+            "$233,300",
+            "$175,000"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Let x be the original price, in dollars, of the Glenview Street property. After the 40% discount, the price of the property became 0. 6 x dollars, and after the additional 20% off the discounted price, the price of the property became 0. 8 * 0. 6 x . Thus, in terms of the original price of the property, x , the purchase price of the property is 0. 4 8 x . It follows that 0. 4 8 x = 140,000 . Solving this equation for x gives x = 291,666. 6, with the 6 repeating after the decimal . . Therefore, of the given choices, $291,700 best approximates the original price of the Glenview Street property. Choice A is incorrect because it is the result of dividing the purchase price of the property by 0.4, as though the purchase price were 40% of the original price. Choice C is incorrect because it is the closest to dividing the purchase price of the property by 0.6, as though the purchase price were 60% of the original price. Choice D is incorrect because it is the result of dividing the purchase price of the property by 0.8, as though the purchase price were 80% of the original price."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "eac739b2",
+        "Prompt": "If 4 x + 2 = 12, what is the value of 16 x + 8?",
+        "Answer Choices": [
+            "40",
+            "48",
+            "56",
+            "60"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Multiplying both sides of the given equation by 4 yields ( 4 ) ( 4 x + 2 ) = ( 4 ) ( 12 ) , or 16 x + 8 = 48 . Therefore, the value of 16 x + 8 is 48 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "4f669597",
+        "Prompt": "What value of p is the solution of the equation above?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 1.2. One way to solve the equation 2 * open parenthesis, p + 1, close parenthesis, +, 8 * open parenthesis, p - 1, close parenthesis, = 5 p is to first distribute the terms outside the parentheses to the terms inside the parentheses: 2 p + 2, + 8 p, - 8, = 5 p . Next, combine like terms on the left side of the equal sign: 10 p - 6, = 5 p . Subtracting 10 p from both sides yields (-) 6 = (-) 5 p . Finally, dividing both sides by (-) 5 gives p = 6 /5s , which is equivalent to p = 1. 2 . Note that 1.2 and 6/5 are examples of ways to enter a correct answer."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "3c4ce699",
+        "Prompt": "If 6 + x = 9, what is the value of 18 + 3 x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "27",
+        "Rationale": "The correct answer is 27 . Multiplying both sides of the given equation by 3 yields 3 ( 6 + x ) = 3 ( 9 ) , or 18 + 3 x = 27 . Therefore, the value of 18 + 3 x is 27 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "0cb57740",
+        "Prompt": "Each side of a 30 - sided polygon has 1 of 3 lengths. The number of sides with length 8 centimeters ( cm ) is 5 * the number of sides n with length 3 cm. There are 6 sides with length 4 cm. Which equation must be true for the value of n?",
+        "Answer Choices": [
+            "5 n + 6 = 30",
+            "6 n + 6 = 30",
+            "8 n + 3 n + 4 n = 30",
+            "8 ( 5 n ) + 3 n + 4 ( 6 ) = 30"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It\u2019s given that each side of a 30 -sided polygon has one of three lengths. It's also given that the number of sides with length 8  centimeters(cm) is 5 times the number of sides n with length 3 cm . Therefore, there are 5*n , or 5 n , sides with length 8 cm . It\u2019s also given that there are 6 sides with length 4 cm . Therefore, the number of 3 cm , 4 cm , and 8 cm sides are n , 6 , and 5 n , respectively. Since there are a total of 30 sides, the equation n + 6 + 5 n = 30 represents this situation. Combining like terms on the left-hand side of this equation yields 6 n + 6 = 30 . Therefore, the equation that must be true for the value of n is 6 n + 6 = 30 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "153ee763",
+        "Prompt": "- 3 x + 21 p x = 84 In the given equation, p is a constant. The equation has no solution. What is the value of p?",
+        "Answer Choices": [
+            "0",
+            "1/7",
+            "4 /3s",
+            "4"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. A linear equation in one variable has no solution if and only if the equation is false; that is, when there is no value of x that produces a true statement. It's given that in the equation - 3 x + 21 p x = 84 , p is a constant and the equation has no solution for x . Therefore, the value of the constant p is one that results in a false equation. Factoring out the common factor of - 3 x on the left-hand side of the given equation yields - 3 x ( 1 - 7 p ) = 84 . Dividing both sides of this equation by (-) 3 yields x ( 1 - 7 p ) = (-) 28 . Dividing both sides of this equation by ( 1 - 7 p ) yields x = ( (-) 28 / 1 - 7 p ) . This equation is false if and only if 1 - 7 p = 0 . Adding 7 p to both sides of 1 - 7 p = 0 yields 1 = 7 p . Dividing both sides of this equation by 7 yields 1 /7 = p . It follows that the equation x = ( (-) 28 / 1 - 7 p ) is false if and only if p = 1 /7 . Therefore, the given equation has no solution if and only if the value of p is 1/7 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "ce6b52d8",
+        "Prompt": "If 2 ( 3 t - 10 ) + t = 40 + 4 t, what is the value of 3 t?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "60",
+        "Rationale": "The correct answer is 60 . Subtracting t from both sides of the given equation yields 2 ( 3 t - 10 ) = 40 + 3 t . Applying the distributive property to the left-hand side of this equation yields 6 t - 20 = 40 + 3 t . Adding 20 to both sides of this equation yields 6 t = 60 + 3 t . Subtracting 3 t from both sides of this equation yields 3 t = 60 . Therefore, the value of 3 t is 60 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Hard",
+        "ID": "aee9fd2d",
+        "Prompt": "If ( x + 6 / 3 ) = ( x + 6 / 13 ), the value of x + 6 is between which of the following pairs of values?",
+        "Answer Choices": [
+            "(-) 7and(-) 3",
+            "(-) 2and2",
+            "2and7",
+            "8and13"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Multiplying both sides of the given equation by ( 3 ) ( 13 ) , or 39 , yields ( 39 ) ( ( x + 6 / 3 ) ) = ( 39 ) ( ( x + 6 / 13 ) ) , or 13 ( x + 6 ) = 3 ( x + 6 ) . Subtracting 3 ( x + 6 ) from both sides of this equation yields 10 ( x + 6 ) = 0 . Dividing both sides of this equation by 10 yields x + 6 = 0 . Therefore, if ( x + 6 / 3 ) = ( x + 6 / 13 ) , then the value of x + 6 is 0 . It follows that of the given choices, the value of x + 6 is between (-) 2 and 2 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "4e77195b",
+        "Prompt": "If 2 + x = 60, what is the value of 16 + 8 x?",
+        "Answer Choices": "N/A",
+        "Correct Answer": "480",
+        "Rationale": "The correct answer is 480 .\u00a0Multiplying both sides of the given equation by 8 yields 8 ( 2 + x ) = 8 ( 60 ) , or 16 + 8 x = 480 . Therefore, if 2 + x = 60 , the value of 16 + 8 x is 480 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "36ab4122",
+        "Prompt": "Megan\u2019s regular wage at her job is p dollars per hour for the first 8 hours of work in a day + 1.5 * her regular hourly wage for work in excess of 8 hours that day. On a given day, Megan worked for 10 hours, and her total earnings for that day were $137.50. What is Megan\u2019s regular hourly wage?",
+        "Answer Choices": [
+            "$11.75",
+            "$12.50",
+            "$13.25",
+            "$13.75"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice B is correct. Since p represents Megan\u2019s regular pay per hour, 1.5 p represents the pay per hour in excess of 8 hours. Since Megan worked for 10 hours, she must have been paid p dollars per hour for 8 of the hours plus 1.5 p dollars per hour for the remaining 2 hours. Therefore, since Megan earned $137.50 for the 10 hours, the situation can be represented by the equation 137.5 = 8 p + 2(1.5) p. Distributing the 2 in the equation gives 137.5 = 8 p + 3 p , and combining like terms gives 137.5 = 11 p . Dividing both sides by 11 gives p = 12.5. Therefore, Megan\u2019s regular wage is $12.50. Choices A and C are incorrect and may be the result of\u00a0calculation errors. Choice D is incorrect and may result from finding the average hourly wage that Megan earned for the 10 hours of work."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "c841e8e8",
+        "Prompt": "k + 12 = 336 What is the solution to the given equation?",
+        "Answer Choices": [
+            "28",
+            "324",
+            "348",
+            "4,032"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. Subtracting 12 from both sides of the given equation yields k = 324 . Therefore, the solution to the given equation is 324 .  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "5a7ab8e8",
+        "Prompt": "66 x = 66 x How many solutions does the given equation have?",
+        "Answer Choices": [
+            "Exactly 1",
+            "Exactly 2",
+            "Infinitely many",
+            "Zero"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. If the two sides of a linear equation are equivalent, then the equation is true for any value. If an equation is true for any value, it has infinitely many solutions. Since the two sides of the given linear equation 66 x = 66 x are equivalent, the given equation has infinitely many solutions.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "fbb0ea7f",
+        "Prompt": "A rocket contained (467, 0) kilograms (kg) of propellant before launch. Exactly21 seconds after launch, (362, 105) kg of this propellant remained. On average, approximately how much propellant, in kg, did the rocket burn each second after launch?",
+        "Answer Choices": [
+            "(4, 995)",
+            "(17, 243)",
+            "(39, 481)",
+            "(104, 895)"
+        ],
+        "Correct Answer": "A",
+        "Rationale": "Choice A is correct. It\u2019s given that the rocket contained 467,000 kilograms ( kg ) of propellant before launch and had 362,105 kg remaining exactly 21 seconds after launch. Finding the difference between the amount, in kg , of propellant before launch and the remaining amount, in kg , of propellant after launch gives the amount, in kg , of propellant burned during the 21 seconds: 467,000 - 362,105 = 104,895 . Dividing the amount of propellant burned by the number of seconds yields ( 104,895 / 21 ) = 4,995 . Thus, an average of 4,995 kg of propellant burned each second after launch.  Choice B is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from finding the amount of propellant burned, rather than the amount of propellant burned each second."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "c3989ef8",
+        "Prompt": "Henry receives a dollar sign 60.00 gift card to pay for movies online. He uses his gift card to buy 3 movies for dollar sign 7.50 each. If he spends the rest of his gift card balance on renting movies for dollar sign 1.50 each, how many movies can Henry rent?",
+        "Answer Choices": [
+            "10",
+            "25",
+            "35",
+            "40"
+        ],
+        "Correct Answer": "B",
+        "Rationale": "Choice B is correct. It's given that Henry uses his dollar sign 60.00 gift card to buy 3 movies for dollar sign 7.50 each. Therefore, Henry spends 3 ( dollar sign 7.50 ) , or dollar sign 22.50 , of his dollar sign 60.00 gift card to buy 3 movies. After buying 3 movies with his dollar sign 60.00 gift card, Henry has a gift card balance of dollar sign 60.00 - dollar sign 22.50 , or dollar sign 37.50 . It's also given that Henry spends the rest of his gift card balance on renting movies for dollar sign 1.50 each. Therefore, Henry can rent ( dollar sign 37.50 / dollar sign 1.50 ) , or 25 , movies.  Choice A is incorrect and may result from conceptual or calculation errors.  Choice C is incorrect and may result from conceptual or calculation errors.  Choice D is incorrect and may result from conceptual or calculation errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "46f68129",
+        "Prompt": "A librarian has 43 books to distribute to a group of children. If he gives each child 2 books, he will have 7 books left over. How many children are in the group?",
+        "Answer Choices": [
+            "15",
+            "18",
+            "25",
+            "29"
+        ],
+        "Correct Answer": null,
+        "Rationale": "Choice B is correct. Subtracting the number of books left over from the total number of books results in 43 - 7, = 36 , which is the number of books distributed. Dividing the number of books distributed by the number of books given to each child results in the fraction 36 over 2, = 18 . Choice A is incorrect and results from dividing the total number of books by the number of books given to each child, the fraction 43 over 2, is approximately equal to 22 , then subtracting the number of books left over from the result, 22 - 7, = 15 . Choice C is incorrect and results from adding the number of books left over to the total number of books, 43 + 7, = 50 , then dividing the result by the number of books given to each child, the fraction 50 over 2, = 25 . Choice D is incorrect and results from dividing the total number of books by the number of books given to each child, the fraction 43 over 2, is approximately equal to 22 , then adding the number of books left over, 22 + 7, = 29 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "e53870b6",
+        "Prompt": "In the given equation, k is a constant. If the equation has infinitely many solutions, what is the value of k ?",
+        "Answer Choices": "N/A",
+        "Correct Answer": null,
+        "Rationale": "The correct answer is 5. Subtracting 6 x from both sides of the given equation gives k = 5 , so for any value of x , 6 x + k, = 6 x + 5 if and only if k = 5 . Therefore, if the given equation has infinitely many solutions, the value of k is 5."
+    },
+    "question contains image",
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "eafdbbbd",
+        "Prompt": "1 /4 ( x + 5 ) - 1 /3 ( x + 5 ) = (-) 7 What value of x is the solution to the given equation?",
+        "Answer Choices": [
+            "(-) 12",
+            "(-) 5",
+            "79",
+            "204"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. For the given equation, x + 5 is a factor of both terms on the left-hand side. Therefore, the given equation can be rewritten as ( 1 /4 - 1 /3 ) ( x + 5 ) = (-) 7 , or ( 3 /12s - 4 /12s ) ( x + 5 ) = (-) 7 , which is equivalent to - 1 /12 ( x + 5 ) = (-) 7 . Multiplying both sides of this equation by (-) 12 yields x + 5 = 84 . Subtracting 5 from both sides of this equation yields x = 79 .  Choice A is incorrect. This is the value of x for which the left-hand side of the given equation equals 7 /12s , not (-) 7 .  Choice B is incorrect. This is the value of x for which the left-hand side of the given equation equals 0 , not (-) 7 .  Choice D is incorrect. This is the value of x for which the left-hand side of the given equation equals (-) ( 209 / 12 ) , not (-) 7 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "70774aa4",
+        "Prompt": "If 5 x = 20, what is the value of 15 x?",
+        "Answer Choices": [
+            "7",
+            "12",
+            "23",
+            "60"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that 5 x = 20 . Multiplying both sides of this equation by 3 yields 15 x = 60 . Therefore, the value of 15 x is 60 .  Choice A is incorrect and may result from conceptual errors.  Choice B is incorrect and may result from conceptual errors.  Choice C is incorrect and may result from conceptual errors."
+    },
+    "question contains image",
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Easy",
+        "ID": "6fa593f1",
+        "Prompt": "If x = 40, what is the value of x + 6?",
+        "Answer Choices": [
+            "34",
+            "40",
+            "46",
+            "64"
+        ],
+        "Correct Answer": "C",
+        "Rationale": "Choice C is correct. It's given that x = 40 . Adding 6 to both sides of this equation yields x + 6 = 40 + 6 , or x + 6 = 46 . Therefore, the value of x + 6 is 46 .  Choice A is incorrect. This is the value of x - 6 , not x + 6 .  Choice B is incorrect. This is the value of x , not x + 6 .  Choice D is incorrect. This is the value of x + 24 , not x + 6 ."
+    },
+    {
+        "Assessment": "SAT",
+        "Test": "Math",
+        "Domain": "Algebra",
+        "Skill": "Linear equations in one variable",
+        "Difficulty": "Medium",
+        "ID": "8c515062",
+        "Prompt": "A candle is made of 17 ounces of wax. When the candle is burning, the amount of wax in the candle decreases by1 ounce every 4 hours. If 6 ounces of wax remain in this candle, for how many hours has it been burning?",
+        "Answer Choices": [
+            "3",
+            "6",
+            "24",
+            "44"
+        ],
+        "Correct Answer": "D",
+        "Rationale": "Choice D is correct. It\u2019s given that the candle starts with 17 ounces of wax and has 6 ounces of wax remaining after a period of time has passed. The amount of wax the candle has lost during the time period can be found by subtracting the remaining amount of wax from the amount of wax the candle was made of, which yields 11 ounces, or 11 ounces. This means the candle loses 11 ounces of wax during that period of time. It\u2019s given that the amount of wax decreases by 1 ounce every 4 hours. If h represents the number of hours the candle has been burning, it follows that 1 /4 = ( 11 / h ) . Multiplying both sides of this equation by 4 h yields h = 44 . Therefore, the candle has been burning for 44 hours.  Choice A is incorrect and may result from using the equation 1 /4 = ( h / 11 ) rather than 1 /4 = ( 11 / h ) to represent the situation, and then rounding to the nearest whole number.  Choice B is incorrect. This is the amount of wax, in ounces, remaining in the candle, not the number of hours it has been burning.  Choice C is incorrect and may result from using the equation 1 /4 = ( 6 / h ) rather than 1 /4 = ( 11 / h ) to represent the situation."
+    }
+]
