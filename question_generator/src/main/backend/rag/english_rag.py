@@ -41,7 +41,7 @@ nlp = spacy.load("en_core_web_sm")
 
 # Determine project root and question DB path
 PROJECT_ROOT = Path(__file__).resolve().parents[5]
-QUESTION_DB = PROJECT_ROOT / "question_synthesizer" / "src" / "question_data" / "Reading"
+QUESTION_DB = PROJECT_ROOT / "question_synthesizer" / "question_data" / "Reading"
 
 # Map question categories to parent and default length/Lexile
 CATEGORY_PARENTS = {

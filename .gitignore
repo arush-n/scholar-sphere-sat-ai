@@ -1,0 +1,5 @@
+# Ignore specific processed JSON file, should be generated locally
+question_generator/src/main/backend/rag/preprocess_json/processed_sat_data_v3.json
+
+# Ignore VS Code settings folder
+.vscode/

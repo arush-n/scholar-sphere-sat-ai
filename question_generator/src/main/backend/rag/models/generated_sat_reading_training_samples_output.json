@@ -1,0 +1,86 @@
+[
+    {
+        "assessment_type": "SAT Reading (Generated Training Sample)",
+        "reference_original_id": "70ced8dc",
+        "reference_source_file": "C:\\Users\\rush\\OneDrive\\Documents\\GitHub\\scholar-sphere-sat-ai\\question_synthesizer\\src\\question_data\\Reading\\Standard English Conventions\\boundaries.json",
+        "reference_category_key": "boundaries",
+        "reference_skill_original": "Boundaries",
+        "reference_difficulty": "Easy",
+        "generated_topic_inspiration": "Maintaining Consistent Style",
+        "passage_citation_aside": "[Citation: Based on information related to OpenAlex result for Maintaining Consistent Style]",
+        "passage": "Despite broad consensus about the effects of parenting practices on child development, many questions about the construct of parenting style remain unanswered. Particularly pressing issues include the variability in these effects as a function of the child's cultural background, the processes through which parenting style influences development, and the operationalization of parenting style itself. Researchers must maintain the distinction between parenting style and specific parenting practices to address these questions effectively. For instance, authoritative parenting, characterized by emotional support, high standards, and clear communication, has been shown to promote responsible independence and academic success in U.S. samples. However, studies expanding beyond these samples reveal that the impact of authoritative parenting varies significantly across different cultural contexts. This realization underscores the importance of maintaining consistent distinctions and rigorous examination of parenting styles to better understand their diverse effects.",
+        "knowledge_graph_nodes_count": 7,
+        "knowledge_graph_edges_count": 6,
+        "question_prompt": "Which of the following best explains why researchers must maintain the distinction between parenting style and specific parenting practices?\n\nA) To ensure that authoritative parenting is universally effective across all cultures.\n\nB) To avoid misinterpreting the impact of parenting style due to cultural variations.\n\nC) To focus solely on the negative aspects of parenting practices.\n\nD) To prove that parenting practices have no significant effect on child development.",
+        "answer_choices": [
+            {
+                "label": "A",
+                "text": "B) To avoid misinterpreting the impact of parenting style due to cultural variations."
+            },
+            {
+                "label": "B",
+                "text": "\"To claim that parenting style is irrelevant to child development.\""
+            },
+            {
+                "label": "C",
+                "text": "\"To emphasize the role of emotional support over other parenting practices.\""
+            },
+            {
+                "label": "D",
+                "text": "\"C) To ignore the influence of cultural background on parenting effectiveness.\""
+            }
+        ],
+        "correct_answer_label": "A",
+        "rationales": {
+            "A": "\"To avoid misinterpreting the impact of parenting style due to cultural variations.\"\n\n**Explanation:**\nThis is the correct answer. The passage explicitly states that researchers must maintain the distinction between parenting style and specific parenting practices to address the variability in the effects of parenting style across different cultural contexts. Specifically, the passage mentions, \"Studies expanding beyond these samples reveal that the impact of authoritative parenting varies significantly across different cultural contexts\" (line 12-14). This indicates that without maintaining this distinction, researchers could misinterpret the impact of parenting style due to cultural differences. Therefore, Choice A accurately captures the reason why researchers need to make this distinction.\n\n####",
+            "B": "\"To claim that parenting style is irrelevant to child development.\"\n\n**Explanation:**\nThis choice is incorrect because it contradicts the passage's main point. The passage emphasizes the importance of understanding parenting style and its effects on child development. It does not suggest that parenting style is irrelevant; rather, it highlights the need to carefully examine how parenting style operates within different cultural contexts. Lines 8-10 state, \"Researchers must maintain the distinction between parenting style and specific parenting practices to address these questions effectively,\" indicating that the relevance of parenting style is acknowledged but needs careful consideration.\n\n####",
+            "C": "\"To emphasize the role of emotional support over other parenting practices.\"\n\n**Explanation:**\nThis choice is incorrect. While the passage does mention authoritative parenting, which includes emotional support, the emphasis is not on prioritizing emotional support over other practices. Instead, the passage discusses the need to distinguish between parenting style and specific practices to understand their varied impacts. Lines 9-11 state, \"For instance, authoritative parenting, characterized by emotional support, high standards, and clear communication, has been shown to promote responsible independence and academic success in U.S. samples.\" This example is given to illustrate a specific type of parenting style, not to prioritize emotional support over other practices.\n\n####",
+            "D": "\"To ignore the influence of cultural background on parenting effectiveness.\"\n\n**Explanation:**\nThis choice is incorrect because it misrepresents the passage's message. The passage clearly acknowledges the importance of considering cultural background when studying parenting styles. It states, \"particularly pressing issues include the variability in these effects as a function of the child's cultural background\" (line 6-7). Maintaining the distinction between parenting style and specific practices is necessary to account for these cultural variations, not to ignore them. Therefore, ignoring cultural background would be contrary to the passage's advice.\n\n### Conclusion\nThe correct answer is **Choice A**: \"To avoid misinterpreting the impact of parenting style due to cultural variations.\" This choice aligns with the passage's emphasis on the necessity of distinguishing between parenting style and specific practices to account for cultural differences in the effects of parenting."
+        },
+        "generation_metadata": {
+            "model_repo": "Qwen/Qwen2.5-7B-Instruct"
+        }
+    },
+    {
+        "assessment_type": "SAT Reading (Generated Training Sample)",
+        "reference_original_id": "54c6128b",
+        "reference_source_file": "C:\\Users\\rush\\OneDrive\\Documents\\GitHub\\scholar-sphere-sat-ai\\question_synthesizer\\src\\question_data\\Reading\\Craft and Structure\\text-structure-and-purpose.json",
+        "reference_category_key": "text-structure-and-purpose",
+        "reference_skill_original": "Text Structure and Purpose",
+        "reference_difficulty": "Medium",
+        "generated_topic_inspiration": "Evaluating Textual Evidence",
+        "passage_citation_aside": "[Citation: Based on information related to OpenAlex result for Evaluating Textual Evidence]",
+        "passage": "When archaeologists excavated the ancient site of Beit Ras in modern-day Jordan, which was once the Roman city of Capitolias, they collected extensive textual references, including literary and epigraphic materials. By analyzing these texts, the researchers sought to understand the city\u2019s foundation. Notably, no text explicitly mentions Capitolias\u2019 founding, and archaeological evidence suggests it may have been established around 97 or 98 CE, though the exact founder remains unknown, whether Nerva or Trajan. This foundation period is intriguing because Capitolias played a crucial role in the development of early Christianity and reached its zenith under Emperor Justinian. Through this investigation, the team uncovered a wealth of information that sheds light on the city\u2019s historical significance and the complex interplay between textual and archaeological evidence.",
+        "knowledge_graph_nodes_count": 8,
+        "knowledge_graph_edges_count": 9,
+        "question_prompt": "Which choice best describes the function of the sentence \"Notably, no text explicitly mentions Capitolias\u2019 founding, and archaeological evidence suggests it may have been established around 97 or 98 CE, though the exact founder remains unknown, whether Nerva or Trajan\" in the context of the passage?",
+        "answer_choices": [
+            {
+                "label": "A",
+                "text": "This sentence provides context for the uncertainty surrounding Capitolias\u2019 founding date and the lack of explicit textual evidence, highlighting the reliance on archaeological findings to infer details about the city's history."
+            },
+            {
+                "label": "B",
+                "text": "\"This sentence underscores the city's importance in early Christian history, focusing on its role under Emperor Justinian.\""
+            },
+            {
+                "label": "C",
+                "text": "\"This sentence highlights the importance of both textual and archaeological evidence in understanding the city's history, without emphasizing the lack of explicit founding mention.\""
+            },
+            {
+                "label": "D",
+                "text": "\"This sentence emphasizes the significant contributions of both Nerva and Trajan to Capitolias's establishment.\""
+            }
+        ],
+        "correct_answer_label": "A",
+        "rationales": {
+            "A": "\"This sentence provides context for the uncertainty surrounding Capitolias\u2019 founding date and the lack of explicit textual evidence, highlighting the reliance on archaeological findings to infer details about the city's history.\"\n\n**Why It Is Correct:**\nThis choice accurately captures the essence of the sentence in question. The sentence explicitly states that no text mentions Capitolias\u2019 founding and that archaeological evidence suggests the city was established around 97 or 98 CE. This directly addresses the uncertainty in the founding date and the necessity of relying on archaeological findings to piece together historical details. Lines 3-5 of the passage provide this information, making it clear that the sentence is setting up the context for the subsequent discussion on the city\u2019s history.\n\n####",
+            "B": "\"This sentence underscores the city's importance in early Christian history, focusing on its role under Emperor Justinian.\"\n\n**Why It Is Incorrect:**\nThis choice is incorrect because the sentence does not focus on Capitolias' importance in early Christian history or its role under Emperor Justinian. Instead, it discusses the lack of explicit textual evidence regarding the founding of Capitolias and the approximate date inferred from archaeological findings. Lines 12-14 of the passage mention the city's importance in early Christianity and its role under Emperor Justinian, but this is not the primary function of the sentence in question. The sentence is more about the uncertainty in the founding date rather than the city's later significance.\n\n####",
+            "C": "\"This sentence highlights the importance of both textual and archaeological evidence in understanding the city's history, without emphasizing the lack of explicit founding mention.\"\n\n**Why It Is Incorrect:**\nWhile this choice touches on the use of both textual and archaeological evidence, it fails to capture the specific emphasis on the lack of explicit textual evidence regarding the founding of Capitolias. The sentence clearly states that no text explicitly mentions the founding, which is a critical point. Therefore, this choice does not fully address the main function of the sentence, which is to highlight the absence of direct textual evidence for the founding date. Lines 3-5 emphasize the lack of explicit textual evidence, making this choice incomplete.\n\n####",
+            "D": "oes not fully address the main function of the sentence, which is to highlight the absence of direct textual evidence for the founding date. Lines 3-5 emphasize the lack of explicit textual evidence, making this choice incomplete.\n\n####"
+        },
+        "generation_metadata": {
+            "model_repo": "Qwen/Qwen2.5-7B-Instruct"
+        }
+    }
+]

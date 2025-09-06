@@ -1,0 +1,301 @@
+{
+    "question_id": "SATR_CROH_20250523115331_648",
+    "assessment_type": "SAT Reading (Generated Interactive)",
+    "category": "cross-text-connections",
+    "parent_domain": "Craft and Structure",
+    "topic": "Banning of Books",
+    "difficulty_level": "Hard",
+    "source_type_inspiration": "literary criticism",
+    "target_lexile": 2200,
+    "passage_introductory_phrase": "Reflecting the style of a literary criticism on 'Banning of Books',",
+    "passage_or_notes": "In the hallowed halls of intellectual discourse, few debates are as contentious and deeply entrenched as that surrounding the banning of books. A recent study delved into the intricate motivations behind the censorship of literature, uncovering a multifaceted tapestry woven with threads of morality, political expediency, and cultural preservation. Among the myriad of titles deemed unfit for public consumption, one such novel stands as a beacon of defiance against the forces of orthodoxy\u2014Henry Miller\u2019s *Tropic of Cancer*. This text, originally published in the clandestine Parisian Obelisk Press, emerged from the shadows as a challenge to the very foundations of social order and literary sensibilities. The narrative, rich with raw sexuality and unapologetic candor, served not merely as a provocative piece of art but as a catalyst for broader conversations about freedom of expression and the boundaries of acceptable discourse. As literary critics grapple with the ethical implications of such works, the debate over the banality of censorship becomes ever more complex, reflecting the enduring tension between societal norms and artistic liberty.",
+    "topic_knowledge_graph_summary": {
+        "nodes": 0,
+        "edges": 0
+    },
+    "passage_notes_knowledge_graph": {
+        "nodes": [
+            [
+                "intellectual_discourse",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "The realm of academic and philosophical discussion.",
+                        "text_reference": "In the hallowed halls of intellectual discourse"
+                    }
+                }
+            ],
+            [
+                "banning_books_debate",
+                {
+                    "type": "Debate",
+                    "properties": {
+                        "summary": "Controversy over the censorship of literature.",
+                        "text_reference": "few debates are as contentious and deeply entrenched as that surrounding the banning of books"
+                    }
+                }
+            ],
+            [
+                "recent_study",
+                {
+                    "type": "Study",
+                    "properties": {
+                        "summary": "Research investigating the motivations behind book censorship.",
+                        "text_reference": "A recent study delved into the intricate motivations behind the censorship of literature"
+                    }
+                }
+            ],
+            [
+                "morality",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Moral principles or values.",
+                        "text_reference": "threads of morality"
+                    }
+                }
+            ],
+            [
+                "political_expediency",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Actions taken for short-term political gain.",
+                        "text_reference": "political expediency"
+                    }
+                }
+            ],
+            [
+                "cultural_preservation",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Efforts to maintain cultural heritage.",
+                        "text_reference": "cultural preservation"
+                    }
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                {
+                    "type": "Work",
+                    "properties": {
+                        "summary": "Henry Miller\u2019s novel *Tropic of Cancer*.",
+                        "text_reference": "Henry Miller\u2019s *Tropic of Cancer*"
+                    }
+                }
+            ],
+            [
+                "clandestine_press",
+                {
+                    "type": "Place",
+                    "properties": {
+                        "summary": "Parisian Obelisk Press where *Tropic of Cancer* was originally published.",
+                        "text_reference": "originally published in the clandestine Parisian Obelisk Press"
+                    }
+                }
+            ],
+            [
+                "raw_sexuality",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Explicit sexual content in *Tropic of Cancer*.",
+                        "text_reference": "rich with raw sexuality"
+                    }
+                }
+            ],
+            [
+                "unapologetic_candor",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Honest and direct style of writing in *Tropic of Cancer*.",
+                        "text_reference": "unapologetic candor"
+                    }
+                }
+            ],
+            [
+                "freedom_of_expression",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Right to express ideas without censorship.",
+                        "text_reference": "served not merely as a provocative piece of art but as a catalyst for broader conversations about freedom of expression"
+                    }
+                }
+            ],
+            [
+                "societal_norms",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Accepted standards of behavior within a society.",
+                        "text_reference": "enduring tension between societal norms and artistic liberty"
+                    }
+                }
+            ],
+            [
+                "artistic_liberty",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Freedom to create and express oneself artistically.",
+                        "text_reference": "enduring tension between societal norms and artistic liberty"
+                    }
+                }
+            ],
+            [
+                "ethical_implications",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Moral considerations related to the publication of controversial works.",
+                        "text_reference": "As literary critics grapple with the ethical implications of such works"
+                    }
+                }
+            ],
+            [
+                "censorship",
+                {
+                    "type": "Concept",
+                    "properties": {
+                        "summary": "Suppression of speech or information.",
+                        "text_reference": "the banality of censorship"
+                    }
+                }
+            ]
+        ],
+        "edges": [
+            [
+                "intellectual_discourse",
+                "banning_books_debate",
+                {
+                    "relation": "setting_of"
+                }
+            ],
+            [
+                "recent_study",
+                "banning_books_debate",
+                {
+                    "relation": "focus_of"
+                }
+            ],
+            [
+                "recent_study",
+                "morality",
+                {
+                    "relation": "explores"
+                }
+            ],
+            [
+                "recent_study",
+                "political_expediency",
+                {
+                    "relation": "explores"
+                }
+            ],
+            [
+                "recent_study",
+                "cultural_preservation",
+                {
+                    "relation": "explores"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "clandestine_press",
+                {
+                    "relation": "published_in"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "raw_sexuality",
+                {
+                    "relation": "contains"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "unapologetic_candor",
+                {
+                    "relation": "characterized_by"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "freedom_of_expression",
+                {
+                    "relation": "promotes"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "societal_norms",
+                {
+                    "relation": "challenges"
+                }
+            ],
+            [
+                "tropic_of_cancer",
+                "artistic_liberty",
+                {
+                    "relation": "challenges"
+                }
+            ],
+            [
+                "ethical_implications",
+                "tropic_of_cancer",
+                {
+                    "relation": "concerned_with"
+                }
+            ],
+            [
+                "censorship",
+                "banning_books_debate",
+                {
+                    "relation": "central_to"
+                }
+            ],
+            [
+                "censorship",
+                "ethical_implications",
+                {
+                    "relation": "raises"
+                }
+            ]
+        ]
+    },
+    "question_prompt": "Based on the passage, which of the following best describes the role of Henry Miller\u2019s *Tropic of Cancer* in the broader debate on censorship?",
+    "answer_choices": [
+        {
+            "label": "A",
+            "text": "*Tropic of Cancer* served as a pivotal work that not only challenged societal norms but also sparked important discussions about the limits of artistic freedom and the ethical implications of book censorship."
+        },
+        {
+            "label": "B",
+            "text": "\"*Tropic of Cancer* was primarily a commercial failure that highlighted the risks of pushing literary boundaries too far.\""
+        },
+        {
+            "label": "C",
+            "text": "\"*Tropic of Cancer* was largely ignored by critics and had little impact on the broader debate about censorship.\""
+        },
+        {
+            "label": "D",
+            "text": "\"*Tropic of Cancer* was a minor work that inadvertently led to stricter censorship laws.\""
+        }
+    ],
+    "correct_answer_label": "A",
+    "rationales": {
+        "A": "**\n*Correct Answer*\n\n**Explanation:**\nChoice A correctly identifies the role of *Tropic of Cancer* as a pivotal work that both challenged societal norms and sparked important discussions about the limits of artistic freedom and the ethical implications of book censorship. The passage explicitly states that the narrative served \"not merely as a provocative piece of art but as a catalyst for broader conversations about freedom of expression and the boundaries of acceptable discourse.\" Additionally, the text mentions that the debate over the banality of censorship became more complex due to the ethical implications of such works. This aligns perfectly with the idea that *Tropic of Cancer* played a significant role in these broader discussions.\n\n**Supporting Evidence:**\n- \"The narrative, rich with raw sexuality and unapologetic candor, served not merely as a provocative piece of art but as a catalyst for broader conversations about freedom of expression and the boundaries of acceptable discourse.\"\n- \"As literary critics grapple with the ethical implications of such works, the debate over the banality of censorship becomes ever more complex.\"\n\n**Passage/Notes KG Insights:**\n- The \"intellectual_discourse\" setting of the passage supports the notion that *Tropic of Cancer* was involved in significant debates within the academic and philosophical community.\n- The \"banning_books_debate\" is directly related to the context of the passage, reinforcing the idea that *Tropic of Cancer* was central to this broader discussion.\n\n**Why Other Choices Are Incorrect:**\n\n**",
+        "B": "**\n*Flawed Reasoning:*\nThis choice incorrectly suggests that *Tropic of Cancer* was a commercial failure and focused on the risks of pushing literary boundaries. The passage does not mention any commercial aspects of the book or its reception. Instead, it emphasizes the book's impact on broader discussions about censorship and freedom of expression.\n\n**Supporting Evidence:**\n- There is no mention of commercial failure in the passage.\n- The focus is on the book's role in sparking discussions about censorship and freedom of expression, not on its commercial performance.\n\n**",
+        "C": "**\n*Flawed Reasoning:*\nThis choice incorrectly states that *Tropic of Cancer* was largely ignored by critics and had little impact on the broader debate about censorship. The passage clearly indicates that the book was significant enough to be discussed and debated, serving as a catalyst for broader conversations about censorship and freedom of expression.\n\n**Supporting Evidence:**\n- The passage states, \"The narrative, rich with raw sexuality and unapologetic candor, served not merely as a provocative piece of art but as a catalyst for broader conversations about freedom of expression and the boundaries of acceptable discourse.\"\n- It also mentions that the debate over the banality of censorship became more complex, indicating that the book was influential in these discussions.\n\n**",
+        "D": "**\n*Flawed Reasoning:*\nThis choice incorrectly suggests that *Tropic of Cancer* was a minor work that inadvertently led to stricter censorship laws. The passage does not support this claim. In fact, the text portrays *Tropic of Cancer* as a major work that challenged societal norms and sparked important discussions, rather than leading to stricter censorship laws.\n\n**Supporting Evidence:**\n- The passage describes *Tropic of Cancer* as a \"beacon of defiance against the forces of orthodoxy\" and a \"challenge to the very foundations of social order and literary sensibilities.\"\n- It also mentions that the book served as a catalyst for broader conversations about freedom of expression and the boundaries of acceptable discourse, indicating its significance in the debate, not its role in leading to stricter censorship laws.\n\nBy carefully analyzing the passage and the provided knowledge graph insights, we can see that Choice A accurately captures the role of *Tropic of Cancer* in the broader debate on censorship, making it the correct answer."
+    },
+    "generation_metadata": {
+        "model_repo": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "20250523115331",
+        "filename": "SAT_R_CRO_H_banningofbooks_20250523115331.json"
+    }
+}

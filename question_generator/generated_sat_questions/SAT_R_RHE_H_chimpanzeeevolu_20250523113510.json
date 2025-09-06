@@ -1,0 +1,51 @@
+{
+    "question_id": "SATR_RHEH_20250523113510_575",
+    "assessment_type": "SAT Reading (Generated Interactive)",
+    "category": "rhetorical-synthesis",
+    "parent_domain": "Expression of Ideas",
+    "topic": "Chimpanzee Evolution vs. Human Evolution",
+    "difficulty_level": "Hard",
+    "source_type_inspiration": "scientific analysis",
+    "target_lexile": 1900,
+    "passage_introductory_phrase": "The following notes were taken by a student researching 'Chimpanzee Evolution vs. Human Evolution':",
+    "passage_or_notes": "1. **Evolutionary Controversies**: Despite overwhelming evidence supporting evolution by natural selection, religious groups continue to reject it, often citing moral and ethical concerns rather than scientific ones. This rejection is seen as a political issue in many countries, particularly in the U.S., where it influences educational policies.\n\n2. **Scientific Community's View**: Professional scientific organizations globally recognize evolution as a fact, based on extensive empirical evidence. They view efforts to teach creationism in schools as pseudoscientific and misleading, emphasizing the importance of accurate and comprehensive science education.\n\n3. **Historical Context**: The idea of fixed species created by divine intervention was prevalent until the mid-19th century. Charles Darwin's theory of evolution by natural selection challenged this view, leading to a paradigm shift in biological understanding.\n\n4. **Modern Debates**: Today, the primary focus of the evolution debate is on science education, specifically whether creationism should be taught alongside evolutionary theory. This debate is largely confined to certain regions, notably the United States, where religious and scientific perspectives clash in public school curricula.\n\n5. **Impact of Public Education Policies**: Efforts to include creationist views in public school science curricula are often met with resistance from the scientific",
+    "topic_knowledge_graph_summary": {
+        "nodes": 15,
+        "edges": 15
+    },
+    "passage_notes_knowledge_graph": {
+        "nodes": [],
+        "edges": []
+    },
+    "question_prompt": "Based on the passage, which of the following best explains why the debate over evolution in public school curricula remains primarily focused on certain regions like the United States?\n\nA) Because the scientific community has universally rejected the concept of evolution, leaving only religious groups to advocate for its inclusion in curricula.\n\nB) Due to the historical significance of the theory of evolution, which has led to a global consensus among scientists but little change in public education policies.\n\nC) As a result of the continued rejection of evolution by religious groups and the influence of these groups on educational policies in specific regions, particularly the U.S.\n\nD) Because modern debates have shifted entirely away from the scientific validity of evolution and now focus solely on the ethical implications of teaching it in schools.",
+    "answer_choices": [
+        {
+            "label": "A",
+            "text": "C) As a result of the continued rejection of evolution by religious groups and the influence of these groups on educational policies in specific regions, particularly the U.S."
+        },
+        {
+            "label": "B",
+            "text": "B) Due to the global controversy surrounding the ethical implications of teaching evolution, which has overshadowed scientific discussions in most regions except the U.S."
+        },
+        {
+            "label": "C",
+            "text": "\"Due to the lack of empirical evidence supporting evolution, there is ongoing debate about its inclusion in curricula, primarily in regions where scientific literacy is low.\""
+        },
+        {
+            "label": "D",
+            "text": "\"Because the debate over evolution primarily involves differing scientific interpretations, with no significant input from religious groups in most regions.\""
+        }
+    ],
+    "correct_answer_label": "A",
+    "rationales": {
+        "A": "\"As a result of the continued rejection of evolution by religious groups and the influence of these groups on educational policies in specific regions, particularly the U.S.\"\n\n**Explanation:**\nThis is the correct answer because the passage explicitly states that religious groups continue to reject evolution and that this rejection influences educational policies, especially in the U.S. The passage mentions, \"religious groups continue to reject it, often citing moral and ethical concerns rather than scientific ones. This rejection is seen as a political issue in many countries, particularly in the U.S, where it influences educational policies.\" This directly supports the idea that the debate over evolution in public school curricula remains focused on regions like the U.S. due to the influence of religious groups on educational policies.\n\n**Supporting Evidence:**\n- \"religious groups continue to reject it, often citing moral and ethical concerns rather than scientific ones.\"\n- \"This rejection is seen as a political issue in many countries, particularly in the U.S, where it influences educational policies.\"\n\n**Why Other Options Are Incorrect:**\n\n####",
+        "B": "\"Due to the global controversy surrounding the ethical implications of teaching evolution, which has overshadowed scientific discussions in most regions except the U.S.\"\n\n**Explanation:**\nThis is incorrect because the passage does not mention a global controversy regarding the ethical implications of teaching evolution overshadowing scientific discussions. Instead, it focuses on the rejection of evolution by religious groups and their influence on educational policies, particularly in the U.S.\n\n**Flawed Reasoning:**\n- The passage emphasizes the rejection of evolution by religious groups and its political impact, not ethical implications overshadowing scientific discussions.\n\n####",
+        "C": "\"As a result of the lack of empirical evidence supporting evolution, there is ongoing debate about its inclusion in curricula, primarily in regions where scientific literacy is low.\"\n\n**Explanation:**\nThis is incorrect because the passage does not suggest that the debate over evolution is due to a lack of empirical evidence or low scientific literacy. It actually states that professional scientific organizations recognize evolution as a fact based on extensive empirical evidence.\n\n**Flawed Reasoning:**\n- The passage indicates that the scientific community views evolution as a fact supported by empirical evidence, not as something lacking such evidence.\n\n####",
+        "D": "\"Because the debate over evolution primarily involves differing scientific interpretations, with no significant input from religious groups in most regions.\"\n\n**Explanation:**\nThis is incorrect because the passage clearly states that religious groups play a significant role in the debate, particularly in the U.S. The passage notes, \"religious groups continue to reject it, often citing moral and ethical concerns rather than scientific ones,\" indicating that religious groups do have a significant input in the debate.\n\n**Flawed Reasoning:**\n- The passage highlights the influence of religious groups on the debate, especially in the U.S., contradicting the statement that there is no significant input from religious groups.\n\nBy carefully analyzing each option and comparing them to the provided passage, we can see that Choice A is the most accurate reflection of the information given in the passage."
+    },
+    "generation_metadata": {
+        "model_repo": "Qwen/Qwen2.5-7B-Instruct",
+        "timestamp": "20250523113510",
+        "filename": "SAT_R_RHE_H_chimpanzeeevolu_20250523113510.json"
+    }
+}

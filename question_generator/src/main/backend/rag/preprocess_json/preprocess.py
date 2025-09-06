@@ -253,7 +253,9 @@ def preprocess_item(item_json, source_file_path="N/A"):
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    data_folder_path_str = r"C:\Users\rush\OneDrive\Documents\GitHub\scholar-sphere-sat-ai\question_synthesizer\src\question_data"
+    root = Path(__file__).resolve().parents[5]
+    data_folder_path_str = root / "question_synthesizer" / "question_data" / "Reading"
+
     # Example for testing open prompt:
     # data_folder_path_str = r"./test_data" # Create a folder with a sample open prompt JSON
     data_folder = Path(data_folder_path_str)
